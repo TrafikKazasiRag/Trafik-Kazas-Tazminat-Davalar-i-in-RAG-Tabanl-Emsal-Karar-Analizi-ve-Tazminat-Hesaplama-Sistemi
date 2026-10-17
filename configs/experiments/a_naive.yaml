@@ -1,0 +1,6 @@
+chunker:      {type: fixed_size, max_tokens: 400}
+embedder:     {type: bge_m3}
+vector_store: {type: pgvector}
+retrieval:    {mode: vector, top_k: 8}
+reranker:     {type: none, top_n: 8}
+llm:          {type: claude, prompt: summarize_with_citations.v1}

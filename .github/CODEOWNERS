@@ -1,0 +1,35 @@
+# Dosyada SON eşleşen satır geçerlidir: genel kural üstte, özel kurallar altta.
+# Not: bir satırda birden çok sahip varsa, bunlardan HERHANGİ BİRİNİN onayı yeterlidir.
+
+# Varsayılan sahip
+*                              @ybyaman
+
+# Veri
+/src/trafikrag/ingestion/      @BurakXander
+/scripts/                      @BurakXander
+
+# RAG / NLP
+/src/trafikrag/adapters/       @ybyaman @Spudh
+/src/trafikrag/retrieval/      @ybyaman @Spudh
+/src/trafikrag/extraction/     @ybyaman @Spudh
+/src/trafikrag/generation/     @ybyaman @Spudh
+/src/trafikrag/evaluation/     @ybyaman @Spudh
+/prompts/                      @ybyaman @Spudh
+/configs/                      @ybyaman @Spudh
+
+# Hesaplama
+/src/trafikrag/calculation/    @AhmeTalhAkyol
+/src/trafikrag/risk/           @AhmeTalhAkyol
+
+# Backend (ortak çalışılır)
+/src/trafikrag/api/            @ybyaman @Spudh @BurakXander @AhmeTalhAkyol
+/src/trafikrag/db/             @ybyaman @Spudh @BurakXander @AhmeTalhAkyol
+/src/trafikrag/services/       @ybyaman @Spudh @BurakXander @AhmeTalhAkyol
+
+# Frontend (ortak çalışılır)
+/frontend/                     @ybyaman @Spudh @BurakXander @AhmeTalhAkyol
+
+# Ortak sözleşme: değişiklik herkesi etkiler
+/src/trafikrag/ports/          @ybyaman @Spudh @BurakXander @AhmeTalhAkyol
+/src/trafikrag/domain/         @ybyaman @Spudh @BurakXander @AhmeTalhAkyol
+/.github/                      @ybyaman

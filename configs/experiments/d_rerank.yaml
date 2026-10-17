@@ -1,0 +1,7 @@
+chunker:      {type: by_section, max_tokens: 400}
+embedder:     {type: bge_m3}
+vector_store: {type: pgvector}
+lexical:      {type: pg_fts}
+retrieval:    {mode: hybrid, fusion: rrf, top_k: 30, metadata_filter: true}
+reranker:     {type: bge_reranker, top_n: 8}
+llm:          {type: claude, prompt: summarize_with_citations.v1}
