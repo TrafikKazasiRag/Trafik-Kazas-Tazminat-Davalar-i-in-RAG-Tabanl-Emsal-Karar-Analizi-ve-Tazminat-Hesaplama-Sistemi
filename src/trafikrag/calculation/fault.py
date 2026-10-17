@@ -1,0 +1,1 @@
+"""Kusur indirimi."""
