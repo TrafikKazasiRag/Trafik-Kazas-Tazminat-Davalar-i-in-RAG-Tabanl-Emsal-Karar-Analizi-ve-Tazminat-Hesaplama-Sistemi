@@ -2,7 +2,7 @@
 
 Trafik kazası tazminat davaları için RAG tabanlı emsal karar analizi ve tazminat hesaplama sistemi (ders projesi).
 
-> Bu uygulama hukuki danışmanlık değildir.
+> Bu uygulama hukuki danışmanlık değildir. Sadece tahmin yürütüp bilgi vermek amacıyla oluşturulmuştur.
 
 ## Mimari ilkeleri
 - Bağımlılık yönü: `api -> services -> ports <- adapters`; `domain` hiçbir şeye bağımlı değil.
