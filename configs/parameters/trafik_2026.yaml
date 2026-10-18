@@ -1,0 +1,24 @@
+# Hesaplama parametreleri. DOGRULAMA DURUMU her alanda belirtilmistir.
+version: "2026-10-18"
+asgari_ucret:                 # kaynak: Milliyet 07.07.2026; resmi yayindan teyit et
+  net: 28075.50
+  brut: 33030.00
+genel_sartlar_2021:           # TSB Genel Sartlar 06.12.2021 Ek-2 (dogrulandi)
+  iskonto: 0.0165
+  aktif_donem: [18, 65]
+  bakici_orani: {kismi: 0.50, tam: 1.00}
+  zamanasimi: {kisa_yil: 2, uzun_yil: 10}
+  yasam_tablosu: {erkek: TRH-2010, kadin: TRFH-2020}   # ikincil kaynak, teyit edilmedi
+  uygulama: "poliçe tarihi >= 2021-12-04"               # yorum; teyit edilmedi
+eski_kural:
+  teknik_faiz: 0.018
+  yontem: "TRH-2010 + progresif rant (Yargitay 4. HD; talep halinde PMF-1931)"
+sigorta_limitleri_2026:       # otomobil, tek haber kaynagi; SEDDK'dan teyit et
+  maddi_hasar_arac_basi: 400000
+  bedeni_zarar_magdur_basi: 3600000
+harc_2026:                    # KPMG tablosu; Resmi Gazete'den teyit et
+  basvurma: 732.00
+  nispi_karar_ilam_binde: 68.31
+  vekaletname_sureti: 104.00
+  pesin_harc: null            # bulunamadi
+aaut_2026: null               # resmi tarifeden doldurulacak
