@@ -1,0 +1,14 @@
+.env
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+.ruff_cache/
+*.egg-info/
+.DS_Store
+
+# Ham ve ara veri Git'e girmez (kişisel veri riski, boyut)
+data/raw/*
+data/interim/*
+!data/raw/.gitkeep
+!data/interim/.gitkeep

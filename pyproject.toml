@@ -1,0 +1,20 @@
+[project]
+name = "trafikrag"
+version = "0.1.0"
+description = "Trafik kazası tazminat davaları için RAG tabanlı emsal karar analizi"
+requires-python = ">=3.11"
+dependencies = [
+  "fastapi", "uvicorn[standard]", "pydantic>=2", "pyyaml", "sqlalchemy>=2", "alembic",
+  "psycopg[binary]", "pgvector", "requests", "tenacity", "beautifulsoup4", "python-multipart",
+]
+
+[project.optional-dependencies]
+ml = ["sentence-transformers", "FlagEmbedding", "anthropic"]
+dev = ["pytest", "httpx", "ruff"]
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]
