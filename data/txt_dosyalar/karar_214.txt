@@ -1,0 +1,54 @@
+SIRA NO: 214
+DOKÜMAN ID: 937053800
+DAİRE / MAHKEME: İstanbul 7. Asliye Ticaret Mahkemesi
+ESAS NO: 2021/282
+KARAR NO: 2023/536
+KARAR TARİHİ: 12.09.2023
+İÇERİK HASH (MD5): 0710f81e453b6abb578ce18e2e58966b
+===========================================================================
+
+T.C.
+İSTANBUL
+7. ASLİYE TİCARET MAHKEMESİ
+ESAS NO:2021/282
+KARAR NO:2023/536
+DAVA:TAZMİNAT
+DAVA TARİHİ:14/04/2021
+KARAR TARİHİ:12/09/2023
+Mahkememizde görülmekte olan tazminat davasının yapılan açık yargılaması sonunda,
+GEREĞİ DÜŞÜNÜLDÜ:
+Davacı vekili dava dilekçesinde özetle; 19/01/2020 tarihinde davalı ...'nın sevk ve idaresindeki ve diğer davalı sigorta şirketinin ZMSS sigortacısı olduğu ... plakalı araç O-3 Karayolu ... AVM istikametinde trafik kurullarına uygun şekilde seyir halinde olan davacının ... plakalı motorsikleti ile ilerleyen müvekkiline arkadan çarptığını, müvekkilinin vücudunda hayat fonksiyonlarını ağır derecede etkileyecek şekilde yaralanmasına ve maluliyetine sebep olduğunu, davacının kürek kemiğinde ve kolunun diğer bölgesinde küçük parçalar halinde kırıkların olduğunun belirlendiğini, 6.000,00-TL sürekli maluliyet tazminatı, 100,00-TL geçici iş göremezlik tazminatı, 100,00-TL tedavi gideri, 100,00-TL bakıcı gideri olmak üzere 6.300,00-TL maddi tazminatın davalı araç sürücüsü ve işleteni yönünden kaza tarihinden davalı sigorta şirketi yönünden poliçe limitleri ile sınırlı olarak ihbar tarihinden itibaren davalılardan müteselsilen tahsiline, 100.000,00-TL manevi tazminatın ise davalı araç sürücüsü ve işleteni ...'dan kaza tarihinden itibaren yasal faizi ile tahsiline karar verilmesini talep ve dava etmiştir.
+Mahkememizce düzenlenen tensip zaptı ve dava dilekçesi davalıya usulüne uygun şekilde tebliğ edilmişse de davalılar tarafından mahkememiz dosyasına herhangi bir beyan veya cevap dilekçesi ibraz olunmamıştır.
+Mahkememizce tüm deliller toplanmış, gerekli inceleme ve araştırmalar yapılmış, mahkememizce 01/11/2021 tarihli ara karar ile kusur durumunun tespiti amacıyla dosyanın Adli Tıp Kurumu Trafik İhtisas Dairesine gönderilmesine karar verilmiş, 23/11/2021 tarihli raporunda Adli Tıp Kurumu Trafik İhtisas Dairesi, davalı sürücü ...'nın %10 (yüzde on) oranında kusurlu olduğu, davacı sürücü ...'nın %90 (yüzde doksan) oranında kusurlu olduğu sonuç ve kanaati bildirilmiştir.
+Mahkememizin 08/02/2022 tarihli ara kararı ile maluliyetin tespiti amacıyla da dosyanın Adli Tıp Kurumu ilgili ihtisas dairesine gönderilmesine karar verilmiş,
+Adli Tıp Kurumu 2. İhtisas Kurulu 09/11/2022 tarihli maluliyete ilişkin raporunda, kişinin tüm vücut engellilik oranının %5 (yüzde beş) olduğu, iyileşme süresinin kaza tarihinden itibaren (üç) aya kadar uzayabileceği, 19/01/2020 tarihinde maruz kaldığı trafik kazası nedeniyle başka birisinin yardımına gereksinim duymayacağı oy birliği ile bildirmiştir.
+Mahkememizin 15/03/2023 tarihli ara kararı ile dosyanın ... trafik kürsüsünden oluşan heyete tevdi ile, kusura ilişkin İstanbul 7. Asliye Ceza Mahkemesi'nin 23/05/2022 tarihli Adli Tıp Kurumu Trafik İhtisas Dairesi'nin kusur raporu ile Mahkememizin 23/11/2021 tarihli Adli Tıp Kurumu Trafik İhtisas Dairesi kusur raporu arasındaki çelişkinin giderilmesi amacıyla davacının alacağının varlığının ve miktarının tespiti amacıyla bilirkişi incelemesi yapılmasına karar verilmiştir.
+09/05/2023 tarihli raporunda bilirkişi heyeti; ... plaka numaralı motosikletin sürücüsü, davacı ...'nın hatalı sevk ve idaresinin birinci (asli) derecede ve takdiren %90 (yüzde doksan) oranında etkili olduğu, davalı sigorta şirketine trafik sigortalı, ... plaka numaralı otomobilin sürücüsü, davalı ...'nın hatalı sevk ve idaresinin ise ikinci (alt düzeyde tali) derecede ve takdiren %10 (yüzde on) oranında etkili bulunduğu sonuç ve kanaatine varıldığı bildirilmiştir.
+Davacı vekili 11/06/2021 tarihli dilekçesi ile, davalı şirket ile yapılan 07/06/2021 tarihli protokol uyarınca davalılardan ... Sigorta A.Ş. İle maddi tazminat talepleri yönünden anlaşılmış ve anlaşmaya göre alacak tahsil edilmiş olduğunu, davanın maddi tazminat yönünden konusuz kalmasına karar verilmesini talep etmiştir.
+Davalı ... 10/07/2021 tarihli dilekçesi ile, davacı taraf ile ... sigorta şirketinin müvekkili lehine sulh olması sebebiyle iş bu davanın feragat ile sonuçlandırılmasını, davadan feragat edilmemesi halinde davanın reddi ile vekalet ücreti ve yargılama giderlerinin davacı tarafa yükletilmesine karar verilmesini talep etmiştir.
+DELİLLERİN DEĞERLENDİRİLMESİ VE GEREKÇE;
+Dava, trafik kazasından kaynaklı manevi tazminat davasıdır.
+19/01/2020 günü davacının trafik kazası nedeniyle yaralamalı trafik kazası geçirdiğini,
+09/05/2023 tarihli raporunda bilirkişi heyeti; ... plaka numaralı motosikletin sürücüsü, davacı ...'nın hatalı sevk ve idaresinin birinci (asli) derecede ve takdiren %90 (yüzde doksan) oranında etkili olduğu, davalı sigorta şirketine trafik sigortalı, ... plaka numaralı otomobilin sürücüsü, davalı ...'nın hatalı sevk ve idaresinin ise ikinci (alt düzeyde tali) derecede ve takdiren %10 (yüzde on) oranında etkili bulunduğu sonuç ve kanaatine varıldığı, kusura ilişkin raporunun denetime elverişli ve açık olması nedeniyle mahkememizce itibar edildiği, Adli Tıp Kurumu 2. İhtisas Kurulu 09/11/2022 tarihli maluliyete ilişkin raporunda, kişinin tüm vücut engellilik oranının %5 (yüzde beş) olduğu, iyileşme süresinin kaza tarihinden itibaren (üç) aya kadar uzayabileceği, 19/01/2020 tarihinde maruz kaldığı trafik kazası nedeniyle başka birisinin yardımına gereksinim duymayacağı kanaatine varıldığı belirtilmiştir.
+Davacının maddi tazminat talebi yönünden; taraflar arasında uzlaşma sağlanmış olup dava konusuz kaldığından karar verilmesine yer olmadığına karar vermek gerekmiştir.
+Davacının manevi tazminat talebi yönünden; Türk Borçlar Kanununun 56. maddesine göre; davacının haksız fiil sonucunda bedensel bütünlüğü zarar gören kişi olarak manevi tazminat talep etme hakkı vardır.
+Manevi tazminat zenginleşme aracı olmamakla beraber, bu yöndeki talep hakkında hüküm kurulurken olay sebebiyle duyulan acı ve elemin kısmen de olsa giderilmesi amaçlanmalı ve bu sebeple tarafların sosyal ve ekonomik durumları ile birlikte olayın meydana geliş şekli de göz önünde tutularak bir sonuca varılmalıdır. Zira, T.M.K'nun 4. maddesinde, kanunun takdir hakkı verdiği hallerde hakimin hukuka ve hakkaniyete göre hükmedeceği öngörülmüştür.
+Kaza sonucunda davacının tüm vücut engellilik oranının E cetvelinde yaşına göre maluliyet oranı ve kusura ilişkin raporlarda dikkate alınarak; davacının kaza sonucu yaralanması belli bir manevi ızdırap ve üzüntü yaratacaktır. Bu sebeple Türk Borçlar Kanununun 56. maddesine göre davalı sürücünün manevi tazminattan sorumlu olduğu kabul edilerek maluliyet oranı, kusur durumu, tarafların gelir durumu, paranın alım gücü, kaza tarihi gibi hususlar dikkate alındığında; davacı için 20.000,00-TL manevi tazminata hükmedilmesi gerektiği kanaatine varılmıştır.
+Tüm bu bilgiler kapsamında; davacının maddi tazminat talebi yönünden dava konusuz kaldığından karar verilmesine yer olmadığına, davacının manevi tazminat talebi yönünden davanın kısmen kabulü ile, 20.000,00-TL manevi tazminatın kaza tarihinden itibaren işleyecek yasal faizi ile, davalı ...'dan alınarak davacıya verilmesine, fazlaya ilişkin istemin reddine karar vermek gerekmiş ve aşağıdaki şekilde hüküm kurulmuştur.
+HÜKÜM: Gerekçesi Yukarıda Açıklandığı Üzere;
+1-Davacının maddi tazminat talebi yönünden dava konusuz kaldığından KARAR VERİLMESİNE YER OLMADIĞINA,
+2-Davacının manevi tazminat talebi yönünden davanın KISMEN KABULÜ İLE,
+20.000,00-TL manevi tazminatın kaza tarihinden itibaren işleyecek yasal faizi ile, davalı ...'dan alınarak davacıya verilmesine, fazlaya ilişkin istemin reddine,
+3-Karar tarihinde yürürlükte bulunan Harçlar Tarifesi gereğince hesaplanan ‭1.366,2‬0- TL nispi karar harcının, peşin alınan 363,07-TL harcın mahsubu ile eksik kalan ‭1.003,13‬-TL harcın davalı ...'dan tahsili ile HAZİNEYE GELİR KAYDINA,
+4-Manevi tazminat yönünden kabul edilen miktar üzerinden, karar tarihinde yürürlükte bulunan Avukatlık Ücret Tarifesi gereğince hesap olunan 9.200,00-TL nispi vekalet ücretinin davalı ...'dan alınarak davacıya verilmesine,
+5-Manevi tazminat yönünden reddedilen miktar üzerinden, karar tarihinde yürürlükte bulunan Avukatlık Ücret Tarifesi gereğince hesap olunan 9.200,00-TL nispi vekalet ücretinin davacıdan alınarak davalı ...'ya verilmesine,
+6-İstenilmediğinden davacı yararına maddi tazminat talebi yönünden vekalet ücreti ve yargılama gideri takdirine yer olmadığına,
+7-Davacı tarafından yapılan dava açılarken yatırılan toplam ‭430,87‬-TL (59,30-TL BVH, 8,50-TL VSH, 363,07-TL peşin harç) harcın davalı ...'dan alınarak, davacıya verilmesine,
+8-Davacı tarafından manevi tazminat talebi yönünden yargılama aşamasında yapılan toplam 7.596,40-TL (‭556,1‬0-TL tebliğler ve posta, 4.500,00-TL bilirkişi ücreti, ‭2.540,3‬0-TL ATK fatura) yargılama giderinin davadaki kabul ve red oranına göre hesaplanan‭ ‭1.519,28‬-TL yargılama giderinin davalı ...'dan alınarak, davacıya verilmesine,
+9-Arabuluculuk ücreti olan 1.320,00-TL’nin davadaki kabul ve red oranına göre; 1.056,00-TL-‘sinin davacıdan, 264,00-TL’sının davalı ...'dan alınarak, hazineye GELİR KAYDINA,
+10-Taraflarca yatırılan ve kullanılmayarak artan gider avansının karar kesinleştiğinde ilgili tarafa iadesine,
+Dair, taraf vekillerinin yüzüne karşı gerekçeli kararın taraflara tebliğinden itibaren 2 hafta içinde İstinaf kanun yolu açık olmak üzere verilen karar açıkça okunup usulen anlatıldı. 12/09/2023
+Katip ...
+E-imzalıdır
+Hakim ...
+E-imzalıdır

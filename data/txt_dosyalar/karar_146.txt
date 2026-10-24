@@ -1,0 +1,54 @@
+SIRA NO: 146
+DOKÜMAN ID: 682505400
+DAİRE / MAHKEME: Antalya 3. Asliye Ticaret Mahkemesi
+ESAS NO: 2014/670
+KARAR NO: 2018/500
+KARAR TARİHİ: 02.07.2018
+İÇERİK HASH (MD5): 398c8069049073a5dd16a78d41b89778
+===========================================================================
+
+T.C.
+ANTALYA
+3. ASLİYE TİCARET MAHKEMESİ
+ESAS NO : 2014/670 Esas
+KARAR NO : 2018/500
+DAVA : Tazminat
+DAVA TARİHİ : 13/07/2012
+KARAR TARİHİ : 02/07/2018
+Mahkememizde görülmekte olan Tazminat davasının yapılan açık yargılamasının sonunda,
+GEREĞİ DÜŞÜNÜLDÜ:
+DAVA: Davacı vekili Asliye Hukuk Mahkemesine vermiş olduğu dava dilekçesinde özetle; .../.../... tarihinde davalı ... sevk ve idaresindeki ... ... ... plakalı minibüs ile müvekkilinin kullanmakta olduğu motosiklete çarpması sonucu trafik kazası meydana geldiğini, kaza tespit tutanağına göre davalı ...'ın asli kusurlu olup müvekkilinin ise kusursuz olduğunun tespit edildiğini, bu kaza nedeniyle müvekkilinin rahatsızlığının halen devam ettiğini, kaza karışan ... ... ... plakalı servis minibüsünün malikinin diğer davalı ... olduğunun ve davalı ... Şirketinin ise bu aracın ZMSS poliçesini düzenleyen şirket olduğunu belirterek şimdilik olay tarihi olan .../.../... tarihinden itibaren işleyecek yasal faizi ile birlikte 1.000,00.-TL maddi tazminatın, 1.000,00.-TL tedavi masraflarının ve 1.000,00.-TL iş gücü kaybı tazminatının davalılardan alınarak müvekkillerine verilmesine, davacılar ... ve ... ... için ayrı ayrı 20.000,00.-TL ve davacı ... ... için 40.000,00.-TL manevi tazminatın da kaza tarihinden itibaren işleyecek yasal faizi ile birlikte davalı gerçek kişilerden müşterek ve müteselsilen tahsiline karar verilmesini talep ve dava etmiştir.
+CEVAP: Davalı ... vekili cevap dilekçesinde özetle; Dava konusu trafik kazasına karışan ... ... ... plakalı aracın müvekkili şirketi nezdinde sigortalı bulunduğunu, olaydaki kusur durumunun ve davacının geçici ve kalıcı maluliyet durumunun Adli Tıp Kurumundan aldırılacak raporlar ile tespit edilmesi gerektiğini, yine davacıya sigortalı olduğu kurum tarafından yapılan bir ödeme var ise bunun da araştırılması gerektiğini belirterek müvekkili açısından davanın reddi gerektiğini belirtmiştir.
+Davalılar ... ve ... vekili cevap dilekçesinde özetle; dava konusu kaza olayının meydana gelmesinde müvekkili ...'ın herhangi bir kusur ve ihmalinin söz konusu olmadığını, kazanın oluşumunda müvekkilinin değil davacının asli kusurlu olduğunu, bu nedenle davacının maddi ve manevi tazminat taleplerinin reddi gerektiğini belirtmiştir.
+DELİLLER VE DEĞERLENDİRİLMESİ: Dosya içerisine; ... Asliye Ceza Mahkemesinin .../... Esas sayılı dava dosyası getirtilmiş, sigorta poliçesi, trafik kayıtları, kaza tutanağı dosyaya sunulmuş, tarafların sosyal ekonomik durumları araştırılmış, SGK'dan davacılara olay nedeniyle rücuya tabi gelir bağlanıp bağlanmadığı hususu araştırılmış, kusur ve iş göremezlik durumuna ilişkin bilirkişi raporları aldırılmıştır.
+Dava; trafik kazasından kaynaklanan cismani zarar ve tedavi giderlerine ilişkin maddi ve manevi tazminat davası niteliğindedir.
+Yargılama sırasında davacılar vekiline manevi tazminat talepleri yönünden harç eksikliği tamamlattırılarak, buna ilişkin harç makbuzu dosyaya sunulmuştur.
+Davacı vekili dava dilekçesinde trafik kazası sonucunda müvekkillerinin oğlu olan ...'in yaralandığını, bu nedenle geçici ve sürekli iş göremezlik durumunun meydana geldiğini belirterek, maddi ve manevi tazminat istemiyle eldeki davayı açmıştır.
+... tarihinde meydana gelen trafik kazası sonucunda davacılardan ... yaralanmış olup, dosya içerisindeki kaza tutanağı, ceza dosyası içeriği, poliçe ve trafik kayıtlarının incelenmesinde, kazaya neden olduğu ileri sürülen araç sürücüsünün davalılardan ... olduğu, diğer davalı ...'ın söz konusu aracın işleten maliki olup, davalı ... şirketinin de aracın ZMSS sigortacısı olduğu anlaşılmaktadır.
+Davacılar manevi tazminatı sigorta şirketi dışındaki davalılardan talep etmişlerdir.
+...Müdürlüğünün .../.../... tarihli cevabi yazısına göre; davacılara kaza ve yaralanma olayı nedeniyle rücuya tabi peşin sermaye değerli gelir bağlanmadığının bildirildiği anlaşılmıştır.
+Kaza olayındaki kusur durumuna ilişkin mahalli trafikçi bilirkişiden .../.../... havale tarihli, ... ATK ... Dairesinden .../.../... tarihli kusur raporları aldırılmış, aldırılan raporlar arasında kusur konusunda çelişki bulunduğu görülerek, çelişkinin giderilmesi için 3.kez ... Nöbetçi Asliye Ticaret Mahkemesi aracılığıyla Karayolları Fen Heyetinden ... tarihli rapor aldırılmış, söz konusu rapora göre; kaza olayında davalı sürücünün %70 oranında, davacı ...'ın ise %30 oranında kusurlu bulunduğunun bildirildiği görülmüştür.
+Kazada yaralanan davacı ...'ın maluliyetine ilişkin ... Adli Tıp Şube Müdürlüğünden aldırılan .../.../... tarihli rapora göre; davacı ...'in yaralanma nedeniyle geçici iş göremezlik süresinin 180 gün olduğu, sürekli iş göremezlik kaybı oranının %10,3 olacağının mütalaa edildiği anlaşılmış, rapora itiraz edilmesi üzerine ... Üniversitesi Tıp Fakültesi Adli Tıp Anabilim Dalı Başkanlığından .../.../... tarihli rapor aldırolmış, söz konusu rapora göre davacının 6 ay süreyle geçici iş göremez kalır şekilde yaralandığı, sürekli iş göremezlik halinin bulunmadığının mütalaa edildiği anlaşılmıştır.
+Her 2 iş göremezlik durumuna ilişkin rapor arasındaki çelişki nedeniyle ATK ... İhtisas Kurulundan aldırılan .../.../... tarihli rapora göre; davacının sürekli iş göremezlik halinin bulunmadığının, 9 ay geçici iş göremezlik süresinin bulunduğunun mütalaa edildiği anlaşılmıştır.
+Davacılar vekiline .../.../... tarihli celsede aktüer bilirkişi giderini yatırması hususunda kesin süre verilmesine rağmen, davacı vekili tarafından bilirkişi giderinin yatırılmadığı, bu nedenle aktüer hesap raporunun aldırılamadığı anlaşılmıştır.
+Davacılar vekili ... tarihli celsede maddi tazminata ilişkin taleplerini atiye bıraktıklarını beyan etmiş, ancak duruşmada hazır bulunan davalılar vekili tarafından atiye terke ilişkin talep kabul edilmemiştir. Bu nedenlerle davacı tarafın maddi tazminat istemi yönünden bilirkişi incelemesine ilişkin giderleri yatırmaması nedeniyle, bilirkişi ve rapor deliline dayanmaktan vazgeçmiş sayıldığı sonucuna varılarak, maddi tazminata ilişkin davasını ispatlayamadığı mahkememizce değerlendirilmiştir.
+Tüm bu açıklanan nedenlerle ve dosya kapsamına göre; .../.../... günü meydana gelen çift taraflı trafik kazası sonucunda davacılardan ...'ın doktor raporlarında belirtildiği şekilde yaralandığı, dava tarihi itibariyle ...'ın yaşı dikkate alınarak, ona velayeten anne ve babası olan davacılar tarafından maddi ve manevi tazminat istemiyle eldeki davanın açıldığı, her ne kadar davacılar cismani zarar nedeniyle ve tedavi giderlerine ilişkin maddi tazminat talep etmişlerse de, maddi zararlarını usulüne uygun olarak ispatlayamadıkları, ayrıca davacılar vekilinin atiye terke ilişkin beyanının davalılarca kabul edilmeyişi de gözetilerek, davacıların maddi tazminat talebine ilişkin davalarının reddine karar vermek gerekmiş, davacıların sigorta şirketi dışındaki davalılar aleyhine açmış oldukları manevi tazminata ilişkin davaları yönünden yapılan inceleme ve değerlendirmeye göre de tarafların sosyal ve ekonomik durumları, kaza olayındaki, tarafların kusur durumları, olayın oluş biçimi ve özellikleri göz önünde bulundurularak, davacıların olay sebebiyle uğramış oldukları üzüntü ve acının bir nebze de olsun giderilmesi bakımından olayda yaralanan davacı ... için 3.500,00.-TL, davacı anne ve baba için de 2.500,00'er TL manevi tazminata hükmetmek gerekmiş, manevi tazminatın sigorta şirketi dışındaki davalılar ... ve ...'dan tahsiline dair aşağıdaki şekilde hüküm kurulmuştur.
+HÜKÜM: Gerekçesi yukarıda açıklandığı üzere;
+1-Davacılar tarafından davalılar aleyhine maddi tazminat istemiyle açılan davanın REDDİNE,
+a)Maddi tazminat yönünden alınması gerekli 35,90.-TL maktu karar ve ilam harcının peşin alınan 59,40.-TL harçtan mahsubu ile fazladan yatırılan 23,50.-TL harcın hükmün kesinleşmesine müteakip istem olması halinde davacı tarafa İADESİNE,
+b)Maddi tazminat yönünden davacı tarafından yapılan yargılama giderlerinin kendisi üzerinde BIRAKILMASINA,
+c)Maddi tazminat yönünden davalılar ... ve ... tarafından yapılan 1.230,00.-TL bilirkişi incelemesi giderinin davacılardan müşterek ve müteselsilen alınarak adı geçen davalılara ÖDENMESİNE,
+d)Maddi tazminat yönünden davalılar vekille temsil olunduklarından karar tarihinde yürürlükte bulunan AAÜT 3/2 maddesi uyarınca hesaplanan 2.180,00.-TL vekalet ücretinin davacılardan alınarak davalılara ÖDENMESİNE,
+2-Davacılar tarafından Davalılar ... ve ... aleyhine manevi tazminat istemiyle açılan davanın KISMEN KABULÜ ile;
+Davacılardan ... ... için 2.500,00.-TL, Davacı ... için 2.500,00.-TL ve Davacı ... için 3.500,00.-TL manevi tazminatın kaza tarihi olan 29/03/2012 tarihinden itibaren işleyecek yasal faizi ile birlikte tahsilde tekerrüre yol açmamak kaydıyla davalılar ... ve ...'dan müşterek müteselsilen alınarak davacılara ÖDENMESİNE,
+Davacıların fazlaya dair manevi tazminat istemlerinin REDDİNE,
+a)Manevi tazminat yönünden alınması gerekli 580,63.-TL nispi karar ve ilam harcından tamamlama harcı ile alınan 273,34.-TL harcın mahsubu ile bakiye 307,39.-TL harcın davalılar ... ve ...'dan müşterek ve müteselsilen tahsili ile Hazine adına gelir KAYDINA,
+b)Manevi tazminat yönünden yargılama gideri yapılmadığından bu konuda karar verilmesine YER OLMADIĞINA,
+c)Manevi tazminat yönünden davacılar vekille temsil olunduklarından karar tarihinde yürürlükte bulunan Avukatlık Asgari Ücret Tarifesi uyarınca hesaplanan davacı ... için 2.180,00.-TL, Davacı ... için 2.180,00.-TL ve Davacı ... için 2.180,00.-TL nispi vekalet ücretinin davalılardan ... ve ...'dan müşterek ve müteselsilen alınarak davacılara ÖDENMESİNE,
+d)Manevi tazminat yönünden davalılar ... ve ... vekille temsil olunduklarından karar tarihinde yürürlükte bulunan Avukatlık Asgari Ücret Tarifesinin 10/2 maddesi uyarınca ve davanın reddolunan kısmı üzerinden hesaplanan davalı ... için 2.1801,00.-TL ve davalı ... için de 2.180,00.-TL vekalet ücretinin davacılardan müşterek müteselsilen alınarak adı geçen davalılara ayrı ayrı ÖDENMESİNE,
+3-Gider avansının kullanılmayan kısmının hükmün kesinleşmesine müteakip davacı tarafa İADESİNE,
+Dair, davacılar vekili ile bir kısım davalılar vekili Av. ...'un yüzlerine karşı, davalı ... vekilinin yokluğunda, HMK 345. Maddesi uyarınca kararın tebliğ tarihinden itibaren 2 haftalık süre içinde Antalya Bölge Adliye Mahkemesine istinaf yolu açık olmak üzere verilen karar açıkça okunup anlatıldı. 02/07/2018
+Katip ...
+¸(e-imzalı)
+Hakim ...
+¸(e-imzalı)

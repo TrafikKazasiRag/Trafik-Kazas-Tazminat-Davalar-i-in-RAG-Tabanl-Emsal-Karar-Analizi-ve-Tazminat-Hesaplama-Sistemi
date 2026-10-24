@@ -1,0 +1,49 @@
+SIRA NO: 1
+DOKÜMAN ID: 873811700
+DAİRE / MAHKEME: Antalya Bölge Adliye Mahkemesi 4. Hukuk Dairesi
+ESAS NO: 2021/23
+KARAR NO: 2023/335
+KARAR TARİHİ: 16.03.2023
+İÇERİK HASH (MD5): 85b075afa6857efcef6700d0ab4ff97c
+===========================================================================
+
+T.C.
+ANTALYA
+BÖLGE ADLİYE MAHKEMESİ TÜRK MİLLETİ ADINA
+DÖRDÜNCÜ HUKUK DAİRESİ İSTİNAF KARARI
+İNCELENEN DOSYANIN
+MAHKEMESİ: ANTALYA 2. ASLİYE TİCARET MAHKEMESİ
+TARİHİ: 14/09/2020
+DAVA : Maddi ve Manevi Tazminat
+KARAR TARİHİ: 16/03/2023
+KARAR YAZIM TARİHİ: 17/03/2023
+Taraflar arasındaki davanın yapılan yargılaması sonunda ilk derece mahkemesince verilen, yukarıda tarih ve numarası gösterilen kararına karşı davalılar ... ve ... vekili tarafından istinaf başvurusunda bulunulmakla, dosyada duruşma yapılmasını gerektiren eksiklik görülmediğinden Hukuk Muhakameleri Kanunu'nun 353/1-b-1 maddesi uyarınca istinaf incelemesinin duruşmasız yapılmasına karar verilerek, dosya incelendi;
+GEREĞİ DÜŞÜNÜLDÜ
+DAVACI İSTEMİNİN ÖZETİ:
+Davacı vekili dava dilekçesinde özetle; davalı ... sürücüsü, davalı .....un kayıtlı maliki ve davalı .... Sigorta A.Ş.'nin trafik sigortacısı olduğu .... plaka sayılı kamyonetin 20/09/2016 tarihinde müvekkilinin sürücüsü olduğu bisiklete çarpması sonucunda müvekkilinin yaralandığından bahisle şimdilik 4.000,00 TL maddi tazminatın tüm davalılardan, 10.000,00 TL manevi tazminatın ise davalılar ... ve ....dan işleyecek yasal faizi ile birlikte tahsiline karar verilmesini talep etmiştir.
+DAVALI CEVABININ ÖZETİ:
+Davalı ... davaya cevap dilekçesinde özetle; trafik kazası tespit tutanağında belirtilen kusuru kabul etmediği, kazanın meydana gelmesinde kendisinin bir kusurunun bulunmadığı, tüm kusurun davacıda olduğu, davacının üç ay geçtikten sonra o arada hiçbir şikayeti yokken özel bir hastaneye başvuru yaptığı, davacının trafik kazasından kaynaklanan herhangi bir zararının bulunmadığını beyanla davanın reddini istemiştir.
+Davalı .... davaya cevap dilekçesinde özetle; kazanın meydana gelmesinde tüm kusurun davacı bisiklet sürücüsünde olduğu, davacının kaza sonucu tazminatı gerektiren bir yaralanmasının bulunmadığı, olaydan üç ay geçtikten sonra özel bir hastaneye başvuru yaptığını beyanla davanın reddini istemiştir.
+Davalı .... Sigorta A.Ş. davaya cevap vermemiştir.
+DELİLLER :
+Trafik kazası tespit tutanağı, davacının tedavisine esas tıbbi belgeler, sosyal ve ekonomik araştırma tutanakları, kusur raporu, tanık beyanı, tüm dosya kapsamı.
+İDM KARARININ ÖZETİ :
+İlk Derece Mahkemesince verilen kararda özetle; davacı tarafın maddi tazminat taleplerinden feragat ettiği, davacının trafik kazası sonucu yaralandığı, alınan bilirkişi raporuna göre kazanın meydana gelmesinde davalı sürücünün tam kusurlu olduğu gerekçesiyle maddi tazminat davasının feragat nedeniyle reddine, manevi tazminat davasının kabulü ile 10.000,00 TL manevi tazminatın yasal faizi ile birlikte davalılar .... ve ....dan tahsiline karar verilmiştir.
+İSTİNAF NEDENLERİ :
+Davalılar ... ve .... vekili istinaf dilekçesinde özetle; davacının kaza tarihinden iki ay sonra aldığı raporla birlikte eldeki davayı açtığı, oysa kaza tarihi ve rapor tarihi arasındaki süre içerisinde davacının herhangi bir nedenden dolayı yaralanmış olma ihtimalinin bulunduğu, davacının yaralanması ile trafik kazası arasında illiye bağı bulunmadığı, tüm kusurun davalı sürücüye ait olduğuna yönelik kabulünde yerinde olmadığı, davacının seyri esnasında koruyucu tertibat kullanmadığı, hükmedilen vekalet ücretinin fahiş olduğu, maddi tazminat davasının feragatle sonuçlandığı halde müvekkilleri yararına vekalet ücretine hükmedilmemesinin hatalı olduğunu beyanla ilk derece mahkemesi kararının kaldırılmasını istemiştir.
+İSTİNAFA CEVAP :
+Davacı vekili istinafa cevap dilekçesinde özetle; müvekkilinin trafik kazası sonucu derhal hastaneye kaldırıldığı ve üç gün yatışının yapıldığı, sonrasında müvekkilinin sağlığına kavuşamaması nedeniyle yeniden hastaneye alınıp ameliyatının yapıldığı, yaralanmasının maddi olaya konu trafik kazasından kaynaklandığı, hükmedilen manevi tazminat miktarının yüksek olmadığı, kusurun karşı tarafta olduğunu beyanla istinaf talebinin reddini istemiştir.
+G E R E K Ç E
+Uyuşmazlık, trafik kazasına bağlı yaralanma nedeni ile maddi ve manevi tazminat isteğine ilişkindir.
+Türk Borçlar Kanunu'nun 49. maddesi gereğince kasten veya taksirle başkasına zarar veren bu zararı gidermekle yükümlüdür. Bedensel zarara uğrayanların aynı kanunun 54. maddesi gereğince maddi tazminat ve aynı kanunun 56/1 maddesi gereğince manevi tazminat isteme hakları bulunmaktadır. 2918 Sayılı Karayolları Trafik Kanunu'nun 85. maddesi gereği motorlu araç işleteni doğan zararlardan sürücü ile birlikte müştereken ve müteselsilen sorumludur. 2918 Sayılı Karayolları Trafik Kanunu'nun 91, 97 ve 99. maddeleri gereği trafik kazasına ve zarara sebebiyet veren motorlu aracın zorunlu mali sorumluluk sigortacısı, yasa ve genel sigorta şartları kapsamına dahil maddi zararlardan işletenle birlikte müştereken ve müteselsilen sorumludur.
+Davacının sürücüsü olduğu bisikletle, davalıların sürücüsü, işleteni ve trafik sigortacısı olduğu kamyonet arasında meydana gelen trafik kazası sonucu davacı yaralanmış ve bu yaralanmasından dolayı uğradığı maddi ve manevi zararın tahsilini talep etmiş, ilk derece mahkemesince yapılan yargılama sonucunda maddi tazminat davasının feragat nedeniyle reddine, manevi tazminat davasının kabulü ile 10.000,00 TL manevi tazminatın faiziyle birlikte davalılar ... ve ....dan tahsiline karar verilmiş, bu karara karşı davalılar ... ve ... vekili tarafından istinaf yasa yoluna başvurulmuştur.
+6100 Sayılı HMK.'nun 355. maddesi gereğince istinaf dilekçesinde gösterilen istinaf sebepleri ile sınırlı yapılan istinaf incelemesi sonucunda;
+Davalı sürücünün döner kavşak içerisinde sola manevra yaptığı sırada solunda bulunan bisiklet sürücüsünü dikkate almadan şerit değiştirdiği ve bisiklet sürücüsünün önünü kapattığı, davacı bisiklet sürücüsünün ise aniden önünü kapatan araca karşı alabileceği bir tedbir bulunmadığından davalı sürücünün trafik kazasının meydana gelmesinde tam kusurlu olduğu, dosya içerisinde bulunan tedavi evrakları itibariyle davacının yaralanmasının dava konusu trafik kazasına ilişkin olduğu, kaza ile yaralanması ve tedavi arasında doğrudan illiyet bağı bulunduğu, olay tarihi, tarafların sosyal ve ekonomik durumları, davalı tarafın tam kusuru ile davacının yaralanma derecesine göre hükmedilen 10.000,00 TL manevi tazminatın hak ve nesafete uygun düştüğü, az ya da çok olmadığı, davacının maddi tazminat isteminden davalı sigorta şirketinin yaptığı ödeme nedeni ile feragat ettiği, bu feragatin hakkın özünden vazgeçme niteliğinde olmadığı, ödemeye dayalı feragat nedeniyle kendisini vekille temsil ettiren davalı taraf lehine vekalet ücreti taktir edilemeyeceği, hal böyle olunca açıklanan nedenler ve tüm dosya içeriğine göre; ilk derece mahkemesince taraflarca gösterilen delillerin toplanmasında, değerlendirilmesinde esas ve usul bakımından hukuka aykırılık bulunmadığı ve davalılar .... ve .... vekilinin tüm istinaf nedenleri yerinde görülmediğinden 6100 Sayılı HMK'nun 353/1. fıkrası (b-1) bendi uyarınca istinaf başvurusunun esastan reddine karar verilmesi gerekmiştir.
+HÜKÜM : Gerekçesi yukarıda açıklandığı üzere;
+1-Davalılar .... ve .... vekilinin tüm istinaf nedenleri yerinde görülmediğinden 6100 Sayılı HMK'nun 353/1. fıkra (b-1) bendi gereğince istinaf başvurusunun ESASTAN REDDİNE,
+2-Davalılar .... ve .... vekili tarafından peşin yatırılan 148,60 TL istinaf yoluna başvuru harcı ile 170,77 TL istinaf karar harcının Hazineye gelir kaydına, bakiye 512,33 TL istinaf karar harcının davalılar .... ve .... vekilinden alınarak Hazineye verilmesine,
+3-Yapılan istinaf giderlerinin davalılar .... ve .... üzerinde bırakılmasına,
+4-Artan istinaf gider avansının karar kesinleştiğinde yatıranlara iadesine,
+5-Kesin olan işbu kararın taraflara tebliği, avans ve harç tahsil / iade işlemlerinin ilk derece mahkemesince yerine getirilmesine,
+İlişkin dosya üzerinde yapılan inceleme sonunda 6100 Sayılı HMK'nun 362. maddesi (1-a) bendi uyarınca 16/03/2023 tarihinde KESİN olmak üzere oy birliği ile karar verildi.
+......

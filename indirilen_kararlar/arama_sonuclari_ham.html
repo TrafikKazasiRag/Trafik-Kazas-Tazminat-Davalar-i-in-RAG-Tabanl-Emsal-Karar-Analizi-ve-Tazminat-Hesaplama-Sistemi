@@ -1,0 +1,2718 @@
+<!DOCTYPE html><html><head><meta http-equiv="origin-trial" content="A7vZI3v+Gz7JfuRolKNM4Aff6zaGuT7X0mf3wtoZTnKv6497cVMnhy03KDqX7kBz/q/iidW7srW31oQbBt4VhgoAAACUeyJvcmlnaW4iOiJodHRwczovL3d3dy5nb29nbGUuY29tOjQ0MyIsImZlYXR1cmUiOiJEaXNhYmxlVGhpcmRQYXJ0eVN0b3JhZ2VQYXJ0aXRpb25pbmczIiwiZXhwaXJ5IjoxNzU3OTgwODAwLCJpc1N1YmRvbWFpbiI6dHJ1ZSwiaXNUaGlyZFBhcnR5Ijp0cnVlfQ==">
+<base href="../../">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta property="og:locale" content="tr_TR">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Yargitay Karar Arama">
+<meta property="og:url" content="https://karararama.yargitay.gov.tr/">
+<meta property="og:site_name" content="T.C. Yargıtay Karar Arama">
+<meta name="robots" content="noodp">
+<meta name="generator" content="Yargitay">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+<title>Yargitay Karar Arama</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700">
+<link href="assets/plugins/custom/fullcalendar/fullcalendar.bundle.css?v=7.0.5" rel="stylesheet" type="text/css">
+<!-- <link href="assets/plugins/global/plugins.bundle.css?v=7.0.5"
+	rel="stylesheet" type="text/css" /> -->
+	<link href="assets/plugins/global/min-pluginbundle.css" rel="stylesheet" type="text/css">
+<link href="assets/plugins/custom/prismjs/prismjs.bundle.css?v=7.0.5" rel="stylesheet" type="text/css">
+<link href="assets/css/style.bundle.css?v=7.0.5" rel="stylesheet" type="text/css">
+<link href="assets/css/themes/layout/header/base/light.css?v=7.0.5" rel="stylesheet" type="text/css">
+<link href="assets/css/themes/layout/header/menu/light.css?v=7.0.5" rel="stylesheet" type="text/css">
+<link href="assets/css/themes/layout/brand/light.css?v=7.0.5" rel="stylesheet" type="text/css">
+<link href="assets/css/themes/layout/aside/light.css?v=7.0.5" rel="stylesheet" type="text/css">
+<link href="assets/css/pages/wizard/wizard-2.css?v=7.0.5" rel="stylesheet" type="text/css">
+<link rel="shortcut icon" href="custom-assets/yrg-favicon.png" class="text-custom">
+<!--begin::datatable-->
+<link href="assets/plugins/custom/datatables/datatables.bundle.css?v=7.0.5" rel="stylesheet" type="text/css">
+<!--end::datatable-->
+<!--begin::toastr-->
+<link href="assets/plugins/custom/toastr/toastr.css" rel="stylesheet">
+<!--end::toastr-->
+<link href="assets/plugins/custom/multiselect/bootstrap-multiselect.css" rel="stylesheet" type="text/css">
+<!--begin::jstree-->
+<link href="assets/plugins/custom/jstree/jstree.bundle.css" rel="stylesheet" type="text/css">
+<!--end::jstree-->
+<!-- begin:moment -->
+   <!--  <link rel="stylesheet" href="https://cdn.datatables.net/1.13.6/css/jquery.dataTables.min.css"> -->
+    <link href="assets/plugins/global/jquery.dataTables.min.css" rel="stylesheet" type="text/css">
+
+<script type="text/javascript" async="" charset="utf-8" src="https://www.gstatic.com/recaptcha/releases/NhfdZHzre16wrc2m6BxEdu7J/recaptcha__en.js" crossorigin="anonymous" integrity="sha384-LR3/YF3zO8t1fb2C/IzWuDXk1AauM4g7H6t4/YSoPOxpHIy5aJgy+UF7MKqkx56o"></script><script src="assets/plugins/global/moment.js"></script>
+<!-- end:moment -->
+
+<style>
+.text-custom {
+	color: var(--custom-color);
+}
+
+.btn-custom {
+	background-color: #40aead;
+	/* background-color: var(--custom-color) !important;*/
+	color: #fff !important;
+	transition: all .3s ease;
+}
+
+.btn-custom:hover {
+	filter: brightness(0.9);
+}
+
+.bg-custom {
+	background-color: #40aead;   
+	/* var(--custom-color) !important; */
+	
+}
+
+.header-logo {
+	height: 96px;
+	width: 96px;
+	border-radius: 0px 0px 16px 16px;
+	box-shadow: 2px 5px 10px rgba(0, 0, 0, 0.24);
+	transition: top .1s linear;
+}
+
+.header-logo:hover {
+	top: 0
+}
+
+.header-logo img {
+	width: 85px;
+}
+
+.mobile-header-logo {
+	width: 75px;
+	height: 75px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	border-radius: 0 0 6px 6px;
+}
+
+.full-screen {
+	position: fixed;
+	top: 0;
+	left: 0;
+	height: 100%;
+	z-index: 999;
+	width: inherit;
+}
+
+.full-screen .card-scroll {
+	height: 100% !important
+}
+
+mark {
+	background-color: var(- -warning);
+	border-radius: 2px;
+}
+
+.card-body .row+.row {
+	margin-top: 1rem;
+}
+
+#aramaAlani {
+	transition: all .4s ease-in-out;
+}
+
+@media ( min-width : 991.98px) {
+	.inputToTop {
+		margin-top: -90px;
+	}
+}
+
+.dashboard-panel-1 {
+	width: 1% !important;
+	padding-left: 5px !important;
+	padding-right: 3px !important;
+	margin-top: 4px !important;
+}
+
+/* @media all and (max-width: 765px) , only screen and
+		(-webkit-min-device-pixel-ratio: 2) and (max-width: 1024px) , only
+		screen and (min--moz-device-pixel-ratio: 2) and (max-width: 1024px) ,
+		only screen and (-o-min-device-pixel-ratio: 2/1) and (max-width:
+		1024px) , only screen and (min-device-pixel-ratio: 2) and (max-width:
+		1024px) , only screen and (min-resolution: 192dpi) and (max-width:
+		1024px) , only screen and (min-resolution: 2dppx) and (max-width:
+	1024px) {
+	.dashboard-panel-1 {
+		width: 1% !important;
+		padding-left: 0 !important;
+		padding-right: 0 !important;
+		display: none;
+	}
+} */
+
+@media (max-width: 765px),
+       (min-resolution: 2dppx) and (max-width: 1024px),
+       (min-resolution: 192dpi) and (max-width: 1024px) {
+  .dashboard-panel-1 {
+    width: 1% !important;
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+    display: none;
+  }
+}
+
+
+label {
+	display: inline-block;
+	max-width: 100%;
+	margin-bottom: 5px;
+	font-weight: bold;
+}
+
+.radio-inline {
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display: flex;
+	font-weight: normal;
+}
+
+.background-dorange {
+	background-color: orange;
+}
+
+.spinner-custom:before {
+	border: 2px solid var(--custom-color);
+	border-right: 2px solid transparent;
+}
+
+spinner-track.spinner-custom:before {
+	border: 2px solid var(--custom-color);
+	border-top-color: var(--custom-color);
+}
+
+.left-col {
+    float: left;
+    width: 25%;
+}
+ 
+.center-col {
+    float: left;
+    width: 50%;
+}
+ 
+.right-col {
+    float: left;
+    width: 25%;
+}
+</style>
+
+
+<meta charset="UTF-8"><style type="text/css">.apexcharts-canvas {
+  position: relative;
+  user-select: none;
+  /* cannot give overflow: hidden as it will crop tooltips which overflow outside chart area */
+}
+
+
+/* scrollbar is not visible by default for legend, hence forcing the visibility */
+.apexcharts-canvas ::-webkit-scrollbar {
+  -webkit-appearance: none;
+  width: 6px;
+}
+
+.apexcharts-canvas ::-webkit-scrollbar-thumb {
+  border-radius: 4px;
+  background-color: rgba(0, 0, 0, .5);
+  box-shadow: 0 0 1px rgba(255, 255, 255, .5);
+  -webkit-box-shadow: 0 0 1px rgba(255, 255, 255, .5);
+}
+
+.apexcharts-canvas.apexcharts-theme-dark {
+  background: #424242;
+}
+
+.apexcharts-inner {
+  position: relative;
+}
+
+.apexcharts-text tspan {
+  font-family: inherit;
+}
+
+.legend-mouseover-inactive {
+  transition: 0.15s ease all;
+  opacity: 0.20;
+}
+
+.apexcharts-series-collapsed {
+  opacity: 0;
+}
+
+.apexcharts-tooltip {
+  border-radius: 5px;
+  box-shadow: 2px 2px 6px -4px #999;
+  cursor: default;
+  font-size: 14px;
+  left: 62px;
+  opacity: 0;
+  pointer-events: none;
+  position: absolute;
+  top: 20px;
+  overflow: hidden;
+  white-space: nowrap;
+  z-index: 12;
+  transition: 0.15s ease all;
+}
+
+.apexcharts-tooltip.apexcharts-active {
+  opacity: 1;
+  transition: 0.15s ease all;
+}
+
+.apexcharts-tooltip.apexcharts-theme-light {
+  border: 1px solid #e3e3e3;
+  background: rgba(255, 255, 255, 0.96);
+}
+
+.apexcharts-tooltip.apexcharts-theme-dark {
+  color: #fff;
+  background: rgba(30, 30, 30, 0.8);
+}
+
+.apexcharts-tooltip * {
+  font-family: inherit;
+}
+
+
+.apexcharts-tooltip-title {
+  padding: 6px;
+  font-size: 15px;
+  margin-bottom: 4px;
+}
+
+.apexcharts-tooltip.apexcharts-theme-light .apexcharts-tooltip-title {
+  background: #ECEFF1;
+  border-bottom: 1px solid #ddd;
+}
+
+.apexcharts-tooltip.apexcharts-theme-dark .apexcharts-tooltip-title {
+  background: rgba(0, 0, 0, 0.7);
+  border-bottom: 1px solid #333;
+}
+
+.apexcharts-tooltip-text-value,
+.apexcharts-tooltip-text-z-value {
+  display: inline-block;
+  font-weight: 600;
+  margin-left: 5px;
+}
+
+.apexcharts-tooltip-text-z-label:empty,
+.apexcharts-tooltip-text-z-value:empty {
+  display: none;
+}
+
+.apexcharts-tooltip-text-value,
+.apexcharts-tooltip-text-z-value {
+  font-weight: 600;
+}
+
+.apexcharts-tooltip-marker {
+  width: 12px;
+  height: 12px;
+  position: relative;
+  top: 0px;
+  margin-right: 10px;
+  border-radius: 50%;
+}
+
+.apexcharts-tooltip-series-group {
+  padding: 0 10px;
+  display: none;
+  text-align: left;
+  justify-content: left;
+  align-items: center;
+}
+
+.apexcharts-tooltip-series-group.apexcharts-active .apexcharts-tooltip-marker {
+  opacity: 1;
+}
+
+.apexcharts-tooltip-series-group.apexcharts-active,
+.apexcharts-tooltip-series-group:last-child {
+  padding-bottom: 4px;
+}
+
+.apexcharts-tooltip-series-group-hidden {
+  opacity: 0;
+  height: 0;
+  line-height: 0;
+  padding: 0 !important;
+}
+
+.apexcharts-tooltip-y-group {
+  padding: 6px 0 5px;
+}
+
+.apexcharts-tooltip-candlestick {
+  padding: 4px 8px;
+}
+
+.apexcharts-tooltip-candlestick>div {
+  margin: 4px 0;
+}
+
+.apexcharts-tooltip-candlestick span.value {
+  font-weight: bold;
+}
+
+.apexcharts-tooltip-rangebar {
+  padding: 5px 8px;
+}
+
+.apexcharts-tooltip-rangebar .category {
+  font-weight: 600;
+  color: #777;
+}
+
+.apexcharts-tooltip-rangebar .series-name {
+  font-weight: bold;
+  display: block;
+  margin-bottom: 5px;
+}
+
+.apexcharts-xaxistooltip {
+  opacity: 0;
+  padding: 9px 10px;
+  pointer-events: none;
+  color: #373d3f;
+  font-size: 13px;
+  text-align: center;
+  border-radius: 2px;
+  position: absolute;
+  z-index: 10;
+  background: #ECEFF1;
+  border: 1px solid #90A4AE;
+  transition: 0.15s ease all;
+}
+
+.apexcharts-xaxistooltip.apexcharts-theme-dark {
+  background: rgba(0, 0, 0, 0.7);
+  border: 1px solid rgba(0, 0, 0, 0.5);
+  color: #fff;
+}
+
+.apexcharts-xaxistooltip:after,
+.apexcharts-xaxistooltip:before {
+  left: 50%;
+  border: solid transparent;
+  content: " ";
+  height: 0;
+  width: 0;
+  position: absolute;
+  pointer-events: none;
+}
+
+.apexcharts-xaxistooltip:after {
+  border-color: rgba(236, 239, 241, 0);
+  border-width: 6px;
+  margin-left: -6px;
+}
+
+.apexcharts-xaxistooltip:before {
+  border-color: rgba(144, 164, 174, 0);
+  border-width: 7px;
+  margin-left: -7px;
+}
+
+.apexcharts-xaxistooltip-bottom:after,
+.apexcharts-xaxistooltip-bottom:before {
+  bottom: 100%;
+}
+
+.apexcharts-xaxistooltip-top:after,
+.apexcharts-xaxistooltip-top:before {
+  top: 100%;
+}
+
+.apexcharts-xaxistooltip-bottom:after {
+  border-bottom-color: #ECEFF1;
+}
+
+.apexcharts-xaxistooltip-bottom:before {
+  border-bottom-color: #90A4AE;
+}
+
+.apexcharts-xaxistooltip-bottom.apexcharts-theme-dark:after {
+  border-bottom-color: rgba(0, 0, 0, 0.5);
+}
+
+.apexcharts-xaxistooltip-bottom.apexcharts-theme-dark:before {
+  border-bottom-color: rgba(0, 0, 0, 0.5);
+}
+
+.apexcharts-xaxistooltip-top:after {
+  border-top-color: #ECEFF1
+}
+
+.apexcharts-xaxistooltip-top:before {
+  border-top-color: #90A4AE;
+}
+
+.apexcharts-xaxistooltip-top.apexcharts-theme-dark:after {
+  border-top-color: rgba(0, 0, 0, 0.5);
+}
+
+.apexcharts-xaxistooltip-top.apexcharts-theme-dark:before {
+  border-top-color: rgba(0, 0, 0, 0.5);
+}
+
+.apexcharts-xaxistooltip.apexcharts-active {
+  opacity: 1;
+  transition: 0.15s ease all;
+}
+
+.apexcharts-yaxistooltip {
+  opacity: 0;
+  padding: 4px 10px;
+  pointer-events: none;
+  color: #373d3f;
+  font-size: 13px;
+  text-align: center;
+  border-radius: 2px;
+  position: absolute;
+  z-index: 10;
+  background: #ECEFF1;
+  border: 1px solid #90A4AE;
+}
+
+.apexcharts-yaxistooltip.apexcharts-theme-dark {
+  background: rgba(0, 0, 0, 0.7);
+  border: 1px solid rgba(0, 0, 0, 0.5);
+  color: #fff;
+}
+
+.apexcharts-yaxistooltip:after,
+.apexcharts-yaxistooltip:before {
+  top: 50%;
+  border: solid transparent;
+  content: " ";
+  height: 0;
+  width: 0;
+  position: absolute;
+  pointer-events: none;
+}
+
+.apexcharts-yaxistooltip:after {
+  border-color: rgba(236, 239, 241, 0);
+  border-width: 6px;
+  margin-top: -6px;
+}
+
+.apexcharts-yaxistooltip:before {
+  border-color: rgba(144, 164, 174, 0);
+  border-width: 7px;
+  margin-top: -7px;
+}
+
+.apexcharts-yaxistooltip-left:after,
+.apexcharts-yaxistooltip-left:before {
+  left: 100%;
+}
+
+.apexcharts-yaxistooltip-right:after,
+.apexcharts-yaxistooltip-right:before {
+  right: 100%;
+}
+
+.apexcharts-yaxistooltip-left:after {
+  border-left-color: #ECEFF1;
+}
+
+.apexcharts-yaxistooltip-left:before {
+  border-left-color: #90A4AE;
+}
+
+.apexcharts-yaxistooltip-left.apexcharts-theme-dark:after {
+  border-left-color: rgba(0, 0, 0, 0.5);
+}
+
+.apexcharts-yaxistooltip-left.apexcharts-theme-dark:before {
+  border-left-color: rgba(0, 0, 0, 0.5);
+}
+
+.apexcharts-yaxistooltip-right:after {
+  border-right-color: #ECEFF1;
+}
+
+.apexcharts-yaxistooltip-right:before {
+  border-right-color: #90A4AE;
+}
+
+.apexcharts-yaxistooltip-right.apexcharts-theme-dark:after {
+  border-right-color: rgba(0, 0, 0, 0.5);
+}
+
+.apexcharts-yaxistooltip-right.apexcharts-theme-dark:before {
+  border-right-color: rgba(0, 0, 0, 0.5);
+}
+
+.apexcharts-yaxistooltip.apexcharts-active {
+  opacity: 1;
+}
+
+.apexcharts-yaxistooltip-hidden {
+  display: none;
+}
+
+.apexcharts-xcrosshairs,
+.apexcharts-ycrosshairs {
+  pointer-events: none;
+  opacity: 0;
+  transition: 0.15s ease all;
+}
+
+.apexcharts-xcrosshairs.apexcharts-active,
+.apexcharts-ycrosshairs.apexcharts-active {
+  opacity: 1;
+  transition: 0.15s ease all;
+}
+
+.apexcharts-ycrosshairs-hidden {
+  opacity: 0;
+}
+
+.apexcharts-selection-rect {
+  cursor: move;
+}
+
+.svg_select_boundingRect, .svg_select_points_rot {
+  pointer-events: none;
+  opacity: 0;
+  visibility: hidden;
+}
+.apexcharts-selection-rect + g .svg_select_boundingRect,
+.apexcharts-selection-rect + g .svg_select_points_rot {
+  opacity: 0;
+  visibility: hidden;
+}
+
+.apexcharts-selection-rect + g .svg_select_points_l,
+.apexcharts-selection-rect + g .svg_select_points_r {
+  cursor: ew-resize;
+  opacity: 1;
+  visibility: visible;
+}
+
+.svg_select_points {
+  fill: #efefef;
+  stroke: #333;
+  rx: 2;
+}
+
+.apexcharts-canvas.apexcharts-zoomable .hovering-zoom {
+  cursor: crosshair
+}
+
+.apexcharts-canvas.apexcharts-zoomable .hovering-pan {
+  cursor: move
+}
+
+.apexcharts-zoom-icon,
+.apexcharts-zoomin-icon,
+.apexcharts-zoomout-icon,
+.apexcharts-reset-icon,
+.apexcharts-pan-icon,
+.apexcharts-selection-icon,
+.apexcharts-menu-icon,
+.apexcharts-toolbar-custom-icon {
+  cursor: pointer;
+  width: 20px;
+  height: 20px;
+  line-height: 24px;
+  color: #6E8192;
+  text-align: center;
+}
+
+.apexcharts-zoom-icon svg,
+.apexcharts-zoomin-icon svg,
+.apexcharts-zoomout-icon svg,
+.apexcharts-reset-icon svg,
+.apexcharts-menu-icon svg {
+  fill: #6E8192;
+}
+
+.apexcharts-selection-icon svg {
+  fill: #444;
+  transform: scale(0.76)
+}
+
+.apexcharts-theme-dark .apexcharts-zoom-icon svg,
+.apexcharts-theme-dark .apexcharts-zoomin-icon svg,
+.apexcharts-theme-dark .apexcharts-zoomout-icon svg,
+.apexcharts-theme-dark .apexcharts-reset-icon svg,
+.apexcharts-theme-dark .apexcharts-pan-icon svg,
+.apexcharts-theme-dark .apexcharts-selection-icon svg,
+.apexcharts-theme-dark .apexcharts-menu-icon svg,
+.apexcharts-theme-dark .apexcharts-toolbar-custom-icon svg {
+  fill: #f3f4f5;
+}
+
+.apexcharts-canvas .apexcharts-zoom-icon.apexcharts-selected svg,
+.apexcharts-canvas .apexcharts-selection-icon.apexcharts-selected svg,
+.apexcharts-canvas .apexcharts-reset-zoom-icon.apexcharts-selected svg {
+  fill: #008FFB;
+}
+
+.apexcharts-theme-light .apexcharts-selection-icon:not(.apexcharts-selected):hover svg,
+.apexcharts-theme-light .apexcharts-zoom-icon:not(.apexcharts-selected):hover svg,
+.apexcharts-theme-light .apexcharts-zoomin-icon:hover svg,
+.apexcharts-theme-light .apexcharts-zoomout-icon:hover svg,
+.apexcharts-theme-light .apexcharts-reset-icon:hover svg,
+.apexcharts-theme-light .apexcharts-menu-icon:hover svg {
+  fill: #333;
+}
+
+.apexcharts-selection-icon,
+.apexcharts-menu-icon {
+  position: relative;
+}
+
+.apexcharts-reset-icon {
+  margin-left: 5px;
+}
+
+.apexcharts-zoom-icon,
+.apexcharts-reset-icon,
+.apexcharts-menu-icon {
+  transform: scale(0.85);
+}
+
+.apexcharts-zoomin-icon,
+.apexcharts-zoomout-icon {
+  transform: scale(0.7)
+}
+
+.apexcharts-zoomout-icon {
+  margin-right: 3px;
+}
+
+.apexcharts-pan-icon {
+  transform: scale(0.62);
+  position: relative;
+  left: 1px;
+  top: 0px;
+}
+
+.apexcharts-pan-icon svg {
+  fill: #fff;
+  stroke: #6E8192;
+  stroke-width: 2;
+}
+
+.apexcharts-pan-icon.apexcharts-selected svg {
+  stroke: #008FFB;
+}
+
+.apexcharts-pan-icon:not(.apexcharts-selected):hover svg {
+  stroke: #333;
+}
+
+.apexcharts-toolbar {
+  position: absolute;
+  z-index: 11;
+  max-width: 176px;
+  text-align: right;
+  border-radius: 3px;
+  padding: 0px 6px 2px 6px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.apexcharts-menu {
+  background: #fff;
+  position: absolute;
+  top: 100%;
+  border: 1px solid #ddd;
+  border-radius: 3px;
+  padding: 3px;
+  right: 10px;
+  opacity: 0;
+  min-width: 110px;
+  transition: 0.15s ease all;
+  pointer-events: none;
+}
+
+.apexcharts-menu.apexcharts-menu-open {
+  opacity: 1;
+  pointer-events: all;
+  transition: 0.15s ease all;
+}
+
+.apexcharts-menu-item {
+  padding: 6px 7px;
+  font-size: 12px;
+  cursor: pointer;
+}
+
+.apexcharts-theme-light .apexcharts-menu-item:hover {
+  background: #eee;
+}
+
+.apexcharts-theme-dark .apexcharts-menu {
+  background: rgba(0, 0, 0, 0.7);
+  color: #fff;
+}
+
+@media screen and (min-width: 768px) {
+  .apexcharts-canvas:hover .apexcharts-toolbar {
+    opacity: 1;
+  }
+}
+
+.apexcharts-datalabel.apexcharts-element-hidden {
+  opacity: 0;
+}
+
+.apexcharts-pie-label,
+.apexcharts-datalabels,
+.apexcharts-datalabel,
+.apexcharts-datalabel-label,
+.apexcharts-datalabel-value {
+  cursor: default;
+  pointer-events: none;
+}
+
+.apexcharts-pie-label-delay {
+  opacity: 0;
+  animation-name: opaque;
+  animation-duration: 0.3s;
+  animation-fill-mode: forwards;
+  animation-timing-function: ease;
+}
+
+.apexcharts-canvas .apexcharts-element-hidden {
+  opacity: 0;
+}
+
+.apexcharts-hide .apexcharts-series-points {
+  opacity: 0;
+}
+
+.apexcharts-gridline,
+.apexcharts-annotation-rect,
+.apexcharts-tooltip .apexcharts-marker,
+.apexcharts-area-series .apexcharts-area,
+.apexcharts-line,
+.apexcharts-zoom-rect,
+.apexcharts-toolbar svg,
+.apexcharts-area-series .apexcharts-series-markers .apexcharts-marker.no-pointer-events,
+.apexcharts-line-series .apexcharts-series-markers .apexcharts-marker.no-pointer-events,
+.apexcharts-radar-series path,
+.apexcharts-radar-series polygon {
+  pointer-events: none;
+}
+
+
+/* markers */
+
+.apexcharts-marker {
+  transition: 0.15s ease all;
+}
+
+@keyframes opaque {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+
+/* Resize generated styles */
+
+@keyframes resizeanim {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 0;
+  }
+}
+
+.resize-triggers {
+  animation: 1ms resizeanim;
+  visibility: hidden;
+  opacity: 0;
+}
+
+.resize-triggers,
+.resize-triggers>div,
+.contract-trigger:before {
+  content: " ";
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  overflow: hidden;
+}
+
+.resize-triggers>div {
+  background: #eee;
+  overflow: auto;
+}
+
+.contract-trigger:before {
+  width: 200%;
+  height: 200%;
+}</style></head>
+
+<body id="kt_body" class="header-fixed header-mobile-fixed subheader-enabled subheader-fixed">
+	<div id="kt_header_mobile" class="header-mobile align-items-center header-mobile-fixed bg-custom mb-25">
+	<!--begin::Logo-->
+	<div class="mobile-header-logo bg-custom shadow">
+		<a href="/index"> <img alt="Logo" src="custom-assets/yargitay-logo.png" style="height: 48px;">
+		</a>
+	</div>
+	<span class="text-white font-weight-bold">Yargitay Karar Arama</span>
+	<!--end::Logo-->
+	<!--begin::Toolbar-->
+	<div class="d-flex align-items-center">
+		<!--begin::Header Menu Mobile Toggle-->
+		<button class="btn p-0 burger-icon ml-4" id="kt_header_mobile_topbar_toggle">
+			<span></span>
+		</button>
+		<!--end::Header Menu Mobile Toggle-->
+		<!--begin::Topbar Mobile Toggle-->
+
+		<!--end::Topbar Mobile Toggle-->
+	</div>
+	<!--end::Toolbar-->
+</div>
+	<div class="d-flex flex-row flex-column-fluid page" id="kt_login">
+		<div class="d-flex flex-column flex-row-fluid wrapper" id="kt_wrapper">
+			<div id="kt_header" class="header header-fixed positon-absolute bg-custom">
+	<!--begin::Container-->
+	<div class="container-fluid d-flex align-items-stretch">
+		<!--begin::Header Menu Wrapper-->
+		<span class="d-none d-lg-flex align-items-center text-white ml-3 font-weight-bold">Yargıtay
+			Karar Arama</span>
+		<!--begin::Header Logo-->
+		<div style="margin-left:40%" class="bg-custom header-logo d-lg-flex d-none align-items-center justify-content-center">
+			<a href="/index">
+			 <img alt="Logo" src="custom-assets/yargitay-logo.png">
+			</a>
+		</div>
+		<!--end::Header Logo-->
+
+
+		<!--end::Header Menu Wrapper-->
+	</div>
+	<!--end::Container-->
+</div>
+			<div class="content d-flex flex-column flex-column-fluid" id="kt_content">
+
+	<!--begin::Entry-->
+	<div>
+	<div class="container pt-md-10 mt-4">
+		<!--begin: emsal karar arama alanı  -->
+				<div class="spinner spinner-custom spinner-center spinner-lg mr-15" id="loader" style="z-index: 100; display: none;"></div>
+			<div id="exceptionMsg" class="d-none"></div> 
+			<div class="row inputToTop" id="aramaAlani" style="">
+			<div class="col-lg-8 offset-lg-2 ">
+			<div class="d-flex align-items-center justify-content-center">
+		<form class="d-flex flex-center py-3 px-4 bg-white rounded-lg shadow-sm w-100 mb-2" action="/detayliArama" method="post" onsubmit="postSonuclar(this.form);" id="search_form">
+														<span class="svg-icon svg-icon-lg svg-icon-primary">
+<i class="fas fa-search text-dark mt-1"></i>
+														</span>
+														<input autofocus="" type="text" class="form-control border-0 pl-3 form-conrol-lg" placeholder="Anahtar kelime giriniz... Örn. Hukuk, dava, ihale, borç ..." style="font-size:16px" minlength="3" pattern=".{3,}" name="aranan" id="aranan" autocomplete="off">
+														<button type="button" id="aramaG" onclick="postSonuclar(this.form)" class="btn btn-custom btn-lg font-weight-bolder">Ara</button>
+													</form>
+</div>
+			</div>
+			</div>
+						<div class="col-lg-8 offset-lg-2 text-xl-right" style="font-size: 15px; font-weight: bold;">
+						<a href="#collapseDetaylıArama" class="arrow collapsed" data-toggle="collapse" aria-expanded="false" aria-controls="#collapseDetaylıArama" id="detay"><em class="fa arrow-img fa-chevron-down"></em>
+						DETAYLI ARAMA </a>
+						
+						<a href="" class="arrow ml-5" data-toggle="modal" data-target="#yardim" aria-expanded="false" id="yardim-button"><em class="fas fa-life-ring "></em>
+						YARDIM </a>
+						</div>
+
+				<p id="isDisplayCaptcha" class="d-none">false</p>
+				
+				<!--end: emsal karar arama alanı  -->
+		<form class="offset-md-2 mr-md-30 pr-md-30" action="/detayliArama" method="post" onsubmit="$('#collapseDetayAramaSonuc').show();">
+	<div class="collapse" id="collapseDetaylıArama" style="">
+		<div class="card card-body">
+			<div class="row">
+				<div class="col-md-3">
+					<label for="daireler">Aranacak Kelime:</label>
+				</div>
+				<div class="col-md-9 input-group">
+					<input autofocus="" type="text" class="form-control form-conrol-lg" placeholder="Anahtar kelime giriniz... Örn. Hukuk, dava, ihale, borç ..." style="font-size:16px" minlength="3" pattern=".{3,}" name="arananKelime" id="arananDetail" autocomplete="off" value="">
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-12">
+					
+					<small class="text-warning bg-dark">***Birim seçilmediğinde tüm birimlerde arama yapılır.</small>
+					
+				</div>
+				<div class="col-md-3">
+					<label for="daireler" class="font-weight-normal">Kurullar:</label>
+				</div>
+				<div class="col-md-9 input-group">
+					<div class="dropdown bootstrap-select show-tick" style="width: 100%;"><select class="selectpicker" id="yargitayMah" name="yargitayMah" multiple="multiple">
+						<option value="Hukuk Genel Kurulu">Hukuk Genel Kurulu</option>
+						<option value="Ceza Genel Kurulu">Ceza Genel Kurulu</option>
+						<option value="Ceza Daireleri Başkanlar Kurulu">Ceza Daireleri Başkanlar Kurulu</option>
+						<option value="Hukuk Daireleri Başkanlar Kurulu">Hukuk Daireleri Başkanlar Kurulu</option>
+						<option value="Büyük Genel Kurulu">Büyük Genel Kurulu</option>
+					</select><button type="button" tabindex="-1" class="form-control dropdown-toggle btn-light text-justify font-weight-normal bs-placeholder" data-toggle="dropdown" role="combobox" aria-owns="bs-select-2" aria-haspopup="listbox" aria-expanded="false" data-id="yargitayMah" title="Kurul seçiniz"><div class="filter-option"><div class="filter-option-inner"><div class="filter-option-inner-inner">Kurul seçiniz</div></div> </div></button><div class="dropdown-menu "><div class="bs-searchbox"><input type="search" class="form-control" autocomplete="off" placeholder="Ara..." role="combobox" aria-label="Search" aria-controls="bs-select-2" aria-autocomplete="list"></div><div class="bs-actionsbox"><div class="btn-group btn-group-sm btn-block"><button type="button" class="actions-btn bs-select-all btn btn-light">Hepsini Seç</button><button type="button" class="actions-btn bs-deselect-all btn btn-light">Temizle</button></div></div><div class="inner show" role="listbox" id="bs-select-2" tabindex="-1" aria-multiselectable="true"><ul class="dropdown-menu inner show" role="presentation"></ul></div></div></div>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-md-3">
+					<label for="daireler" class="font-weight-normal">Hukuk
+						Daireleri</label>
+				</div>
+				<div class="col-md-9 input-group">
+					<div class="dropdown bootstrap-select show-tick" style="width: 100%;"><select class="selectpicker" id="hukuk" name="hukuk" multiple="multiple" tabindex="null">
+						<option value="1. Hukuk Dairesi">1. Hukuk Dairesi</option>
+						<option value="2. Hukuk Dairesi">2. Hukuk Dairesi</option>
+						<option value="3. Hukuk Dairesi">3. Hukuk Dairesi</option>
+						<option value="4. Hukuk Dairesi">4. Hukuk Dairesi</option>
+						<option value="5. Hukuk Dairesi">5. Hukuk Dairesi</option>
+						<option value="6. Hukuk Dairesi">6. Hukuk Dairesi</option>
+						<option value="7. Hukuk Dairesi">7. Hukuk Dairesi</option>
+						<option value="8. Hukuk Dairesi">8. Hukuk Dairesi</option>
+						<option value="9. Hukuk Dairesi">9. Hukuk Dairesi</option>
+						<option value="10. Hukuk Dairesi">10. Hukuk Dairesi</option>
+						<option value="11. Hukuk Dairesi">11. Hukuk Dairesi</option>
+						<option value="12. Hukuk Dairesi">12. Hukuk Dairesi</option>
+						<option value="13. Hukuk Dairesi">13. Hukuk Dairesi</option>
+						<option value="14. Hukuk Dairesi">14. Hukuk Dairesi</option>
+						<option value="15. Hukuk Dairesi">15. Hukuk Dairesi</option>
+						<option value="16. Hukuk Dairesi">16. Hukuk Dairesi</option>
+						<option value="17. Hukuk Dairesi">17. Hukuk Dairesi</option>
+						<option value="18. Hukuk Dairesi">18. Hukuk Dairesi</option>
+						<option value="19. Hukuk Dairesi">19. Hukuk Dairesi</option>
+						<option value="20. Hukuk Dairesi">20. Hukuk Dairesi</option>
+						<option value="21. Hukuk Dairesi">21. Hukuk Dairesi</option>
+						<option value="22. Hukuk Dairesi">22. Hukuk Dairesi</option>
+						<option value="23. Hukuk Dairesi">23. Hukuk Dairesi</option>
+					</select><button type="button" tabindex="-1" class="form-control dropdown-toggle btn-light text-justify font-weight-normal" data-toggle="dropdown" role="combobox" aria-owns="bs-select-3" aria-haspopup="listbox" aria-expanded="false" data-id="hukuk" title="4. Hukuk Dairesi"><div class="filter-option"><div class="filter-option-inner"><div class="filter-option-inner-inner">4. Hukuk Dairesi</div></div> </div></button></div>
+				</div>
+			</div> 
+			<div class="row">
+				<div class="col-md-3">
+					<label for="daireler" class="font-weight-normal">Ceza
+						Daireleri</label>
+				</div>
+				<div class="col-md-9 input-group">
+					<div class="dropdown bootstrap-select show-tick" style="width: 100%;"><select class="selectpicker" id="ceza" name="ceza" multiple="multiple">
+						<option value="1. Ceza Dairesi">1. Ceza Dairesi</option>
+						<option value="2. Ceza Dairesi">2. Ceza Dairesi</option>
+						<option value="3. Ceza Dairesi">3. Ceza Dairesi</option>
+						<option value="4. Ceza Dairesi">4. Ceza Dairesi</option>
+						<option value="5. Ceza Dairesi">5. Ceza Dairesi</option>
+						<option value="6. Ceza Dairesi">6. Ceza Dairesi</option>
+						<option value="7. Ceza Dairesi">7. Ceza Dairesi</option>
+						<option value="8. Ceza Dairesi">8. Ceza Dairesi</option>
+						<option value="9. Ceza Dairesi">9. Ceza Dairesi</option>
+						<option value="10. Ceza Dairesi">10. Ceza Dairesi</option>
+						<option value="11. Ceza Dairesi">11. Ceza Dairesi</option>
+						<option value="12. Ceza Dairesi">12. Ceza Dairesi</option>
+						<option value="13. Ceza Dairesi">13. Ceza Dairesi</option>
+						<option value="14. Ceza Dairesi">14. Ceza Dairesi</option>
+						<option value="15. Ceza Dairesi">15. Ceza Dairesi</option>
+						<option value="16. Ceza Dairesi">16. Ceza Dairesi</option>
+						<option value="17. Ceza Dairesi">17. Ceza Dairesi</option>
+						<option value="18. Ceza Dairesi">18. Ceza Dairesi</option>
+						<option value="19. Ceza Dairesi">19. Ceza Dairesi</option>
+						<option value="20. Ceza Dairesi">20. Ceza Dairesi</option>
+						<option value="21. Ceza Dairesi">21. Ceza Dairesi</option>
+						<option value="22. Ceza Dairesi">22. Ceza Dairesi</option>
+						<option value="23. Ceza Dairesi">23. Ceza Dairesi</option>
+					</select><button type="button" tabindex="-1" class="form-control dropdown-toggle btn-light text-justify font-weight-normal bs-placeholder" data-toggle="dropdown" role="combobox" aria-owns="bs-select-1" aria-haspopup="listbox" aria-expanded="false" data-id="ceza" title="Ceza Dairesi seçiniz"><div class="filter-option"><div class="filter-option-inner"><div class="filter-option-inner-inner">Ceza Dairesi seçiniz</div></div> </div></button><div class="dropdown-menu "><div class="bs-searchbox"><input type="search" class="form-control" autocomplete="off" placeholder="Ara..." role="combobox" aria-label="Search" aria-controls="bs-select-1" aria-autocomplete="list"></div><div class="bs-actionsbox"><div class="btn-group btn-group-sm btn-block"><button type="button" class="actions-btn bs-select-all btn btn-light">Hepsini Seç</button><button type="button" class="actions-btn bs-deselect-all btn btn-light">Temizle</button></div></div><div class="inner show" role="listbox" id="bs-select-1" tabindex="-1" aria-multiselectable="true"><ul class="dropdown-menu inner show" role="presentation"></ul></div></div></div>
+				</div>
+			</div> 
+			<div class="separator separator-dashed separator-border-1 my-4"></div>
+			<div class="row">
+				<div class="col-12">
+					<!-- <label>NUMARALAR</label> -->
+				</div>
+				<div class="col-md-3">
+					<label for="esas" class="font-weight-normal">Esas Numarası:</label>
+				</div>
+				<div class="col-md-2">
+					<input type="number" class="form-control input-sm number" id="esasNoYil" name="esasYil" maxlength="4" placeholder="Esas yılı" min="1900" value="">
+				</div>
+				<span class="col-sm-1 dashboard-panel-1"> / </span>
+				<div class="col-md-2">
+					<input type="number" class="form-control input-sm number" id="esasNoSira1" name="esasIlkSiraNo" maxlength="6" placeholder="İlk sıra no" min="0" value="">
+				</div>
+				<span class="col-sm-1 dashboard-panel-1"> - </span>
+				<div class="col-md-3">
+					<input type="number" class="form-control input-sm number" id="esasNoSira2" name="esasSonSiraNo" maxlength="6" placeholder="Son sıra no" min="0" value="">
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-md-3">
+					<label for="esas" class="font-weight-normal">Karar
+						Numarası:</label>
+				</div>
+				<div class="col-md-2">
+					<input type="number" class="form-control input-sm number" id="kararNoYil" name="kararYil" maxlength="4" placeholder="Karar yılı" min="1900" value="">
+				</div>
+				<span class="col-sm-1 dashboard-panel-1"> / </span>
+				<div class="col-md-2">
+					<input type="number" class="form-control input-sm number" id="kararNoSira1" name="kararIlkSiraNo" maxlength="6" placeholder="İlk sıra no" min="0" value="">
+				</div>
+				<span class="col-sm-1 dashboard-panel-1"> - </span>
+				<div class="col-md-3">
+					<input type="number" class="form-control input-sm number" id="kararNoSira2" name="kararSonSiraNo" maxlength="6" placeholder="Son sıra no" min="0" value="">
+				</div>
+			</div>
+			<div class="separator separator-dashed separator-border-1 my-4"></div>
+			<div class="row">
+				<div class="col-12">
+				<!-- 	<label>TARİH ve SIRALAMA</label> -->
+				</div>
+				<div class="col-md-3">
+					<label for="esas" class="font-weight-normal">Karar Tarihi:</label>
+				</div>
+				<div class="col-md-4 tar">
+					<input type="text" class="form-control input-sm date-picker" name="baslangicTarihi" id="kararTarihiIlk" placeholder="Başlama tarihini giriniz." readonly="" value="">
+
+				</div>
+				<span class="col-sm-1 dashboard-panel-1 text-center pt-2"> -
+				</span>
+				<div class="col-md-4 tar">
+					<input type="text" class="form-control input-sm" name="bitisTarihi" id="kararTarihiSon" placeholder="Bitiş tarihini giriniz." readonly="" value="">
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-md-3">
+					<label for="siralama" class="font-weight-normal">Sıralama:</label>
+				</div>
+				<div class="col-md-8 col-form-label">
+					<div class="radio-inline">
+						<label class="radio radio-primary"> <input type="radio" value="1" name="siralama" id="esasNoGore" checked="checked"><span></span>Esas No'ya Göre
+						</label> <label class="radio radio-primary"> <input type="radio" value="2" name="siralama" id="kararNoGore"><span></span>Karar
+							No'ya Göre
+						</label> <label class="radio  radio-primary"> <input type="radio" value="3" name="siralama" id="kararTarihiGore"><span></span>Karar Tarihine Göre
+						</label>
+					</div>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-md-3">
+					<label for="order" class="control-label"></label>
+				</div>
+				<div class="col-md-8 col-form-label">
+					<div class="radio-inline">
+					<label class="radio radio-primary"> <input type="radio" value="desc" name="siralamaDirection" id="descDirection" checked="checked"><span></span>Büyükten
+							Küçüğe Göre 
+						<label class="radio radio-primary"> <input type="radio" value="asc" name="siralamaDirection" id="ascDirection"><span></span>Küçükten
+							Büyüğe Göre
+						</label> 
+					</label></div>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-md-3"></div>
+				<button type="reset" id="temizle" class="btn btn-danger mr-2">
+					Temizle</button>
+
+				<button type="button" class="btn btn-success " id="detaylıAramaG" onclick="postSonuclarDetail(this.form);">Ara</button>
+
+			</div>
+		</div>
+	</div>
+</form>
+
+		
+	</div>
+			<!--begin: karar sonuclar  -->
+			<div class="container-fluid">
+					<div id="detayAramaSonuc">
+					<div class="" id="detayAramaSonuc">
+	<div class="row">
+		<div class="col-lg-6">
+			<div class="card card-custom card-stretch">
+				<div class="card-body flip-scroll" style="display: block;">
+					<div class="alert bg-light">
+						<strong><span id="toplamSonuc">149000</span></strong> adet
+						karar bulundu.
+					</div>
+					<div id="detayAramaSonuclar_wrapper" class="dataTables_wrapper dt-bootstrap4 no-footer"><div class="row"><div class="col-sm-12 col-md-6"><div class="dataTables_length" id="detayAramaSonuclar_length"><label>Sayfada <select name="detayAramaSonuclar_length" aria-controls="detayAramaSonuclar" class="custom-select custom-select-sm form-control form-control-sm"><option value="10">10</option><option value="25">25</option><option value="50">50</option><option value="100">100</option></select> kayıt göster</label></div></div><div class="col-sm-12 col-md-6"></div></div><div class="row"><div class="col-sm-12"><div class="dataTables_scroll"><div class="dataTables_scrollHead" style="overflow: hidden; position: relative; border: 0px; width: 100%;"><div class="dataTables_scrollHeadInner" style="box-sizing: content-box; width: 521px; padding-right: 15px;"><table class="table table-hover dt-responsive nowrap dataTable no-footer" style="width: 521px; margin-left: 0px;" role="grid"><thead>
+							<tr role="row"><th scope="col" class="sorting_disabled" rowspan="1" colspan="1" style="width: 49.5521px;">Sıra No</th><th scope="col" class="sorting_disabled" rowspan="1" colspan="1" style="width: 106.844px;">Daire</th><th scope="col" class="sorting_disabled" rowspan="1" colspan="1" style="width: 79.8958px;">Esas</th><th scope="col" class="sorting_disabled" rowspan="1" colspan="1" style="width: 73.9271px;">Karar</th><th scope="col" class="sorting_disabled" rowspan="1" colspan="1" style="width: 80.7812px;">Karar Tarihi</th></tr>
+						</thead></table></div></div><div class="dataTables_scrollBody" style="position: relative; overflow: auto; height: 264px; width: 100%;"><table id="detayAramaSonuclar" class="table table-hover dt-responsive dataTable no-footer dtr-inline" style="width: 100%;" role="grid" aria-describedby="detayAramaSonuclar_info"><thead>
+							<tr role="row" style="height: 0px;"><th scope="col" class="sorting_disabled" rowspan="1" colspan="1" style="width: 49.5521px; padding-top: 0px; padding-bottom: 0px; border-top-width: 0px; border-bottom-width: 0px; height: 0px;"><div class="dataTables_sizing" style="height: 0px; overflow: hidden;">Sıra No</div></th><th scope="col" class="sorting_disabled" rowspan="1" colspan="1" style="width: 106.844px; padding-top: 0px; padding-bottom: 0px; border-top-width: 0px; border-bottom-width: 0px; height: 0px;"><div class="dataTables_sizing" style="height: 0px; overflow: hidden;">Daire</div></th><th scope="col" class="sorting_disabled" rowspan="1" colspan="1" style="width: 79.8958px; padding-top: 0px; padding-bottom: 0px; border-top-width: 0px; border-bottom-width: 0px; height: 0px;"><div class="dataTables_sizing" style="height: 0px; overflow: hidden;">Esas</div></th><th scope="col" class="sorting_disabled" rowspan="1" colspan="1" style="width: 73.9271px; padding-top: 0px; padding-bottom: 0px; border-top-width: 0px; border-bottom-width: 0px; height: 0px;"><div class="dataTables_sizing" style="height: 0px; overflow: hidden;">Karar</div></th><th scope="col" class="sorting_disabled" rowspan="1" colspan="1" style="width: 80.7812px; padding-top: 0px; padding-bottom: 0px; border-top-width: 0px; border-bottom-width: 0px; height: 0px;"><div class="dataTables_sizing" style="height: 0px; overflow: hidden;">Karar Tarihi</div></th></tr>
+						</thead>
+						
+					<tbody><tr id="1" role="row" class="odd selected"><td class="dtr-control">1</td><td>4. Hukuk Dairesi</td><td>2026/10955</td><td>2026/8032</td><td>17.07.2026</td></tr><tr id="2" role="row" class="even"><td class="dtr-control">2</td><td>4. Hukuk Dairesi</td><td>2026/10787</td><td>2026/8030</td><td>17.07.2026</td></tr><tr id="3" role="row" class="odd"><td class="dtr-control">3</td><td>4. Hukuk Dairesi</td><td>2026/10786</td><td>2026/8029</td><td>17.07.2026</td></tr><tr id="4" role="row" class="even"><td class="dtr-control">4</td><td>4. Hukuk Dairesi</td><td>2026/10765</td><td>2026/8027</td><td>17.07.2026</td></tr><tr id="5" role="row" class="odd"><td class="dtr-control">5</td><td>4. Hukuk Dairesi</td><td>2026/10744</td><td>2026/8026</td><td>17.07.2026</td></tr><tr id="6" role="row" class="even"><td class="dtr-control">6</td><td>4. Hukuk Dairesi</td><td>2026/10736</td><td>2026/8025</td><td>17.07.2026</td></tr><tr id="7" role="row" class="odd"><td class="dtr-control">7</td><td>4. Hukuk Dairesi</td><td>2026/10314</td><td>2026/8020</td><td>16.07.2026</td></tr><tr id="8" role="row" class="even"><td class="dtr-control">8</td><td>4. Hukuk Dairesi</td><td>2026/10259</td><td>2026/8017</td><td>16.07.2026</td></tr><tr id="9" role="row" class="odd"><td class="dtr-control">9</td><td>4. Hukuk Dairesi</td><td>2026/10212</td><td>2026/8013</td><td>16.07.2026</td></tr><tr id="10" role="row" class="even"><td class="dtr-control">10</td><td>4. Hukuk Dairesi</td><td>2026/9777</td><td>2026/8006</td><td>02.07.2026</td></tr></tbody></table></div></div></div></div><div class="row"><div class="col-sm-12 col-md-5"><div class="dataTables_info" id="detayAramaSonuclar_info" role="status" aria-live="polite">Toplam 149,000 kayıttan 1 - 10 arası gösteriliyor</div></div><div class="col-sm-12 col-md-7"><div class="dataTables_paginate paging_extStyle" id="detayAramaSonuclar_paginate"><span class="paginate_button first disabled">&lt;&lt;</span><span class="paginate_button previous disabled">&lt;</span><span>Sayfa</span><input type="text" class="pageinate_input_box"><span>/</span><span class="paginate_total">14900</span><span class="paginate_button next">&gt;</span><span class="paginate_button last">&gt;&gt;</span></div></div></div></div>
+				</div>
+			</div>
+		</div>
+		<div class="col-lg-6">
+			<div class="card card-custom card-stretch" id="kararAlani">
+
+				<div class="card-body">
+					<div class="pr-5 d-flex justify-content-end">
+						<button class="btn btn-secondary btn-sm font-weight-bold mr-2 btn-icon" aria-label="Karar ekranını genişlet" onclick="fullScreen()">
+							<i class="fas fa-expand" id="fullScreenIcon"></i>
+						</button>
+						<a href="#" class="btn btn-light-success btn-sm font-weight-bold mr-2" onclick="kararPrint();">Yazdır</a>
+						<a href="#" class="btn btn-sm btn-light-primary btn-sm font-weight-bold" onclick="kararSavePdf();">PDF
+							Olarak Kaydet</a>
+					</div>
+					<div class="card-scroll pr-10" style="height: calc(100vh - 296px)">
+
+						
+					<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"> <b><font face="Verdana" size="2">4. Hukuk Dairesi &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2026/10955 E. &nbsp;, &nbsp;2026/8032 K.</font></b><br>
+<b><font face="Verdana" size="2">"İçtihat Metni"</font></b><p align="justify"><font face="Verdana" size="2">MAHKEMESİ	: Adana Bölge Adliye Mahkemesi 3. Hukuk Dairesi<br>SAYISI	: 2024/871 E., 2026/551 K.<br>İLK DERECE MAHKEMESİ	: Silifke 3. Asliye Hukuk Mahkemesi<br>SAYISI	: 2020/43-2023/358<br><br>						2797 sayılı Yargıtay Kanunu’nun  (2797 sayılı Kanun) 40 ıncı ve Yargıtay İç Yönetmeliği’nin 18 inci maddeleri uyarınca yapılan ön incelemede; dava konusu uyuşmazlığın niteliği ve temyizin kapsamının, tehlike ve tesis sahibinin sorumluluğu ile Orman Kanunu'na dayalı <mark data-markjs="true"><mark data-markjs="true">tazminat</mark></mark> istemine ilişkin olduğu anlaşılmıştır.<br>						Yargıtay Büyük Genel Kurulunun dairelerin iş bölümüne ilişkin 26.06.2025 tarihli ve 2025/1 sayılı kararı uyarınca dosyayı inceleme görevi Yargıtay 3. Hukuk Dairesine ait olduğundan, 2797 sayılı Kanun’un 60 ıncı maddesinin üçüncü fıkrası uyarınca gerekli inceleme yapılmak üzere dosyanın ilgili daireye gönderilmesine karar vermek gerekir.<br>						KARAR<br>						Açıklanan sebeple;<br>						Dosyanın YARGITAY 3. HUKUK DAİRESİNE GÖNDERİLMESİNE,<br>						17.07.2026 tarihinde oy birliğiyle karar verildi.<br>      <br><br><br><br> <br>  <br></font></p></div>
+					<div id="hidden-content" class="d-none">yaralanmalı trafik kazası maddi tazminat</div>
+				</div>
+				<div class="pr-5 py-2 d-flex justify-content-end bg-white position-sticky border" style="bottom: 0; right: 10px">
+					<a href="#" class="btn btn-outline-secondary btn-sm font-weight-bold mr-2" onclick="movePrev();">
+						<i class="fas fa-angle-left mr-1"></i>Önceki Karar
+					</a> <a href="#" class="btn btn-light-primary btn-sm font-weight-bold" onclick="moveNext();">Sonraki
+						Karar <i class="fas fa-angle-right ml-1"></i>
+					</a>
+				</div>
+			</div>
+		</div>
+	</div>
+</div></div>
+			</div>
+					<!-- end: karar sonuclar  -->
+					<!-- begin::istatistik -->
+				<div class="d-flex flex-column align-items-center justify-content-center mt-35 stats" style="display:none!important">
+				<span class="text-custom font-weight-bolder display-2 timer number-count" data-speed="1100" data-to="10026672">10026672</span>
+				<span class="font-size-lg">Adet Karar Mevcuttur.</span>
+				<!--<span class="font-size-lg">Yıllara göre karar sayılarını görüntülemek için <span class="text-dark-75 text-hover-primary cursor-pointer" onclick="getIstatistik();" data-toggle="modal" data-target="#istatistikler"><u>tıklayınız.</u></span></span> -->
+			
+		</div>
+		<!-- end:: istatistik -->
+			</div>
+	<!--end::Entry-->
+</div>
+			<div class="footer  py-1 d-flex flex-lg-column" id="kt_footer" style="background-color: #40aead; ">
+	<!--begin::Container-->
+	<div class="container-fluid d-flex flex-column flex-md-row align-items-center justify-content-between">
+		
+		<!--begin::Copyright-->
+		<div class="text-white order-2 order-md-1">2022 © Yargıtay Bilgi İşlem Müdürlüğü</div>
+		<!--end::Copyright-->
+		
+		
+		<!--begin::Nav-->
+		<div class="nav nav-dark">
+		 <a href="https://emsal.uyap.gov.tr/" target="_blank" class="nav-link pl-0 pr-5 text-white btn btn-success"><em class="fa fa-link "></em>Emsal
+				Karar Arama</a> 
+				
+				<a href="https://www.yargitayictihatmerkezi.gov.tr/kararArama" target="_blank" class="nav-link pl-0 pr-0 text-white btn btn-success ml-2">
+				<em class="fa fa-link "></em>
+				Yargıtay İçtihat Merkezi</a>
+		
+		</div>
+		<!--end::Nav-->
+		
+		
+		
+		<div class="bg-custom  d-lg-flex d-none align-items-center justify-content-center">
+			<a href="/index">
+			 <img alt="Bina" width="400" height="129" src="custom-assets/yargitay-bina.png">
+			</a>
+		</div>
+	</div>
+	<!--end::Container-->
+</div>
+			<!-- begin:: Yardım Modal -->
+			<div class="modal fade" id="yardim" tabindex="-1" role="dialog" aria-labelledby="yardım" aria-hidden="true">
+				<div class="modal-dialog modal-dialog-centered modal-lg" role="document">
+					<div class="modal-content">
+						<div class="modal-header">
+							<h5 class="modal-title" id="exampleModalLabel">Yardım</h5>
+							<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+								<i aria-hidden="true" class="ki ki-close"></i>
+							</button>
+						</div>
+						<div class="modal-body">
+							<img class="img-fluid" src="custom-assets/yardim-ayarlari.png" alt="">
+							<div class="modal-footer">
+								<button type="button" class="btn btn-light-primary font-weight-bold" data-dismiss="modal">Kapat</button>
+							</div>
+						</div>
+					</div>
+				</div>
+				<!-- end:: Yardım Modal -->
+			</div>
+			<!-- begin:: İstatistikler -->
+			<div>
+	<!-- begin:: İstatistikler -->
+	<div class="modal fade" id="istatistikler" tabindex="-1" role="dialog" aria-labelledby="istatistikler" aria-hidden="true">
+		<div class="modal-dialog modal-dialog-centered modal-lg" role="document">
+			<div class="modal-content">
+				<div class="modal-header">
+					<h5 class="modal-title" id="modalLabel">İstatistikler</h5>
+
+					<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+						<i aria-hidden="true" class="ki ki-close"></i>
+					</button>
+				</div>
+				<div class="modal-body">
+					<div style="min-height: 420px" id="kt_tree_4"></div>
+					<div class="modal-footer">
+						<button type="button" class="btn btn-primary font-weight-bold" onclick="getIstatistikTable();" data-toggle="modal" data-target="#istatistiktable">Rapor</button>
+						<button type="button" class="btn btn-light-primary font-weight-bold" data-dismiss="modal">Kapat</button>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!-- end:: İstatistikler -->
+
+	<!-- begin:: İstatistikler tablo-->
+	<div class="modal fade" id="istatistiktable" tabindex="-1" role="dialog" aria-labelledby="istatistiktable" aria-hidden="true">
+		<div class="modal-dialog modal-dialog-centered modal-lg" role="document">
+			<div class="modal-content">
+				<div class="modal-header">
+					<h5 class="modal-title" id="modalLabelTable"></h5>
+
+
+					<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+						<i aria-hidden="true" class="ki ki-close"></i>
+					</button>
+				</div>
+				<div class="modal-body">
+					<div class="mb-7">
+						<div class="row align-items-center">
+							<div class="col-lg-12 col-xl-12">
+								<div class="row align-items-center">
+									<div class="col-md-3 my-2 my-md-0">
+										<div class="d-flex align-items-center" id="kt_datatable_search_year"></div>
+									</div>
+									<div class="col-md-3 my-2 my-md-0">
+										<div class="d-flex align-items-center" id="kt_datatable_search_type"></div>
+									</div>
+									<div class="col-md-3 my-2 my-md-0">
+										<div class="d-flex align-items-center" id="kt_datatable_search_birim"></div>
+									</div>
+									<div class="col-md-3 my-2 my-md-0">
+										<div class="d-flex align-items-center" id="kt_datatable_search_count"></div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<!--end::Search Form-->
+					<div id="kt_datatable_istatistik_div">
+					</div>
+						 
+					<!--begin::Search Form-->
+					<div class="modal-footer">
+					<label style="font-size: medium;">Toplam:</label>
+					<div style="font-size: medium;" id="total"></div>
+						<button type="button" class="btn btn-light-primary font-weight-bold" data-dismiss="modal">Kapat</button>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!-- end:: İstatistikler tablo-->
+</div>
+			<!-- end:: İstatistikler -->
+		</div>
+	</div>
+
+	<!--end::Wrapper-->
+
+	<!--begin::Global Config(global config for global JS scripts)-->
+
+	<!--end::Global Config-->
+	<!--begin::Global Theme Bundle(used by all pages)-->
+	<script src="assets/plugins/global/min-pluginbundle.js"></script>
+	<script src="assets/plugins/custom/prismjs/prismjs.bundle.js?v=7.0.5"></script>
+	<script src="/assets/js/scripts.bundle.min.js?v=7.0.5"></script>
+	<!--end::Global Theme Bundle-->
+	<!--begin::Page Vendors(used by this page)-->
+	<script src="assets/plugins/custom/fullcalendar/fullcalendar.bundle.js?v=7.0.5"></script>
+	<!--end::Page Vendors-->
+	<!--begin::Page Scripts(used by this page)-->
+	<script src="/assets/js/pages/widgets.min.js?v=7.0.5"></script>
+	<!--end::Page Scripts-->
+	<!--begin::Page Scripts(used by this page)-->
+	<script src="/assets/js/pages/features/custom/spinners.min.js"></script>
+	<script src="https://www.google.com/recaptcha/api.js"></script>
+	<!--begin::datatable-->
+	<script src="assets/plugins/custom/datatables/datatables.bundle.js?v=7.0.5"></script>
+		
+	
+	<script src="/assets/js/pages/crud/datatables/basic/paginations.min.js?v=7.0.5"></script>
+	<!--end::datatable-->
+	<!--begin::toastr-->
+	<script src="/assets/js/pages/features/miscellaneous/toastr.min.js?v=7.0.5"></script>
+	<!--end::toastr-->
+	<!-- begin:datapicker -->
+	<script src="assets/js/pages/crud/forms/widgets/bootstrap-datepicker.tr.js" charset="UTF-8"></script>
+	<!-- end:datapicker -->
+	<script src="assets/plugins/custom/multiselect/bootstrap-multiselect.js" charset="UTF-8"></script>
+	<!-- begin:tagify -->
+	<script src="assets/js/pages/crud/forms/widgets/tagify.js"></script>
+	<!-- begin:tagify -->
+	<script src="assets/plugins/custom/jstree/jstree.bundle.js"></script>
+	<script src="assets/js/pages/features/miscellaneous/treeview.js"></script>
+
+	<!--begin::highlight-->
+	<script src="assets/js/pages/features/mark/mark.min.js"></script>
+	<script src="assets/js/pages/features/mark/jquery.mark.min.js"></script>
+	<!--end::highlight-->
+	<!--begin::pdf-->
+	<script src="assets/js/pages/features/pdf/jspdf.umd.min.js"></script>
+	<script src="assets/js/pages/features/pdf/html2canvas.js"></script>
+	<!--end::pdf-->
+	<!--begin::excel-->
+	<!-- <script src="assets/js/pages/features/excel/jszip.min.js"></script> -->
+	<script src="https://cdn.jsdelivr.net/npm/jszip/dist/jszip.min.js"></script>
+	
+	<!--end::excel-->
+	<!-- begin:moment -->
+<script src="assets/plugins/global/moment.js"></script>
+	  <!--   <script src="https://cdn.datatables.net/plug-ins/2.1.8/pagination/extjs.js"></script> -->
+	  <script src="assets/plugins/global/extjs.js"></script>
+	  
+	
+	<script>
+
+		
+	$('#esasNoSira2').on('change',function(){
+		var esasNoSira1 = $("#esasNoSira1").val();
+		var esasNoSira2 = $("#esasNoSira2").val();
+		if (Number(esasNoSira2) <Number(esasNoSira1)) {
+			toastr["warning"]("Esas son sıra numarası, ilk sıra numarasından küçük olamaz!");
+			$("#esasNoSira2").val("");
+			
+		}
+	});
+	
+	
+	$('#kararNoSira2').on('change',function(){
+		var esasNoSira1 = $("#kararNoSira1").val();
+		var esasNoSira2 = $("#kararNoSira2").val();
+		if (Number(esasNoSira2) <Number(esasNoSira1)) {
+			toastr["warning"]("Karar son sıra numarası, ilk sıra numarasından küçük olamaz!");
+			$("#kararNoSira2").val("");
+			
+		}
+	});
+	
+	var highlight = function(arananKelime){
+		var options = {};
+		options["separateWordSearch"] = false;
+		options["accuracy"] = "complementary";
+		options["diacritics"] = false;
+		arananKelime = $(search_form).serializeArray()[0].value.trim();
+		
+		var re = new RegExp(/\+[^+-]+/gi);
+		
+		 if (re.test(arananKelime)) {
+			const matches = arananKelime.match(re);
+			matches.forEach(function(each) {
+				console.log("artı ....",each);
+				let eleman = each.trim();
+				$(".card-scroll").mark(eleman.replaceAll("\'","").replaceAll("\"","").replaceAll("\+",""), options);
+				$(".card-scroll").mark(eleman.replaceAll("\'","").replaceAll("\"","").replaceAll("\+","").toLocaleUpperCase('tr-TR'), options);
+				$(".card-scroll").mark(eleman.replaceAll("\'","").replaceAll("\"","").replaceAll("\+","").toLocaleLowerCase('tr-TR'), options);
+
+			});
+		}else{
+			// re = new RegExp(/('|")\w.+('|")/);
+			  re = new RegExp(/["'][^"']*/g);
+				if (re.test(arananKelime)) {
+					/* $(".card-scroll").mark(arananKelime.replaceAll("\'","").replaceAll("\"",""), options);
+					$(".card-scroll").mark(arananKelime.replaceAll("\'","").replaceAll("\"","").toLocaleUpperCase('tr-TR'), options);
+					$(".card-scroll").mark(arananKelime.replaceAll("\'","").replaceAll("\"","").toLocaleLowerCase('tr-TR'), options); */
+				
+					const matches = arananKelime.match(re);
+					matches.forEach(function(each) {
+						console.log("tırnak ....",each);
+						let eleman = each.trim();
+						$(".card-scroll").mark(eleman.replaceAll("\'","").replaceAll("\"",""), options);
+						$(".card-scroll").mark(eleman.replaceAll("\'","").replaceAll("\"","").toLocaleUpperCase('tr-TR'), options);
+						$(".card-scroll").mark(eleman.replaceAll("\'","").replaceAll("\"","").toLocaleLowerCase('tr-TR'), options);
+
+					});
+				} else  {
+					arananKelime.split(/\s+/).forEach(function(each) {
+						if (each != undefined && each != "") {
+							$(".card-scroll").mark(each, options);
+							$(".card-scroll").mark(each.toLocaleUpperCase('tr-TR'), options);
+							$(".card-scroll").mark(each.toLocaleLowerCase('tr-TR'), options);
+						}
+
+					});
+				}
+		}
+		 
+		 
+		
+	
+		
+	
+		 
+
+	}
+	
+
+	var currentTableId;
+	var tabledIds= [];
+	
+	var paginationBySelectOption=function(){
+		 /* if (!$('#pageSelector').length) {
+			if (!$.fn.DataTable.isDataTable('#detayAramaSonuclar')) {
+	            console.error('DataTable nesnesi bulunamadı 2.');
+	            return;
+	        }
+		
+	        const table = $('#detayAramaSonuclar').DataTable();
+	        const currentPage = table.page();
+	        const totalPages = table.page.info().pages;
+	        var optionCount =   $('#pageSelector option').length;
+	        
+	        if(  $('#pageSelector option').length !== totalPages){
+	        	
+	        }
+	      
+	      let pageSelector = "<select class='form-select' id='pageSelector'>";
+
+
+	        for (let i = 1; i <= totalPages; i++) {
+	        	pageSelector += `<option ${((i - 1) === currentPage ? 'selected' : '')} value="${i - 1}">${i}</option>`;
+
+	        }
+	        pageSelector += "</select>";
+	        
+	        $('#detayAramaSonuclar_paginate ul').append(pageSelector);
+	        
+	        $('#pageSelector').on('change', function() {
+	            table.page(Number($(this).val())).draw('page');
+	        });
+
+		 }   */
+		 
+		 $('.pageinate_input_box').on('keydown', function (event) {
+			
+		        if (event.key === 'Enter') { 
+		        	debugger;
+		            const table = $('#detayAramaSonuclar').DataTable();
+				    const totalPages = table.page.info().pages;
+		            const value = $(this).val(); 
+		            if(value <= totalPages){
+		            	 table.page(Number(value)-1).draw('page');
+		            }
+		            
+		            event.preventDefault(); // Enter tuşunun form gönderimini engeller (eğer bir form içinde ise)
+		        }
+		    });
+	}
+	
+	var  populateTableIds = function(){
+		tabledIds= [];
+		$('#detayAramaSonuclar').find('tr').each(function(index,value){
+			 if (value) {
+		          
+		            tabledIds.push(value.id);
+		        }
+			
+			});
+		currentTableId = undefined;
+	}
+
+	var moveNext = function(){
+		$.each(tabledIds, function(i, val){
+			if(currentTableId == undefined){
+				$("tr[id='"+tabledIds[1]+"']").click();
+				 return false;
+			}
+			if(val === currentTableId.toString()){
+				$("tr[id='"+tabledIds[Math.min(tabledIds.length-1,i+1)]+"']").click();
+				if(tabledIds.length == i+1){
+					var endpage = $('#detayAramaSonuclar').DataTable().page.info().pages;
+					var currentPage = $('#detayAramaSonuclar').DataTable().page();
+					if(currentPage+1 < endpage){
+						$('#detayAramaSonuclar').DataTable().page(currentPage+1).draw('page'); 
+					}
+				}
+				 return false;
+			}
+		})
+	}
+	
+	var movePrev = function(){
+		$.each(tabledIds, function(i, val){
+			if(currentTableId == undefined){
+				$("tr[id='"+tabledIds[1]+"']").click();
+				 return false;
+			}
+			if(val === currentTableId.toString()){
+				$("tr[id='"+tabledIds[Math.max(1,i-1)]+"']").click();
+				if(0 == i-1){
+					var startpage = $('#detayAramaSonuclar').DataTable().page.info().page;
+					var currentPage = $('#detayAramaSonuclar').DataTable().page();
+					if(currentPage > startpage-1 && startpage-1 >= 0){
+						$('#detayAramaSonuclar').DataTable().page(currentPage-1).draw('page'); 
+					}
+				}
+				 return false;
+			}
+		})
+	}
+	
+	
+	
+	
+	</script>
+	<script>
+		$("#aramaG").click(function() {
+			moveTop();
+		});
+		
+	</script>
+	<script>
+	
+	$('#detayAramaSonuclar_paginate ul').append('<li class="paginate_button page-item"><input type="text" placeholder="Sayfa"></li>');
+
+	
+		$('#detay').click(
+				function() {
+					//$('#detayAramaSonuc').children().remove();
+					$('#collapseDetayAramaSonuc').hide();
+					if ($('#yardim').find('em').hasClass('fa-chevron-up')) {
+						$('#yardim').click();
+
+					}
+					$('#detay').find('em').toggleClass('fa-chevron-down')
+							.toggleClass('fa-chevron-up');
+					
+					$('#aramaAlani').toggle();
+				});
+
+		$('#yardim').click(
+				function() {
+					//$('#detayAramaSonuc').children().remove();
+					$('#collapseDetayAramaSonuc').hide();
+					if ($('#detay').find('em').hasClass('fa-chevron-up')) {
+						$('#detay').click();
+					}
+					$(this).find('em').toggleClass('fa-chevron-down')
+							.toggleClass('fa-chevron-up');
+				});
+		$('#temizle').click(
+				function() {
+					$('#collapseDetayAramaSonuc').hide();
+					$('#collapseDetaylıArama .form-control').each(
+							function(index, element) {
+								if ($(this).defaultValue == undefined) {
+									$(this)[0].value = "";
+								} else {
+									$(this)[0].value = $(this).defaultValue;
+								}
+
+							});
+					$('#esasNoGore').prop("checked", true);
+					$('#descDirection').prop("checked", true);
+					
+					$('#yargitayMah').selectpicker('deselectAll');
+					$('#hukuk').selectpicker('deselectAll');
+					$('#ceza').selectpicker('deselectAll');
+					
+					$('.tagify__tag__removeBtn').click();
+					$('#arananDetail').val("");
+					$('#aranan').val("");
+				});
+
+		var getFormData = function(unindexed_array){
+		    var indexed_array = {};
+
+		    $.map(unindexed_array, function(n, i){
+		        indexed_array[n['name']] = n['value'];
+		    });
+
+		    return indexed_array;
+		};
+		
+		var postSonuclar = function(form) {
+			if (validation()) {
+
+				if ($('#yardim').find('em').hasClass('fa-chevron-up')) {
+					$('#yardim').click();
+
+				}
+				if ($('#detay').find('em').hasClass('fa-chevron-up')) {
+					$('#detay').click();
+
+				}
+				$('#detayAramaSonuc').children().remove();
+				
+				
+
+				var formData = $(form).serializeArray();
+
+				if(formData.length > 0 && formData[0].name != "arananKelime"){
+					formData.push({
+						"name" : "arananKelime",
+						"value" : $('#aranan').val()
+					});
+				}
+				
+				if(isDisplayCaptcha()){
+					formData.push({
+						"name" : "grecaptcha",
+						"value" : grecaptcha.getResponse()
+					});
+				}	
+				var requestData = {data:getFormData(formData)};
+				$
+						.ajax({
+							type : "POST",
+							cache : false,
+							data : JSON.stringify(requestData),
+							contentType: 'application/json; charset=utf-8',
+							processData: false,
+							url : "/arama",
+							success : function(data, settings) {
+								$('#loader').hide();
+								if(isDisplayCaptcha()){
+									grecaptcha.reset();
+								}
+								var windowHeight = Math.max(document.documentElement.clientHeight, window.innerHeight || 0) - 456;
+								if (data.status != undefined
+										&& data.status.indexOf("EXCEPTION") > -1) {
+									if(data.detailMessage != null && data.detailMessage.indexOf("reCaptchaTimeout") > -1){
+										toastr["info"]
+										("Hata tarafımıza ulaşmış olup, ilgili birim tarafından kontroller başlatılmıştır.Lütfen 'Ben robot değilim' seçeneğini işaretleyip tekrar arama yapınız!");
+									}
+									else if(data.detailMessage != null && data.detailMessage.indexOf("DisplayCaptcha") > -1){
+										toastr["info"]
+										("Ben robot değilim' seçeneğini işaretleyip tekrar arama yapınız!");
+										setTimeout(function() {
+											window.open("/","_self");
+										}, 4000);
+										
+									}else{
+										toastr["warning"]
+										("Lütfen arama bilgilerinizi kontrol ediniz!");
+									}
+									
+								}else if(data != null && data.data === null && data.metadata != null && data.metadata.FMTY === 'ERROR' ){
+									showWarning(data);
+								} else {
+									$("#detayAramaSonuc").append(data);
+									var table = $('#detayAramaSonuclar').DataTable({
+										 "sPaginationType": "extStyle",
+										scrollY: windowHeight,
+										scrollX: false,
+										select: {
+									        info: false
+									    },
+									    "dom": '<"top"fl>rt<"bottom"ip><"clear">',
+										responsive: true,
+										"processing": false,
+										"serverSide": true,
+										"filter": false,
+										"search": false,
+										"ordering": false,
+										
+										ajax: function (data, callback, settings) {
+											var api = new $.fn.dataTable.Api(settings);
+											formData.push({
+												"name" : "pageSize",
+												"value" : api.page.len()
+											});
+											
+											formData.push({
+												"name" : "pageNumber",
+												"value" : api.page()+1
+											});
+											
+											var requestData = {data:getFormData(formData)};
+										            $.ajax({
+																	type : "POST",
+																	cache : false,
+																	data : JSON.stringify(requestData),
+																	contentType: 'application/json; charset=utf-8',
+																	processData: false,
+																	url : "/aramalist",
+																	success : function(response, textStatus, jQxhr ) {
+																		if(response.data.recordsTotal == undefined || response.data.recordsTotal == null){
+																			$("#toplamSonuc").text(0);
+																		}else{
+																			$("#toplamSonuc").text(response.data.recordsTotal);
+																			if(response.data.recordsTotal ===0){
+																		     	$('.card-scroll').css( 'opacity', 0)
+																			}
+																		}
+																	callback({
+										                              data: response.data.data,
+										                              recordsTotal:  response.data.recordsTotal,
+										                              recordsFiltered:  response.data.recordsFiltered
+										                         });
+																	populateTableIds();
+																	moveNext();
+																	}
+
+										            })
+										}
+										        ,"rowId": 'index',
+										        "columns": [
+										        	{ "data": "siraNo" },
+										            { "data": "daire" },
+										            { "data": "esasNo" },
+										            { "data": "kararNo" },
+										            { "data": "kararTarihi" }
+										        ] ,
+										        "language": {
+										            "infoEmpty":   "Kayıt Bulunamadı",
+										            "zeroRecords": "Kayıt Bulunamadı",
+										            "emptyTable":   "Kayıt Bulunamadı",
+										            "processing":   "Yükleniyor...",
+										            "oPaginate": {
+										                "sFirst":    "İlk",
+										                "sPrevious": "Önceki",
+										                "sNext":     "Sonraki",
+										                "sLast":     "Son"
+										            }
+										        } 
+										});
+									
+								 
+									
+								    $('#detayAramaSonuclar tbody').on( 'click', 'tr', function () {
+								    	 $('#detayAramaSonuclar tbody .selected').each(function(i,el){$(this).toggleClass('selected');})
+								        $(this).toggleClass('selected');
+								    } );
+									
+									$('#detayAramaSonuclar tbody').on('click', 'tr', function () {
+									        //var data = dt.rows(indexes).data();
+									        var data = table.row( this ).data();
+									        if(data != null){
+									        	openKararIceregi(data.id,data.arananKelime,data.index);
+									        }   
+									} );
+
+						 			$('#detayAramaSonuclar').on( 'draw.dt', function () {
+										populateTableIds();
+										paginationBySelectOption();
+									} ); 
+									
+									$('#detayAramaSonuclar').removeClass('nowrap');
+									if(isDisplayCaptcha()){
+										$('#isDisplayCaptcha').text('false');
+										$('.captcha').remove();
+									}
+									
+								}
+							
+
+							},
+							error : function(data, status) {
+								if(isDisplayCaptcha()){
+									grecaptcha.reset();
+								}
+								
+								$('#loader').hide();
+								toastr["info"]
+										("Hata tarafımıza ulaşmış olup, ilgili birim tarafından kontroller başlatılmıştır.");
+							}
+
+						});
+				
+				$('#arananDetail').val($('#aranan').val());
+			}
+		}
+		
+		var postSonuclarDetail = function(form) {
+			
+			$('#aranan').val($('#arananDetail').val());
+			if (validation()) {
+
+				if ($('#yardim').find('em').hasClass('fa-chevron-up')) {
+					$('#yardim').click();
+
+				}
+				if ($('#detay').find('em').hasClass('fa-chevron-up')) {
+					$('#detay').click();
+
+				}
+			
+				
+				
+				$('#detayAramaSonuc').children().remove();
+
+				var formData = $(form).serializeArray();
+				//var selectedBamHukukMah  =  $('select#bamhukuk').val().join('+');
+				//var selectedHukukMah  =  $('select#hukuk').val().join('+');
+				var selectedYargitayMah  =  $('select#yargitayMah').val().join('+');
+				var selectedHukuk  =  $('select#hukuk').val().join('+');
+				var selectedCeza  =  $('select#ceza').val().join('+');
+				
+				/* formData.push({
+					"name" : "birimBAMHukukMah",
+					"value" : selectedBamHukukMah
+				});
+				formData.push({
+					"name" : "birimHukukMah",
+					"value" : selectedHukukMah
+				}); */
+				formData.push({
+					"name" : "birimYrgKurulDaire",
+					"value" : selectedYargitayMah
+				});
+				
+				formData.push({
+					"name" : "birimYrgHukukDaire",
+					"value" : selectedHukuk
+				});
+				
+				formData.push({
+					"name" : "birimYrgCezaDaire",
+					"value" : selectedCeza
+				});
+				
+				if(isDisplayCaptcha()){
+					formData.push({
+						"name" : "grecaptcha",
+						"value" : grecaptcha.getResponse()
+					});
+				}
+				
+				var requestData = {data:getFormData(formData)};
+				
+				$
+						.ajax({
+							type : "POST",
+							cache : false,
+							data : JSON.stringify(requestData),
+							contentType: 'application/json; charset=utf-8',
+							processData: false,
+							url : "/detayliArama",
+							success : function(data) {
+								$('#loader').hide();
+								if(isDisplayCaptcha()){
+									grecaptcha.reset();
+								}
+								
+								var windowHeight = Math.max(document.documentElement.clientHeight, window.innerHeight || 0) - 456;
+								if (data.status != undefined
+										&& data.status.indexOf("EXCEPTION") > -1) {
+									if(data.detailMessage != null && data.detailMessage === "reCaptchaTimeout"){
+										toastr["info"]
+										("Hata tarafımıza ulaşmış olup, ilgili birim tarafından kontroller başlatılmıştır.Lütfen 'Ben robot değilim' seçeneğini işaretleyip tekrar arama yapınız!");
+									}else if(data.detailMessage != null && data.detailMessage.indexOf("DisplayCaptcha") > -1){
+										toastr["info"]
+										("Ben robot değilim' seçeneğini işaretleyip tekrar arama yapınız!");
+										setTimeout(function() {
+											window.open("/","_self");
+										}, 4000);
+										
+									}else{
+										toastr["warning"]
+										("Lütfen arama bilgilerinizi kontrol ediniz!");
+									}
+								}else if(data != null && data.data === null && data.metadata != null && data.metadata.FMTY === 'ERROR' ){
+									showWarning(data);
+								} else {
+									moveTop();
+									   
+									$("#detayAramaSonuc").append(data);
+									var table = $('#detayAramaSonuclar').DataTable({
+										 "sPaginationType": "extStyle",
+										scrollY: windowHeight,
+										scrollX: false,
+										select: {
+									        info: false
+									    },
+										responsive: true,
+										"processing": false,
+										"serverSide": true,
+										"filter": false,
+										"search": false,
+										"ordering": false,
+										"language": {
+								            "sProcessing":    "Yükleniyor...",
+								            "sLengthMenu":     "Sayfada _MENU_ kayıt göster",
+								            "sZeroRecords":    "Eşleşen kayıt bulunamadı",
+								            "sInfo":           "Toplam _TOTAL_ kayıttan _START_ - _END_ arası gösteriliyor",
+								            "sInfoEmpty":      "Kayıt yok",
+								            "sInfoFiltered":   "(_MAX_ kayıt içerisinden bulunan)",
+								            "sInfoPostFix":    "",
+								            "sSearch":         "Ara:",
+								            "sUrl":            "",
+								            "oPaginate": {
+								                "sFirst":    "İlk",
+								                "sPrevious": "Önceki",
+								                "sNext":     "Sonraki",
+								                "sLast":     "Son"
+								            },
+								            "oAria": {
+								                "sSortAscending":  ": Artan sütun sıralamasını aktifleştir",
+								                "sSortDescending": ": Azalan sütun sıralamasını aktifleştir"
+								            }
+								        },
+										ajax: function (data, callback, settings) {
+											var api = new $.fn.dataTable.Api(settings);
+											formData.push({
+												"name" : "pageSize",
+												"value" : api.page.len()
+											});
+											
+											formData.push({
+												"name" : "pageNumber",
+												"value" : api.page()+1
+											});
+											var requestData = {data:getFormData(formData)};
+										            $.ajax({
+																	type : "POST",
+																	cache : false,
+																	data : JSON.stringify(requestData),
+																	contentType: 'application/json; charset=utf-8',
+																	processData: false,
+																	url : "/aramadetaylist",
+																	success : function(response, textStatus, jQxhr ) {
+																		if(response.data.recordsTotal == undefined || response.data.recordsTotal == null){
+																			$("#toplamSonuc").text(0);
+																		}else{
+																			$("#toplamSonuc").text(response.data.recordsTotal);
+																			if(response.data.recordsTotal ===0){
+																		     	$('.card-scroll').css( 'opacity', 0)
+																			}
+																		}
+																		
+																	callback({
+										                              data: response.data.data,
+										                              recordsTotal:  response.data.recordsTotal,
+										                              recordsFiltered:  response.data.recordsFiltered
+										                         });
+																	populateTableIds();
+																	moveNext();
+																	}
+
+										            })
+										}
+										        ,"rowId": 'index',
+										        "columns": [
+										        	{ "data": "siraNo" },
+										            { "data": "daire" },
+										            { "data": "esasNo" },
+										            { "data": "kararNo" },
+										            { "data": "kararTarihi" }
+										        ]/* ,
+										        "language": {
+										            "infoEmpty":   "Kayıt Bulunamadı",
+										            "zeroRecords": "Kayıt Bulunamadı",
+										            "emptyTable":   "Kayıt Bulunamadı",
+										            "processing":   "Yükleniyor...",
+										        } */
+										});
+									
+									 
+								    $('#detayAramaSonuclar tbody').on( 'click', 'tr', function () {
+								    	 $('#detayAramaSonuclar tbody .selected').each(function(i,el){$(this).toggleClass('selected');})
+								        $(this).toggleClass('selected');
+								    } );
+									
+									$('#detayAramaSonuclar tbody').on('click', 'tr', function () {
+									        //var data = dt.rows(indexes).data();
+									        var data = table.row( this ).data();
+									        if(data != null){
+									        	openKararIceregi(data.id,data.arananKelime,data.index);
+									        }   
+									} );
+
+						 			$('#detayAramaSonuclar').on( 'draw.dt', function () {
+										populateTableIds();
+										paginationBySelectOption();
+									} ); 
+									
+									$('#detayAramaSonuclar').removeClass('nowrap');
+									if(isDisplayCaptcha()){
+										$('#isDisplayCaptcha').text('false');
+										$('.captcha').remove();
+									}
+								}
+							},
+							error : function(data, status) {
+								if(isDisplayCaptcha()){
+									grecaptcha.reset();
+								}
+								$('#loader').hide();
+								toastr["info"]
+										("Hata tarafımıza ulaşmış olup, ilgili birim tarafından kontroller başlatılmıştır.");
+							}
+
+						});
+			}
+			$('#aranan').val($('#arananDetail').val());
+		}
+		
+		
+		$(document).ready(function() {
+			$(window).keydown(function(event) {
+				if (event.keyCode == 13) {
+					if (event.target.id === "aranan") {
+						postSonuclar($("#search_form"));
+						moveTop();
+						event.preventDefault();
+						return false;
+					}
+				}
+			});
+		});
+
+		var moveTop = function(){
+			   $("#aramaAlani").addClass('inputToTop');
+			   $(".stats").attr('style', 'display:none!important');
+		}
+		//maxlength
+		$(document).ready(function() {
+			$('#esasNoYil').maxlength({
+				alwaysShow : true,
+				threshold : $('#esasNoYil').attr("maxlength"),
+				validate : true
+			});
+			$('#esasNoSira1').maxlength({
+				alwaysShow : true,
+				threshold : $('#esasNoSira1').attr("maxlength"),
+				validate : true
+			});
+			$('#esasNoSira2').maxlength({
+				alwaysShow : true,
+				threshold : $('#esasNoSira2').attr("maxlength"),
+				validate : true
+			});
+			$('#kararNoYil').maxlength({
+				alwaysShow : true,
+				threshold : $('#kararNoYil').attr("maxlength"),
+				validate : true
+			});
+			$('#kararNoSira1').maxlength({
+				alwaysShow : true,
+				threshold : $('#kararNoSira1').attr("maxlength"),
+				validate : true
+			});
+			$('#kararNoSira2').maxlength({
+				alwaysShow : true,
+				threshold : $('#kararNoSira2').attr("maxlength"),
+				validate : true
+			});
+		});
+
+		var openKararIceregi = function(documentId, arananKelime, index) {
+			$.get( "getDokuman?id="+ documentId, function( response ) {
+				showWarning(response);
+				$( ".card-scroll" ).children().remove();
+				$( ".card-scroll" ).append( response.data );
+				}) .done(function() {
+					  highlight(arananKelime);
+					  $( "#hidden-content").text( arananKelime );
+				  });
+			currentTableId = index;
+
+		}
+
+		var validation = function() {
+			var valid = false;
+			valid = captchaValidation() && (wordValidation() || wordDetailValidation() || birimValidation() || esasValidation()
+					|| kararValidation() || dateValidation());
+			if (!valid) {
+				toastr["warning"]("Lütfen arama kriterlerini kontrol ediniz!");
+			}
+			return valid;
+		}
+
+		var wordValidation = function() {
+			var arananKelime = $("#aranan").val();
+			if (arananKelime === "" || arananKelime == undefined) {
+				return false;
+			}
+			if (arananKelime.length < 3) {
+				toastr["info"]("Lütfen en az 3 harf giriniz!");
+				return false;
+			}
+			return true;
+		};
+		
+		var wordDetailValidation = function() {
+			var arananKelime = $("#arananDetail").val();
+			if (arananKelime === "" || arananKelime == undefined) {
+				return false;
+			}
+			if (arananKelime.length < 3) {
+				toastr["info"]("Lütfen en az 3 harf giriniz!");
+				return false;
+			}
+			return true;
+		};
+		
+		var esasValidation = function() {
+			var esasNoYil = $("#esasNoYil").val();
+			var esasNoSira1 = $("#esasNoSira1").val();
+			var esasNoSira2 = $("#esasNoSira2").val();
+			if ((esasNoYil === "" || esasNoYil == undefined)
+					&& (esasNoSira1 === "" || esasNoSira1 == undefined)
+					&& (esasNoSira2 === "" || esasNoSira2 == undefined)) {
+				return false;
+			}
+			if (esasNoYil === "" || esasNoYil == undefined) {
+				toastr["warning"]("Lütfen Esas Yıl giriniz!");
+				return false;
+			}
+			if (esasNoSira1 === "" || esasNoSira1 == undefined) {
+				toastr["warning"]("Lütfen Esas Numarası İlk Sıra No giriniz!");
+				return false;
+			}
+
+			if (esasNoSira2 === "" || esasNoSira2 == undefined) {
+				toastr["warning"]("Lütfen Esas Numarası Son Sıra No giriniz!");
+				return false;
+			}
+			return true;
+		};
+
+		var kararValidation = function() {
+			var kararNoYil = $("#kararNoYil").val();
+			var kararNoSira1 = $("#kararNoSira1").val();
+			var kararNoSira2 = $("#kararNoSira2").val();
+			if ((kararNoYil === "" || kararNoYil == undefined)
+					&& (kararNoSira1 === "" || kararNoSira1 == undefined)
+					&& (kararNoSira2 === "" || kararNoSira2 == undefined)) {
+				return false;
+			}
+			if (kararNoYil === "" || kararNoYil == undefined) {
+				toastr["warning"]("Lütfen Karar Yılı giriniz!");
+				return false;
+			}
+			if (kararNoSira1 === "" || kararNoSira1 == undefined) {
+				toastr["warning"]("Lütfen Karar Numarası İlk Sıra No giriniz!");
+				return false;
+			}
+
+			if (kararNoSira2 === "" || kararNoSira2 == undefined) {
+				toastr["warning"]("Lütfen Karar Numarası Son Sıra No giriniz!");
+				return false;
+			}
+			return true;
+		};
+
+		var birimValidation = function() {
+			var bamHukuksecilenler = [];
+			$("#bamhukuk option:selected").each(function() {
+				bamHukuksecilenler.push($(this).val());
+			});
+
+			
+			
+			
+			var kuruldairelerisecilenler = [];
+			$("#yargitayMah option:selected").each(function() {
+				kuruldairelerisecilenler.push($(this).val());
+			});
+			
+			
+			var hukuksecilenler = [];
+			$("#hukuk option:selected").each(function() {
+				hukuksecilenler.push($(this).val());
+			});
+			
+			var cezasecilenler = [];
+			$("#ceza option:selected").each(function() {
+				cezasecilenler.push($(this).val());
+			});
+			
+			if (cezasecilenler.length > 0 ||kuruldairelerisecilenler.length > 0 || hukuksecilenler.length > 0 ) {
+				return true;
+			}
+			return false;
+		}
+
+		var dateValidation = function() {
+			if ($("#kararTarihiIlk").val() != ""
+					&& $("#kararTarihiSon").val() != "") {
+				var fromSplitted = $("#kararTarihiIlk").val().split(".");
+				var toSplitted = $("#kararTarihiSon").val().split(".");
+				var from = new Date(fromSplitted[2], fromSplitted[1],
+						fromSplitted[0]).getTime();
+				var to = new Date(toSplitted[2], toSplitted[1], toSplitted[0])
+						.getTime();
+				if (from > to) {
+					toastr["error"]
+							("Karar Başlangıç Tarihi Karar Bitiş Tarihinden Büyük Olamaz!");
+					return false;
+				}
+				return true;
+			}
+			return false;
+		}
+
+		function digitsOnly() {
+			$('input[type="number"]').keyup(function(e) {
+				if (/\D/g.test(this.value)) {
+					// Filter non-digits from input value.
+					this.value = this.value.replace(/\D/g, '');
+				}
+			});
+			//prevent e,+,-,\,
+			$('input[type="number"]').keydown(
+					function(e) {
+						var preventedKeyNumbers = [ 69, 107, 189, 109, 110, 16,
+								190, 188 ];
+						if (preventedKeyNumbers.indexOf(e.which) > -1) {
+							e.preventDefault();
+						} else if (e.shiftKey && e.which === 52) { //shift and +
+							e.preventDefault();
+						}
+					});
+
+			$('input[type="number"]').bind('copy paste', function(e) {
+				e.preventDefault();
+			});
+		};
+
+		$(document).ready(function() {
+			
+			var exceptionMessage = $('#exceptionMsg').text();
+			if (exceptionMessage != undefined && exceptionMessage != '') {
+				toastr["info"](exceptionMessage);
+/* 				setTimeout(function() {
+					window.open('index', _self);
+				}, 10000); */
+				
+			}
+			
+			digitsOnly();
+			$('#loader').hide();
+			jQuery.ajaxSetup({
+				beforeSend : function() {
+					$('#loader').show();
+				},
+				complete : function() {
+					$('#loader').hide();
+				},
+				success : function() {
+					$('#loader').hide();
+				}
+			});
+
+		});
+		
+		toastr.options = {
+			"closeButton" : true,
+			"debug" : false,
+			"newestOnTop" : false,
+			"progressBar" : true,
+			"positionClass" : "toast-top-right",
+			"preventDuplicates" : false,
+			"onclick" : null,
+			"showDuration" : "300",
+			"hideDuration" : "1000",
+			"timeOut" : "5000",
+			"extendedTimeOut" : "1000",
+			"showEasing" : "swing",
+			"hideEasing" : "linear",
+			"showMethod" : "fadeIn",
+			"hideMethod" : "fadeOut"
+		}
+		$(document).ready(function() {
+			$('#kararTarihiIlk').datepicker({
+				language : "tr",
+				autoclose : true,
+				todayBtn : true,
+				todayHighlight : true,
+				todayBtn : "linked"
+			});
+
+			$('#kararTarihiSon').datepicker({
+				language : "tr",
+				autoclose : true,
+				todayBtn : true,
+				todayHighlight : true,
+				todayBtn : "linked"
+			});
+		});
+		$(document)
+				.ready(
+						function() {
+							
+							$('#ceza').selectpicker({
+								width:'100%',
+								liveSearch: true,
+								liveSearchNormalize: true,
+								actionsBox: true,
+								countSelectedText : function(num) {
+									if (num === 0) {
+										return 'Ceza Daireleri';
+									} else {
+										return num
+												+ '- Ceza Dairesi seçildi';
+									}
+								},
+							title : 'Ceza Dairesi seçiniz',
+							deselectAllText : 'Temizle',
+							liveSearchPlaceholder : 'Ara...',
+							noneSelectedText : 'Seçiniz',
+							selectAllText : 'Hepsini Seç',
+							showTick : false,
+							noneResultsText : "Sonuç Bulunamadı",
+							selectedTextFormat: "count > 2",
+							selectOnTab : true,
+							tickIcon : 'glyphicon-ok check-mark',
+							iconBase : 'glyphicon',
+							style : 'btn-light text-justify font-weight-normal',
+							styleBase : 'form-control',
+							container : 'body',
+							noneSelectedText:'Ceza Daireleri'
+							});
+							
+							
+							$('#yargitayMah').selectpicker({
+								width:'100%',
+								liveSearch: true,
+								liveSearchNormalize: true,
+								actionsBox: true,
+								countSelectedText : function(num) {
+									if (num === 0) {
+										return 'Kurul';
+									} else {
+										return num
+												+ '- Kurul seçildi';
+									}
+								},
+							title : 'Kurul seçiniz',
+							deselectAllText : 'Temizle',
+							liveSearchPlaceholder : 'Ara...',
+							noneSelectedText : 'Seçiniz',
+							selectAllText : 'Hepsini Seç',
+							showTick : false,
+							noneResultsText : "Sonuç Bulunamadı",
+							selectedTextFormat: "count > 2",
+							selectOnTab : true,
+							tickIcon : 'glyphicon-ok check-mark',
+							iconBase : 'glyphicon',
+							style : 'btn-light text-justify font-weight-normal',
+							styleBase : 'form-control',
+							container : 'body',
+							noneSelectedText:'Kurullar'
+							});
+							
+							$('#hukuk').selectpicker({
+								width:'100%',
+								liveSearch: true,
+								liveSearchNormalize: true,
+								actionsBox: true,
+								countSelectedText : function(num) {
+									if (num === 0) {
+										return 'Hukuk Daireleri';
+									} else {
+										return num
+												+ '- Hukuk Dairesi seçildi';
+									}
+								},
+							title : 'Hukuk Dairesi seçiniz',
+							deselectAllText : 'Temizle',
+							liveSearchPlaceholder : 'Ara...',
+							noneSelectedText : 'Seçiniz',
+							selectAllText : 'Hepsini Seç',
+							showTick : false,
+							noneResultsText : "Sonuç Bulunamadı",
+							selectedTextFormat: "count > 2",
+							selectOnTab : true,
+							tickIcon : 'glyphicon-ok check-mark',
+							iconBase : 'glyphicon',
+							style : 'btn-light text-justify font-weight-normal',
+							styleBase : 'form-control',
+							container : 'body',
+							noneSelectedText:'Hukuk Daireleri'
+							});
+
+						});
+		
+	
+		
+		var isDisplayCaptcha = function(){
+			var isDisplayCaptcha = $('#isDisplayCaptcha').text();
+			if(isDisplayCaptcha === "true"){
+				return true;
+			}
+			return false;
+		}
+		var captchaValidation = function() {
+			if(!isDisplayCaptcha()){
+				return true;
+			}
+			if (grecaptcha == undefined
+					|| grecaptcha.getResponse() == undefined
+					|| grecaptcha.getResponse() === '') {
+				toastr["warning"]
+						("Lütfen 'Ben robot değilim' Onay Kutusunu işaretleyip tekrar arama yapınız!");
+				return false;
+			} else {
+				return true;
+			}
+			return true;
+
+
+		}
+	   var showWarning = function(response){
+			if(response != null && response.data === null && response.metadata != null && response.metadata.FMTY === 'ERROR' ){
+				if(response.metadata.FMTE.indexOf("DisplayCaptcha") > -1){
+					toastr["warning"]
+					("Lütfen Ben Robot Değilim Seçeneğini İşaretleyiniz!");
+					setTimeout(function() {location.reload();}, 5000); 
+					
+				}else{
+					toastr["warning"]
+					(response.metadata.FMTE.substring(response.metadata.FMTE.lastIndexOf(":")+1, response.metadata.FMTE.length));
+				}
+			}
+        }
+		//begin::Global Config(global config for global JS scripts)
+		var KTAppSettings = {
+			"breakpoints" : {
+				"sm" : 576,
+				"md" : 768,
+				"lg" : 992,
+				"xl" : 1200,
+				"xxl" : 1200
+			},
+			"colors" : {
+				"theme" : {
+					"base" : {
+						"white" : "#ffffff",
+						"primary" : "#1BC5BD",
+						"secondary" : "#E5EAEE",
+						"success" : "#1BC5BD",
+						"info" : "#6993FF",
+						"warning" : "#FFA800",
+						"danger" : "#F64E60",
+						"light" : "#F3F6F9",
+						"dark" : "#212121"
+					},
+					"light" : {
+						"white" : "#ffffff",
+						"primary" : "#1BC5BD",
+						"secondary" : "#ECF0F3",
+						"success" : "#C9F7F5",
+						"info" : "#E1E9FF",
+						"warning" : "#FFF4DE",
+						"danger" : "#FFE2E5",
+						"light" : "#F3F6F9",
+						"dark" : "#D6D6E0"
+					},
+					"inverse" : {
+						"white" : "#ffffff",
+						"primary" : "#ffffff",
+						"secondary" : "#212121",
+						"success" : "#ffffff",
+						"info" : "#ffffff",
+						"warning" : "#ffffff",
+						"danger" : "#ffffff",
+						"light" : "#464E5F",
+						"dark" : "#ffffff"
+					}
+				},
+				"gray" : {
+					"gray-100" : "#F3F6F9",
+					"gray-200" : "#ECF0F3",
+					"gray-300" : "#E5EAEE",
+					"gray-400" : "#D6D6E0",
+					"gray-500" : "#B5B5C3",
+					"gray-600" : "#80808F",
+					"gray-700" : "#464E5F",
+					"gray-800" : "#1B283F",
+					"gray-900" : "#212121"
+				}
+			},
+			"font-family" : "Poppins"
+		};
+	</script>
+	<!-- begin:: Karar alanını genişlet -->
+	<script>
+	const fullScreen =()=> {
+		   const kararAlani = document.getElementById("kararAlani");
+		   const fullScreenIcon = document.getElementById("fullScreenIcon");
+		   kararAlani.classList.toggle("full-screen");
+		   fullScreenIcon.className === 'fas fa-expand' ?  fullScreenIcon.className = 'fas fa-compress-arrows-alt' : fullScreenIcon.className = 'fas fa-expand';
+		   document.body.classList.toggle("overflow-hidden");
+		   
+		}
+
+	</script>
+	<!-- end:: Karar alanını genişlet -->
+	<!-- begin::Timer -->
+	<script>
+        (function ($) {
+            $.fn.countTo = function (options) {
+                options = options || {};
+
+                return $(this).each(function () {
+                    // set options for current element
+                    var settings = $.extend({}, $.fn.countTo.defaults, {
+                        from: $(this).data('from'),
+                        to: $(this).data('to'),
+                        speed: $(this).data('speed'),
+                        refreshInterval: $(this).data('refresh-interval'),
+                        decimals: $(this).data('decimals')
+                    }, options);
+
+                    // how many times to update the value, and how much to increment the value on each update
+                    var loops = Math.ceil(settings.speed / settings.refreshInterval),
+                        increment = (settings.to - settings.from) / loops;
+
+                    // references & variables that will change with each update
+                    var self = this,
+                        $self = $(this),
+                        loopCount = 0,
+                        value = settings.from,
+                        data = $self.data('countTo') || {};
+
+                    $self.data('countTo', data);
+
+                    // if an existing interval can be found, clear it first
+                    if (data.interval) {
+                        clearInterval(data.interval);
+                    }
+                    data.interval = setInterval(updateTimer, settings.refreshInterval);
+
+                    // initialize the element with the starting value
+                    render(value);
+
+                    function updateTimer() {
+                        value += increment;
+                        loopCount++;
+
+                        render(value);
+
+                        if (typeof (settings.onUpdate) == 'function') {
+                            settings.onUpdate.call(self, value);
+                        }
+
+                        if (loopCount >= loops) {
+                            // remove the interval
+                            $self.removeData('countTo');
+                            clearInterval(data.interval);
+                            value = settings.to;
+
+                            if (typeof (settings.onComplete) == 'function') {
+                                settings.onComplete.call(self, value);
+                            }
+                        }
+                    }
+
+                    function render(value) {
+                        var formattedValue = settings.formatter.call(self, value, settings);
+                        $self.html(formattedValue);
+                    }
+                });
+            };
+
+            $.fn.countTo.defaults = {
+                from: 0,               // the number the element should start at
+                to: 0,                 // the number the element should end at
+                speed: 1000,           // how long it should take to count between the target numbers
+                refreshInterval: 100,  // how often the element should be updated
+                decimals: 0,           // the number of decimal places to show
+                formatter: formatter,  // handler for formatting the value before rendering
+                onUpdate: null,        // callback method for every time the element is updated
+                onComplete: null       // callback method for when the element finishes updating
+            };
+
+            function formatter(value, settings) {
+                return value.toFixed(settings.decimals);
+            }
+        }(jQuery));
+
+        jQuery(function ($) {
+            // custom formatting example
+            $('.count-number').data('countToOptions', {
+                formatter: function (value, options) {
+                    return value.toFixed(options.decimals).replace(/\B(?=(?:\d{3})+(?!\d))/g, ',');
+                }
+            });
+
+            // start all the timers
+            $('.timer').each(count);
+
+            function count(options) {
+                var $this = $(this);
+                options = $.extend({}, options || {}, $this.data('countToOptions') || {});
+                $this.countTo(options);
+            }
+        });
+        
+        function scrollWin() {
+            window.scrollTo(0, document.body.scrollHeight); 
+		}
+        
+        var kararPrint = function(){
+        	w=window.open();
+        	w.document.write($('#kararAlani .card-scroll').html());
+        	w.print();
+        	w.close();
+        };
+        
+        
+       
+        function pxToPt(px) {
+            return (px / 96) * 72;
+        }
+        var kararSavePdf = function() {
+        	
+            $("#kararAlani .card-scroll").attr("style","");
+            var HTML_Width = $("#kararAlani .card-scroll").width();
+            var HTML_Height = $("#kararAlani .card-scroll").height();
+            var top_left_margin = 15;
+            //var PDF_Width = HTML_Width + (top_left_margin * 2);
+            //var PDF_Height = (PDF_Width * 1.5) + (top_left_margin * 2);
+            var PDF_Width = 595.28; 
+   		    var PDF_Height = 841.89;
+          //  var canvas_image_width = HTML_Width;
+		var canvas_image_width = PDF_Width - (top_left_margin * 2);
+   		 var canvas_image_height = (canvas_image_width * HTML_Height) / HTML_Width;  
+   		 
+   	 var totalPDFPages = Math.ceil(pxToPt(HTML_Height) / PDF_Height)-1;
+
+            var htmlContent = $("#kararAlani .card-scroll").unmark()[0];
+            htmlContent.append('********** Kişisel Verilerden Arındırılmıştır **********');
+
+        	html2canvas(htmlContent,{allowTaint:true, scale: 2}).then(function(canvas) {
+    			canvas.getContext('2d');
+    			
+    			var imgData = canvas.toDataURL("image/jpeg", 1.0);
+    			var pdf = new jsPDF('p', 'pt',  [PDF_Width, PDF_Height]);
+    		    pdf.addImage(imgData, 'JPG', top_left_margin, top_left_margin,canvas_image_width,canvas_image_height);
+    			
+    			
+    			for (var i = 1; i <= totalPDFPages; i++) { 
+    				pdf.addPage(PDF_Width, PDF_Height);
+   		            pdf.addImage(imgData, 'JPG', top_left_margin, top_left_margin - (PDF_Height * i), canvas_image_width, canvas_image_height);
+
+    			}
+    			
+    		    pdf.save($("#detayAramaSonuclar .selected").children().first().next().text()+".pdf");
+            });
+        	
+        	$("#kararAlani .card-scroll").attr("style","height: calc(100vh - 296px)");
+        	highlight($("#hidden-content").text());
+       }
+    </script>
+	<!-- end::Timer -->
+
+	<!--end::Global Config-->
+	<!--end::Page Scripts-->
+
+
+<svg id="SvgjsSvg1001" width="2" height="0" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.com/svgjs" style="overflow: hidden; top: -100%; left: -100%; position: absolute; opacity: 0;"><defs id="SvgjsDefs1002"></defs><polyline id="SvgjsPolyline1003" points="0,0"></polyline><path id="SvgjsPath1004" d="M0 0 "></path></svg></body></html>
