@@ -1,0 +1,57 @@
+SIRA NO: 128
+DOKÜMAN ID: 998871500
+DAİRE / MAHKEME: İzmir Bölge Adliye Mahkemesi 11. Hukuk Dairesi
+ESAS NO: 2021/1039
+KARAR NO: 2024/316
+KARAR TARİHİ: 15.02.2024
+İÇERİK HASH (MD5): ce51153382027c874cc6bdaf7dcd05af
+===========================================================================
+
+T.C.
+İZMİR
+BÖLGE ADLİYE MAHKEMESİ
+11. HUKUK DAİRESİ
+DOSYA NO : 2021/1039
+KARAR NO : 2024/316
+T Ü R K M İ L L E T İ A D I N A
+B Ö L G E A D L İ Y E M A H K E M E S İ K A R A R I
+İNCELENEN KARARIN
+MAHKEMESİ : İZMİR 2. ASLİYE TİCARET MAHKEMESİ
+TARİHİ : 04.02.2021
+NUMARASI : 2018/1008 E. 2021/98 K.
+DAVANIN KONUSU : Tazminat
+DAVA TARİHİ : 31.08.2018
+BİRLEŞEN 2. ATM'NİN 2018/1009 E. 2019/597 K. SAYILI DOSYASI
+DAVANIN KONUSU : Tazminat
+DAVA TARİHİ : 31.08.2018
+KARAR TARİHİ : 15.02.2024
+KARAR YAZIM TARİHİ : 15.02.2024
+İzmir 2.Asliye Ticaret Mahkemesinin 04.02.2021 tarih 2018/1008 E. 2021/98 K. sayılı kararın Dairemizce incelenmesi davacı vekili tarafından istenmiş ve istinaf dilekçesinin süresi içinde verildiği anlaşılmış olmakla, üye ... tarafından düzenlenen rapor dinlenip ve yine dosya içerisindeki dilekçe, layihalar, duruşma tutanakları ve tüm belgeler okunup, incelendi.
+GEREĞİ DÜŞÜNÜLDÜ :
+ASIL VE BİRLEŞEN DAVA : Davacı vekili, davalıların sürücüsü, işleteni ve ZMM ile İMM sigortacısı olduğu aracın karıştığı trafik kazası neticesinde yaralanan davacının maddi ve manevi zarara uğradığını, davalıların oluşan zararı karşılaması gerektiğini, sigorta şirketince yapılan ödemenin zararı karşılmadığını, belirterek; fazlaya ilişkin hakları saklı kalmak kaydı ile asıl davada 5.000,00-TL maddi birleşen davada 200.000,00-TL manevi tazminatın davalılardan tahsiline karar verilmeni talep ve dava etmiş, asıl davada maddi tazminat talebini ıslah ile 87.626,00-TL olacak şekilde artırmıştır.
+CEVAP : Davalılar ... ve ... vekili, kazaya karışan aracın davalı sigorta şirketi tarafından sigortalandığını, sigorta şirketinin maddi ve manevi zararı karşılmakla yükümlü olduğunu, kazada davacının zarar gördüğünü, kusur tespitini kabul etmediklerini, tazminat taleplerinin fahiş olduğunu, belirterek; davanın reddine karar verilmesini talp etmiştir.
+Davalı ... Sigorta şirketi vekili, davalının trafik kazası neticesinde oluşan zarar nedeiyle zorunlu mali mesuliyet sigortası kapsamında sürücünün kusuru ve gerçek zarar nispetinde poliçe limiti ile sorumlu olduğunu, başvuru üzerine davacıya 242.374.00-TL ödeme yapıldığını, davalının sorumluluğunun sona erdiğini, aksi kanaate ise yapılan ödemenin günceleştirerek mahsubunu, kusur, maluliyet ve aktuerya hesabı hususunda rapor alınarak kusur ve zararın ispat edilmesi gerektiğini, hatır taşıması bulunduğunu, davalının geçici iş göremezlik tazminatından sorumlu olmadığını, ihtiyari mali mesuliyet teminatı kapsamında manevi tazminata ilişkin sorumluluğun ise 100.000,00-TL ile sınırlı olduğunu, manevi tazminat talebinin fahiş olduğunu, belirterek; davanın reddine karar verilmesini talep etmiştir.
+İLK DERECE MAHKEMESİ KARARININ ÖZETİ : Mahkemece iddia, savunma, benimsen bilirkişi raporları ve tüm dosya kapsamına göre, davalı araç sürücüsü ...'ın %100 ve tam kusurlu olduğu, kusur oranı ile ceza yargılamasında tespit edilen nihai kusur dağılımının birbiri ile uyumlu olduğu, olay nedeniyle davacının % 66 oarınında sürekli 18 ay süre ile geçici iş göremez hala geldiği ve 6 ay süresince bakım ihtiyacının bulunduğu, davacının bakiye sürekli işgöremezlik tazminatının 1.342.360,08-TL olduğu, dava konusu bakiye tazminatın davalı sigorta şirketi tarafından davacıya ödendiği, bu nedenle davanın konusuz kaldığı, müteselsil sorumlulardan birinin dava konusu hakkında ibra edilmiş olmasının diğer sorumlular hakkında da sonuç doğuracağı, davacı için 65.000,00-TL manevi tazminat ödenmesi gerektiği, belirtilerek; asıl davanın konusuz kalması nedeni ile karar verilmesine yer olmadığına, birleşen davanın kısmen kabulüne fazlaya ilişkin talebin reddine karar verilmiştir.
+Karara karşı davacı tarafından istinaf yoluna başvurulmuştur.
+İSTİNAF NEDENLERİ : Davacı vekili, takdir edilen manevi tazminatın yetersiz olduğunu, daha fazla miktarda manevi tazminat takdir edilmesi gerektiğini, belitilerek; kararın kaldırlması talep etmiştir.
+GEREKÇE : Dava, işletenin hukuki sorumluluğu ve ZMMS ile İMMS kapsamında maddi ve manevi tazminat istemine ilişkin olup, ilk derece mahkemesince yukarıda yazılı gerekçeyle asıl davanın konusuz kalması nedeni ile karar verilmesine yer olmadığına, birleşen davanın kısmen kabulüne fazlaya ilişkin talebin reddine karar verilmiştir.
+1. Dairemizce HMK'nın 355. maddesi uyarınca istinaf nedenleriyle ve resen kamu düzenine ilişkin sebeplerle sınırlı olarak istinaf incelemesi yapılmıştır.
+2. 2918 sayılı Karayolları Trafik Kanunu'nun 91/1. 85/1. ve 85/son maddeleri ile Karayolları Zorunlu Mali Sorumluluk Sigortası Genel Şartlarına göre trafik kazası nedeni ile oluşan davacının maddi zararından davalı sigorta şirketi ile işleten sıfatına haiz araç maliki ve sürücünün, sigortalı araç sürücüsünün kusuru oranında sorumlu olduğu amirdir.(Yargıtay HGK'nun 15.6.2011 tarih ve 2011/17-142 E. - 2011/411 K., 17. HD' nın 20/05/2013 tarih ve 2012/8984 E. - 2013/7276 K.) 2918 sayılı Karayolları Trafik Kanun’unun 92. maddesinin (f) bendi ile Zorunlu Mali Mesuliyet Sigortası Genel Şartlarının gereği manevi tazminat poliçe kapsamı dışında olduğundan davalı sigorta şirketinin manevi tazminat talebi yönünden ZMMS poliçesi kapsamında her hangi bir sorumluluğu söz konusu değildir. Buna karşın, 2918 sayılı Karayolları Trafik Kanunu'nun 85 ve 90. maddeleri ile Motorlu Kara Taşıt Araçları İhtiyari Mali Mesuliyet Sigortası Genel Şartlarına göre poliçe kapsamında ihtiyari mali mesuliyet klozu ile teminat altına alınmış olması nedeniyle trafik kazası nedeni ile davacıların oluşan manevi zararından davalı sigorta şirketi, işleten sıfatına haiz sigortalı araç maliki ile araç sürücüsünün, sürücünün kusuru oranında sorumludur.
+3. 6098 sayılı Borçlar Kanunu'nun 49. maddesi gereğince haksız bir eylem sonucunda zarara uğrayan kimse, uğradığı maddi ve manevi zararın ödetilmesini isteyebilir. Manevi tazminat, zarar görenin kişilik değerlerinde meydana gelen eksilmenin ( manevi zararın )giderilmesi, tazmin ve telafi edilmesidir. Esasen manevi tazminat, ne bir ceza, ne de gerçek manasında bir tazminattır. Hükmedilecek bu para, zarara uğrayanda manevi huzuru doğurmayı gerçekleştirecek tazminata benzer bir fonksiyonu olan özgün bir nitelik taşır. O halde bu tazminatın sınırı onun amacına göre belirlenmelidir. Takdir edilecek miktar, mevcut halde elde edilmek istenilen tatmin duygusunun etkisine ulaşmak için gerekli olan kadar olmalıdır.(Yargıtay İBK 22/06/1966 tarih ve 1966/7 E. - 1966/7 K.) Olay nedeni ile davacının manevi zarara uğrayacağı yadsınamaz bir gerçekliktir. Maddi zararda olduğu gibi manevi tazminatta kesin bir hesabın yapılması olanaksızdır. Bunun için tazminat miktarı, somut olayın özelliği, kusur durumu, tarafların sosyal ve ekonomik durumları dikkate alınarak M.K.nun 4. maddesi uyarınca hakim tarafından takdir ve tayin edilir. Miktarın belirlenmesinde her olaya göre değişebilecek özel hal ve şartların bulunacağı da gözetilerek takdir hakkını etkileyecek nedenleri karar yerinde objektif olarak gösterilmelidir. Bu itibarla, somut olayda yaralanması dolayısıyla davacının maruz kaldığı bu acı ve elem ile yaşadığı sıkıntılar nedeniyle oluşan manevi zararına karşılık, takdir edilen manevi tazminat anılan ilke ve esaslar çerçevesinde az olup daha fazla miktarda manevi tazminata hükmedilmesi gerekir.
+4. O halde, manevi zarara uğrayan davacıda bir huzur duygusunun oluşabilmesi için tarafların kusuru, sosyal ve ekonomik durumu, davacının maruz kaldığı acı ile hakkaniyet ilkesi gözetilerek, manevi zararın karşılığı olarak takdiren 100.000,00-TL manevi tazminatın davalı sigorta şirketi yönünden İMMS poliçe limitiyle sınırlı olmak kaydı ile birleşen dava tarihinden, davalılar ... ve ... yönünden ise haksız fiil tarihinden itibaren yasal faizi ile birlikte davalılardan müşterek ve müteselsilen tahsili ile davacıya ödenmesine, fazlaya ilişkin talebin reddine, karar verilmesi gerekirken, aksi yönde varılan hukuki kabulde isabet bulunmamaktadır.
+Bu durumda, yeniden yargılama yapılmasına ihtiyaç duyulmadığından Hukuk Muhakemeleri Kanunu'nun 353/1-b-2 maddesi uyarınca istinaf başvurusunun kabulü ile ilk derece mahkemesi kararı kaldırılarak yeniden esas hakkında karar verilmesi gerekmiştir.
+H Ü K Ü M : Yukarıda açıklanan nedenlerle;
+1-Davacının istinaf başvurusunun KABULÜ ile İzmir 2.Asliye Ticaret Mahkemesinin 04.02.2021 tarih 2018/1008 E. 2021/98 K. Sayılı kararının Hukuk Muhakemeleri Kanunu'nun 353/1-b-2 maddesi uyarınca KALDIRILMASINA,
+2-Kaldırılan kararın yerine geçmek üzere yeniden hüküm tesisi ile;
+Asıl davanın konusuz kaldığı anlaşıldığından davacının fazlaya dair hakları saklı kalmak kaydıyla davanın esası hakkında KARAR VERİLMESİNE YER OLMADIĞINA,
+Birleşen davanın KISMEN KABULÜ İLE 100.000,00-TL manevi tazminatın davalı ... Sigorta A.Ş. yönünden ( İMMS poliçe limiti olan 100.000,00-TL ile sınırlı olmak kaydı ile ) dava tarihi olan 31.08.2018, davalılar ... ve ... yönünden ise haksız fiil tarihi 10/12/2017 tarihinden itibaren işleyecek yasal faizi ile birlikte davalılardan müşterek ve müteselsilen tahsili ile davacıya ödenmesine,
+Asıl davada Harçlar Kanunu gereğince alınması gereken 427,60-TL harçtan peşin olarak alınan 35,90-TL ile ıslah harcı olarak alınan 285,00-TL harcın mahsubu ile bakiye 106,70-TL harcın davacıdan alınarak Hazineye gelir kaydına,
+Asıl davada davacının vekalet ücreti talebi bulunmadığı gözetilerek vekalet ücreti takdirine yer olmadığına,
+Birleşen davada Harçlar Kanunu gereğince alınması gereken 6.831,00‬-TL harçtan, peşin olarak alınan 683,10-TL harcın mahsubu ile bakiye 6.147,90‬-TL harcın davalılardan müştereken ve müteselsilen tahsili ile hazineye gelir kaydına,
+Birleşen davada davacı yargılama sırasında kendisini vekille temsil ettirdiğinden kabul edilen manevi tazminat talebi yönünden karar tarihinde yürürlükte bulunan AAÜT gereğince 17.900,00-TL vekalet ücretinin davalılardan müşterek ve müteselsilen tahsili ile davacıya ödenmesine,
+Birleşen davada davalılar yargılama sırasında kendisini vekille temsil ettirdiğinden red edilen manevi tazminat talebi yönünden karar tarihinde yürürlükte bulunan AAÜT gereğince 17.900,00-TL tek vekalet ücretinin davacıdan tahsili ile davalılara ödenmesine,
+Davacı tarafından yapılan toplam 1.398,15-TL yargılama giderinin, davanın ret ve kabul oranına göre 699,07-TL'sinin yargılama giderinin davalılardan müşterek ve müteselsilen tahsili ile davacıya ödenmesine, bakiyenin davacı üzerinde bırakılmasına,
+Fazla yatırılan gider avansının, karar kesinleştiğinde ve resen yatırana iadesine,
+3-İstinaf yoluna başvuranın ödediği istinaf harcının istek halinde istinaf yoluna başvurana iadesine,
+4-İstinaf başvurusu nedeniyle davacı tarafından yapılan 162,10-TL istinaf yoluna başvuru harcı, 28,10-TL tebligat ve posta masrafı olmak üzere toplam 190,20-TL istinaf yargılama giderinin davalılardan alınarak davacıya verilmesine,
+Dosya üzerinden yapılan inceleme neticesinde, HMK'nın 362/1-a maddesi uyarınca miktar itibariyle kesin olmak üzere 15.02.2024 tarihinde oy birliğiyle karar verildi.

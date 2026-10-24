@@ -1,0 +1,70 @@
+SIRA NO: 213
+DOKÜMAN ID: 1018537300
+DAİRE / MAHKEME: Ankara 9. Asliye Ticaret Mahkemesi
+ESAS NO: 2022/761
+KARAR NO: 2024/260
+KARAR TARİHİ: 01.04.2024
+İÇERİK HASH (MD5): d74bd8fd568e504fa650833cecca5f85
+===========================================================================
+
+T.C. ANKARA 9. ASLİYE TİCARET MAHKEMESİ Esas-Karar No: 2022/761 Esas - 2024/260
+Türk Ulusu Adına Yargılama Yapmaya ve Hüküm Vermeye Yetkili
+ANKARA 9. ASLİYE TİCARET MAHKEMESİ
+KARAR
+ESAS NO : 2022/761 Esas
+KARAR NO : 2024/260
+HAKİM : ....
+KATİP : ....
+DAVACI :...
+VEKİLLERİ : Av. ... - Av. ...
+Av. ...
+Av. ...
+DAVALI : 1-) ...
+VEKİLLERİ : Av. ...
+Av. ...
+DAVALI : 2-) ...
+VEKİLLERİ : Av. ... - Av. ...
+Av. ...
+DAVA : MANEVİ TAZMİNAT
+DAVA TARİHİ : 17/08/2018
+KARAR TARİHİ : 01/04/2024
+YAZIM TARİHİ : 05/04/2024
+Mahkememizde açılan manevi tazminat davasının yargılaması sonunda,
+GEREĞİ DÜŞÜNÜLDÜ:
+DAVA :
+Davacı vekili ; Davalılardan ... şirketi adına trafikte kayıtlı olan araç için diğer davalı sigorta şirketi tarafından Kasko sigorta poliçesi düzenlendiğini, bu poliçe kapsamında öngörülen ihtiyari mali mesuliyet koruması nedeni ile ayrıca manevi tazminat ödemesi yapılmasının da öngörüldüğünü, sigortalı araç sürücüsünün kusuru ile neden olduğu trafik kazası sonucu davacının yaralandığını belirtip, poliçe kapsamında öngörülen 300.000,00 TL manevi tazminatın davalılardan müteselsilen tahsiline karar verilmesini istemiştir.
+YANIT :
+Davalı sigorta şirketi vekili ; Davacının tescilsiz motosikleti sürücü belgesi olmaksızın kullanması nedeni ile asıl kusurlu olduğunu, olayda sigortalı araç sürücüsünün kusurunun bulunmadığını, koruyucu kıyafet kullanmayan davacının yaralanmanın sonuçlarının ağırlaşmasına neden olduğunu belirtip, davanın reddine karar verilmesini istemiştir.
+Davalı ... Şirketi vekili ; Diğer davalı ... şirketi tarafından davacı için 10/09/2018 tarihinde 134.783,00 TL ve dava dışı ... şirketi tarafından 310.000,00 TL ödeme yapıldığını, ... sigorta ihtiyarı mali mesuliyet sigorta poliçesi düzenlemiş olup manevi tazminatın ayrı bir limit olmayıp ödeme yapılan limite dahil olduğu için talep edilmesi gereken zarar kalmadığını, ayrıca talep edilen manevi tazminatında fahiş olduğunu belirtip, davanın reddine karar verilmesini istemiştir.
+DELİLLER :
+-... plaka sayılı araç için düzenlenen poliçeler ve sigorta şirketlerince yapılan ödemeleri kapsayan hasar dosyaları ile ödemeye ait belgeler,
+-Her iki araç sürücüsünün kusur dağılım oranlarını gösteren rapor,
+-Davacı ile ilgili gelir araştırma yazı cevabı,
+-Tüm dosya kapsamı.
+DELİLLERİN DEĞERLENDİRİLMESİ VE GEREKÇE:
+Davadaki talep, trafik kazası sonucu yaralanan davacının düzenlenen kasko sigorta poliçesi kapsamında öngörülen manevi zararlarının davalılardan tahsili istemine ilişkindir.
+Trafikte davalı ... şirketi adına ... plaka sayılı olarak kayıtlı araç için dava dışı ... şirketi tarafından 29/04/2016 tarihinde zorunlu trafik sigorta poliçesi düzenlenmiştir. Aynı araç için davalı ... Sigorta şirketi tarafından ise 30/04/2016 tarihinde zorunlu trafik sigorta poliçesi limiti dışındaki zararlarla ilgili koruma sağlayıp ayrıca poliçe limiti olan 500.000,00 TL kapsamında kalmak üzene manevi tazminat ödenmesini de güvence altına alan Kasko sigorta poliçesi düzenlenmiştir.
+Davalı ... şirketine ait ... plaka sayılı araç için zorunlu trafik sigorta poliçesi düzenleyen ... şirketi aleyhine .... Esas numarası verilen dava açılmış, yapılan yargılama sırasında davacının maddi zararının miktarı belirlenmiş, poliçe limiti ile sınırlı olarak 23/10/2017 tarihinde 310.000,00 TL ödeme yapıldığı için davadan feragat edilmiştir,
+Davacı bu kez zorunlu trafik sigorta poliçesi limitini aşan maddi zararlarının karşılanması için İhtiyari Mali Mesuliyet Sigorta Poliçesi düzenleyen davalı ... Sigorta şirketine başvurmuş, yapılan hesaplama sonucu bu poliçe kapsamında karşılanması gereken maddi zarar miktarının 134.783,00 TL olduğu konusunda anlaşılması üzerine 10/09/2018 tarihinde bu miktar da davacıya bedensel maddi zararlarına karşılık olmak üzere ödenmiştir.
+Davalı ... şirketi haksız fiil nedeni ile manevi tazminattan sorumludur. Bunun yanında davalı sigorta şirketi ise Kasko sigorta poliçesi kapsamında sağlanan İMMS poliçesi kapsamında manevi tazminat yönünden ve toplam limit içerisinde yer alan maddi ve manevi zararlar için 500.000,00 TL limit ile sınırlı olmak kaydı ile sorumludur. Davalı sigorta şirketi maddi zararlar için 134.783,00 TL ödeme yapmış olup, toplam limit olan 500.000,00 TL den ödeme miktarı düşüldüğünde halen ( 500.000,00 TL - 134.783,00 TL = 365.217,00 TL) 365.217,00 TL daha sorumlu olup, bu miktar ile sınırlı olmak kaydı ile kendilerinden davacının ayrıca manevi tazminat talep etmesinin mümkün olduğu kabul edilmiştir.
+Daha önce yapılan yargılama sonucu 75.000,00 TL manevi tazminatın davalılardan tahsiline karar verilmiştir. Davacı taraf manevi tazminatın yetersiz olduğunu, davalılar ise fahiş manevi tazminata hükmedildiği gerekçesi ile karara karşı istinaf yasa yoluna başvurmuştur. .... 30/09/2022 tarihli ve kesin kararı ile manevi tazminat miktarının belirlenmesinin dayanaklarından olan çalışma gücü kaybı ile ilgili rapor alınması gerekir iken bunun yapılmamış olmasının gerekçe gösterip, kararımızı kaldırmış ve dava dosyası mahkememizin yukarıda belirtilen esas numarasına kayıt edilmiştir.
+İade kararı kesin ve içeriği doğrultusunda işlem yapılması gerektiği için ... alınan 09/02/2024 tarihli raporda davacının davaya konu trafik kazası nedeni ile % 81 oranında sürekli çalışma gücü kaybı oluşturacak şekilde yaralandığı, 12 aylık süre içerisinde ancak iyileşmesinin mümkün olduğu ve iyileşme süresinin 2 aylık bölümünde ise ancak bir başkasının yardığı ile yaşamını sürdürebileceği belirtilmiştir.
+Davacının yaralanması ile sonuçlanan kaza nedine ile manevi tazminat talep etmesi mümkün olup, manevi tazminat miktarının her iki sürücünün kusur dağılım oranları, davacıdaki yaralanmaların niteliği ve ağırlığı, davacının gelir durumu ve davalı şirketlerin ödeme güçleri dikkate alınarak belirlenmesi gerekmektedir.
+Davalı ... şirketi adına trafikte kayıtlı olup olay sırasında dava dışı sürücü ...'in kullandığı ... plaka sayılı araç bölünmüş yolda ... yönünden ... yönüne doğru seyir halinde iken kendisi ile aynı yönde seyir halinde olan başka bir aracı geçmek için yolun soluna doğru yöneldiği sırada önünde ve kendisi ile aynı yönde seyir halinde olup, davacının kullandığı motosiklette arkadan gelen aracı dikkate almadan sollama yapmaya çıkmış, davacı kendisini geçmekte olan aracın varlığını kontrol etmeden kendi önündeki başka bir aracı sollamak istediği sırada ... plaka sayılı aracın önüne geçmiş, mesafenin yakınlığı ve davacının motosiklet ile ani sollamaya başlaması sonrası sigortalı araç motosiklete arkadan çarparak davacının yaralanması ile sonuçlanan kazaya neden olmuştur. Yukarıda anlatılan şekilde gerçekleştiği kabul edilen kazada 02/09/2019 tarihli raporda da belirtildiği gibi, davacının araç sollamaya ilişkin kurallara aykırı davranarak % 75 oranında, sigortalı araç sürücüsünün ise hız sınırına uyulması geretiğine ilişkin kurala aykırı davranarak % 25 oranında kusurlu olacak şekilde kazaya neden oldukları kabul edilmiştir. Suç soruşturma dosyası içeriği, kendisi de bir ölçüde kusur dağılım raporu sayılabilecek kaza tesbit tutanağı ile tarafların kazanın başka şekilde gerçekleştiğine ilişkin iddiaları olmaması nedeni ile bu raporun hüküm kurmak için yeterli olduğu kabul edilmiştir.
+Manevi tazminat miktarının belirlenmesinde dikkate alınması gereken bir diğer ölçü ise davacıdaki yaralanmalar olup, .... alınan 09/02/2024 tarihli raporda davacının davaya konu trafik kazası nedeni ile % 81 oranında sürekli çalışma gücü kaybı oluşturacak şekilde yaralandığı, 12 aylık süre içerisinde ancak iyileşmesinin mümkün olduğu, iyileşme süresinin 2 aylık bölümünde ise bir başkasının yardığı ile yaşamını sürdürebileceği belirtilmiş, bu raporun manevi tazminatın miktarının belirlenmesinde ölçü olarak alınmasının uygun olduğu kabul edilmiştir.
+Toplanan delillere göre ; davalıya sigortalı araç sürücüsünün % 25 oranında kusurlu olacak şekilde neden olduğu trafik kazası sonucu davacının ağır şekilde yaralandığı, bu yaralanmaların davacıda % 81 oranında sürekli çalışma gücü kaybı oluşturduğu, bu yaralanmaların etkisinin davacının yaşamı boyunca onunla birlikte olacağı, davacının olay tarihindeki yaşı ve olası yaşam süresi, tarafların belirlenebilen gelir durumları, davacının olay sırasında koruyucu kıyafet kullanmaması gibi faktörler dikkate alınarak ilk hüküm ile belirlenen ve icra takibi sonucu tahsil edildiği belirtilen manevi tazminat ile birlikte tahsilde tekerrür oluşturmamak kaydı ile davacının acılarının bir ölçüde giderilmesi amacı ile 100.000,00 TL manevi tazminatın her iki davalıdan müteselsilen alınıp davacıya ödenmesi gerektiği kabul edilip, aşağıdaki hüküm oluşturulmuştur.
+HÜKÜM: Nedenleri yukarıda açıklandığı üzere;
+Daha önce hüküm altına alınan ve başlatılan icra takibi nedeniyle yapılan ödemeler ile birlikte tahsilde tekerrür oluşturulmamak kaydıyla;
+Davanın KISMEN KABULÜNE,
+100.000,00 TL manevi tazminatın her iki davalıdan müteselsilen tahsili ile davacıya ödenmesine,
+Davacı alacağına sigorta şirketi yönünden 17/08/2018 dava tarihinden itibaren, davalı ... Ltd. Şti. yönünden ise 18/11/2016 kaza tarihinden itibaren değişen oranlı yasal faizi uygulanmasına,
+Alınması gereken 6.831,00 TL karar ve ilam harcından peşin alınan 1.024,65 TL'nin mahsubu ile bakiye 5.806,35 TL'nin davalılardan tahsili ile HAZİNEYE ÖDENMESİNE.
+Davacı tarafından yatırılan 35,90 TL başvurma harcı, 1.024,65 TL peşin harç olmak üzere toplam 1.060,55 TL'nin davalılardan tahsili ile davacıya VERİLMESİNE.
+Davacı lehine hüküm tarihindeki AAÜT'si uyarınca hesaplanan 17.900,00 TL vekalet ücretinin davalıdan alınarak davacıya VERİLMESİNE.
+Davalılar lehine hüküm tarihindeki AAÜT'si uyarınca hesaplanan 17.900,00 TL vekalet ücretinin davacıdan alınarak davalılara VERİLMESİNE.
+Davacı tarafından yapılan tebligat ve posta gideri 265,00 TL ve bilirkişi ücreti 500,00 TL olmak üzere toplam 765,00 TL yargılama giderinden davanın kabul ve ret oranına göre takdiren 255,00 TL'sinin davalılardan alınarak davacıya ÖDENMESİNE, artan kısmın davacı üzerinde BIRAKILMASINA.
+Davalı ... Ltd. Şti. tarafından yapılan 90,30 TL yargılama giderinden davanın ret ve kabul oranına göre takdiren 60,20 TL'sinin davacıdan alınarak adı geçen davalıya ÖDENMESİNE, artan kısmın davalı üzerinde BIRAKILMASINA.
+Karar kesinleştiğinde kullanılmayan gider avansı kalması halinde bildirilecek hesap numarası olur ise hesaba, hesap numarası bildirilmez ise gider avansından karşılanmak koşulu ile posta havalesi ile yatıran tarafa İADESİNE.
+Dair, davacı vekili Av. .... , Davalı ... Şirketi Vekili Av. ...'ın yüzlerine karşı, diğer davalı yokluğunda kararın tebliğinden itibaren 2 haftalık süre içerisinde .... Bölge Adliye Mahkemesinde İstinaf yolu açık olmak üzere verilen karar açıkça okunup usulen anlatıldı.01/04/2024
+Katip ...
+Hakim ...

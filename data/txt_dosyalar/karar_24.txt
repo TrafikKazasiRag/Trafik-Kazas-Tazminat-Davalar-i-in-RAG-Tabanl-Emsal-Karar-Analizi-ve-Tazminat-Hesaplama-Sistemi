@@ -1,0 +1,53 @@
+SIRA NO: 24
+DOKÜMAN ID: 763413300
+DAİRE / MAHKEME: İstanbul Anadolu 9. Asliye Ticaret Mahkemesi
+ESAS NO: 2021/448
+KARAR NO: 2022/276
+KARAR TARİHİ: 12.04.2022
+İÇERİK HASH (MD5): 890e661f25d6ec579a0d5994d585b573
+===========================================================================
+
+T.C. İstanbul Anadolu 9. ASLİYE TİCARET MAHKEMESİ
+ESAS NO : 2021/448
+KARAR NO : 2022/276
+DAVA: Tazminat (Ölüm Ve Cismani Zarar Sebebiyle Açılan Tazminat)
+DAVA TARİHİ : 09/04/2019
+KARAR TARİHİ: 12/04/2022
+DAVA:Davacı vekili Mahkememize sunduğu --- havale tarihli ve aynı tarihte harçlandırdığı dava dilekçesinde özetle: --- tarihinde davalılardan --- maliki olduğu, dava dışı --- sevk ve idaresinde bulunan ---plaka sayılı ------ters yöne girerek müvekkilinin yolcu olarak bulunduğu ---- plaka sayılı araca çarpması sonucunda çift taraflı, maddi hasarlı ve yaralamalı trafik kazası meydana geldiğini, müvekkilinin ağır yaralanması nedeni ile hastaneye kaldırıldığını, ---- asli ve tek kusurlu olduğunu, müvekkiline atfedilecek herhangi bir kusur bulunmadığını, kaza nedene ile müvekkilinin uzun bir tedavi sürecine girdiğini ömrü boyunca kalıcı bir sakatlıkla yaşamak zorunda kaldığını beyanla, kaza nedeniyle uğramış olduğu manevi acılarının bir nebze de olsa telafisi için --- manevi tazminatın kaza tarihi olan --- tarihinden itibaren işlemiş ve işleyecek yasal faizi ile birlikte davalı --- maddi tazminatın kaza tarihi olana ----- tarihinden itibaren işlemiş ve işleyecek avans faizi ile birlikte davalılardan müştereken ve müteselsilen tahsiline, yargılama gideri ve vekalet ücretinin karşı tarafa yükletilmesine kara verilmesini talep ve dava etmiştir.
+SAVUNMA :
+Davalı--- Mahkememize sunduğu---- havale tarihli cevap dilekçesinde özetle: Kusura ve maluliyete ilişkin olarak ---kusur ve maluliyet raporu alınması gerektiğini, -----kaza sonucu olay yerinde vefat ettiğini, ---- sigortalı olduğundan hasar anında karşı tarafa verilen bedeni ve maddi zararın limit dahilinde diğer davalı ----Tarafından karşılanması gerektiğini, davacı ---- maliki olduğu aracı kullanan --- hatır taşıması ile araçta bulunduğunu. --- kaza tarihinde ----işçisi olup olmadığının sorulması gerektiğini, bu araçta bulunmasının iş sözleşmesine ve araç kullanım talimatına uygun olup olmadığı araştırılması gerektiğini. Eğer araç kullanım talimatına uygun olmayan bir hatır taşıması varsa bu durum da tazminatın hesabında dikkate alınması gerektiğini, kazaya karışan diğer araçların da kusurun belirlenmesinde etkisi olacağını,---- araç sürücüsü de kazaya karıştığını. kusurun tamamının müvekkili şirketi araç sürücüsüne yükletilmesinin kabul edilemeyeceğini. ---- plakalı araç maliki ve sürücüsü---- da davanın ihbar edilmesi gerektiğini, kazanın oluş şeklini ve maddi vakıaları dikkate alarak doğru ve isabetli bir değerlendirme yapabilecek nitelikte uzman bilirkişi kurulundan her üç araç sürücüsünün kusurlarının tespiti için --- rapor alınmasını talep ettiklerini, mükerrer ödeme yapılmaması için ---- davacıya ödeme yapılıp yapılmadığının sorgulanmasını, manevi tazminatın ancak haksız fiile neden olan araç sürücüsünden talep edilebileceğini, manevi tazminat talebi yönünden müvekkil şirket açısından husumet yokluğu gerekçesiyle davanın reddi gerektiğini beyanla, Manevi tazminat talebinin husumet yokluğu gerekçesiyle müvekkili şirket yönünden reddine, maddi tazminat talebinin sigortacısından istenmesi gerektiğinden reddine karar verilerek, vekalet ücreti ve yargılama giderlerinin davacı üzerine bırakılmasına
+karar verilmesini talep etmiştir.
+İhbar olunan--- Mahkememize sunduğu ----- havale tarihli cevap dilekçesinde özetle: Söz konusu kazada herhangi bir kusuru bulunmadığını beyan etmiştir.
+DELİLLER :
+-Kaza Tespit tutanağı,
+----- şirketinin ibraname ve sulh anlaşmasına ilişkin ----- tarihli dilekçesi,
+----- sureti,
+----- tarihli kusura ilişkin raporu,
+----- hakkında düzenlenen ---- tarihli sosyal ekonomik durum araştırma tutanağı,
+----- tarihli raporu,
+- ---- plakalı araçlara ait tescil kayıtları,
+DELİLLERİN DEĞERLENDİRİLMESİ VE GEREKÇE:
+Dava; ----- tarihli trafik kazası nedeniyle açılan madi ve manevi tazminat davasıdır.
+Taraflar arasındaki uyuşmazlık; taraflar arasında-- tarihli trafik kazası nedeni ile davacı tarafın manevi zararının oluşup oluşmadığı, manevi zararının miktarı, kazadaki kusur durumu, faiz ve oranı hususlarındadır.
+Tarafların dilekçelerinde bildikleri delilleri toplanmıştır.
+Mahkememizin ----- Karar sayılı kararı ile maddi tazminata yönelik talebi yönünden davacının maddi zararının davalı sigorta şirketi tarafından karşılandığı, davacı vekili tarafından tüm davalılar yönünden maddi zarar bulunmadığının bildirildiğinden konusuz kalan maddi tazminat talebi yönünden davanın esası hakkında karar verilmesine yer olmadığına dair karar verilmiştir.
+Davacının manevi tazminat yönünden tefriki ile mahkememizin iş bu esasına kaydı yapılmıştır.
+---- sayılı dosyası ile ---- sayılı takipsizlik kararı verilmiş,
+---- Soruşturma sayılı dosyası ile aldırılan ---- sayılı kusur aporunda sonuç olarak: "Müteveffa sürücü ---- asli ve tam kusurlu, Sürücü --- kusursuz, sürücü ----, kusursuz olduğunu" beyan ve rapor etmiştir.
+----sayılı maluliyet raporunda sonuç olarak: "Kişinin tüm vücut engellilik oranının % 10 (yüzdeon) olduğu, İyileşme süresinin (iş göremezlik süresi) olay tarihinden itibaren 6(altı) aya kadar uzayabileceği------- kapsamında -başka birinin sürekli olarak- bakımına muhtaç durumda olmadığı, iyileşme (iş göremezlik) süresi içerisinde ---- ay süresince bir başkasının yardımına gereksinim duyabileceği" rapor edilmiştir.
+Dosyada mevcut tüm deliller hep birlikte değerlendirilerek, hükme esas alınan ----sayılı maluliyet raporu dayanak yapılarak:
+---- tarihinde maddi hasarlı, ölümlü ve yaralamalı trafik kazası meydana geldiği, kaza neticesinde kaza tarihinde davalı----adına kayıtlı ---- plakalı araçta yolcu konumunda bulunan davacı ---- yaralandığı,
+--- dosyası ile ---- sayılı kusur raporuna göre; kazanın meydana gelmesinde müteveffa sürücü ----asli ve tam kusurlu olduğu, sürücü ---- kusursuz olduğu, sürücü---- kusursuz olduğunun bildirildiği,
+Davacı ---- tarihli trafik kazası neticesinde yaralanması nedeniyle----güncel ve müstekar içtihatları doğrultusunda kaza tarihinde yürürlükte bulunan ---- göre; kişinin tüm vücut engellilik oranının % 10 olduğu, iyileşme sürecinin (iş göremezlik süresi) olay tarihinden itibaren ----- aya kadar uzayabileceği, ---- Maddesi kapsamında -başka birinin sürekli olarak bakımına muhtaç durumda olmadığı, iyileşme (iş göremezlik) süresi içerisinde ----- ay süresince bir başkasının yardımına gereksinim duyabileceğinin bildirildiği,
+--- tarihinde davalı ----adına kayıtlı, davalı ----, müteveffa sürücü ---- sevk ve idaresindeki --- plakalı araç ile dava dışı ---- sevk ve idaresindeki ---- plakalı aracın çarpışması, çarpmanın etkisi ile ---plakalı aracın dava dışı --- sevk ve idaresindeki ----plakalı araca çarpması neticesinde maddi hasarlı, ölümlü ve yaralamalı çift taraflı trafik kazası meydana geldiği, kaza tarihinde ---- plakalı aracın davalı ----adına kayıtlı olduğu, --- göre kaza tarihinde davalı ----plakalı aracın işleteni olduğu, davacının ---- tarihli trafik kazası nedeniyle uğramış olduğu maddi ve manevi zararından davalı ---- göre araç sürücüsünün kusuru oranında sorumlu olduğu, ----- aldırılan kusur raporuna göre kazanın meydana gelmesinde davalı ---adına kayıtlı araç sürücüsü müteveffa --- % 100 oranında tam ve asli kusurlu olduğu,
+Davacının ---- tarihli maddi hasarlı, ölümlü ve yaralamalı trafik kazası neticesinde yaralandığı, kazanın meydana gelmesinde davalı --- maliki ve işleteni olduğu --- plakalı araç sürücüsü müteveffa ---- % 100 oranında tam ve asli kusurlu olduğu, kaza ile davacıda meydana gelen maluliyet arasında uygun illiyet bağı bulunduğu, --- yazılı manevi tazminat koşullarının oluştuğu, davalı ----- davacının kaza nedeniyle talepte bulunduğu manevi tazminat alacağından sorumlu bulunduğu,
+Davalı şirkete ait aracın ticari araç olduğundan avans faizi talebinin yerinde olduğu,
+Kaza nedeniyle davacıda oluşan maluliyet oranı, davalı şirkete ait aracı kullanan müteveffa araç sürücüsünün % 100 asli kusurlu olduğu, kazanın meydana gelmesinde davacının yolcu konumunda bulunduğu araç sürücüsünün kusursuz olduğu, kazanın oluşumunda ve kaza nedeniyle yaralanmasında davacının müterafik kusurunun bulunmadığı, manevi tazminatın bir tarafı zenginleştirirken diğer tarafı fakirleştirmemesi gerektiği, paranın satın alma gücü, tarafların sosyal ve ekonomik durumu nazara alınarak davanın kısmen kabulüne dair karar vermek gerekmiş ve aşağıdaki şekilde hüküm kurulmuştur.
+HÜKÜM: Gerekçesi yukarıda açıklandığı üzere:
+1-Davanın KISMEN KABULÜ İLE;
+--- kaza tarihi olan--- tarihinden itibaren işleyecek avans faizi ile birlikte dava ---- alınarak davacıya verilmesine,
+2-Alınması gerekli olan 683,10 TL karar ve ilam harcının davalıdan alınarak hazineye irat kaydına,
+3-Davacının yargılama sırasında yapmış olduğu posta ve tebligat gideri 31,50 TL yargılama masrafının davalıdan alınarak davacıya verilmesine, davalı tarafça yapılan yargılama masraflarının kendi üzerlerinde bırakılmasına,
+4-Davacı taraf yargılama sırasında kendini vekille temsil ettirdiğinden hüküm tarihinde yürürlükte bulunan A.A.Ü.T uyarınca 5.100,00 TL avukatlık ücretinin davalıdan alınarak davacı tarafa verilmesine,
+5-Karar kesinleştiğinde, HMK Gider Avansı Tarifesinin 5. maddesi uyarınca artan gider avansının davacı tarafa; davalı tarafından yatırılan ve artan delil avansının kendisine iadesine,
+Dair, davacı vekilinin ve davalı ----- yüzüne karşı, diğerlerinin yokluğunda, gerekçeli kararın taraflara tebliğinden itibaren 2(iki) hafta içinde Mahkememize veya Mahkememize gönderilmek üzere bulunulan yer yada başka bir yer Asliye Ticaret Mahkemesine verilecek bir dilekçe ile başvurmak ve istinaf harç ve masraflarını karşılamak koşulu ile ----- Adliye Mahkemesi'ne istinaf yasa yolunun açık olduğu, istinaf dilekçesinde istinaf yoluna başvuru konusu edilen hususlar ile nedenlerinin belirtilmesinin gerektiği, istinaf yoluna başvurulmasının İİK'nın 36. maddesi saklı kalmak kaydıyla kararın icrasını durdurmayacağı, süresi içerisinde karara karşı istinaf yoluna başvurulmaması halinde hükmün kesin hüküm ve kesin delil oluşturacağı açıklanmak suretiyle açık duruşmada verilen karar açıkça okunup usulen anlatıldı. 12/04/2022

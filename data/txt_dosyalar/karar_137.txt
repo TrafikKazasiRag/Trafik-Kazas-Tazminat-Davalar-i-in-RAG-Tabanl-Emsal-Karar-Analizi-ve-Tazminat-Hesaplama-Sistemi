@@ -1,0 +1,31 @@
+SIRA NO: 137
+DOKÜMAN ID: 736840600
+DAİRE / MAHKEME: Antalya Bölge Adliye Mahkemesi 4. Hukuk Dairesi
+ESAS NO: 2022/575
+KARAR NO: 2022/293
+KARAR TARİHİ: 25.02.2022
+İÇERİK HASH (MD5): 7df30b64d886c806b920b9dd3aa32990
+===========================================================================
+
+T.C.
+ANTALYA
+BÖLGE ADLİYE MAHKEMESİ TÜRK MİLLETİ ADINA
+DÖRDÜNCÜ HUKUK DAİRESİ İSTİNAF KARARI
+İNCELENEN DOSYANIN
+MAHKEMESİ: ANTALYA 3. ASLİYE TİCARET MAHKEMESİ
+DAVA: Maddi ve Manevi Tazminat
+KARAR TARİHİ: 25/02/2022
+KARAR YAZIM TARİHİ: 25/02/2022
+Yukarıda tarih ve sayısı yazılı kararın istinaf edilmesi üzerinde dosya incelendi, gereği görüşülüp düşünüldü;
+Davacılar vekili;24.11.2014 tarihinde, davacı ... plaka sayılı aracı ile seyrederken, davalılardan ... ’ya ait, diğer davalı .... idaresindeki aracın hatalı U dönüşü yaparak kusuruyla müvekkili aracına çarptığını, müvekkilinin sol el işaret parmağından ve vücudunun muhtelif yerlerinden yaralandığını, acı ve ızdırap çektiğini, kaza tarihinden işleyecek en yüksek mevduat faiziyle birlikte 20.000 TL manevi tazminatın davalı sürücü ile işletenden, gelir kaybından dolayı şimdilik 1.000 TL maddi tazminatın ise tüm davalılardan tahsilini talep etmiştir.
+Davalı ... ; görev itirazının bulunduğunu, görevli mahkemenin Asliye Hukuk Mahkemeleri olduğunu, davanın usulden reddine karar verilmesini, kendisine ait .... plaka sayılı aracı kullananın diğer davalı .... seyir halinde iken yaralamalı trafik kazası meydana geldiğini ve davacının bu kaza nedeniyle yaralandığını ancak ağır yaralandığı ve işten çıkarıldığı iddialarını kabul etmediğini, kazada davacının ağır kusurlu olduğunu, davacının talep ettiği maddi ve manevi tazminat taleplerinde kusur indiriminin yapılmasını talep ettiğini, maddi ve manevi tazminat taleplerinin fahiş olduğunu beyan etmekle öncelikle davanın görev yönünden usulden reddine, maddi ve hukuki dayanaktan yoksun davanın reddine karar verilmesini talep etmiştir.
+Davaya davalı sigorta şirketi ve davalı ... usulüne uygun tebliğe rağmen cevap dilekçesi sunmadıkları anlaşılmıştır.
+Mahkeme ; karşı tarafın tam kusurlu olduğunu kabul edip, temin ettiği maluliyet raporlarına dayalı olarak, maddi tazminat hususunda sigortadan ödeme alınıp feragat edildiği için sözü edilen talebin reddine, 12.000 TL manevi tazminatın yasal faiziyle tahsiline karar vermiştir.
+Davalı araç maliki ... ; kararı kabul etmediğini, hükme esas alınan raporları kabul etmediğini, raporların denetime elverişli olmadığını, burada iş göremezlik süre ve oranlarının fazla belirlendiğini, ATK raporunun olay tarihinden 3 yıl sonra düzenlenmiş olmakla kaza ile illiyetli olmadığını, raporlar arasındaki çelişkinin giderildiğini, kusur raporuna da kabul etmediğini,maliki olduğu araç sürücüsüne verilen kusurun hatalı olduğunu, hal ve şartlara göre manevi tazminatın fahiş taktir edildiğini beyanla ilk derece mahkemesi kararının kaldırılmasını istemiştir.
+Davalılardan sürücü ....'te hükmü istinaf etmiş, daha sonra talebinden feragat etmiş, Dairemiz geri çevirme kararında anılan davalının istinaf başvurusundan feragat sebebiyle reddine karar vermiştir.
+Dava, trafik kazası sebebiyle tazminat istemine ilişkindir.
+Duruşma açılmasını gerektiren gerektiren sebep bulunmadığından HMK'nın 353. Ve 355. Maddeleri gereğince inceleme ve müzakereler kamu düzeni ve istinaf nedenleriyle sınırlı biçimde dosya üzerinden yürütülmüştür.
+Buna göre;
+Dosya içerisindeki bilgi ve belgelere, usule ve yasaya uygun gerektirici nedenlere, özellikle kanıtların toplanması ve değerlendirilmesinde bir usulsüzlük görülmemesine, mahkemenin ilamda yazılı şekilde ortaya koyduğu taktirine, kaza tespit tutanağı ve ceza dosyasında temin edilen kusur raporuna göre dönüş kurallarına uymayan ve solundan gelen aracın önüne aniden kontrolsüzce kıran davalı sürücünün tam kusurlu olduğu, davacının ise herhangi bir trafik kuralını ihlal etmemiş olduğunun anlaşılmasına, davacıdaki arazların dosyadaki tedavi belgelerine göre ATK tarafından usulü dairesinde tespit edilmiş olmasına, maluliyet hususunda çelişki bulunmamasına, davalının kusur ve maluliyet süre ve oranlarına lehine çevirebilecek somut savunma ve delilin bulunmamasına, hal ve şartlar ile dosyadaki delillere göre mahkemenin takdir ettiği manevi tazminat tutarının hakkaniyete uygun olmasına, mahkemenin değerlendirmesi ve vardığı neticede istinaf nedenleri yönüyle usul ve yasaya aykırı bir yön bulunmamasına, 6100 Sayılı HMK’nın 355.maddesi kapsamında yapılan inceleme neticesinde istinaf talebinin yerinde olmadığının anlaşılmasına göre davalı ...'in istinaf başvurusunun HMK’nın 353/1-b-1.madde ve bendi uyarınca esastan reddine karar verilmesi gerekmiştir.
+HÜKÜM :Gerekçesi yukarıda açıklandığı üzere;
+Davalı ....'in istinaf başvurusunun ESASTAN REDDİNE, bakiye 614,79‬ TL istinaf karar harcının bu davalıdan tahsili ile hazineye gelir kaydına, istinaf yargılama giderlerinin müstenif davalı üzerinde bırakılmasına, kararın İlk Derece Mahkemesi tarafından taraflara tebliğine, dair 25/02/2022 gününde, oy birliğiyle ve HMK'nın 362/1-a madde ve fıkrası uyarınca KESİN olarak karar verildi

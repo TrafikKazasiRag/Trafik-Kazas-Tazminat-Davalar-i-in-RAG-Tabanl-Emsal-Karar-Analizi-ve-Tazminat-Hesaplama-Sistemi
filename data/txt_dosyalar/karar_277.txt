@@ -1,0 +1,53 @@
+SIRA NO: 277
+DOKÜMAN ID: 910293200
+DAİRE / MAHKEME: Antalya Bölge Adliye Mahkemesi 4. Hukuk Dairesi
+ESAS NO: 2021/681
+KARAR NO: 2023/1044
+KARAR TARİHİ: 19.06.2023
+İÇERİK HASH (MD5): 6f2535cf420471bc15b330effc02341b
+===========================================================================
+
+T.C.
+ANTALYA
+BÖLGE ADLİYE MAHKEMESİ TÜRK MİLLETİ ADINA
+DÖRDÜNCÜ HUKUK DAİRESİ İSTİNAF KARARI
+İNCELENEN DOSYANIN
+MAHKEMESİ : ANTALYA 1. ASLİYE TİCARET MAHKEMESİ
+TARİHİ : 19/07/2018
+ASIL ANTALYA 1. ASLİYE TİCARET MAHKEMESİNİN
+... ESAS SAYILI DAVA DOSYASI BAKIMINDAN
+DAVA : Maddi Tazminat
+BİRLEŞEN ANTALYA 1. ASLİYE TİCARET MAHKEMESİNİN
+... KARAR SAYILI DAVA DOSYASI BAKIMINDAN
+DAVA : Maddi Tazminat
+KARAR TARİHİ : 19/06/2023
+KARAR YAZIM TARİHİ : 21/06/2023
+Taraflar arasındaki davanın yapılan yargılaması sonunda ilk derece mahkemesince verilen, yukarıda tarih ve numarası gösterilen kararına karşı birleşen dosya davacısı ... vekili tarafından istinaf başvurusunda bulunulmakla, dosyada duruşma yapılmasını gerektiren eksiklik görülmediğinden Hukuk Muhakameleri Kanunu'nun 353/1-b-1 maddesi uyarınca istinaf incelemesinin duruşmasız yapılmasına karar verilerek, dosya incelendi;
+GEREĞİ DÜŞÜNÜLDÜ
+DAVACI İSTEMİNİN ÖZETİ:
+Asıl davada davacı ... (... ) vekili dava dilekçesinde özetle; müvekkilinin dava dışı eşi ...'in sürücüsü olduğu ... plaka sayılı araç içerisinde yolcu iken, bu araçla davalı ...'nın sürücüsü, davalı sigorta şirketinin trafik sigortacısı olduğu ... plaka sayılı araç arasında meydana gelen trafik kazası sonucu müvekkilinin yaralandığından bahisle 5.000,00 TL maddi tazminatın 13/07/2012 olay tarihinden itibaren işleyecek yasal faiziyle birlikte davalılardan müştereken ve müteselsilen tahsiline karar verilmesini talep etmiş, ıslah dilekçesiyle geçici iş görmezlik talebini 4.533,18 TL, sürekli iş görmezlik talebini 98.436,90 TL'sına çıkarmıştır.
+Birleşen davada davacı ... vekili dava dilekçesinde özetle; davalı ...'in maliki, davalı ...'in sürücüsü, ... A.Ş.'nin trafik sigortacısı olduğu araç ile müvekkilinin sürücüsü olduğu ... plaka sayılı araç arasında meydana gelen trafik kazası sonucu müvekkilinin ciddi şekilde yaralandığı, aracın hasarlandığı ve değer kaybına uğradığından bahisle fazlaya ilişkin hakları saklı kalmak kaydıyla 1.000,00 TL değer kaybı ile 4.000,00 TL maluliyet zararının 13/07/2012 olay tarihinden itibaren işleyecek yasal faiziyle birlikte davalılardan müştereken ve müteselsilen tahsiline karar verilmesini talep etmiştir.
+DAVALI CEVABININ ÖZETİ:
+Asıl davada davalı ... A.Ş. (... Sigorta A.Ş.) vekili davaya cevap dilekçesinde özetle; müvekkili sigorta şirketinin sorumluluğunun sigortalının kusuru, poliçe limiti ve kapsamı ile sınırlı olduğu, manevi zarar ve tedavi masraflarının poliçe kapsamı dahilinde bulunmadığı, davadan önce müvekkili şirketin temerrüte düşürülmediği, davacının maluliyetini ve zararını ispat etmesi gerektiğini beyanla davanın reddini istemiştir.
+Asıl davada davalı ... vekili davaya cevap dilekçesinde özetle; trafik kazasının meydana gelmesinde davalı müvekkilinin bir kusurunun bulunmadığını beyanla davanın reddini istemiştir.
+Birleşen davada davalı ... A.Ş. vekili davaya cevap dilekçesinde özetle; müvekkili sigorta şirketi sorumluluğunun poliçe limitiyle sınırlığı olduğu, araç değer kaybı taleplerinin poliçe teminatına dahil bulunmadığı, davadan önce müvekkili sigorta şirketine başvuru yapılmadığını beyanla davanın reddini istemiştir.
+Birleşen davada davalılar ... ve ... (...) davaya cevap vermemiştir.
+DELİLLER :
+Trafik kazası tespit tutanağı, kusur raporu, tıbbi belgeler, maluliyet raporları, tazminat bilirkişisi raporu, araç değer kaybı raporları, Antalya 2. Sulh Hukuk Mahkemesinin ... değişik iş sayılı dosyası, Antalya 3. Asliye Ceza Mahkemesinin ... esas sayılı dosya örneği, tüm dosya kapsamı.
+İDM KARARININ ÖZETİ :
+İlk Derece Mahkemesince verilen kararda özetle; trafik kazasının meydana gelmesinde ...'nın %25, ...'in %85 oranında kusurlu olduğu, trafik kazası sonucu ...'in %17,2 oranında maluliyete uğrayacak ve iyileşme süresi 6 aya kadar uzayabilecek derecede yaralandığı, yine ...'nın aynı kaza sonucu iyileşme süresi 3 aya kadar uzayabilecek derecede yaralandığı, maluliyet halinin oluşmadığı, tazminat bilirkişisi tarafından asıl ve birleşen davada tarafların zararlarının belirlendiği, asıl dosya davacısı ...'in davalı ...'nın %25 kusuruna isabet eden 1.133,29 TL geçici ve 27.700,59 TL sürekli iş görmezlik zararını talep edebileceği, yine birleşen dosyada davacı ...'nın araç değer kaybının 1.700,00 TL olup, karşı tarafın %75 kusuruna göre 1.275,00 TL araç değer kaybı ile 1.694,75 TL geçici iş görmezlik zararı talep edebileceği gerekçesiyle asıl dava dosyasında; davacı ... (...)'nin maddi tazminat davasının kısmen kabulü ile 1.133,29 TL geçici iş göremezlik ve 27.700,59 TL daimi iş göremezlik olmak üzere toplam 28.833,88 TL maddi tazminatın 13/07/2012 olay tarihinden itibaren işleyecek yasal faizi ile birlikte (davalı ... A.Ş. yönünden dava tarihinden itibaren işleyecek yasal faizi ile birlikte ve poliçe limiti ile sınırlı olmak kaydıyla) tüm davalılardan müştereken ve müteselsilen alınarak davacı ... (...)'e verilmesine, davacının fazlaya ilişkin talebinin reddine, birleşen dava dosyasında; davacı ...'nın maddi tazminat davasının kısmen kabulü ile 1.694,75 TL geçici iş göremezlik tazminatının 13/07/2012 olay tarihinden itibaren işleyecek yasal faizi ile birlikte (davalı Tasfiye Halinde ... A.Ş. yönünden dava tarihinden itibaren işleyecek yasal faizi ile birlikte ve poliçe limiti ile sınırlı olmak kaydıyla) tüm davalılardan müştereken ve müteselsilen alınarak davacı ...'ya verilmesine, davacının fazlaya ilişkin talebinin reddine, davacı ...'nın araç değer kaybı maddi tazminat davasının kabulü ile 1.275,00 TL maddi tazminatın 13/07/2012 olay tarihinden itibaren işleyecek yasal faizi ile birlikte (davalı Tasfiye Halinde ... A.Ş. yönünden dava tarihinden itibaren işleyecek yasal faizi ile birlikte ve poliçe limiti ile sınırlı olmak kaydıyla) tüm davalılardan müştereken ve müteselsilen alınarak davacı ...'ya verilmesine karar verilmiştir.
+İSTİNAF NEDENLERİ :
+Birleşen dosya davacısı ... vekili istinaf dilekçesinde özetle; trafik kazasının meydana gelmesinde müvekkilinin bir kusuru bulunmadığı, kusurun hatalı belirlendiği, müvekkilinin trafik kazası sonucu sağ tarafında hareket kısıtlılığı meydana geldiği, yaşam kalitesinin oldukça düştüğü, beslenmesi sekteye uğradığından vücut direnci de düşerek bağışıklık sisteminin tamamen çöktüğü, müvekkilinin yaralanma derecesinin doğru belirlenmediği, geçici iş görmezlik zararının hesaplanmasında kullanılan net asgari ücretin yanlış tespit içerdiği ve hesaplamanın hatalı olduğunu beyanla ilk derece mahkemesi kararının kaldırılarak talepleri doğrultusunda karar verilmesini istemiştir.
+G E R E K Ç E
+Uyuşmazlık, asıl ve birleşen davada trafik kazasına bağlı yaralanma ve araç hasarı nedeniyle maddi ve manevi tazminat isteğine ilişkindir.
+Türk Borçlar Kanunu'nun 49. maddesi gereğince kasten veya taksirle başkasına zarar veren bu zararı gidermekle yükümlüdür. Bedensel zarara uğrayanların aynı kanunun 54. maddesi gereğince maddi tazminat ve aynı kanunun 56/1 maddesi gereğince manevi tazminat isteme hakları bulunmaktadır. 2918 Sayılı Karayolları Trafik Kanunu'nun 85. maddesi gereği motorlu araç işleteni doğan zararlardan sürücü ile birlikte müştereken ve müteselsilen sorumludur. 2918 Sayılı Karayolları Trafik Kanunu'nun 91, 97 ve 99. maddeleri gereği trafik kazasına ve zarara sebebiyet veren motorlu aracın zorunlu mali sorumluluk sigortacısı, yasa ve genel sigorta şartları kapsamına dahil maddi zararlardan işletenle birlikte müştereken ve müteselsilen sorumludur.
+Asıl dosya davalısı, birleşen dosya davacısı ...'nın sürücüsü olduğu araç ile birleşen dosya davalısı ...'in sürücüsü olduğu araç arasında meydana gelen trafik kazası sonucu asıl dosya davacısı ... ile birleşen dosya davacısı ... yaralanmış, aynı zamanda araçlar hasar görmüştür. Asıl ve birleşen dosyada davacılar uğradıkları maddi zararların tahsilini talep etmişler, ilk derece mahkemesince yapılan yargılama sonucunda asıl ve birleşen davanın kısmen kabulüne karar verilmiş, bu karara karşı 05/01/2021 tarihli dilekçeden anlaşıldığı üzere ... vekili tarafından birleşen dava dosyası yönüyle istinaf yasa yoluna başvurulmuştur.
+6100 Sayılı HMK.'nun 355. maddesi gereğince istinaf dilekçesinde gösterilen istinaf sebepleri ile sınırlı yapılan istinaf incelemesi sonucunda;
+Birleşen dosya davacısı ...'nın sürücüsü olduğu araç ile seyir halindeyken aracının hızını görüş mesafesi trafik durumu ve yolun şartlarına göre ayarlamadığı, diğer sürücünün hatalı olarak sola manevra yaptığında etkili fren tedbirine de başvurmadığı, bu haliyle araç sürücüleri olan ...'ya %25, ...'e %75 kusur izafe edilmesinin dosya kapsamına uygun olduğu, birleşen dosya davacısının maluliyet durumunun Adli Tıp Kurumu tarafından belirlendiği, davacının maluliyet halinin oluştuğu yolunda başkaca bir delil sunamadığı, gerek aktüerya hesabında ve gerek araç değer kaybı hesabında kullanılan hesaplama yönteminde hukuka aykırılık ve bir hata bulunmadığı dikkate alındığında, ilk derece mahkemesince taraflarca gösterilen delillerin toplanmasında, değerlendirilmesinde esas ve usul bakımından hukuka aykırılık bulunmadığı ve birleşen dosya davacısı ... vekilinin tüm istinaf nedenleri yerinde görülmediğinden 6100 Sayılı HMK'nun 353/1. fıkrası (b-1) bendi uyarınca istinaf başvurusunun esastan reddine karar verilmesi gerekmiştir.
+HÜKÜM : Gerekçesi yukarıda açıklandığı üzere;
+1-Birleşen dosya davacısı ... vekilinin tüm istinaf nedenleri yerinde görülmediğinden 6100 Sayılı HMK'nun 353/1. fıkra (b-1) bendi gereğince istinaf başvurusunun ESASTAN REDDİNE,
+2-Birleşen dosya davacısı ... tarafından peşin yatırılan 162,10 TL istinaf yoluna başvuru harcı ile (59,30 TL + 18,00 TL) 77,30 TL istinaf karar harcının Hazineye gelir kaydına, bakiye 102,60 TL istinaf karar harcının bu davacıdan alınarak Hazineye verilmesine,
+3-Yapılan istinaf yargılama giderlerinin birleşen dosya davacısı ... üzerinde bırakılmasına,
+4-Artan istinaf gider avansının karar kesinleştiğinde yatıranlara iadesine,
+İlişkin dosya üzerinde yapılan inceleme sonunda 19/06/2023 tarihinde 6100 Sayılı HMK'nun 361/1 ve 362/1-a maddeleri uyarınca kararın tebliğ tarihinden itibaren 2 hafta süre içinde Yargıtay İlgili Hukuk Dairesi nezdinde temyiz yolu açık olmak üzere oy birliği ile karar verildi.
+......

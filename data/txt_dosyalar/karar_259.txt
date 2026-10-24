@@ -1,0 +1,52 @@
+SIRA NO: 259
+DOKÜMAN ID: 531196100
+DAİRE / MAHKEME: Bakırköy 5. Asliye Ticaret Mahkemesi
+ESAS NO: 2017/579
+KARAR NO: 2019/1079
+KARAR TARİHİ: 08.10.2019
+İÇERİK HASH (MD5): 7056e20059d0a6edddfd7c211deb94e1
+===========================================================================
+
+T.C. BAKIRKÖY 5. ASLİYE TİCARET MAHKEMESİ
+ESAS NO : 2017/579 Esas
+KARAR NO : 2019/1079
+DAVA : Tazminat (Trafik Kazası ile ZMSS Poliçesinden Kaynaklanan)
+DAVA TARİHİ : 20/04/2017
+KARAR TARİHİ : 08/10/2019
+KARAR YAZIM TARİHİ : 10/10/2019
+Mahkememizde görülmekte olan Tazminat(Trafik Kazası ile ZMSS Poliçesinden Kaynaklanan) davasının yapılan açık yargılaması sonunda,
+GEREĞİ DÜŞÜNÜLDÜ:
+Davacı vekili dava dilekçesinde özetle; Davalıların işleten sürücü ve ZMSS sigortacısı olduğu ...... plakalı aracın sürücü .....'in sevk ve iradesinde iken 03/05/2014 tarihinde karıştığı kazada müvekkilinin yaralandığını, Bakırköy ...... Asliye Ceza Mahkemesi'nin .... esas sayılı dosyasından alınan bilirkişi raporunda müvekkilinin asli, davalının tali kusurlu olduğunun belirlendiğini, ancak kusur oranının yerinde olmadığını, müvekkilinin kaza nedeniyle tedavi gördüğünü, beden çalışma gücünü kaybettiğini, kaza nedeniyle manevi zararlarının oluştuğunu ileri sürerek, şimdilik 1.000,00TL maddi tazminat ile 3.000,00TL manevi tazminatın davalılardan avans faizi ile birlikte müştereken ve müteselsilen tahsiline karar verilmesini talep ve dava etmiştir.
+Davalı ..... A.Ş vekili cevap dilekçesinde özetle; 2918 sayılı kanunun 97.maddesi gereğince, başvuru yapılmadan dava açılmasının mümkün olmadığını, müvekkilinni sorumluluğunun sigortalının kusuru ve gerçek zarar ile sınırlı olduğunu, bu nedenle kusur ve maluliyet oranının Adli Tıp Kurumu'nca belirlenmesi gerektiğini, müvekkilinin daha önce temerrüde düşürülmemiş olması nedeniyle temerrüt faizinin yerinde olmadığını savunarak davanın usul ve esas yönünden reddine karar verilmesini istemiştir.
+Diğer davalılar davaya cevap vermemiş yazılı beyanlarında davanın reddini istemişlerdir.
+DELİLLER VE GEREKÇE:Dava, trafik kazasından kaynaklı maddi ve manevi tahsiline istemine ilişkindir. Mahkememizce yapılan sicil araştırmasında kazaya karışan ...... plakalı aracın kaza tarihi itibariyle davalı ..... adına kayıtlı olduğu anlaşılmıştır.
+2918 Sayılı Kanunun 97.maddesi gereğince kaza nedeniyle sigortaya başvurudan sonra dava açılması HMK'nın 115.maddesi gereğince giderilibelir dava şartı olduğundan mahkememizce ön inceleme duruşmasında sigortaya başvuruda bulunması için davacı vekiline süre verilmiş, davacı vekilince 10/01/2018 tarihinde sigorta şirketine başvuruda bulunulduğu, mahkememizce sonraki oturumda tespit edilmiş ve dava şartı eksikliği giderilmiştir.
+Mahkememizce tarafların ekonomik ve sosyal durumları manevi tazminata esas olacak şekilde ilgili zabıtadan istenerek dosyaya konulmuştur.
+Mahkememizce sigorta poliçeleri getirtilmiş dava tarihinden önce başvuruda bulunulmamasına rağmen dava tarihinden sonra sigorta şirketine başvuruda bulunulduğu 03/04/2018 tarihli duruşmada belirlenmiştir.
+Mahkememizce yapılan araştırmada kaza nedeni ile Bakırköy kapatılan ..... Asliye Ceza Mahkemesinin ..... esas sayılı dosyasında kamu davası açıldığı anlaşılmış olup getirtilen dosyanın incelenmesinde, .....'in trafik kazası sonucu cezalandırılması istemiyle kamu davası açıldığı mahkemece yapılan tespitte sürücünün tali, davacı ...... 'in asli kusurlu olduğu belirlenmiş ve TCK'nın 89/1.maddesi gereğince sanığın cezalandırılmasına karar verilerek hükmün açıklanmasının geri bırakılmasına karar verilmiştir. Katılan müdafii tarafından yargılamanın yenilenmesi yoluna başvuruda bulunmuş ise de mahkemece bu talebin reddine karar verilmiştir.
+Kaza sonucu davacının uğramış olduğu çalışma gücünün kaybını belirlenmesi amacıyla görülen tedavilere ilişkin tüm belgeler getirtilmiş, SSK tarafından kaza nedeniyle iadeye tabi herhangi bir ödeme yapılıp yapılmadığı sorulmuştur.
+Adli Tıp Kurumu .... İhtisas Kurulundan alınan maluliyet raporunun incelenmesinde, davacının geçirmiş olduğu trafik kazası nedeniyle meslekte kazanma gücünü kaybetmediği sürekli maluliyetinin bulunmdığı, iyileşme süresinin olaydan itibaren 3 aya kadar uzayabileceği anlaşılmıştır.
+Alınan raporun dosya kapsamındaki belgelere uygun olması üzerine mahkememizce ceza dosyası da değerlendirilmek suretiyle davacının maddi tazminat alacağı ile tarafların kusur oranının belirlenmesi amacıyla oluşturulan bilirkişi kurulundan 31/07/2019 tarihli rapor alınmıştır.
+Raporun incelenmesinde, kazanın oluşumunda davalı .....'in %25, davacının ise %75 oranında kusurlu olduğu, kalıcı maluliyet bulunmaması nedeniyle davacının gelirine göre 3 aylık iyileşme süresi için 675,31 TL olduğu bildirilmiştir.
+Rapor taraflara tebliğ edilmiş, davacı tarafından itiraz ileri sürülmemiş ..... tarafından ise kusur ve tedavi giderlerinden sorumlu olunmadığına ilişkin itirazda bulunulmuştur. Alınan kusur raporunun dosya kapsamındaki belgeler ve kesinleşmiş ceza mahkemesi kararına uygun olması nedeniyle kusura yönelik itiraz ile tedavi giderlerine ilişkin açıklanmış somut bir talep olmadığnıdan buna ilişkin davalı sigorta şirketi talebi yerinde görülmemiştir.
+Dosya kapsamındaki tüm delillerin birlikte değerlendirilmesinde davalı .....'in sürücüsü, .....'in işleteni olduğu ...... palaklı aracın 03/05/2014 tarihinde davacıya çarpması sonucu yaralamalı trafik kazası meydana geldiği, ceza mahkemesi yargılaması ile dosyamızda alınan kusur bilirkişi raporlarından davacının kazanın oluşumunda %75, davalı sürücünün ise %25 oranında kusurlu olduğu, sabit görülmüştür. Kaza sonucu davacı ATK .... İhtisas Kurlunun 30/11/2018 tarihli raporunda açıklandığı üzere davacının kalıcı maluliyetinin bulunmadığı, iyileşme sürecinin kaza tarihinden itibaren üç ay uzayabileceği belirlenmiştir. Kusurlu araç kaza tarihini kapsar şekilde davalı ..... AŞ tarafından karayolları ZMSS poliçesi ile sigorta örtüsü altına almış olduğundan ve meydana gelen zarar poliçe limiti ve teminatı kapsamında kaldığından davalı sürücü işleten ve ..... A.Ş maddi zarardan müştereken ve müteselsilen sorumlu tutularak, davacının davasının kısmen kabulü ile 675,31 TL'nin davalı davalılardan müştereken ve müteselsilen tahsiline karar verilmiştir.
+Manevi tazminat yönünden yapılan incelemede; Yukarıda açıklandığı üzere davalı sürücünün %25, davacının %75 kusurlu olduğu kazada davacının kalıcı maluliyeti bulunmayacak ancak üç ayda iyileşebilecek şekilde yaralandığı, sabittir. 6098 sayılı TBK.'nın 56. Maddesi gereğince bir kimsenin bedensel bütünlüğünün zedelenmesi durumunda olayın özellikleri göz önünde tutularak zarar görene uygun bir miktar paranın manevi tazminat olarak ödenmesine karar verilebileceği düzenlenmiştir. Belirtilen yasal düzenleme haksız fiilin doğurduğu sonucun ağırlığı, kazaya karışan tarafların kusur durumu ile tarafların ekonomik ve sosyal durumları, manevi tazminatın zenginleşme aracı olamayacağı ilkesi dikkate alındığında, davacının manevi tazminat talebinin kısmen kabulü ile takdiren 2.500,00TL, manevi tazminatın davalılar ..... ve ..... ten kaza tarihinden itibaren faizi ile birlikte tahsiline fazlaya ilişkin talebin reddine, manevi tazminatın karayolları ZMSS poliçesi kapsamında bulunmaması nedeniyle sigorta şirketine yönelik manevi tazminat isteminin reddine dair aşağıdaki şekilde hüküm kurma yoluna gidilmiştir.
+HÜKÜM:Gerekçesi yukarıda açıklandığı üzere;
+1-Davacının maddi tazminat davasının kısmen kabulü ile; 675,31TL alacağın davalılardan müştereken ve müteselsilen tahsili ile davacıya verilmesine, alacağın davalı ..... AŞ yönünden dava tarihi olan 20/04/2017 tarihinden davalılar ..... ve ..... yönünden ise kaza tarihi 03/05/2014 den itibaren yasal faiz uygulanmasına, fazlaya ilişkin talebin reddine,
+2-Davacının manevi tazminat talebinin kısmen kabulü ile takdiren 2.500,00TL manevi tazminatın kaza tarihi olan 03/05/2014 tarihinden itibaren işleyecek yasal faizi ile birlikte davalılar ..... ve .....'den müştereken ve müteselsilen tahsili ile davacıya verilmesine , fazlaya işlikin talep ile davalı sigorta şirketine yönelik manevi tazminat talebinin reddine,
+MADDİ TAZMİNAT YÖNÜNDEN
+3-Harçlar Kanunu'na göre belirlenen 46,13TL ilam harcından peşin alınan 529,41TL harcın mahsubu ile bakiye 483,28TL'nin karar kesinleştiğinde davacı tarafa iadesine,
+4-Davacı tarafından sarf edilen 1.500,00TL bilirkişi ücreti, 476,85TL posta masrafı, 31,40TL Başvuru Harcı, 46,13TL Peşin Harç toplamı olan 2.054,38TL den kabul red oranına göre hesaplanan 1.387,34TL'nin davalılardan müştereken ve müteselsilen alınarak davacıya verilmesine,
+5-Davalılar tarafından sarf edilen herhangi bir masraf bulunmadığından bu hususta karar verilmesine yer olmadığına
+6-Avukatlık Asgari Ücret Tarifesine göre hesaplanan 675,31TL vekalet ücretinin davalılardan alınarak kendisini vekille temsil ettiren davacıya verilmesine,
+7-Avukatlık Asgari Ücret Tarifesine göre hesaplanan 324,69TL vekalet ücretinin davacıdan alınarak kendisini vekille temsil ettiren ..... A.Ş vekiline verilmesine,
+MANEVİ TAZMİNAT YÖNÜNDEN
+8-Avukatlık Asgari Ücret Tarifesine göre hesaplanan 2.500,00TL vekalet ücretinin davalılar ..... ve .....'den alınarak kendisini vekille temsil ettiren davacıya verilmesine,
+9-Avukatlık Asgari Ücret Tarifesine göre hesaplanan 2.500,00TL vekalet ücretinin davacıdan alınarak kendisini vekille temsil sigorta vekiline verilmesine,
+10-HMK’nın 333. maddesi gereğince hükmün kesinleşmesinden sonra artan avansın taraflara iadesine,
+Dair davacı vekili ile davalı asılın yüzlerine karşı diğer tarafların yokluğunda gerekçeli kararın tebliğinden itibaren 2 hafta içerisinde İstanbul Bölge Adliye Mahkemesi nezdinde İstinaf yolu açık olmak üzere verilen karar açıkça okunup usulen anlatıldı.08/10/2019
+Katip ....
+¸e-imzalıdır
+Hakim ....
+¸e-imzalıdır
+*Bu belge 5070 sayılı Elektronik İmza Kanunu kapsamında e-imza ile imzalanmıştır.

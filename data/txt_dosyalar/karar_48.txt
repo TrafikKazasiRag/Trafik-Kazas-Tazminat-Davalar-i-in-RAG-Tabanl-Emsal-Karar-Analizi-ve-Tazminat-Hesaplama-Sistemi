@@ -1,0 +1,60 @@
+SIRA NO: 48
+DOKÜMAN ID: 716267400
+DAİRE / MAHKEME: Bursa 1. Asliye Ticaret Mahkemesi
+ESAS NO: 2019/361
+KARAR NO: 2020/913
+KARAR TARİHİ: 22.12.2020
+İÇERİK HASH (MD5): 460df683fa9492847a485a8b2189d726
+===========================================================================
+
+T.C. BURSA 1. ASLİYE TİCARET MAHKEMESİ
+TÜRK MİLLETİ ADINA
+T.C.
+BURSA
+1.ASLİYE TİCARET MAHKEMESİ GEREKÇELİ KARAR
+ESAS NO : 2019/361
+KARAR NO : 2020/913
+HAKİM : ... ...
+KATİP : ... ...
+DAVACI : ... - ...
+VEKİLİ : Av. ... -
+DAVALI : 1- ... -
+VEKİLİ : Av. ... -
+DAVALILAR : 2- ... - ...
+3- ... - ...
+...,
+DAVA : Tazminat (Ölüm Ve Cismani Zarar Sebebiyle Açılan Tazminat)
+DAVA TARİHİ : 22/04/2019
+KARAR TARİHİ : 22/12/2020
+GEREKÇELİ KARARIN
+YAZILDIĞI TARİH : 22/12/2020
+Mahkememizde görülen davanın açık yargılamasında,
+GEREĞİ DÜŞÜNÜLDÜ:
+Davacı vekili dava dilekçesinde ; 05/11/2018 tarihinde meydana gelen trafik kazasında davacının kullanımında bulunan motorsiklet ile davalı ...'nin kullanımında bulunan davalı ...'e ait 16 YY .... plakalı araç ile trafik kazası meydana geldiğini , bu kazada davalı araç sürücüsünün kusurlu olduğunu, kaza dolayısıyla davacının yaralanarak malul kaldığını, bu sebeple şimdilik 1.000,00 TL iş görememezlik ve SGK tarafından karşılanmayan tedavi giderinin davalılardan , yine 30.000,00 TL manevi tazminatın sigorta şirketi dışındaki davalılardan tahsilini talep ve dava etmişlerdir.
+Davalı vekili cevap dilekçesinde ; Eksik evrakla başvuru yapıldığını, dava şartının bu nedenle bulunmadığını, kazada kusur durumunun araştırılması gerektiğini, yine davacının maluliyeti varsa bununda ATK'dan rapor alınmak suretiyle araştırılması gerektiğini, tedavi giderlerininde SGK'dan sorumlu olduğunu, maluliyet tazminatı da hesaplanırken mevcut yasal düzenlemeler ve uygulamalar dikkate alınarak TRH 2010 yaşam tablosuna göre hesaplama yapılması gerektiği belirterek davanın reddine karar verilmesini talep etmişlerdir .
+Davalı ... 'ın usulüne uygun tebligat yapılmasına rağmen davaya cevap vermemiştir.
+Davalı ...'ın usulüne uygun tebligat yapılmasına rağmen davaya cevap vermemiştir.
+DELİLLERİN DEĞERLENDİRİLMESİ VE GEREKÇE: Eldeki dava trafik kazası biçiminde ortaya çıkan haksız fiil sebebiyle araçta meydana gelen değer kaybına ilişkin maddi tazminat davasıdır. Çözülmesi gereken hukuki sorun, kazada tarafların kusur durumu, davacı aracında meydana gelen değer kaybı tazminatı ve bunun sigorta teminatı kapsamında kalıp kalmadığının değerlendirilmesi, sigorta kapsamında ise ödenecek tazminatın belirlenmesidir.
+Bu amaçla bilirkişi incelemesi yaptırılması uygun görülmüştür. 09/12/2019 tarihli bilirkişi incelemesine göre ; Sürücü ... 'ın dava konusu Trafik kazasında 2918 sayılı Karayolları Trafik Kanununun 84/f 'Doğrultu Değiştirme Manevralarını Yanlış Yapma' maddesini ihlal ettiği ve %100 oranında kusurlu olduğu, sürücü ...'nin Dava konusu trafik kazasının oluşumunda herhangi bir trafik kural ihlali yapmadığından (Atfı Kabil Kusuru) olmadığına, ilişkin kanaatini bildirmiştir.
+Dosya kusur oranları konusunda maluliyet raporu aldırılmak üzere Bursa Uludağ Üniversitesi Adli Tıp Anabilim Dalına gönderilmiş olup; 27/01/2020 tarihli raporda ise; ... TC kimlik numaralı ... 'nin 05/11/2018 tarihinde meydana gelen trafik kazası ile sürekli engellilik halinin bulunduğunu ve engel oranının %7 (yüzde yedi) olduğunu, Tıbbi iyileşme süresinin olay tarihinden itibaren 9 (dokuz) aya kadar uzayabileceğini kanaati belirtilmiştir.
+Ancak bu aşamada davacı vekilince 16/07/2020 tarihli dilekçe sunularak Davalı ...Ş. ile 25.06.2020 tarihli Sulh Protokolü akdedildiğini, protokol doğrultusunda davalı ...Ş. tarafından davaya konu asıl alacak, işlemiş faiz, vekalet ücreti ve dava masrafının kendilerine ödendiğini, Davalı ...Ş'den tüm maddi tazminat kalemleri açısından hiçbir hak ve alacaklarının kalmadığını, davalı ... ile sulh olunarak karşılıklı ibralaşıldığını belirterek Axa Sigorta A.Ş yönünden davadan feragat ettiklerini, Diğer davalılar ... ve ... yönünden manevi tazminat taleplerinin devam ettiğini, buna karşın davalı ... vekilince 17/07/2020 tarihli dilekçe ile feragata muvafakat ettiklerini, AXA Sigorta A.Ş. lehine yargılama gideri ve vekalet ücreti taleplerinin olmadığını belirtir dilekçe verildiği görülmüştür.
+Yargılamanın devamı sırasında davacı vekili tarafından maddi tazminat ve ferilerine ilişkin taleplerinden feragat ettikleri yönünde beyanda bulunduğu görülmüştür. Dava açıldıktan sonra davadan feragat edilebilir. Davadan feragat, iki taraftan birinin (davacının) talep sonucundan vazgeçmesidir (HMK m. 307). Davadan feragat kesin bir hükmün hukuki sonuçlarını doğurur.(HMK m.311) Davacının maddi tazminat yönünden davasından (tamamen) feragat etmesi üzerine, mahkeme, davanın feragat nedeniyle reddine kararını verir.
+Davacının manevi tazminat yönünden yapılan değerlendirmesinde;
+Davacı trafik kazası nedeniyle yaralanmıştır. Gerek trafik kazasının oluşumu gerekse yaralanma davacıda manevi bir zarara yol açacağı ortadadır.
+6098 sayılı TBK m. 56 hükmüne göre hakimin özel halleri göz önünde tutarak manevi zarar adı ile hak sahibine verilmesine karar vereceği para tutarı adalete uygun olmalıdır. Hükmedilecek bu para, zarara uğrayanda manevi huzuru doğurmayı gerçekleştirecek, tazminata benzer bir fonksiyonu olan özgün bir nitelik taşır. Bir ceza olmadığı gibi, mamelek hukukuna ilişkin zararın karşılanmasını da amaç edinmemiştir. O halde, bu tazminatın sınırı onun amacına göre belirlenmelidir. Takdir edilecek miktar, mevcut halde elde edilmek istenilen tatmin duygusunun etkisine ulaşmak için gerekli olan kadar olmalıdır. 22.06.1966 günlü ve 7/7 sayılı Yargıtay İçtihadı Birleştirme Kararı'nın gerekçesinde takdir olunacak manevi tazminatın tutarını etkileyecek özel hal ve şartlar da açıkça gösterilmiştir. Bunlar her olaya göre değişebileceğinden hakim bu konuda takdir hakkını kullanırken ona etkili olan nedenleri de karar yerinde objektif ölçülere göre isabetli bir biçimde göstermelidir.
+Hakimin bu takdir hakkını kullanırken, ülkenin ekonomik koşulları, tarafların sosyal ve ekonomik durumları, paranın satın alma gücü, tarafların kusur durumu, olayın ağırlığı, olay tarihi gibi özellikleri gözönünde tutması ve buna göre manevi tazminat takdir edilmesi gerektiği açıkça ortadadır. (HGK 23/06/2004, 13/291-370)
+Davalı Sürücü ... 'ın dava konusu Trafik kazasında 2918 sayılı Karayolları Trafik Kanununun 84/f 'Doğrultu Değiştirme Manevralarını Yanlış Yapma' maddesini ihlal ettiği ve %100 oranında kusurlu olduğu, sürücü (davacı ) ...'nin Dava konusu trafik kazasının oluşumunda herhangi bir trafik kural ihlali yapmadığından (Atfı Kabil Kusuru) olmadığı, davacının sürekli engellilik halinin bulunduğunu ve engel oranının %7 (yüzde yedi) olduğunu, tıbbi iyileşme süresinin olay tarihinden itibaren 9 (dokuz) aya kadar uzayabileceğine neden olan dava konusu trafik kazası neden olan trafik kazası gözetildiğinde;
+Yukarıda belirtilen hususlar ve olay tarihi, tarafın yaşı, sosyo-ekonomik durumları, olayın ağırlığı, ortaya çıkan manevi üzüntü, kusur durumu dikkate alınarak 12.000,00 TL manevi tazminatın Davalılar ... ve ... 'dan dava tarihinden itibaren işleyecek yasal faizi ile birlikte müteselsilen alınıp davacılara verilmesine, fazlaya ilişkin istemin reddine hükmetmek gerektiği kabul edilerek davanın kısmen kabulüne karar verilmiş ve aşağıdaki şekilde hüküm fıkrası tesis edilmiştir
+Bu nedenle mahkememizce yapılan değerlendirmede; Gerek Adli Tıp Raporu gerekse dosyamız kapsamında aldırılan bilirkişi raporu incelendiğinde raporların hükme esas almaya yeterli görülerek davanın kabulüne dair aşağıdaki şekilde karar verilmiştir.
+HÜKÜM: Yukarıda açıklanan nedenlerle ;
+Davacı vekilince maddi tazminat taleplerinden feragat ettiklerinden maddi tazminat talepleri yönünden davanın feragat nedeniyle REDDİNE
+Davanın Manevi Tazminat Yönünden KISMEN KABULÜ ile, 12.000,00 TL manevi tazminat alacağının dava konusu 05/11/2018 kaza tarihinden itibaren işleyecek yasal faizi ile birlikte davalılardan müştereken ve müteselsilen tahsiline,
+Harçlar Yasası gereğince alınması gereken 819,72-TL karar harcının, peşin olarak alınan 105,89-TL harçtan mahsubu ile bakiye 713,83-TL harcın davalılar ... ve ...'dan tahsiline,
+Davacı tarafından yapılan 51,00-TL başvurma ve vekalet harcı + 354,00-TL posta ve tebligat gideri + 450,00-TL bilirkişi ücretinden oluşan toplam 804,00-TL yargılama gideri ile peşin olarak alınan 105,89-TL harcın kabul-red oranına göre hesaplanan 371,96-TL'nin davalılar ... ve ...'dan alınarak davacıya ödenmesine bakiyesinin davacı üzerinde bırakılmasına,
+Davalı tarafından yapılan yargılama giderinin kendi üzerinde bırakılmasına,
+Davacı vekili lehine takdir edilen 4.080,00-TL ücret-i vekaletin davalılar ... ve ...'dan alınarak davacıya verilmesine,
+Kesinleşme süreci tamamlanana kadar masraf avanslarının kullanılabileceği nazara alınarak kararın kesinleşmesinden sonra yazı işlerince yapılacak hesaba göre artan avansların yatıran tarafa iadesine Dair davacı vekili ve davalı asillerin yüzüne karşı kararın tebliğinden itibaren iki hafta süre içinde Bursa Bölge Adliye Mahkemesine İstinaf Yargı Yolu açık olmak üzere verilen karar açıkça okunup usulen anlatıldı. 22/12/2020
+İş bu kararın gerekçesi 22/12/2020 tarihinde yazılmıştır.
+Katip ... Hakim ...
+e-imzalıdır e-imzalıdır
+*Bu belge 5070 Sayılı Kanun Hükümlerine göre e-imza ile imzalanmıştır.*
