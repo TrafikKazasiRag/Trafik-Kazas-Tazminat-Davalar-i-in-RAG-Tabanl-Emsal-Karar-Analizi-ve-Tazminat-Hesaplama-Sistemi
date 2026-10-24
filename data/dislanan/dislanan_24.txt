@@ -1,0 +1,56 @@
+SIRA NO: 24 (DIŞLANAN - MALULIYET_ISGOREMEZLIK_YOK)
+DOKÜMAN ID: 1131918500
+DERECE: BAM (İstinaf)
+DAİRE / MAHKEME: Antalya Bölge Adliye Mahkemesi 13. Hukuk Dairesi
+ESAS NO: 2025/220
+KARAR NO: 2025/319
+KARAR TARİHİ: 08.04.2025 (Yıl: 2025)
+ARAMA KELİMESİ: trafik kazası maddi manevi tazminat kusur (v3)
+SAYFA NO: 1
+İNDİRME ZAMANI: 2026-10-25 00:16:44
+HESAP DOĞRULAMA ADAYI: False
+İÇERİK HASH (MD5): 100e5397464ee6612bc3850b915e575c
+================================================================================
+
+T.C.
+ANTALYA BÖLGE ADLİYE MAHKEMESİ
+13. HUKUK DAİRESİ
+TÜRK MİLLETİ ADINA
+İSTİNAF KARARI
+İNCELENEN DOSYANIN
+MAHKEMESİ: ALANYA ASLİYE TİCARET MAHKEMESİ
+TARİHİ: 18/02/2025
+DAVA: Maddi ve Manevi Tazminat
+KARAR TARİHİ: 08/04/2025
+KARAR YAZIM TARİHİ: 08/04/2025
+Taraflar arasındaki davanın yapılan yargılaması sonunda ilk derece mahkemesince verilen, yukarıda tarih ve numarası gösterilen kararına karşı davacı vekili tarafından istinaf başvurusunda bulunulmakla, dosyada duruşma yapılmasını gerektiren eksiklik görülmediğinden Hukuk Muhakameleri Kanunu'nun 353/1-b-1 maddesi uyarınca istinaf incelemesinin duruşmasız yapılmasına karar verilerek, dosya incelendi;
+GEREĞİ DÜŞÜNÜLDÜ
+DAVACI İSTEMİNİN ÖZETİ:
+Davacı vekili dava dilekçesinde özetle; 03/03/2023 tarihinde davalı ...'ın sürücüsü, davalı ...kayıtlı maliki ve davalı... trafik sigortacısı olduğu ...plaka sayılı aracın yolun karşısına geçmek isteyen davacıya çarptığı, bu kaza neticesinde davacının ağır bir şekilde yaralandığı ve yatağa bağlı olarak hayatını idame ettirdiği, trafik kazasının meydana gelmesinde davalı sürücünün tam kusurlu olduğundan bahisle belirsiz alacak davası şeklinde açılan davada şimdilik 100,00 TL geçici iş görmezlik, 100,00 TL sürekli iş görmezlik ve 100,00 TL tedavi masrafı olmak üzere 300,00 TL maddi tazminatın 28/03/2024 trafik sigortasına başvuru tarihinden itibaren işleyecek avans faizi ile birlikte tüm davalılardan müştereken ve müteselsilen, 50.000,00 TL manevi tazminatın 03/03/2023 kaza tarihinden itibaren işleyecek avans faizi ile birlikte davalılar ... ve... müştereken ve müteselsilen tahsiline karar verilmesini talep etmiştir.
+DAVALI CEVABININ ÖZETİ:
+Davalı ... vekili davaya cevap dilekçesinde özetle; 2918 Sayılı Karayolları Trafik Kanununun 97. maddesi uyarınca müvekkili sigorta şirketine usulünce yapılmış bir başvuru olmadığı, keza arabuluculuk sürecinde de davacı tarafça başkaca belge sunulmadığı, bu nedenle dava şartının gerçekleşmediği, müvekkili sigorta şirketinin sorumluluğunun sigortalı araç sürücüsünün kusuru, sigorta poliçe limiti ve kapsamı ile sınırlı olduğu, zararın ve kusurun usulüne uygun olarak tespiti gerektiği, tedavi gideri ve geçici iş görmezlik zararlarının poliçe limiti dahilinde olmadığı, müvekkilinin yasal faizle sorumlu tutulması gerektiğini beyanla davanın reddini istemiştir.
+Davalılar ...ve...davaya cevap dilekçelerinde özetle; trafik kazasının meydana gelmesinde kendilerinin bir kusuru olmadığı, yapılan ceza soruşturması sonrasında davalı ...'ın trafik kazasının meydana gelmesinde kusuru bulunmadığı için kovuşturmaya yer olmadığına dair karar verildiği, bu karara karşı yapılan itirazın sulh ceza hakimliği tarafından reddedildiği, davacı tarafın kendilerinden maddi ve manevi tazminat talep edemeyeceğini beyanla davanın reddini istemişlerdir.
+DELİLLER :
+Alanya Cumhuriyet Başsavcılığının ... soruşturma sayılı dosya örneği, vesayet ve davaya izin kararları, trafik kazası tespit tutanağı, kusur raporu, tedavi evrakları, sosyal ekonomik araştırma tutanağı, tüm dosya kapsamı.
+İDM KARARININ ÖZETİ :
+İlk Derece Mahkemesince verilen kararda özetle; yapılan ceza soruşturması sırasında davalı sürücünün kusuru bulunmadığı için kovuşturma yapılmasına yer olmadığına dair karar verildiği, yine Adli Tıp Kurumu Ankara Trafik İhtisas Dairesinden alınan raporda da davacı yayaya tam kusur izafe edildiği, bu nedenle davalı tarafın haksız fiil sorumluluğu şartlarının oluşmadığı gerekçesiyle davanın reddine karar verilmiştir.
+İSTİNAF NEDENLERİ :
+Davacı vekili istinaf dilekçesinde özetle; ilk derece mahkemesince mahallinde keşif yapılmadan dosya üzerinden alınan bilirkişi raporuna göre hüküm kurulduğu, Yargıtay içtihatları gereğince mahallinde keşif yapılması gerektiği, davalı araç sürücüsü ...'ın yüksek derecede numaralı gözlük kullandığı, göz bozukluk derecesinin araç kullanmaya engel teşkil edip etmediğinin araştırılmadığını beyanla ilk derece mahkemesi kararının kaldırılmasını istemiştir.
+İSTİNAFA CEVAP :
+Davalılar istinafa cevap vermemişlerdir.
+G E R E K Ç E
+Uyuşmazlık, trafik kazasına bağlı yaralanma nedeniyle maddi ve manevi tazminat isteğine ilişkindir.
+Türk Borçlar Kanunu'nun 49. maddesi gereğince kasten veya taksirle başkasına zarar veren bu zararı gidermekle yükümlüdür. Bedensel zarara uğrayanların aynı kanunun 54. maddesi gereğince maddi tazminat ve aynı kanunun 56/1 maddesi gereğince manevi tazminat isteme hakları bulunmaktadır. 2918 Sayılı Karayolları Trafik Kanunu'nun 85. maddesi gereği motorlu araç işleteni doğan zararlardan sürücü ile birlikte müştereken ve müteselsilen sorumludur. 2918 Sayılı Karayolları Trafik Kanunu'nun 91, 97 ve 99. maddeleri gereği trafik kazasına ve zarara sebebiyet veren motorlu aracın zorunlu mali sorumluluk sigortacısı, yasa ve genel sigorta şartları kapsamına dahil maddi zararlardan işletenle birlikte müştereken ve müteselsilen sorumludur.
+Davalıların sürücüsü, işleteni ve trafik sigortacısı olduğu araç yolun karşısına geçmek isteyen davacıya çarpmış, davacı meydana gelen trafik kazası sonucu yaralanmıştır. Davacı bu yaralanması nedeniyle uğradığı maddi ve manevi zararların tahsilini talep etmiş, ilk derece mahkemesince yapılan yargılama sonucunda davanın reddine karar verilmiş, bu karara karşı davacı vekili tarafından istinaf yasa yoluna başvurulmuştur.
+6100 Sayılı HMK.'nun 355. maddesi gereğince istinaf dilekçesinde gösterilen istinaf sebepleri ile sınırlı yapılan istinaf incelemesi sonucunda;
+Trafik kazası tespit tutanağında davalı araç sürücüsüne kusur verilmemiştir. Başlatılan ceza soruşturması sonrasında ise taksirle yaralamaya sebebiyet verme suçunun şikayete bağlı bir suç olduğu ve 6 aylık yasal süre içeresinde şikayet hakkının kullanılmadığı, ayrıca trafik kazası tespit tutanağında şüpheli sürücüye kusur verilmediği gerekçesiyle 18/10/2023 gün ve... soruşturma, ... karar sayılı kovuşturmaya yer olmadığına karar verilmiş, Alanya 2. Sulh Ceza Hakimliğinin 18/07/2024 gün ve ... değişik iş sayılı kararı ile şüpheli ...kusuru tespit edilemediğinden kovuşturmaya yer olmadığına dair karara karşı yapılan itirazın reddine karar verilmiştir.
+İlk derece mahkemesince Adli Tıp Kurumu Ankara Trafik İhtisas Dairesinden kusur raporu alınmış, 14/01/2025 tarihli raporda davacı yayanın yol kenarında park halindeki bir aracın önünden koşar halde yola girmek suretiyle sebebiyet verdiği trafik kazasında tam kusurlu olduğu mütalaa edilmiştir.
+Dava dosyası içeresinde yer alan ve kazanın oluşumunu gösteren CD incelendiğinde, davacının yolun sağında park halinde olan bir aracın yanında beklediği, bir aracın geçmesi ile birlikte koşar halde ve soldan gelen trafiği kontrol etmeksizin yola fırladığı, davalı sürücünün mahal şartlarına göre hızının fazla olmadığı ve yol içerisinde koşar haldeki yayayı gördüğü anda trafik kazasını engellemek için alabileceği bir tedbir bulunmadığı anlaşıldığından, meydana gelen trafik kazasında davacı yayanın tam kusurlu olduğu kanaatine ulaşılmış olup, ilk derece mahkemesince de aynı nedenle davanın reddine karar verilmesinde usul ve yasaya aykırı bir yön görülmemiştir.
+Hal böyle olunca, açıklanan nedenler ve tüm dosya içeriğine göre; ilk derece mahkemesince taraflarca gösterilen delillerin toplanmasında, değerlendirilmesinde esas ve usul bakımından hukuka aykırılık bulunmadığı ve davacı vekilinin tüm istinaf nedenleri yerinde görülmediğinden 6100 Sayılı HMK'nun 353/1. fıkrası (b-1) bendi uyarınca istinaf başvurusunun esastan reddine karar verilmesi gerekmiştir.
+HÜKÜM : Gerekçesi yukarıda açıklandığı üzere;
+1-Davacı vekilinin tüm istinaf nedenleri yerinde görülmediğinden 6100 Sayılı HMK'nun 353/1. fıkra (b-1) bendi gereğince istinaf başvurusunun ESASTAN REDDİNE,
+2-Davacı tarafından peşin yatırılan 1.683,10 TL istinaf kanun yoluna başvuru harcı ile 615,40 TL istinaf karar harcının Hazineye gelir kaydına,
+3-İstinaf yargılama giderlerinin davacı üzerinde bırakılmasına,
+4-Artan istinaf gider avansının karar kesinleştiğinde yatıranlara iadesine,
+İlişkin dosya üzerinde yapılan inceleme sonunda 08/04/2025 tarihinde 6100 Sayılı HMK'nun 361/1 ve 362/1-a maddeleri uyarınca kararın tebliğ tarihinden itibaren iki hafta süre içinde Yargıtay İlgili Hukuk Dairesi nezdinde temyiz yolu açık olmak üzere oy birliğiyle karar verildi.
+...

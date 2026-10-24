@@ -1,0 +1,54 @@
+SIRA NO: 61 (DIŞLANAN - MALULIYET_ISGOREMEZLIK_YOK)
+DOKÜMAN ID: 910878600
+DERECE: BAM (İstinaf)
+DAİRE / MAHKEME: İzmir Bölge Adliye Mahkemesi 11. Hukuk Dairesi
+ESAS NO: 2020/1917
+KARAR NO: 2023/958
+KARAR TARİHİ: 22.06.2023 (Yıl: 2023)
+ARAMA KELİMESİ: trafik kazası maddi manevi tazminat kusur (v3)
+SAYFA NO: 1
+İNDİRME ZAMANI: 2026-10-25 00:16:44
+HESAP DOĞRULAMA ADAYI: False
+İÇERİK HASH (MD5): 97383124da7fb26f88278f8d071e2574
+================================================================================
+
+T.C.
+İZMİR
+BÖLGE ADLİYE MAHKEMESİ
+11. HUKUK DAİRESİ
+DOSYA NO : 2020/1917
+KARAR NO : 2023/958
+T Ü R K M İ L L E T İ A D I N A
+B Ö L G E A D L İ Y E M A H K E M E S İ K A R A R I
+İNCELENEN KARARIN
+MAHKEMESİ : İZMİR 2. ASLİYE TİCARET MAHKEMESİ
+TARİHİ : 05.12.2019
+NUMARASI : 2017/90 E. 2019/1374 K.
+DAVANIN KONUSU : Tazminat
+KARAR TARİHİ : 22.06.2023
+KARAR YAZIM TARİHİ : 22.06.2023
+İzmir 2.Asliye Ticaret Mahkemesinin 05.12.2019 tarih 2017/90 E. 2019/1374 K. sayılı kararın Dairemizce incelenmesi davacı ve davalı ... tarafından istenmiş ve istinaf dilekçesinin süresi içinde verildiği anlaşılmış olmakla, üye ... tarafından düzenlenen rapor dinlenip ve yine dosya içerisindeki dilekçe, layihalar, duruşma tutanakları ve tüm belgeler okunup, incelendi.
+GEREĞİ DÜŞÜNÜLDÜ :
+DAVA : Davacı vekili, davalıların sürücüsü, maliki ve ZMM sigortacı olduğu araç ile aracın karıştığı trafik kazası neticesinde davacının yaralanarak maddi ve manevi zarara uğradığını, kusurun karşı tarafta bulunduğunu, davalıların zararı karşılama yükümlülüğü bulunduğunu, belirterek; fazlaya ilişkin hakları saklı kalmak kaydı ile şimdilik 5.000-TL maddi 50.000-TL manevi tazminatın tahsiline karar verilmesini talep ve dava etmiştir.
+CEVAP : Davalı ... vekili, davacının kusurlu olduğunu, yolu kontrol etmeden yola atlaması nedeniyle kazanın meydana geldiğini, aracın ZMMS poliçesi bulunduğunu, talep edilen maddi tazminat miktarından poliçe limitleri dahilinde ZMMS poliçesini tanzim eden davalı sigorta şirketinin sorumlu olduğunu, tazminat taleplerinin fahiş olduğunu, belirterek; davanın reddine karar verilmesini talep etmiştir.
+..., Biga Mahkemelerinin yetkili olduğunu, zarar görenin müterafik kusurlu olup olmadığının belirlenmesi için ceza davasının sonucunun beklenmesi gerektiğini, tazminat taleplerinin fahiş olduğunu, belirterek; davanın reddine karar verilmesini talep etmiştir.
+Davalı ... Sigorta vekili, davalı şirketin poliçe teminat limitleri ile sınırlı olduğunu, kusur ve sakatlık oranının tespitinden sonra gerçek zararın varlığı ve miktarının belirlenebilmesi için aktüeryal hesaplama yapılması gerektiğini, manevi tazminat talebinin teminat dışı olduğunu, dava açılmasına davalının sebebiyet vermediğini, davalıya usulüne uygun bir başvuru yapılmadığını, dava tarihinden itibaren yasal faiz talep edilebileceğini, belirterek; davanın reddine karar verilmesini talep etmiştir.
+İLK DERECE MAHKEMESİ KARARININ ÖZETİ : Mahkemece iddia, savunma, benimsenen bilirkişi raporu ve tüm dosya kapsamına göre, maddi tazminat yönünden dava konusuz kaldığını, davacı yararına 15.000,00-TL manevi tazminat tadir edildiğini belirterek; maddi tazminat yönünden konusuz kalan dava hakkında karar verilmesine yer olmadığına, manevi tazminat davasının davanın kısmen kabulüne, fazlaya ilişkin talebin reddine karar verilmiştir.
+Karara karşı davacı ve davalı ... tarafından istinaf yoluna başvurulmuştur.
+İSTİNAF NEDENLERİ : Davacı vekili, maddi tazminata ilişkin istinaf başvurusu bulunmadığını, davacı lehine hükmedilen 15.000,00-TL manevi tazminatın az olduğu, daha fazla miktarda manevi tazimanata hükmedilmesi gerektiğini, davacının kusursuz olduğunu, ceza dava dosyası kapsamında alınan raporda davalı sürücünün asli ve tam kusurlu olduğu kabul edilerek cezalandırıldığını, ceza dosyasından alınan bilirkişi raporundaki kusur izafesine iştirak edilmesi gerektiğini, belirterek; kararın kaldırılmasını talep etmişir.
+Davalı ..., kusur tespitini kabul etmediğini, davacının kontrolsüz şekilde yola çıktığını, kusurun davacıda olduğunu, yeniden kusur tespiti yapılması gerektiğini, davacının manevi tazminatına hak kazanmadığını belirterek; kararın kaldırılmasını talep etmişir.
+GEREKÇE : Dava, işletenin hukuki sorumluluğu ve ZMMS poliçesi kapsamında trafik kazası nedeni ile davacıların tazminat istemine ilişkin olup, ilk derece mahkemesince yukarıda yazılı gerekçeyle maddi tazminat yönünden konusuz kalan dava hakkında karar verilmesine yer olmadığına, manevi tazminat davasının davanın kısmen kabulüne, fazlaya ilişkin talebin reddine karar verilmiştir.
+1. Dairemizce HMK'nın 355. maddesi uyarınca istinaf nedenleriyle ve resen kamu düzenine ilişkin sebeplerle sınırlı olarak istinaf incelemesi yapılmıştır.
+2. 2918 sayılı Karayolları Trafik Kanunu'nun 85 ve 90. maddeleri ile trafik kazası nedeni ile yaralanan davacının oluşan manevi zararından, işleten sıfatına haiz araç maliki ve sürücünün, sigortalı araç sürücüsünün kusuru oranında sorumlu olduğu amirdir.
+3. Dava konusu olaya ilişkin İzmir 21. ASCM 'nin 2017/545 Esas sayılı dava dosyası kapsamında yapılan yargılamada davalı ...'ın asli kusurlu olduğu kabul edilerek cezalandırılması cihtetine gidlmek suretiyle hükmün açıklanmasının geri bırakılmasına karar verildiği, kararın 30.04.2019 tarihinde kesinleştiği anlaşılmıştır.
+4. Hükmün açıklanmasının geri bırakılması kararı 5271 sayılı CMK'nın 223. maddesinde sayılan hükümlerden değildir. Bu durumda davanın esasını çözen bir karar bulunmadığı için verilecek hüküm veya kararlarda lehe ve aleyhe sonuçtan da söz edilemeyecektir. (Yargıtay CGK'nun 03/05/2011 tarih ve 2011/4-61 E. - 2011/79 K., 06/10/2009 tarih ve 2009/4-169 E. - 2009/223 K.) Hukuk hakimi, ceza kararları karşısında kusurun varlığı ve derecesi, zarar miktarının tayini yönünden bağımsızdır. Maddi olgunun belirlenmesi yönünden ise “hükmün açıklanmasının geri bırakılması kararı”, kesinleşmiş bir ceza hükmü olmadığından, hukuk hakimini bağlamayacağının kabulü gerekir. ( Yargıtay HGK'nun 01.02.2012 tarih ve 2011/19-639 E. - 2012/30 K. )
+5. Davalıların sorumluluğunun belirlenebilmesi için olayın oluşumunda tarafların mevcut kusur durumun tespiti önem arz eder. Bu kapsamda, dosyaya kazandırılan açıklamalı, ayrıntılı, denetime elverişli bilirkişi raporu ile olaya ilişkin belirlenen maddi olgular çerçevesinde olayın oluş şekli ile uygun düşecek şekilde kusur atfını gerektiren sebeplerin somut olarak açıklanması suretiyle kusur değerlendirilmesi yapılarak davalı araç sürücüsünün % 75 oranında asli, davacının ise % 25 oranında tali kusurlu olduğunun tespitinde usul ve yasaya aykırı bir yön bulunmamaktadır.
+6. 6098 sayılı Borçlar Kanunu'nun 49. maddesi gereğince haksız bir eylem sonucunda zarara uğrayan kimse, uğradığı maddi ve manevi zararın ödetilmesini isteyebilir. Manevi tazminat, zarar görenin kişilik değerlerinde meydana gelen eksilmenin ( manevi zararın ) giderilmesi, tazmin ve telafi edilmesidir. Esasen manevi tazminat, ne bir ceza, ne de gerçek manasında bir tazminattır. Hükmedilecek bu para, zarara uğrayanda manevi huzuru doğurmayı gerçekleştirecek tazminata benzer bir fonksiyonu olan özgün bir nitelik taşır. O halde bu tazminatın sınırı onun amacına göre belirlenmelidir. Takdir edilecek miktar, mevcut halde elde edilmek istenilen tatmin duygusunun etkisine ulaşmak için gerekli olan kadar olmalıdır.(Yargıtay İBK 22/06/1966 tarih ve 1966/7 E. - 1966/7 K. sayılı ilamı) Olay nedeni ile davacının manevi zarara uğrayacağı yadsınamaz bir gerçekliktir. Maddi zararda olduğu gibi manevi tazminatta kesin bir hesabın yapılması olanaksızdır. Bunun için tazminat miktarı, somut olayın özelliği, kusur durumu, tarafların sosyal ve ekonomik durumları dikkate alınarak M.K.nun 4. maddesi uyarınca hakim tarafından takdir ve tayin edilir. Miktarın belirlenmesinde her olaya göre değişebilecek özel hal ve şartların bulunacağı da gözetilerek takdir hakkını etkileyecek nedenleri karar yerinde objektif olarak gösterilmelidir. Bu itibarla, davacının, maruz kaldığı bu acı ve elem ile yaşadığı sıkıntılar nedeniyle oluşan manevi zararına karşılık, takdir edilen manevi tazminat anılan ilke ve esaslar çerçevesinde makuldür.
+7. Açıklanan tüm bu hukuki ve maddi vakıalar karşısında; bilirkişi raporlarının hüküm kurmaya ve denetime elverişli olmasına, kusurun olayın oluş şeklline ve dosya kapsamına uygun olarak tespit edilmesine, davacının mevcut yaralanmasına uygun düşecek şekilde manevi tazminatın takdirine, tarafların iddia ve savunmaları ile dayandıkları belgelere, uyuşmazlığa uygulanması gereken hukuk kuralları ile hukuki ilişkinin doğru nitelendirilmesine, hükmün dairemizce de benimsenmiş bulunan yasal ve hukuksal gerekçeleriyle dayanağı maddî delillere ve özellikle bu delillerin takdirinde bir isabetsizlik görülmemesine göre, ilk derece mahkemesince verilen kararda bir hukuka aykırılık bulunmamakla, tarafların istinaf itirazları yerinde değildir.
+Bu durumda, istinaf kanun yoluna başvuranın dilekçesinde yer verdiği itirazların açıklanan gerekçe ışığında yerinde olmamasına, kararda kamu düzenine ilişkin bir aykırılık bulunmamasına, kararının usul ve esas yönünden hukuka uygun olmasına göre, duruşma açılmasına gerek görülmeyerek Hukuk Muhakemeleri Kanunu'nun 353/1-b-1 maddesi gereğince istinaf başvurusunun esastan reddine karar verilmesi gerekmiştir.
+H Ü K Ü M : Yukarıda açıklanan nedenlerle;
+1-Davacı ve davalı ...'ın istinaf başvurularının Hukuk Muhakemeleri Kanunu'nun 353/1-b-1 maddesi uyarınca ayrı ayrı ESASTAN REDDİNE,
+2-Davacı yönünden istinaf karar harcı olan 179,90-TL'den peşin alınan 54,40-TL'nin mahsubu ile eksik kalan 125,5‬0-TL'nin davacıdan tahsiline,
+3-Davalı yönünden istinaf karar harcı olan 1.024,65-TL'den peşin alınan 256,16-TL'nin mahsubu ile eksik kalan 768,49-TL'nin davalıdan tahsiline,
+3-İstinaf başvurusu nedeni ile davacı ve davalı ...'ın yaptığı giderlerin kendi üzerinde bırakılmasına,
+Dosya üzerinden yapılan inceleme neticesinde, HMK'nın 362/1-a maddesi uyarınca miktar itibariyle kesin olmak üzere 22.06.2023 tarihinde oy birliğiyle karar verildi.

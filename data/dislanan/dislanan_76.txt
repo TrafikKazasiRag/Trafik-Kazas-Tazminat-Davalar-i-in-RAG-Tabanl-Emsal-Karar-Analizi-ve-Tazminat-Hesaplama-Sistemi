@@ -1,0 +1,73 @@
+SIRA NO: 76 (DIŞLANAN - MALULIYET_ISGOREMEZLIK_YOK)
+DOKÜMAN ID: 977902400
+DERECE: İlk Derece Mahkemesi
+DAİRE / MAHKEME: Bursa 2. Asliye Ticaret Mahkemesi
+ESAS NO: 2022/21
+KARAR NO: 2023/1267
+KARAR TARİHİ: 07.12.2023 (Yıl: 2023)
+ARAMA KELİMESİ: trafik kazası maddi manevi tazminat kusur (v3)
+SAYFA NO: 1
+İNDİRME ZAMANI: 2026-10-25 00:16:45
+HESAP DOĞRULAMA ADAYI: True
+İÇERİK HASH (MD5): 81e0579d18d51cbe6d665fb4799a23f0
+================================================================================
+
+T.C. BURSA 2. ASLİYE TİCARET MAHKEMESİ Esas-Karar No: 2022/21 Esas - 2023/1267
+TÜRK MİLLETİ ADINA
+T.C.
+BURSA
+2. ASLİYE TİCARET MAHKEMESİ GEREKÇELİ KARAR
+ESAS NO : 2022/21 Esas
+KARAR NO : 2023/1267
+HAKİM :.....
+KATİP :....
+DAVACILAR : 1- ... - .... Yenibağlar Mah. 2.Haluk Sk. No:22 İç Kapı No:1 Osmangazi/ BURSA
+2- ... - ........ Yenibağlar Mah. 2.Haluk Sk. No:22 İç Kapı No:2 Osmangazi/ BURSA
+3- ... - ...... Yenibağlar Mah. 2.Haluk Sk. No:22 İç Kapı No:1 Osmangazi/ BURSA
+VEKİLİ : Av. ..... - [16906-09475-.....] UETS
+DAVALI : 1- ... SİGORTA ANONİM ŞİRKETİ - ..... [25999-50686-...] UETS
+VEKİLİ : Av. ..... - [16977-79451-..] UETS
+DAVALI : 2- ... - ..... Yenibağlar Mahallesi 2. Yalı Sk. No:11 K:2 Osmangazi/ BURSA
+VEKİLİ : Av....... - [16408-04267-.....] UETS
+DAVA : Tazminat (Ölüm Ve Cismani Zarar Sebebiyle Açılan Tazminat)
+DAVA TARİHİ : 06/01/2022
+KARAR TARİHİ : 07/12/2023
+KARAR YAZIM TARİHİ : 12/12/2023
+Mahkememizde görülmekte olan Tazminat (Ölüm Ve Cismani Zarar Sebebiyle Açılan Tazminat) davasının yapılan açık yargılaması sonunda,
+GEREĞİ DÜŞÜNÜLDÜ:
+DAVA:
+Davacılar vekili dava dilekçesi ile; müvekkillerin murisi İsmail Uçar, 01/03/2007 tarihinde Bursa İli, Osmangazi İlçesi, Bağlarbaşı Mahallesi üzerinde meydana gelen trafik kazası neticesinde vefat etmiştir. Kazanın meydana gelmesinde ... plakalı araç sürücüsü ... %100 kusurlu olduğunu, iş bu kazayla ilgili olarak Bursa Cumhuriyet Başsavcılığı'nın 2007/10103 Soruşturma numaralı dosyasından alınan kusura ilişkin bilirkişi raporu sonucunda; ... plakalı araç sürücüsü ...'nun tek ve tam kusurlu olduğu görüş ve kanaatine varıldığını, kaza yapan ve sürücüsü kusurlu olan ... plakalı aracın kaza tarihi itibariyle Trafik (ZMMS) Sigortası, davalı sigorta şirketi ... Sigorta Anonim Şirketi tarafından yapılmış olup, adı geçen sigorta şirketinden sorumluluk sınırı içerisinde maddi tazminat talep etmekteyiz. Sigorta şirketine 22/10/2021 tarihli dilekçe ile tazminat başvurusu yapılmış olmasına rağmen yasal süresi içinde tarafımıza herhangi bir ödeme yapılmadığını, ayrıca tarafımızca arabulucuya başvuru yapılmış ancak arabuluculuk görüşmesi de olumsuz sonuçlandığını, müvekkillerin murisin desteğinden yoksun kalmasından dolayı uğradığı maddi ve manevi zararların tazmini için bu davanın açılması zorunluluğu hasıl olduğunu, fazlaya ilişkin hakları saklı kalmak kaydı ile şimdilik; trafik kazasında ölenin desteğinden yoksun kalan annesi ... için 37.500,00 TL, ... için 11.250,00 TL ve ... için 11.250,00 TL olmak üzere TOPLAM 60.000,00 TL destekten yoksun kalma tazminatının olay tarihinden itibaren işletilecek yasal faizi ile birlikte davalılardan müteselsilen ve müştereken tahsiline, trafik kazasında vefat eden muris İsmail Uçar'ın mirasçıları olan ... için 30.000,00 TL, ... için 15.000,00 TL ve ... için 15.000,00 TL olmak üzere TOPLAM 60.000,00 TL manevi tazminatın olay tarihinden işletilecek faizi ile birlikte (sigorta şirketi hariç olmak üzere) davalılardan tahsiline, yargılama giderleri ve avukatlık ücretinin davalılardan müteselsilen ve müştereken tahisiline karar verilmesini talep ve dava etmiştir.
+CEVAP:
+Davalı GENERALI SİGORTA A.Ş. vekili cevap dilekçesi ile; davacının, sigorta tazminatı istemine yönelik tüm talepleri ve dava açma hakkının zamanaşımına uğradığını, uyuşmazlık konusu trafik kazasındaki tarafların gerçek kusurunun, ATK Trafik İhtisas Dairesi'nden alınacak bilirkişi raporu ile belirlenmesi gerektiğini, uyuşmazlık konusu trafik kazasında, ... plakalı araç sürücüsü, %100 asli ve tek kusurlu kişi olduğunu, zaten davaya konu trafik kazasında kendi kusuru ile vefat ettiğini, ortaya çıkacak her türlü destekten yoksunluk tazminatı, ZMMS Trafik Poliçesi teminatı kapsamı dışında olduğunu, davanın öncelikle zamanaşımndan reddine; aksi halde yapılacak yargılama neticesinde esastan reddine; yargılama giderleri ile vekalet ücretinin karşı tarafa yüklenmesine karar verilmesini talep etmiştir.
+Davalı ... vekili cevap dilekçesi ile; Huzurdaki davanın , taleplerin zaman aşımına uğraması sebebi ile reddi gerektiğini, uyuşmazlık konusu trafik kazası 01.03.2007 tarihinde meydana gelmiş olup, 10 yıllık zaman aşımı geçtikten sonra dava açıldığını, müvekkilinin müteveffa sürücü ...'nun geçmişte vasisi olması hasebiyle husumet yöneltilmesi halinde, müvekkilin vasilik görevi müteveffa sürücü ...'nun 18 yaşını bitirmesi/reşit olması sebebi ile kaza tarihinden önce (12.02.2007 tarihinde) son bulduğunu, işbu sebeple davanın müvekkili yönünden husumet yokluğu sebebi ile usulden reddi gerektiğini, müvekkilinin kazaya karışan ... plakalı aracın maliki olması hasebiyle husumet yöneltilmesi halinde; müvekkili, araçta miras sebebi ile 1/4 oranda hak sahibi olup diğer hak sahibi ...'na aralarında zorunlu dava arkadaşlığı olması sebebi ile husumet yöneltilmesi gerektiğinden ve işbu eksikliğin tamamlanmamış olması sebebiyle de huzurdaki davanın usulden reddi gerektiğini, mezkur kazaya karışan ... araç sürücüsü ... kusursuz olup, dolayısıyla herhangi bir sorumluluğumuz da bulunmadığını, kusuru kabul anlamına gelmemek kaydıyla kusurunun tespiti için Adli Tıp Kurumu Trafik İhtisas Dairesinden rapor alınmasını, mekzur kaza esnasında, davacı kazazedenin sigortalı araçta yolcu konumunda olması, emniyet kemerinin takılı olmaması ve yine sürücünün ehliyetsiz olduğunu bile bile araca binilmiş olması sebebiyle müterafik kusur indirimi yapılması gerektiğini, davanın husumet yokluğu sebebi ile usulden reddine, davada zorunlu dava arkadaşlığı olması ve eksikliğin giderilmemesi sebebi ile reddine, davanın esastan dahi reddine, yargılama gideri ve vekalet ücretinin davacılara tahmiline karar verilmesini talep etmiştir.
+KANITLAR:
+Sigorta poliçesi, hasar dosyası, ceza dosyası, Kaza tespit tutanağı, ATK raporu, vs.
+KANITLARIN DEĞERLENDİRMESİ VE HUKUKİ NİTELENDİRME :
+Dava, dava konusu kaza nedeniyle davacıların destekten yoksun kalma ve manevi tazminat taleplerinin yerinde olup olmadığı ve kusur oranlarının tespitine ilişkindir.
+Mahkememizce, davaya konu kazanın oluşumunda tarafların kusurlarının tespiti yönünden İstanbul Adli Tıp Kurumu Trafik İhtisas Dairesinden rapor alınmasına karar verilmiştir.
+Alınan 31.08.2022 tarihli ATK Trafik İhtisas Dairesi raporunda, Sürücü ...'in kusursuz olduğu, Sürücü ...'nün % 100 oranında kusurlu olduğu kanaatine varıldığı bildirilmiştir.
+Davacılar vekili 11.05.2023 tarihli duruşmada; maddi tazminat yönünden taleplerinin sigorta şirketi tarafından karşılandığını, manevi tazminat yönünden davanın devam ettiğini beyan etmiştir.
+Davalı sigorta şirketi tarafından 07.04.2023 tarihli dilekçede davacıların maddi tazminat talepleri bakımından tamamen konusuz kaldığı belirtilmiştir.
+Taraflarca maddi tazminat konusunda sulh olunduğu anlaşılmakla; davanın maddi tazminat talebi yönünden dava konusuz kaldığından esas hakkında karar verilmesine yer olmadığına karar verilmiştir.
+Davacı vekilinin manevi tazminat talebi yönünden değerledirildiğinde tarafların ekonomik ve sosyal durumları, kusur durumları, olayın meydana gelmesindeki etkileri, olay sonrası çekilen acı ve somut olayın özellikleri dikkate alınarak, davacıların manevi tazminat talebinin kısmen kabulü ile; davacı Kadriye uçar için 20.000,00 TL, davacı ... için 10.000,00 TL, davacı ... için 10.000,00 manevi tazminatın kaza tarihi olan 01/03/2007 tarihinden itibaren işleyecek yasal faiziyle birlikte davalı Fatma karagözoğlundan alınarak davacıya verilmesine karar verilerek aşağıdaki şekilde hüküm kurulmuştur.
+H Ü K Ü M : Yukarıda açıklanan nedenlere,
+1-Davanın maddi tazminat talebi yönünden dava konusuz kaldığından esas hakkında karar verilmesine yer olmadığına,
+2-Davacıların manevi tazminat talebinin KISMEN KABULÜ ile; davacı Kadriye uçar için 20.000,00 TL, davacı ... için 10.000,00 TL, davacı ... için 10.000,00 manevi tazminatın kaza tarihi olan 01/03/2007 tarihinden itibaren işleyecek yasal faiziyle birlikte davalı ...'ndan alınarak davacıya verilmesine,
+3-Harçlar yasası gereği alınması gereken 2.732,40-TL harçtan peşin alınan 409,86-TL harcın mahsubu ile bakiye 2.322,54-TL harcın davalıdan tahsiline,
+4-Davacı tarafından yapılan aşağıda dökümü yazılı 1.075,75-TL yargılama gideri üzerinden kabul red oranına gör hesaplanan 717,17-TL ile peşin alınan 409,86-TL harcın davalı ...'ndan alınarak davacıya verilmesine, bakiye giderlerin davacı üzerinde bırakılmasına,
+5-Manevi tazminat yönünden; Davacı yararına ölçümlenen 17.900,00-TL vekalet ücretinin davalı ...'ndan alınarak davacıya verilmesine
+6-Manevi tazminat yönünden; Davalı ... yararına ölçümlenen 17.900,00-TL vekalet ücretinin davacıdan alınarak bu davalıya verilmesine,
+7-Karar kesinleştiğinde taraflarca yatıralan avansın kullanılmayan kısmının HMK 333.md.uyarınca yatıranlarına iadesine
+Taraf vekillerinin yüzlerine karşı, kararın tebliğinden itibaren 2 hafta içerisinde İstinaf yolu açık olmak üzere karar verildi. 07/12/2023
+Katip ......
+¸e-imzalıdır
+Hakim ....
+¸e-imzalıdır
+Davacı gideri ;
+910,00 TL ATK rapor gideri,
+165,75 TL tebligat posta gideri
+1.075,75‬ TL toplam gider
+Güvenli elektronik imza ile onaylanmıştır.
+Aslının aynı olduğu tasdik olunur.
+Katip ........
+¸E-imzalıdır.

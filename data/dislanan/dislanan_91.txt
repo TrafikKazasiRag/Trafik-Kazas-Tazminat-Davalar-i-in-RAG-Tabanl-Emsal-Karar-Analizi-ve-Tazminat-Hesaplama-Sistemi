@@ -1,0 +1,57 @@
+SIRA NO: 91 (DIŞLANAN - KUSUR_KELIMESI_YOK)
+DOKÜMAN ID: 854858500
+DERECE: İlk Derece Mahkemesi
+DAİRE / MAHKEME: Ankara 10. Asliye Ticaret Mahkemesi
+ESAS NO: 2021/791
+KARAR NO: 2022/921
+KARAR TARİHİ: 26.12.2022 (Yıl: 2022)
+ARAMA KELİMESİ: trafik kazası aktüer bilirkişi raporu net tutar
+SAYFA NO: 8
+İNDİRME ZAMANI: 2026-10-25 00:35:44
+HESAP DOĞRULAMA ADAYI: False
+İÇERİK HASH (MD5): 3484a127854a77a4789a1194a54256f4
+================================================================================
+
+T.C. ... 10. ASLİYE TİCARET MAHKEMESİ Esas-Karar No: 2021/791 Esas - 2022/921
+TÜRK MİLLETİ ADINA
+T.C.
+...
+10. ASLİYE TİCARET MAHKEMESİ
+GEREKÇELİ KARAR
+ESAS NO : 2021/791 Esas
+KARAR NO : 2022/921
+HAKİM :...
+KATİP : ....
+DAVACI :....
+DAVALI :....
+DAVA : Tazminat (Ölüm Ve Cismani Zarar Sebebiyle Açılan Tazminat)
+DAVA TARİHİ : 06/03/2018
+KARAR TARİHİ : 26/12/2022
+KARAR YAZIM TARİHİ : 23/01/2023
+Mahkememizden verilen 11/02/2019 tarih ve 2018/179 esas 2019/81 karar sayılı kararı BAM ... Hukuk Dairesi'nin 18/11/2021 tarih, 2019/1271 esas 2021/2113 karar sayılı ilamıyla kaldırılmasına karar verilmiş olmakla, dava mahkememizin yukarıdaki esasına kaydı yapılarak yapılan açık yargılaması sonunda;
+DAVA:
+Davacı Vekili Dava Dilekçesinde Özetle; Davalı Axa Sigorta A.Ş. tarafından zorunlu mali mesuliyet sigortası ile güvence altına alınan miras bırakan Fettah Soyalan’ın sevk ve idaresindeki ... plakalı aracın lastiğinin patlaması sonucu direksiyon hakimiyetini kaybederek 09.10.2015 günü tek taraflı kazası sonucunda sürücünün yaşamını yitirdiğini, sürücünün vefatı nedeniyle davacının eş desteğini yitirdiğini, bu nedenle 19.12.2017 tarihinde davalıya başvuruda bulunduğunu halde bir ödemede yapılmadığını ileri sürerek, şimdilik 100,00TL maddi tazminatın kaza tarihinden itibaren işleyen ticari avans faizi ile birlikte; 31.10.2018 günlü ıslah dilekçesi ile de toplam 139.092,49TL bedelin kaza tarihinden itibaren işleyen ticari avans faiziyle birlikte davalıdan alınmasını istemiştir.
+CEVAP :
+Davalıya usulüne uygun davetiye tebliğ edilmesine rağmen yanıt sunmamış, duruşmalara katılmamış, önceki karar duruşmasından sonra Av. ... tarafından vekaletname sunulmuştur.
+DELİLLER :
+Davalı Sigorta Şirketinden Hasar Dosyası Ve Ödeme Belgeleri Getirtilmiş İncelenmiştir.
+Kaldırma İlamı Doğrultusunda Alınan 12.09.2022 Tarihli Aktüer Bilirkişi Ek Raporunda Özetle; Fettah Soyalan'ın 09.10.2015 tarihli trafik kazası sonucu hayatını kaybetmesi sonucu davacı Emsel Soyalan'ın; Ödeme tarihi itibariyle bilinen verilere göre net maddi zararının 115.320,94 TL olduğu (ödeme tarihi 02.05.2016, ödeme tutarı 114 450,74 TL'dir), Kök rapor tarihi (15.10.2018) itibariyle bilinen verilere göre bakiye maddi zararı bulunmadığı yönünde görüş ve kanaat bildirilmiştir.
+15.11.2022 Tarihli Aktüer Bilirkişi Ek Raporunda Özetle; TRH 2010 yaşam tablosu kullanılmak ve progresif rant usulü uygulanmak suretiyle yapılan hesaplamaya göre, Fettah Soyalan’ın 09.10.2015 tarihli trafik kazası sonucu hayatını kaybetmesi sonucu, davacı Emsel Soyalan’ın; ödeme tarihi itibariyle bilinen verilere göre maddi zararının 146.246,93 TL olduğu (ödeme tarihi 02 05.2016, ödeme tutarı 114.450,74 TL’dir), Kök rapor tarihi (15.10.2018) itibariyle bilinen verilere göre maddi zarannın 177.200,64 TL olduğu, yapılan ödemenin kök rapor tarihine kadar işlemiş yasal faiziyle birtikte tenzili sonrasında, davacının net destekten yoksun kalma zarannın 37.484,90 TL olduğu yönünde görüş ve kanaat bildirilmiştir.
+DELİL DEĞERLENDİRME VE HUKUKİ NİTELENDİRME:
+Dava, Trafik Kazası Sonucunda Oluşan Ölüm Nedeniyle Destekten Yoksun Kalma Tazminatı İstemine İlişkindir.
+Mahkememiz 2018/179 esas sayılı dosya üzerinden yapılan yargılamada davanın kabulüne karar verilmiş olup iş bu karara karşı istinaf kanun yoluna gidilmesi üzerine ... BAM 26. Hukuk Dairesi'nin 18/11/2021 tarih, 2019/1271 esas 2021/2113 karar sayılı ilamıyla "...Mahkemece, davacının eşi Fettah Soyaslan'ın ölümü nedeni ile davalı sigorta şirketine yaptığı başvuru sonrası oluşturulan doğru hasar dosyası getirtilerek, davacıya eşinin ölümü nedeni ile davadan önce ödeme yapılıp yapılmadığının saptanması, yapılmış ise yapılan ödemenin, ödeme tarihinde yeterli olup olmadığına dair rapor alınması gerekirken, bu konuda değerlendirme yapılmadan karar verilmesi doğru olmamıştır. Kabule göre de; davalı sigorta şirketi tarafından düzenlenmiş olan zorunlu mali mesuliyet sigortası poliçesinde sigortalının gerçek kişi olduğu, yine dosya kapsamına göre, sigortalı aracın ticari amaçla kullanıldığına dair bir bilgi veya belgeye rastlanmadığı, araç ruhsatına göre de aracın kullanımının hususi olduğu belirlenmekle, sigortalı aracın ticari niteliğinin bulunmaması nedeniyle, alacağa yasal faiz uygulanması gerektiği sabit olup, mahkemece avans faizine hükmedilmesi de usul ve yasaya aykırı görülmüştür...." gerekçesi ile mahkememiz kararının kaldırılmasına karar verilmiş olmakla, dava mahkememizin yukarıdaki esasına kaydı yapılarak yargılamasına başlanmıştır.
+Hasar Dosyası Dosyamız Arasına Alınmış, İncelenmesinde davacı murisi ile davalı arasındaki 06.01.2015-06.01.2016 tarihleri arasını kapsayan 93298385 poliçe numaralı zorunlu mali sorumluluk sigorta poliçesi ile davacı murisi adına kayıtlı ... plakalı özel aracın teminat altına alındığı anlaşılmaktadır. Davacının davalı sigorta şirketine başvurusu sonucu Davalı sigorta şirketi tarafından 9100671 numaralı hasar dosyası açıldığı, davalı sigorta şirketinin davacıya 02.05.2016 tarihinde 114.450,74 TL ödeme yaptığı, sunulan belge içeriğinden ödemenin davamız konusu olan destekten yoksun kalma tazminatına ilişkin olduğunun açık olduğu, mahkememizce alınan bilirkişi ek raporlarında da ödeme tarihi verileri dikkate alınarak yapılan hesaplamalarda davalı sigorta şirketinin davacıya yaptığı ödemenin ödeme tarihi itibariyle yeterli olduğu anlaşıldığından davanın ibra nedeniyle reddine karar vermek gerekmiştir.
+Davacı vekili davalının kötüniyetli olarak ödeme belgesini istinaf aşamasında sunduğu, yargılamanın uzaması ve gider yapılmasına sebep olduğu, bu sebeple davalı lehine vekalet ücretine hükmedilmemesi talep edilmişse de ödemeyi alan davacının bu ödemeden haberdar olmamasının imkansız olduğu, davacının haberdar olduğu ödemeye ilişkin belgenin dosyaya istinaf aşamasına kadar girmemesine sessiz kaldığı ve bu ödemeye ilişkin mahkemeye beyanda bulunmadığından bu hususta sadece davalının sorumlu olacağına ilişkin iddiasının haksız olduğu görülmekle davalı lehine vekalet ücretine hükmetmek de gerekmiş olup aşağıdaki şekilde hüküm tesisi yoluna gidilmiştir.
+HÜKÜM :
+Yukarıda açıklanan nedenlere, kararın dayandığı yasal ve hukuksal gerekçeye, dosyadaki kanıtlara göre;
+1-Davanın reddine;
+2-492 Sayılı Harçlar Kanunu gereğince, alınması gereken 80,70 TL maktu karar ve ilam harcının, peşin alınan 35,90 TL ile 595,00 TL tamamlama harcından indirilmesi ile arta kalan 550,20 TL’nin karar kesinleştiğinde ve talep halinde davacıya iadesine,
+3-Avukatlık Asgari Ücret Tarifesi uyarınca, davalı yararına hesaplanan 21.863,87 TL vekalet ücretinin davacıdan alınarak, kendisini vekil ile temsil ettiren davalıya verilmesine,
+4-Davacı tarafından yapılan yargılama giderinin üzerinde bırakılmasına,
+5-Taraflarca yatırılan gider ve delil avansının kullanılmayan kısmının karar kesinleştiğinde ve talep halinde taraflara iadesine,
+Dair, davacı ve davalı vekilinin yüzüne karşı, kararın tebliğinden itibaren iki hafta içinde ... Bölge Adliye Mahkemesinde İstinaf yolu açık olmak üzere verilen karar açıkça okunup usulen anlatıldı. 26/12/2022
+Katip ...
+✎ e-imzalıdır
+Hakim ....
+✎ e-imzalıdır
+*Bu belge 5070 sayılı Yasa hükümlerine göre elektronik olarak imzalanmıştır.

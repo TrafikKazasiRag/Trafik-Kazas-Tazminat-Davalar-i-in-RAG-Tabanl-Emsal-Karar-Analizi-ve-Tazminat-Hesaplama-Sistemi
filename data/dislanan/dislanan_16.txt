@@ -1,0 +1,48 @@
+SIRA NO: 16 (DIŞLANAN - MALULIYET_ISGOREMEZLIK_YOK)
+DOKÜMAN ID: 840417700
+DERECE: İlk Derece Mahkemesi
+DAİRE / MAHKEME: Bakırköy 5. Asliye Ticaret Mahkemesi
+ESAS NO: 2018/341
+KARAR NO: 2020/685
+KARAR TARİHİ: 17.12.2020 (Yıl: 2020)
+ARAMA KELİMESİ: trafik kazası maddi manevi tazminat kusur (v3)
+SAYFA NO: 1
+İNDİRME ZAMANI: 2026-10-25 00:16:44
+HESAP DOĞRULAMA ADAYI: False
+İÇERİK HASH (MD5): 6ca5777a75879880b374389349892042
+================================================================================
+
+T.C. BAKIRKÖY 5. ASLİYE TİCARET MAHKEMESİ
+ESAS NO : 2018/341 Esas
+KARAR NO : 2020/685
+DAVA : Tazminat (Ölüm Ve Cismani Zarar Sebebiyle Açılan Tazminat)
+DAVA TARİHİ : 02/04/2018
+KARAR TARİHİ : 17/12/2020
+KARAR YAZIM TARİHİ : 07/01/2020
+Mahkememizde görülmekte olan Tazminat (Ölüm Ve Cismani Zarar Sebebiyle Açılan Tazminat) davasının yapılan açık yargılaması sonunda,
+GEREĞİ DÜŞÜNÜLDÜ:
+Davacılar vekili mahkememize sunmuş olduğu dava dilekçesinde özetle; davalı sigorta şirketi tarafından zorunlu mali trafik sigortası düzenlenen, diğer davalı ......'a ait olan ....... plakalı aracın, davalı ......'ın sevk ve idaresinde iken 17/04/2017 tarihinde müvekkillerinin murisi ve desteği ......'e çarpması sonucunda vefat ettiğini, elim kazada ......'i kaybettiklerinden müvekkillerinin çok büyük sıkıntı ve güçlük çektiklerini belirterek müvekkilleri için müteveffanın eşi ..... için 70.000,00TL, müteveffanın oğlu .... için 30.000,00TL olmak üzere 100.000,00TL manevi tazminatın olay tarihinden itibaren işleyecek yasal faizi ile birlikte davalılar ...... ve ......'dan müştereken ve müteselsilen tahsiline, müvekkili ....... için fazlaya dair tüm haklarını saklı tutarak şimdilik 10.000,00TL destekten yoksun kalma tazminatının olay tarihinden itibaren işleyecek yasal faizi ile birlikte davalılardan müştereken ve müteselsilen tahsiline karar verilmesini talep ve dava etmiştir.
+Davalı ... Sigorta A.Ş.vekili cevap dilekçesinde özetle; Kazaya karışan ...... plakalı aracın ...... numaralı ZMSS ile teminat altına alındığını, müvekkilinin sorumluluğunun sigortalı araç sürücüsünün kusuru, gerçek zarar ve poliçe limiti ile sınırlı olduğunu manevi zararın teminat dışında olduğunu savunarak davanın reddini talep etmiştir.
+Davalılar ...... ve ...... vekilinin mahkememize sunmuş olduğu cevap dilekçesinde özetle; kazanın oluşumunda müvekkilinin kusuru bulunmadığını, davacının mirasçısının kırmızı ışıkta geçmesinin sebebiyet verdiğini belirterek davanın reddini talep etmiştir.
+Dava haksız fiilden kaynaklanan maddi ve manevi tazminat davaladırı.
+Davacı trafik kazası nedniyle 44.083,90 Tl olarak davalarını ıslah etmiştir
+Dava haksız fiilden kaynaklanan trafik kazası nedeniyle oluşan maddi manevi zarar talebi içerdiğinden,haksız fiil sorumluluğu da kusur sorumluluğu noktasında iridelenmesi gereken sorumluluklardan olmakla ,öncelikle trafik kazası nedenyile tarafların kusur oranlarına bakılmıştır.
+Yaptırılan incelemede davacı(müteveffa ...... 'in olay nedeniyle %70 kusurlu olduğu davalı tarafın (Sürücü ......''ın)%30 kusurlu bulunduğu belirlenmiştir.
+Kusur oranı olayın oluş şekliyle uyumulu bulunduğundan aksi itirazlar reddedilmiştir
+Davanın destek tazminatı olması nedeniyle Aktüer bilirkişiden alınan raporda destek tazminatına sahibi .......'ine hesaplanan aktif ve pasit dönem destek tazminatı toplamının müteveffanın %70 kusur oranına göre mahsubu yapıldığnıda 54.083,90 Tl olduğu belirlenen bu rakam kadrimaruf bulunmakla karara esas tutulmasına karar verilmiştir.
+Olayın oluş şekli ,tarafların kusurlarının dağılımı, tarafların kaza sonrasındaki tutum ve davranış,yaşanan elem ,keder,mağduriyetler,sosyal ekonomik durumlar ,manevi tazminat davasının zenginleştirme amacından ziyade elem kederin bir nebze de giderilmesine yönelik takdir edileceği dikkate alınarak adalet duygusunun zedelenmemesi maksadı ile hak ve nesafet kaideleri de gözetilerek takdiren davacı .... yönünden 30.000 Tl davacı .... ise 10.000 Tl olmak üzere toplam 40.000 Tl manevi tazminatına davalı asillerden müşterek mütesilsil tahsili ve kaza tarihinden işleyecek yasal faizi ile birlikte manevi tazminat davasının kısmen kabulu cihetine gidilmiş,aşağıdaki hüküm kurulmuştur.
+HÜKÜM-Yukarıda açıklanan nedenlerle;
+1-Davanın maddi tazminat yönünden KABULÜNE, 54.083,90TL maddi tazminatın davalılardan müşterek ve müteselsilen tahsiline, söz konusu maddi tazminata davalılar ...... ve ...... yönünden olay tarihinden, diğer davalı sigorta şirketi yönünden ise dava tarihinden itibaren işleyecek yasal faiz uygulanmasına,
+2-Davanın manevi tazminat yönünden KISMEN KABULÜNE, tarafların kusur oranları, sosyal ekonomik yapıları, olay nedeniyle duyulan elem kederin giderilmesinin temini maksadı ile hak ve nezafet gözetilerek davacı ....... yönünden 30.000TL, diğer davacı ....... yönünden ise takdiren 10.000TL olmak üzere toplam 40.000TL manevi tazminatın olay tarihinden itibaren işleyecek yasal faizi ile birlikte davalılar ...... ve ..... 'dan müşterek ve müteselsil tahsili davacı taraflara ödenmesine,
+3-Harçlar Kanunu'na göre belirlenen 3.694,47TL ilam harcından peşin alınan 753,00TL ıslah harcının mahsubu ile bakiye 2.941,47TL'nin davalılardan müştereken ve müteselsilen alınarak Hazine'ye irat kaydına,
+4-Davacılar tarafından sarf edilen 1.600,00TL bilirkişi ücreti, 338,40TL posta masrafı, 753,00TL ıslah harcı olmak üzere toplam 2.691,40TL'nin davalılardan müştereken ve müteselsilen alınarak davacılara verilmesine,
+5-Maddi Tazminat Yönünden; Avukatlık Asgari Ücret Tarifesine göre hesaplanan 7.830,90TL vekalet ücretinin davalılardan müştereken ve müteselsilen alınarak kendisini vekille temsil ettiren davacılara verilmesine,
+6-Manevi Tazminat Yönünden; Avukatlık Asgari Ücret Tarifesine göre hesaplanan 6.000,00TL vekalet ücretinin davalılar ......, ......'dan müştereken ve müteselsilen alınarak kendisini vekille temsil ettiren davacılara verilmesine,
+7-Manevi Tazminat Yönünden; Avukatlık Asgari Ücret Tarifesine göre hesaplanan 6.000,00TL vekalet ücretinin davacılardan alınarak kendisini vekille temsil ettiren davalılar ......, ......'a verilmesine,
+8-HMK’nın 333. maddesi gereğince hükmün kesinleşmesinden sonra artan avansın taraflara iadesine,
+Dair davacılar vekilinin yüzüne karşı gerekçeli kararın tebliğinden itibaren 2 hafta içerisinde İstanbul Bölge Adliye Mahkemesi nezdinde İstinaf yolu açık olmak üzere verilen karar açıkça okunup usulen anlatıldı.17/12/2020
+Katip .....
+¸e-imzalıdır
+Hakim ....
+¸e-imzalıdır
+*Bu belge 5070 sayılı Elektronik İmza Kanunu kapsamında e-imza ile imzalanmıştır.

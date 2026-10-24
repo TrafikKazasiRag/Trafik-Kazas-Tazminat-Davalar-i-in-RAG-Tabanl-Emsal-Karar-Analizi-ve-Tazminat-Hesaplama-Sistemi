@@ -1,0 +1,49 @@
+SIRA NO: 373 (ÇEKİRDEK)
+DOKÜMAN ID: 1042214600
+DERECE: İlk Derece Mahkemesi
+DAİRE / MAHKEME: İstanbul 11. Asliye Ticaret Mahkemesi
+ESAS NO: 2022/774
+KARAR NO: 2024/465
+KARAR TARİHİ: 26.06.2024 (Yıl: 2024)
+ARAMA KELİMESİ: sürekli iş göremezlik yıllık ücret bilinen gelir
+SAYFA NO: 7
+İNDİRME ZAMANI: 2026-10-25 01:08:04
+HESAP DOĞRULAMA ADAYI: False
+İÇERİK HASH (MD5): 9b92d2776a04ef876d6b672910b4d3af
+================================================================================
+
+T.C.
+İSTANBUL
+11. ASLİYE TİCARET MAHKEMESİ
+ESAS NO:2022/774 Esas
+KARAR NO :2024/465
+DAVA:Tazminat (Ölüm Ve Cismani Zarar Sebebiyle Açılan Tazminat)
+DAVA TARİHİ:18/11/2022
+KARAR TARİHİ:26/06/2024
+Mahkememizde görülmekte olan Tazminat (Ölüm Ve Cismani Zarar Sebebiyle Açılan Tazminat) davasının yapılan açık yargılaması sonunda,
+GEREĞİ DÜŞÜNÜLDÜ:
+Davacı vekili dava dilekçesinde özetle; müvekkilinin 05.02.2022 günü sürücü... sevk ve idaresinde bulunan ... plakalı aracın neden olduğu kaza neticesinde yaralandığını, olay esnasında müvekkilinin yaya olduğunu, kaza nedeniyle müvekkilinin tedavi olduğunu, kaza sonrasında müvekkilinin sürekli iş göremezlik raporu aldığını ve rapora göre müvekkilinin engellilik oranının %18 olduğu ve 6 aya kadar geçici iş göremezlik süresi olacağı ve bakıcı ihtiyacının 3 ay olacağının tespit edilmiş olduğunu, davalı sigorta şirketine başvuru yaptıklarını ancak ödeme yapılmadığını beyanla 100,00 TL sürekli iş göremezlik tazminatı, 100,00 TL geçici iş göremezlik tazminatı ve 100,00 TL bakıcı gideri olmak üzere toplam 300,00 TL tazminatın 04.10.2022 tarihinden itibaren işleyecek yasal faiziyle davalıdan alınarak müvekkiline verilmesine karar verilmesini talep ve dava etmiştir.
+Davacı vekili 13/03/2024 tarihli ıslah dilekçesi ile; sürekli iş göremezlik talebini 417.000,95 TL'ye, geçici iş göremezlik talebini 24.498,31 TL'ye ve bakıcı gideri talebini 9.757,80 TL'ye yükseltmiştir.
+Davalı ise; müvekkili şirkete yapılmış usulüne uygun bir başvuru bulunmadığından davanın usulden reddinin gerektiğini. tedavi giderleri, bakıcı giderleri ve geçici iş göremezlik taleplerinin Sosyal Güvenlik Kurumu'na yöneltilmesi gerektiğini, iş göremezlik oranının Adli Tıp Kurumu tarafından belirlenmesi gerektiğini, iddia edilen maddi zarar konusunda bilirkişi incelemesi yapılması gerektiğini, kusur oranlarının tereddüte yer vermeyecek şekilde ve oransal olarak belirlenmesi gerektiğini, davacının gelirinin vergi veya SGK kayıtları ile ispatlanması gerektiğini ve SGK ödemesi varsa araştırılması gerektiğini beyanla davanın reddini savunmuştur.
+GEREKÇE:
+Dava; trafik kazasından kaynaklı maddi tazminat davasıdır.
+Olay; 05/02/2022 tarihinde davalının sigortaladığı araç sürücüsünün davacıya çarpması neticesinde davacının yaralanmasıdır.
+Kusur; davalının sigortaladığı araç sürücüsünün yaya geçidine yaklaşması esnasında tedbirli davranıp hızını azaltmadığına ve yayayı gördüğünde etkin fren tedbiri uygulamadığına, bu nedenle %65 oranında kusurlu olduğuna; davacının da yaya yolunu kullanmayıp yakınından karşıya geçmeye çalıştığına ve yolu dikkatlice kontrol etmediğine, bu nedenle %35 oranında kusurlu olduğuna işaret eden bilirkişi raporu aynı gerekçelerle benimsenmiştir.
+Maluliyet; olay tarihindeki yönetmelik hükümlerine ve Yargıtay içtihatlarına uygun olarak düzenlenen maluliyet raporuna göre davacının sürekli iş göremezlik oranının %5, geçici iş göremezlik süresinin 9 ay ve bakıcıya muhtaçlık süresinin 3 ay olduğu anlaşılmıştır.
+Zarar; miktarının tespiti özel ve teknik inceleme gerektirdiğinden bilirkişi raporu alınmıştır. TRH-2010 Yaşam Tablosuna ve bilinen güncel ücrete göre hesap yapan aktüer bilirkişi raporu gerekçeli ve denetime elverişli bulunmakla benimsenmiş, taleple bağlılık ilkesi çerçevesinde aşağıdaki şekilde karar vermek gerekmiştir.
+HÜKÜM: Gerekçede açıklandığı üzere;
+Davanın KABULÜ ile;
+1-417.000,95 TL sürekli iş göremezlik tazminatının 15/10/2022 tarihinden itibaren işleyecek yasal faizi ile birlikte davalıdan ( davalı sigorta şirketinin sorumluluğu " Sakatlanma ve Ölüm Teminatı " limiti olan 500.000,00 TL ile sınırlı olmak üzere ) alınarak davacıya verilmesine,
+2-24.498,31 TL geçici iş göremezlik tazminatının 15/10/2022 tarihinden itibaren işleyecek yasal faizi ile birlikte davalıdan ( davalı sigorta şirketinin sorumluluğu " Sağlık Gideri Teminatı " limiti olan 500.000,00 TL ile sınırlı olmak üzere ) alınarak davacıya verilmesine,
+3-9.757,80 TL bakıcı gideri tazminatının 15/10/2022 tarihinden itibaren işleyecek yasal faizi ile birlikte davalıdan ( davalı sigorta şirketinin sorumluluğu " Sağlık Gideri Teminatı " limiti olan 500.000,00 TL ile sınırlı olmak üzere ) alınarak davacıya verilmesine,
+4-Alınması gerekli 30.825,37 TL karar ve ilam harcından peşin yatırılan 80,70 TL harcın ve 1.542,00 TL ıslah harcının mahsubu ile geriye kalan 29.202,67 TL eksik harcın davalıdan alınıp Maliye'ye gelir kaydına,
+5-6325 Sayılı Hukuk Uyuşmazlıklarında Arabuluculuk Kanunu ve Arabuluculuk Kanunu Yönetmeliği gereğince Adalet Bakanlığı bütçesinden ödenen 3.120,00 TL arabulucu ücretinin davalıdan alınarak Maliye'ye gelir kaydına,
+6-Davacı taraf vekille temsil olunduğundan, Avukatlık Asgari Ücret Tarifesi uyarınca hesap ve takdir olunan 69.175,99 TL vekalet ücretinin davalıdan alınıp davacıya verilmesine,
+7-Davacı tarafından yapılan 7.129,15 TL ( 80,70 TL başvuru harcı, 80,70 TL peşin harç, 1.542,00 TL ıslah harcı, 11,50 TL vekalet harcı, 5,000,00 TL bilirkişi ücreti ve 414,25 TL posta masrafı ) yargılama giderinin davalıdan alınıp davacıya verilmesine,
+8-Taraflarca yatırılan gider avansından geriye kalanın karar kesinleştikten sonra ilgilisine iadesine,
+Dair, gerekçeli kararın tebliğinden itibaren 2 hafta içerisinde İstanbul Bölge Adliye Mahkemesi'nde istinaf yolu açık olmak üzere taraf vekillerinin yüzüne karşı verilen karar açıkça okunup, usulen anlatıldı. 26/06/2024
+Katip ...
+e-imzalıdır
+Hakim ...
+e-imzalıdır
+Bu belge 5070 sayılı Yasa uyarınca güvenli E-İMZA ile imzalanmıştır.

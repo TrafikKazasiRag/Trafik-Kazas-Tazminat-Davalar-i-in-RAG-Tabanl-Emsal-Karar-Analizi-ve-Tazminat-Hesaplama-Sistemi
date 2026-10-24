@@ -1,0 +1,55 @@
+SIRA NO: 348 (ÇEKİRDEK)
+DOKÜMAN ID: 1033661500
+DERECE: İlk Derece Mahkemesi
+DAİRE / MAHKEME: Ankara 1. Asliye Ticaret Mahkemesi
+ESAS NO: 2022/764
+KARAR NO: 2024/267
+KARAR TARİHİ: 20.05.2024 (Yıl: 2024)
+ARAMA KELİMESİ: sürekli iş göremezlik yıllık ücret bilinen gelir
+SAYFA NO: 4
+İNDİRME ZAMANI: 2026-10-25 01:00:40
+HESAP DOĞRULAMA ADAYI: False
+İÇERİK HASH (MD5): 1f58cf882604dc7deb68d52ab9df3f35
+================================================================================
+
+T.C. ANKARA 1. ASLİYE TİCARET MAHKEMESİ Esas-Karar No: 2022/764 Esas - 2024/267
+T.C.
+ANKARA
+1. ASLİYE TİCARET MAHKEMESİ
+TÜRK MİLLETİ ADINA
+GEREKÇELİ KARAR
+ESAS NO : 2022/764 Esas
+KARAR NO : 2024/267
+HAKİM : ...
+KATİP :...
+DAVACI ....
+VEKİLİ : Av. ....
+DAVALI :....
+VEKİLİ : Av. ....
+DAVA : Tazminat (Ölüm Ve Cismani Zarar Sebebiyle Açılan Tazminat)
+DAVA TARİHİ : 08/11/2022
+KARAR TARİHİ : 20/05/2024
+Mahkememizde görülmekte bulunan Tazminat (Ölüm Ve Cismani Zarar Sebebiyle Açılan Tazminat) davasının yapılan açık yargılaması sonunda;
+GEREĞİ DÜŞÜNÜLDÜ :
+TALEP :
+Davacı vekilince sunulan dava dilekçesinde özetle; müvekkilinin 24/09/2022 tarihinde ... plakalı motosikleti ile seyir halindeyken davalı şirket sigortalısı ... plakalı aracın aniden yola çıkması neticesinde çift taraflı yaralanmalı kaza meydana geldiğini, müvekkilinin ağır yaralandığını, kaza tespit tutanağına göre sigortalı araç sürücüsünün asli ve tam kusurlu olduğunu, maddi zararlarının karşılanması için davalı sigorta şirketine 07/11/2022 tarihinde başvuruda bulunulduğunu ancak ödeme yapılmadığını beyan ederek, fazlaya ilişkin dava ve talep hakları saklı kalmak kaydı ile 100,00-TL sürekli iş göremezlik tazminatının kaza tarihinden itibaren işleyecek asal faiz ile birlikte tazminine, yargılama giderleri ve vekalet ücretinin davalı üzerine bırakılmasına karar verilmesini dava ve talep etmiştir.
+CEVAP :
+Davalı vekilince sunulan cevap dilekçesinde özetle; davadan önce müvekkili şirkete usulüne uygun başvurunun yapılmadığını bu nedenle dava şartı yokluğundan davanın reddine karar verilmesi gerektiğini, ... plakalı aracın müvekkili nezdinde sigortalı olduğunu ve azami sakatlık teminatının kişi başına 1.000.000,00-TL olduğunu, davacının maluliyet iddiasının ispata muhtaç olduğunu, kazadaki kusur oranlarının tespitinin gerektiğini beyan ederek, davanın öncelikle usulden reddine, esasa girilmesi halinde esastan reddi ile yargılama giderleri ve vekalet ücretinin davacı üzerinde bırakılmasına karar verilmesini talep etmiştir.
+GEREKÇE :
+Dava, Tazminat İstemine İlişkindir.
+Taraflar arasındaki ihtilafın; Davacı sevk ve idaresindeki ... plakalı motorsiklet ile davalı şirket tarafından sigortalı ... plakalı aracın geçirmiş olduğu trafik kazası neticesinde davacının davalıdan meydana gelen zarar nedeni ile sürekli iş göremezlik tazminatı talep edip edemeyeceği, edebilecek ise miktarı noktasında toplanmıştır.
+Mahkememizce, sgk kayıtları, hasar dosyası, poliçe, hastane evrakları, tescil kayıtları dosya arasına alınmış, davacının dava konusu kaza nedeni ile maluliyet oranın tespiti amacıyla .... müzekkere yazılmış, gelen yazı müzekkere cevabında 24/09/2022 tarihli trafik kazasına bağlı kişinin bedensel engel oranının %5 (yüzde beş) olduğu, sekel halini aldığı ve sürekli olduğu, kaza nedeniyle kişinin tedavisine başlanmasından itibaren tedavi süresince ortaya çıkan bakıcı ihtiyaç süresinin 1 (bir) ay olduğu, Tıbbi iyileşme süresinin 4 (dört) aya kadar uzayabileceği rapor edilmiştir.
+Dava konusu kazada, tarafların kusur oranlarının tespiti amacıyla dosya bilirkişiye tevdi edilmiş, bilirkişi tarafından sunulan 13/09/2023 tarihli raporda, davacının kusurunun bulunmadığı, kaza sırasında başında koruyucu kaskının takılı olmayışının ise kusur oranının mahkemenin takdirinde oluğunu, davalı sigortalı araç sürücüsünün ise %100 (yüzde yüz) oranınında olduğu, rapor edilmiştir.
+Mahkememizce, davacının tazmin edebileceği miktarın hesaplanması amacıyla Aktüer bilirkişi tarafından rapor düzenlenilmesine karar verilmiş, bilirkişi tarafından mahkememize sunulan 26/02/2024 tarihli raporda, Davacının dava konusu olay sonrasında yaralanması neticesinde, vücut engel oranının %5 (yüzde beş) olduğu, geçici iş göremezlik süresinin 4 (dört) uğu ve 1 (bir) ay süre ile bakıcı ihtiyacının olduğunun 09.05.2023 tarihli raporla tespit edildiği, davacının kaza tarihindeki gelirinin dönemin asgari ücreti ile orantılanması suretiyle tespit edilen geliri üzerinden yapılan hesaplama sonucu davacının dava konusu olay nedeniyle uğramış olduğu net gerçek maddi zararının 499.053,28 TL olduğu, davacının ücret bordrolarında yer alan gelirleri esas alınarak işlemiş (bilinen) dönem, bilinen son geliri esas alınarak işleyecek dönem olarak yapılan hesaplama sonucu davacının dava konusu olay nedeniyle uğramış olduğu net gerçek maddi zararının 655.116,51 TL olduğu, davacının sürekli iş göremezlik zararı talebinin 100,00 TL olduğu, davacının kusurunun bulunmaması nedeniyle kusur indirimi yapılmadığı rapor edilmiştir.
+Davacı vekilince sunulan 29/03/2024 tarihli dilekçesi ile 100,00-TL olan sürekli iş göremezlik taleplerini 655.116,51-TL olarak artırdıklarını beyan etmiş ve ıslah harcının yatırıldığı görülmüştür.
+Mahkememizce yapılan yargılama, toplanan delillerle hüküm kurmaya ve denetime elverişli kabul edilen bilirkişi raporlarıyla birlikte yapılan değerlendirme neticesinde, davacının 24/09/2022 tarihinde motosiklet ile seyir halindeyken dava dışı ... plakalı aracın çarpması neticesinde yaralandığı ve sürekli iş göremezlik tazminine ilişkin eldeki davada, davacının yaralanması neticesinde vücut engel oranının %5 (yüzde beş) olduğu, geçici iş göremezlik süresinin 4 (dört) ay olduğu, bir ay süre ile bakıcıya ihtiyacının bulunduğu, dava konusu kazanın meydana gelmesinde davacının kusurunun bulunmadığı, dava dışı sigortalı araç sürücüsünün olayın meydana gelmesinde %100 (yüzde yüz) oranında kusurlu olduğu, davacının ücret bordrolarında yer alan gelirleri esas alınarak yapılan hesaplama sonucu 655.116,51-TL tazminat talep edebileceği anlaşılmakla, Davanın Kabulü ile 655.116,51-TL sürekli iş göremezlik tazminatının, davalı sigorta firmasına eksik belgeler ile başvuru yapılması nedeniyle temerrüt tarihi dava tarihi olarak kabul edilerek dava tarihinden itibaren işleyecek yasal faizi ile birlikte davalıdan alınarak davacıya verilmesine karar vermek gerekmiş ve aşağıdaki şekilde hüküm kurulmuştur.
+HÜKÜM :
+1- Davanın Kabulü ile 655.116,51-TL sürekli iş göremezlik tazminatının dava tarihinden itibaren işleyecek yasal faizi ile birlikte davalıdan alınarak davacıya verilmesine,
+2-Alınması gerekli karar ve ilam harcı 44.751,00-TL olduğundan, peşin alınan 2.320,70-TL harcın (peşin harç+ıslah harcı) mahsubu ile bakiye 42.430,30-TL'nin davalıdan alınarak hazineye irat kaydına,
+3-Zorunlu arabuluculuk gideri olan 3.120,00-TL'nin davalıdan alınarak hazineye irat kaydına,
+4-Davacı duruşmada kendisini bir vekil ile temsil ettirdiğinden karar tarihinde yürürlükte bulunan AAÜT uyarınca hesaplanan 97.716,31-TL vekalet ücretinin davalıdan alınarak davacıya verilmesine,
+5-Davacı tarafından yatırılan 2.401,40-TL harç toplamı ile 7.248,50-TL (posta, tebligat, atk, bilirkişi) masrafı olmak üzere toplam 9.649,9‬0-TL yargılama giderinin davalıdan alınarak davacıya verilmesine,
+6-Taraflarca yatırılan gider avansından artan kısmın karar kesinleştiğinde yatırana iadesine,
+Dair, davacı vekilinin yüzüne karşı, kararın tebliği tarihinden itibaren 2 hafta içinde .... Bölge Adliye Mahkemesine istinaf yolu açık olmak üzere verilen karar açıkça okunup usulen anlatıldı . 20/05/2024
+Katip .... Hakim ...
+¸e-imzalıdır ¸e-imzalıdır

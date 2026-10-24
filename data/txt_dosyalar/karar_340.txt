@@ -1,0 +1,87 @@
+SIRA NO: 340 (ÇEKİRDEK)
+DOKÜMAN ID: 1156388800
+DERECE: İlk Derece Mahkemesi
+DAİRE / MAHKEME: Diyarbakır Asliye Ticaret Mahkemesi
+ESAS NO: 2023/112
+KARAR NO: 2025/620
+KARAR TARİHİ: 16.05.2025 (Yıl: 2025)
+ARAMA KELİMESİ: sürekli iş göremezlik yıllık ücret bilinen gelir
+SAYFA NO: 3
+İNDİRME ZAMANI: 2026-10-25 00:57:38
+HESAP DOĞRULAMA ADAYI: True
+İÇERİK HASH (MD5): 23614010e80be0fcbfa402f7aeab3bbf
+================================================================================
+
+TÜRK MİLLETİ ADINA
+T.C.
+DİYARBAKIR
+ASLİYE TİCARET MAHKEMESİ
+GEREKÇELİ KARAR
+ESAS NO :
+KARAR NO :
+HAKİM :
+KATİP :
+DAVACI :
+VEKİLİ :
+DAVALI :
+VEKİLİ :
+DAVA : Tazminat (Ölüm Ve Cismani Zarar Sebebiyle Açılan Tazminat)
+DAVA TARİHİ : 27/01/2023
+KARAR TARİHİ : 16/05/2025
+GEREKÇELİ KARARIN
+YAZILDIĞI TARİH :
+Mahkememizde görülmekte olan Tazminat (Ölüm Ve Cismani Zarar Sebebiyle Açılan Tazminat) davasının yapılan açık yargılaması sonunda,
+GEREĞİ DÜŞÜNÜLDÜ:
+Davacı vekili dava dilekçesinde özetle; .....tarihinde saat .....sıralarında Diyarbakır ili Bağlar ilçesi .....Mah. .....Caddesinde meydana gelen maddi hasarlı ve yaralamalı trafik kazasında; Sürücü .....sevk ve idaresindeki .....plakalı aracı ile karşıdan karşıya geçmeye çalışan müvekkili .....çarpması sonucu müvekkilinin ağır bir şekilde yaralandığını, müvekkilinin ağır bir şekilde yaralanmasına sebebiyet veren .....plakalı aracın davalı sigorta şirketince .....poliçe numarasıyla sigortalandığını, .....tarihli dilekçe ile davalı sigorta şirketine için poliçe limiti dahilinde sürekli ve geçici maluliyet tazminat tutarı ödenmesi talepte bulunduklarını, taraflarına herhangi bir ödemenin yapılmadığını ,6100 sayılı Yasa'nın 107.maddesi uyarınca toplanacak delillere göre, 200,00 TL maddi tazminatın; sürekli iş göremezlik tazminatı için 100 TL, geçici iş göremezlik tazminatı için 100 TL'nin mahkemece yapılacak incelemelere ve konusunda uzman bilirkişiden alınacak rapora göre belirlenerek peşin harcı yatırıldıktan sonra, olay tarihinden itibaren işleyecek yasal faizi ile birlikte, davalıdan alınarak (davalı şirketin poliçe limitleri dahilinde) müvekkiline ödetilmesine; yargılama giderleri ile vekalet ücretinin davalıya yükletilmesine; karar verilmesini vekaleten arz ve talep etmiştir.
+Davalı vekili cevap dilekçesinde özetle; Davacının maddi tazminat taleplerini kabul etmediklerini, davacının aylık gelirleri ile sosyal ve medeni durumu ve çalışıp çalışmadığı hususlarında delil sunulmadığını, iddia edilen gelirin vergi dairesi kayıtları veya ücret bordroları ile kanıtlanmasının gerektiği, davacıya SGK tarafından kaza nedeniyle ödeme yapılıp yapılmadığı hususlarının tespiti gerektiğini, Yargıtayın da kabul ettiği üzere çözümü özel ve teknik bilgiye dayanan konularda ve uzman bilirkişilerce yapılması ve bu doğrultuda kusur oranına ilişkin raporların ATK Trafik İhtisas Dairesinden alınarak tespit edilecek hukuki duruma göre karar verilmesi gerektiğini, bu sebeple Yargıtay içtihatları doğrultusunda ATK Trafik ihtisas Dairesinden kusur durumuna ilişkin rapor alınmasının ve sigortalı araç sürücüsünün kusuru oranında hüküm kurulmasını, açıklanan nedenlerle fazlaya ilişkin her türlü dava ve talep hakları saklı kalmak kaydı ile; davanın öncelikle usulden reddine, davanın esastan reddine karar verilmesini, temerrüte düşmemiş ve dava açılmasına sebebiyet vermemiş bulunan müvekkili şirket aleyhine yargılama giderine, faize ve vekalet ücretine karar verilmemesini, kabul kararı verilmesi halinde müvekkili şirketin sorumlu olduğu azami poliçe teminat limiti ve sigortalı araç sürücüsünün kusur oranı dikkate alınarak yargılama giderinin, faize ve vekalet ücretine hükmolunmasını; reddedilen kısım için yargılama giderleri ve ücreti vekaletin davacıya tahmiline karar verilmesini arz ve talep etmiştir.
+DELİLLERİN DEĞERLENDİRİLMESİ VE GEREKÇE :
+Davanın, trafik kazası nedeniyle 6098 Sayılı Türk Borçlar Kanunu'nun ("TBK") m. 49 (818 Sayılı BK m. 41) vd. hükümlerine göre ZMMS sigortacısı aleyhine açılmış haksız fiil hukuksal nedenine dayalı geçici iş göremezlik ve sürekli iş göremezlik kalemlerinden oluşan maddi tazminata ilişkin tazminat davası olduğu anlaşılmıştır.
+Uyuşmazlık noktasının meydana gelen trafik kazası nedeniyle davacının sürekli iş göremezlik, geçici iş göremezlik tazminatı taleplerine ilişkin olduğu anlaşılmıştır.
+Haksız fiilden doğan borçlar TBK m. 49 (818 Sayılı BK m. 41) vd. hükümlerine düzenlenmiş olup; haksız fiilin unsurları (i) hukuka aykırı fiil, (ii) zarar, (iii) kusur ve (iv) illiyet bağı şeklindedir. Yine TBK m. 50 (BK m. 42) hükmünde zarar görenin, zararını ve zarar verenin kusurunu ispatlama yükümlülüğü altında olduğu hükme bağlanmıştır.
+ZMSS, 2918 sayılı KTK'nun 91 vd. maddelerince düzenlenen moturlu bir aracın, karayolunda işletilmesi sırasında bir kimsenin ölümüne veya yaralanmasına veya bir şeyin zarara uğramasına neden olması halinde, o aracı işletenin zarara uğrayan 3. kişilere karşı olan sorumluluğunu belli limitler dahilinde karşılamayı amaçlayan ve yasaca yapılması zorunlu kılınan sorumluluk sigortası türüdür. Bu tanımdan da anlışalacağı üzere ZMSS, karayolunda motorlu araç işletenin, işlettiği araç nedeniyle üçüncü kişilere verilen bedensel (cismani) ve eşya zararlarından doluya onun mali ve hukuki sorumluluğunu üçüncü kişilere karşı güvenceye alması nedeniyle bir pasif ve aynı zamanda zarar sigortası niteliğini taşımaktadır.
+Mahkekemizce icra edilen keşif neticesinde kusur durumunun tespiti yönünden bilirkişi raporu aldırılmış olup, ilgili raporda özetle; ".....plakalı otomobil sürücüsü .....’ın araç ve yaya hareketinin yoğun
+olduğu şehir içi yolda cadde üzerinde kavşak çıkışından yaya olarak yola giren ve yolda ilk geçiş
+hakkı olan yayaya geçiş hakkını vermediği, karşıdan karşıya geçen yaya dikkat etmediği ve
+herhangi bir tehlike karşısında güvenle duramayacak şekilde hızlı gittiğinden, 2918 sayılı Karayolları
+Trafik Kanununda belirtilen 52/1-a maddesinde belirtilen “Araçların hızını, Kavşaklara yaklaşırken,
+yaya geçitlerin girerken hızlarını azaltmak, zorundadırlar” kuralı ile Karayolları Trafik
+Yönetmeliğin 109/d maddesinde belirtilen (Kavşağa gelen sürücüler kavşak giriş ve çıkışlarından
+kurallara uygun olarak karşıya geçen veya geçmek üzere olan yayalara, Geçiş hakkını vermek
+zorundadırlar) KURALLARINI İHLAL ETTİĞİ; kazanın oluşumunda YÜZDE ELLİ (%50) KUSURLU
+olduğu;
+yaya .....; Beş(5) yaşında(2013 doğumlu) yaya .....,
+sokak ile .....Caddesi dört yönlü kavşak çıkışından, ebeveyninin kontrolü dışında (tek
+başına) araç hareketinin yoğun olduğu yerleşim yeri içi yolda karşıdan karşıya fırlayarak/koşarak
+geçmeye çalıştığı karşıdan karşıya geçerken gerekli tedbiri almadığı, trafik durumuna dikkat
+etmediğinden, 2918 sayılı KTK'nun 68/1-c (Yaya yollarında, geçitlerde veya mecburi hallerde taşıt
+yolu üzerinde bulunan yayaların, trafiği engelleyecek, tehlikeye düşürecek davranışlarda bulunmaları,
+dikkatsiz hareket etmeleri, oynamaları veya bu yerleri saygısızca kullanmaları yasaktır.) hükümleri ile
+Trafik Yönetmeliğin 138'inci maddesinde güvenli geçiş tarif edilmiştir; taşıt yolunun karşı tarafına
+geçmek isteyen yayaların: “taşıt yolunu, yaya ve okul geçidi ile kavşak giriş ve çıkışları dışında
+herhangi bir yerden geçmelerinin yasaklandığı, ışıklı işaret veya yetkili kişilerin bulunmadığı geçitlerde
+veya kavşaklarda güvenlikleri açısından yaklaşan araçların uzaklık ve hızını göz önüne alarak uygun
+zamanda geçmek zorunda oldukları ancak 100 metre kadar mesafede yaya geçidi, okul geçidi
+veya kavşak bulunmayan yerlerde yayalar, taşıt trafiği için bir zorluk veya engel yaratmamak
+şartıyla ve yoldan gelen taşıtların uzaklık ve hızını kontrol ederek kendi güvenliklerini
+sağladıktan sonra en kısa doğrultuda ve en kısa zamanda taşıt yolunu geçebilirler. Yollarda
+güvenli geçişin, önce sola sonra sağa bakılarak sakınca yoksa taşıt yoluna girerek, geçiş
+sırasında sola ve sağa bakılarak yürüyüşe devam edileceği, taşıt yoluna girmeden güvenle
+duramayacak kadar yaklaşmış taşıtlar varsa ilk geçiş hakkını onlara verip geçişlerini beklemek
+suretiyle yapılacağı…”) maddelerini ihlal ederek YÜZDE ELLİ(%50) KUSURLU olduğu" şeklinde mütalaada bulunulmuş, ilgili rapordaki tespitlerin dosya kapsamı ile uyumlu ve denetlenebilir olduğu kanaatine varılarak hükme esas alınmış ve sigortalı araç sürücüsünün davaya konu kazanın meydana gelmesinde %50 oranında kusurlu olduğu kabul edilmiştir.
+Davacının maluliyet durumuna ilişkin alınan Dicle ATK'nın raporun değerlendirilmesi neticesinde; "Kişinin Özür Oranının %10 ve Sürekli Olduğu, .....tarihinden itibaren kişinin tedavi süresince ortaya çıkan bakıcı (temizlik, banyo, tuvalet-içme,vb) ihtiyaç süresinin 1 ay olduğu, .....tarihinden itibaren kişinin iyileşme süresinin 9 aya kadar uzayabileceği, bu süre zarfında %100 özürlü sayılması gerektiği" hususu rapor edilmiş ve ilgili tespitler mahkememizce benimsenerek hükme esas kabul edilmiştir.
+Yargıtay içtihatlarında benimsendiği üzere TRH 2010 Tablosu'na göre davacının yaşı nazara alınarak muhtemel bakiye ömrün belirlenmesi ve güncel asgari ücret tarifesi üzerinden; %1,8 teknik faiz uygulanmadan, progresif rant formülü kullanılarak tazminatın hesaplanması, bilinmeyen/işleyecek devre hesabı yapılırken, bilinen son gelirin her yıl için %10 artırılıp %10 iskonto edilmesi yönteminin kullanılması, bilinen ve bilinmeyen dönem hesabının hangi tarihlerden başlayıp hangi tarihte bittiği, davacı açık ve denetime elverişli bir şekilde belirtilerek sürekli iş göremezlik ve geçici iş göremezlik ve tazminat hesaplamasının yapılması için dosya aktüer bilirkişisine tevdii edilmiş ve alınan raporda özetle; "kaza sonucu %10 oranında malul kalan davacının bilinen ve bilinmeyen dönem sürekli işgücü kaybı tazminatına ilişkin maddi zararının hesaplandığı, davacının geçici iş göremezlik dönemi ile bilinen dönem içerisinde 18 yaşından küçük olması nedeniyle 9 aylık geçici iş göremezlik tazminatının hesaplanamadığı, sakatlanma ve ölüm halinde .....yılı için kişi başına asgari üteminat miktarı 360.000,00 TL olduğu, hesaplanan tazminatın azami teminat limitinin üzerinde olduğu, 0,00 TL geçici iş göremezlik, 45.873,14 TL bilinen dönem sürekli iş göremezlik, 1.265.921,18 TL bilinmeyen dönem sürekli iş göremezlik zararı oluştuğu" mütalaa edilmiştir. İlgili raporun değerlendirilmesi neticesinde Mahkememizce yapılan kusur tenzilatı sonrasında davacının talep edebileceği toplam sürekli iş göremezlik zararının 655.897,16 TL olduğu, davacının kaza tarihindeki yaşı(5) gözetilerek gelir getirici bir işte çalışmadığı kabul edilmiş ve geçici iş göremezlik zararının oluşmayacağı kanaatine varılmıştır.
+Bütün dosya kapsamı, alınan bilirkişi raporu, ATK raporu ve değer arttırım dilekçesine göre; davalı sigorta şirketine ZMMS ile sigortalı olan aracın %50 kusur ile trafik kazası yaptığı, davacının ilgili kaza nedeni ile yaralandığı, yaralanmaya bağlı olarak davacının iyileşme süresinin olay tarihinden itibaren 9 aya kadar uzayabileceğinin anlaşıldığı ancak davacının kaza tarihindeki yaşı(5) gözetilerek gelir getirici bir işte çalışamayacağı gözetilerek geçici iş göremezlik zararının oluşmadığı, davacının dava konusu kaza nedeniyle %10 oranında kalıcı maluliyetinin oluştuğu ve aktüer raporu ile Mahkememizce yapılan kusur tenzilatına göre bilinen ve bilinmeyen dönem sürekli iş göremezlik tazminatının 655.897,16 TL olarak hesaplandığı, tespit edilen bu miktarın 2918 sayılı yasanın 91.md göre davalı sigorta şirketinin kaza tarihi itibariyle kişi başına ölüm ve sakatlanma teminat limiti olan 360.000,00 TL üzerinde olduğu ve sigorta şirketinin yalnızca belirlenen bu teminat miktarı itibari ile sorumlu olduğu ve davacının davasını sürekli iş göremezlik zararı yönünden belirlediği tutarın bu teminat limiti içerisinde kaldığı anlaşılmakla sürekli iş göremezlik tazminatına ilişkin talebin kabulüne, davacının talep etmiş olduğu geçici iş göremezlik tazminatına ilişkin talebin ispat edilemediği anlaşılmakla reddine karar verilmiştir. Ayrıca 2918 sayılı KTK.'nun 99/1. maddeleri ile ZMSS poliçesi Genel Şartlarının B.2. maddesi uyarınca rizikonun belge ve bilgileri ile birlikte sigortacıya ihbar edildiği tarihten itibaren 8 iş günü içinde sigortanın tazminatı ödeme yükümlülüğü bulunmakta, bu sürenin sonunda ödememe halinde temerrüt gerçekleşmektedir. Davacı vekili usulüne uygun başvuruyu takip eden 8 iş günü sonrasının .....tarihine isabet ettiği ve bu tarih itibari ile temerrüdün oluştuğu; kazaya karışan davalı nezdinde sigortalı aracın hususi olduğu anlaşılmakla kabul edilen alacağa ilgili tarihten itibaren yasal faiz uygulanmasına karar verilerek aşağıdaki şekilde hüküm tesis edilmiştir.
+G.D:Nedenleri gerekçeli kararda açıklandığı üzere;
+HÜKÜM:
+DAVANIN KISMEN KABUL KISMEN REDDİ İLE;
+1-a)Davacının sürekli iş göremezlik maddi tazminat isteminin kabulü ile; 360.000,00 TL sürekli iş göremezlik tazminatının davalı sigorta şirketinin temerrüt tarihi olan .....tarihinden itibaren işleyecek yasal faizi ile birlikte davalı sigorta şirketinden tahsili ile davacıya verilmesine,
+b) Davacının geçici iş göremezlik maddi tazminat isteminin REDDİNE,
+2-Harçlar Kanunu gereğince alınması gereken 24.591,6‬0 TL karar ve ilam harcından, başlangıçta yatırılan 179,90 TL peşin harç ve sonradan yatırılan 6.150,00 TL tamamlama harcının mahsubu sonucu bakiye kalan 18.261,7‬0 TL harcın davalıdan tahsili ile Hazineye irad kaydına,
+3-Davacı tarafından başlangıçta yatırılan 179,90 TL başvuru harcı, 179,90 TL peşin harç, 6.150,00 TL tamamlama harcı olmak üzere toplamı olan 6.509,8‬0 TL'nin davalıdan tahsili ile davacıya verilmesine,
+4-Davacı tarafından tebligat ve posta gideri, ATK fatura ücreti, bilirkişi ücreti, keşif harcı ve yol gideri olarak sarf edilen toplamda 10.421,8‬0 TL yargılama giderinin, kabul/red oranı dikkate alınarak, 10.418,67 TL'lik kısmının davalıdan tahsili ile davacıya verilmesine, bakiye kalan kısmın davacı üzerinden bırakılmasına,
+5-Davacı kendini vekil ile temsil ettirdiğinden karar tarihinde yürürlükte bulunan AAÜT gereğince hesaplanan 57.600,00 TL vekalet ücretinin davalılardan müştereken ve müteselsilen tahsili ile davacıya verilmesine,
+6-Davalı kendini vekil ile temsil ettirdiğinden karar tarihinde yürürlükte bulunan AAÜT gereğince hesaplanan 100,00 TL vekalet ücretinin davacıdan tahsili ile davalıya verilmesine,
+7-Arabuluculuk aşaması görüşme sonucunda anlaşamama ile sonuçlandığından, 6325 Sayılı HUAK'nun 18/A-13 maddesi ve Arabuluculuk Kanunu Yönetmeliği tarife hükümleri gereğince Adalet Bakanlığı bütçesinden ödenen 3.120,00 TL arabuluculuk ücretinin kabul/red oranı dikkate alınarak, 3.119,06 TL'lik kısmının davalıdan tahsili ile bakiye kalan kısmın davacıdan tahsili ile Hazineye irad kaydına,
+8-Davacı tarafından yatırılan gider avansından kullanılmayan kısmın karar kesinleştiğinde davacıya iadesine,
+Dair, davacı vekilinin yüzüne karşı ve davalı sigorta şirketi vekilinin yokluğunda gerekçeli kararın tebliğinden itibaren 2 hafta içerisinde Diyarbakır Bölge Adliye Mahkemesi'ne istinaf yasa yolu açık olmak üzere verilen karar açıkça okunup usulen anlatıldı.
+Katip Hakim

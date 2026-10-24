@@ -1,0 +1,104 @@
+SIRA NO: 372 (ÇEKİRDEK)
+DOKÜMAN ID: 586565600
+DERECE: İlk Derece Mahkemesi
+DAİRE / MAHKEME: İstanbul 16. Asliye Ticaret Mahkemesi
+ESAS NO: 2018/490
+KARAR NO: 2020/278
+KARAR TARİHİ: 07.07.2020 (Yıl: 2020)
+ARAMA KELİMESİ: sürekli iş göremezlik yıllık ücret bilinen gelir
+SAYFA NO: 7
+İNDİRME ZAMANI: 2026-10-25 01:08:00
+HESAP DOĞRULAMA ADAYI: True
+İÇERİK HASH (MD5): 1fefb7317ff7801fc0e5e1706356faf4
+================================================================================
+
+T.C.
+İSTANBUL
+16. ASLİYE TİCARET MAHKEMESİ
+ESAS NO:2018/490 Esas
+KARAR NO :2020/278
+DAVA:Tazminat (Ölüm Ve Cismani Zarar Sebebiyle Açılan Tazminat)
+DAVA TARİHİ:26/05/2018
+KARAR TARİHİ:07/07/2020
+Mahkememizde görülmekte olan Tazminat (Ölüm Ve Cismani Zarar Sebebiyle Açılan Tazminat) davasının yapılan açık yargılaması sonunda,
+GEREĞİ DÜŞÜNÜLDÜ:
+Davacı vekili mahkememize vermiş olduğu dava dilekçesinde özetle; 12/03/2018 tarihinde ...'in sevk ve idaresindeki ... plakalı aracı ile seyir halindeyken müvekkili ...'e yaya olarak bulunduğu yolda çarpması sonucu yaralanmalı trafik kazası meydana geldiğini, kazada müvekkilinin ağır yaralandığını beyanla fazlaya ilişkin hakları saklı kalmak kaydıyla 100 TL kalıcı iş gücünden kaynaklı maddi tazminat ve 100 TL geçici iş göremezlik tazminatı olmak üzere toplam 200 TL maddi tazminatın davalıdan tahsili ile müvekkiline ödenmesini talep ve dava etmiştir.
+Davalı vekili cevap dilekçesinde özetle; kazaya karıştığı iddia edilen ... plakalı aracın, müvekkilinin sigortalısı olduğunu, ATK aracılığı ile maluliyet oranının ve kusur oranının tespiti gerektiğini beyanla davanın reddine karar verilmesini talep etmiştir.
+TAHKİKAT, DELİLLERİN DEĞERLENDİRİLMESİ VE GEREKÇE :
+Mahkememizce delillerin ibrazını müteakip, celbi gerekli deliller celp edilerek dosyamız arasına girmiştir.
+Mahkememiz dosyasının delillerini, hastahane evrakları, İlçe Emniyet Müdürlüğü müzekkere cevabı, hasar işlem dosya örnekleri, SGK yazı cevabı, makine mühendisi ... ve hesap uzmanı ...’dan alınan bilirkişi heyet raporu, ATK raporu ve tüm cevabi yazılar oluşturmaktadır.
+İzmir 4.ATM aracılığı ile talimat yoluyla alınan ... Üniversitesi Tıp Fakültesi Adli Sağlık Kurulu raporunda özetle;
+"Şahısta sol omuz hareket kısıtlılığına bağlı üst ekstremite engellilik yüzdeki hesaplanmış ve sakatlık oranı %5 bulunmuştur.
+Yüzdeki anormallik daha çok cilt yapısındaki bozukluklar ve dış görünümle sınırlı edinsel nedenlerle fiziksel görümü bozan burun eğriliği %2'dir.
+Şahısta sağ omuz hareket kısıtlılığına bağlı üst ekstremite engellilik yüzdeki hesaplanmış ve sakatlık oranı % 1 bulunmuştur.
+Sonuç olarak; şahısta birden fazla arıza olması nedeniyle Balthazard formülü uygulanarak kişinin sakatlık oranı %7,8 olarak bulunmuştur.
+Tıbbi iyileşme süresinin olay tarihinden itibaren 3 ay olarak kabulünün uygun olacağı şeklinde " şeklinde mütaalada bulundukları görülmüştür.
+Mahkememizce dsya üzerinde iddia ve savunma doğrultusunda kusur uzmanı ... ve aktüerya uzmanı ... marifetiyle denetime elverişli rapor almak üzere inceleme icra edilerek konuya ilişkin 31/07/2019 kök rapor teminle dosyamız arasına katılmıştır.
+Bilirkişiler anılı raporlarında özetle;
+"Yerleşim yeri içinde meydana gelen kazanın olduğu mahalde hız sınırı 50 km/saat olup yol iki yönlü, 4 m genişlikte, beton ve kurudur. Vakit gündüz, hava açık, görüş açıktır.
+Trafik Kazası Tespit Tutanağında bulunan kaza yeri krokisinden, davacı ... yol içinde yaya olarak bulunduğu sırada geri manevra yapan aracın arka kısmı ile kendisine çarpması şeklinde meydana gelmiş olduğu görülmektedir.
+Trafik Kazası Tespit Tutanağında kaza anlatılmış ve sürücü ...’in 2918 sayılı KTK madde 67 ile tarif edilen araç manevralarını düzenleyen şartları ihlal etmiş olduğu belirtilmiştir.
+Dava dosyasında bulunan ifadesinde sürücü ... kaza mahallinde bulunan işyerinde çalışanları aracına bindirdiğini, evlerine bırakmak üzere arabayı çalıştırdığını, arabayı bir süre çalışır halde tuttuğunu, daha sonra aracı geri geri sürmeye başladığında arkadan dur diye bağırdıklarını ve hemen durduğunu, araçtan inip baktığında ... isimli şahısa çarpmış olduğunu gördüğünü belirtmiştir.
+Dava dosyasında bulunan ifadesinde davacı yaya ... kaza mahallinde bulunan iş yerinde mesaisi bittikten sonra eve giderken iş yeri site içi ara yolda arkasından bir aracın gelip kendisine çarptığını, aracı görmeden yüz üstü düştüğünü, aracın üzerinden geçtiğini belirtmiştir.
+Sonuç olarak sürücü ...’in geri manevrası sırasında yolda bulunan yayaya tehlike yaratacak şekilde, hareket ettiği yönü kontrol etmeden seyretmiş ve yayaya çarpmış olması nedeniyle 2918 sayılı KTK Araç manevralarını düzenleyen MADDE 67- b) “(…) İzin verilen hallerde bu manevraları yapacak sürücüler, karayolunu kullananlar için tehlike veya engel yaratmamak zorundadır.” Şeklinde tanımlanana kurala aykırı, tedbirsiz ve dikkatsiz araç kullanması nedeniyle asli kusurlu olduğu, Trafik Kazası tespit Tutanağından kaza mahalli 4 m genişlikteki sokakta kaldırım da bulunmadığı dikkate alındığında davacı yaya ...’in herhangi bir kusurunun bulunmadığı kanaatine varılmıştır.
+Yukarıdaki incelemeye göre olayda;
+Davacı yaya ... kusursuz,
+Sürücü ... %100 (yüzde yüz) kusurludur.
+Zorunlu trafik sigorta poliçesinin 01.06.2015 tarihinde yürürlüğe giren poliçe genel şartlarından sonra düzenlenmiş olması nedeniyle; Bu konudaki Yargıtay kararlarına göre 01.06.2015 tarihinde yürürlüğe giren poliçe genel şartları ve ekleri dikkate alınarak Aktüeryal yönteme(TRH 2010 yaşam+1,8 teknik faiz) göre davacının maddi zararı belirlenecektir.
+Kusur değerlendirmesi davalı tarafından zorunlu trafik sigorta poliçesi ile sigortalanmış bulunan araç sürücüsünün %100 oranında kusurlu olduğu belirlenmiş olmakla işbu raporda davalının %100 kusur oranındaki sorumluluk durumuna göre hesaplama yapılacaktır.
+... Ün. Tıp Fak. tarafından düzenlenen sağlık raporu ile davacının iyileşme süresinin 3 ay olduğu belirlenmiştir. Bu durumda;
+Davacının 3 aylık geçici iş göremezlik dönemindeki maddi zararı %100 malul gibi hesaplanarak takdire sunulacaktır.
+Davacının sürekli iş göremezlik dönemindeki maddi zararı ise geçici iş göremezlik süresinin bittiği tarihten itibaren maluliyetiyle orantılı olarak hesaplanacaktır.
+01.06.2015 tarihinde yürürlüğe giren yeni poliçe genel şartlarının 1.maddesinde "...(Değişik:RG-2/2/2016-29612)(1) Bu Genel Şartlar ekleriyle bir bütündür..." demektedir.
+01.06.2015 tarihinde yürürlüğe giren poliçe şartlarının A.5/c maddesinde "...Sürekli sakatlık tazminatına ilişkin sakatlık oranının belirlenmesinde, sakatlık ölçütü sınıflandırılması ve özürlülere verilecek sağlık kurulu raporlarına ilişkin mevzuat doğrultusunda hazırlanacak sağlık kurulu raporu dikkate alınır..." demektedir.
+Yine poliçe genel şartlarında tazminat ödemesinde istenecek belgeler arasında "30/3/2013 tarihli ve 28603 sayılı Resmî Gazete’de yayımlanan Özürlülük Ölçütü, Sınıflandırması ve Özürlülere Verilecek Sağlık Kurulu Raporları Hakkında Yönetmelik çerçevesinde düzenlenmiş sağlık kurulu raporu" yer almaktadır.
+... Ün. Tıp Fak. Hastanesi tarafından 30/3/2013 tarihli ve 28603 sayılı Resmî Gazete’de yayımlanan Özürlülük Ölçütü, Sınıflandırması ve Özürlülere Verilecek Sağlık Kurulu Raporları Hakkında Yönetmelik çerçevesinde düzenlenen 04.03.2019 tarihli raporda davacının sakatlık oranı %7,8 olarak belirlenmiş olup, anılan oran üzerinden sürekli iş göremezlik dönemindeki zararı belirlenecektir.
+... doğumlu davacı, olay tarihinde, 32 yıl, 8 ay, 11 günlük olup, 33 yaşında kabul edilerek, TRH 2010 yaşam tablosuna göre muhtemel bakiye ömrü (42)yıl ve muhtemelen (75)yaşına kadar yaşayacaktır.
+Yargıtay’ın bu konuda yerleşmiş içtihatlarında aktif çalışma yaşı sonu 60 olarak kabul edilmekte olup buna göre kazalının aktif çalışma hayatının (60)yaşına kadar süreceği kabul olunarak, olay tarihinden (60) yaşına kadar bakiye aktif hayat süresi (60-33)= 27 yıl ve pasif devresi 15 yıldır.
+01.06.2015 tarihinde yürürlüğe giren yeni poliçe genel şartlarının 1.maddesinede "...(Değişik:RG-2/2/2016-29612)(1) Bu Genel Şartlar ekleriyle bir bütündür..." demektedir. Genel şartların EK:3 maddesinde sürekli sakatlık tazminatlarının hesaplamalarda kişinin vergilendirilmiş gelirinin esas alınması, gelire ilişkin bir belge sunulmaması halinde ise asgari ücrete göre hesaplama yapılması gerektiği belirtilmektedir. Bu durumda;
+Dava dosyasında davacının vergilendirilmiş kazancını gösterir yazılı bir belge bulunmadığından hesaplamalar asgari ücretlere göre yapılacaktır. Diğer yandan;
+Kaza tarihinden günümüz kadar geçen dönemde kazalının kazançları belirlenebilir olduğundan, bilinen dönem kazançları farazi hesap yerine fiili duruma göre belirlenerek, belirlenen bu kazanç tutarları her hangi bir artış ve iskontoya tabi tutulmaksızın hesaba aynen esas alınacaktır. Buna göre;
+Kazalının 12.03.2018–12.03.2019 tarihleri arası 1 yıllık bilinen dönemdeki net kazançları 15.430,75 TL.'dir
+Kazanın meydana geldiği tarihte yürürlükte olan poliçe genel şartları dikkate alınarak bilinmeyen dönem hesabına esas kazançlar an,x = Nx – Nx+n / Dx formolüne göre belirlenecektir. Formüle de iskonto oranları %1,8 teknik faiz esas alınarak TRH-2010 yaşam tablosuna göre belirlenen sayılar uygulanacaktır.
+Kazalının işleyecek devre başındaki net bir yıllık geliri ise;
+2.020,90 x 12 Ay = 24.250,80 TL. olup, anılan tutar işleyecek aktif devre maddi zarar hesabına esas alınacaktır. Diğer yandan;
+Kazalı aktif devre sonunda pasif dönemde de emsallerine göre daha fazla efor sarf ederek hayatını idame ettireceğinden Yargıtay’ın bu konudaki kararları dikkate alınarak pasif dönem zarar hesabına agi dikkate alınmaksızın belirlenen net asgari ücretin yıllık tutarı olan (1.829,02x12=) 21.948,24 TL esas alınacaktır. Buna göre;
+Bilinmeyen dönem başında 34 yaşında olan kazalı bakımından 41 yılık bilinmeyen dönemdeki iskontolu kazanç 139.147,45 TL.'dir.
+Kazalının sürekli iş göremezlik dönemindeki maddi zarar toplamı 50.585,39 TL.'dir.
+12.03.2018 kaza tarihinde yürürlükte olan tarifeye göre davalı sigorta şirketinin zorunlu trafik sigorta poliçesine istinaden sorumluluk limiti ölüm, sakatlık ve sağlık giderleri bakımından ayrı ayrı 360.000,00 TL.dır.
+01.06.2015 tarihinde yürürlüğe giren poliçe genel şartlarının A.5/b maddesinde “...Kaza nedeniyle mağdurun tedavisine başlanmasından itibaren mağdurun sürekli sakatlık raporu alana kadar tedavi süresince ortaya çıkan bakıcı giderleri, tedaviyle ilgili diğer giderler ile trafik kazası nedeniyle çalışma gücünün kısmen veya tamamen azalmasına bağlı giderler sağlık gideri teminatı kapsamındadır. Sağlık giderleri teminatı Sosyal Güvenlik Kurumunun sorumluluğunda olup ilgili teminat dolayısıyla sigorta şirketinin ve Güvence Hesabının sorumluluğu 2918 sayılı Karayolları Trafik Kanununun 98 inci maddesi hükmü gereğince sona ermiştir...” demektedir. Bu durumda;
+01.06.2015 tarihinde yürürlüğe giren poliçe genel şartlarının A.5/b maddesinde açıkça geçici iş göremezlik dönemindeki zararın sağlık gideri teminatı kapsamında olduğuna dair bir ibare yer almamaktadır.
+Yargıtay 17.Hukuk Dairesinin 2014/16455 ile 2013/2073 E sayılı kararlarında açıkça geçici iş göremezlik zararının zorunlu trafik sigorta poliçesi kapsamında ve sakatlık teminatı limitine dahil olduğu belirtilmektedir. Yargıtay 17.Hukuk Dairesinin 2015/7731 E. sayılı başka bir kararında ise geçici iş göremezlik zararının zorunlu trafik sigorta poliçesi kapsamında, tedavi gideri klozundan talep edilebileceği belirtilmektedir.
+Davacının yukarıda belirlenen maddi zararları poliçedeki limitleri aşmamaktadır.
+Karayolları Trafik Kanunun 99.maddesinde; “....Sigortacılar, hak sahibinin kaza veya zarara ilişkin tespit tutanağını veya bilirkişi raporunu, sigortacının merkez veya kuruluşlarından birine ilettiği tarihten itibaren sekiz iş günü içinde zorunlu mali sorumluluk sigortası sınırları içinde kalan miktarları hak sahibine ödemek zorundadırlar...” demektedir. Bu durumda;
+Davacı tarafından davalıya 27.03.2018 tarihinde başvuruda bulunulmuş olup, başvuru tarihiden 8 iş günü sonrasına göre temerrüt 09.04.2018 tarihinde gerçekleşmektedir. Ancak başvuru dilekçesinde 15 gün içinde talebine karşılanması istenmiştir. Bu durumda talep aşılamayacağından talebe göre temerrüt 27.03.2018 tarihinden 15 gün sonrası olan 11.04.2018 tarihinde gerçekleşmiş olacaktır.
+Dava dilekçesinde yasal faiz talebinde bulunulmuştur." şeklinde mütaalada bulundukları görülmüştür.
+Mahkememizce davalı yanın mükerrer hesaplama yapıldığı itirazının incelenmesi baabında ek rapor hazırlanarak konuya ilişkin 11/12/2019 tarihli ek rapor teminle dosyamız arasına alınmıştır.
+Bilirkişiler anılı ek raporlarında özetle;
+"Davacı ... doğumlu olup olay tarihinde 32 yıl, 8 ay, 11 günlüktür. Yaş tablolarında başlangıç yaşı tam olarak alınarak buna göre bakiye ömür süreleri belirlenmektedir. Tam yaşın belirlenmesinde ise 6 aya kadar olan süreler aşağıya, 6 ayı aşan süreler yukarıya yuvarlanmaktadır. Somut olayda da davacının yaşı yukarıya yuvarlanarak kaza tarihindeki yaşı 33 tam yıl olarak belirlenmiştir. Aynı ilke bakiye ömür süresinin belirlemesinde dikkate alınarak TRH 2010 yaşam tablosuna göre bakiye ömür süresi 42 tam yıl olarak dikkate alınmıştır.
+Davacının bilinen dönem kazançları 12.03.2018 kaza tarihinden başlatılarak gereksiz yere küsuratları önlemek adına 12.03.2019 tarihine kadar belirlenmiştir. Yıl içinde asgari ücretin değişmediği durumlarda bilinen dönemin aynı yıl içinde kalması şartı ile yılın hangi ayına kadar yapıldığının hesaba bir etkisi bulunmamaktadır.
+Somut olayda davacının bilinen dönemi 12.03.2018-12.03.2019 tarihleri arası geçen 1 yıllık süre için belirlenmiştir. Bilinmeyen dönem kazançları ise 26 yıl aktif ve 15 yıl pasif dönem olmak üzere toplam 41 yıl olarak belirlenmiştir. Bu durumda da davacının bilinen ve bilinmeyen aktif ve pasif dönem hesabına esas kazançları toplam (1+26+15)= 42 yıl süre için belirlenmiştir. Bu sürede davacının kaza tarihindeki yaşına göre bakiye ömür süresidir. Buna göre davalının itirazının aksine bilinmeyen dönem 01.01.2019 tarihinde değil, 12.03.2019 tarihinden itibaren hesaplanmıştır.
+Yukarıda arz ve izaha çalışıldığı üzere zarar hesabının toplam 42 yıllık tam süre için belirlenmiş olması, bu süreninde davacının kaza tarihindeki yaşına göre bakiye ömür süresine denk gelmesi buna göre de mükerrer hesaplamanın söz konusu olmaması nedeniyle davalının itirazı doğrultusunda ilk raporda bir değişikliğe gidilmesi mümkün olmamıştır.
+Sonuç olarak; delillerin ve hukuki durumların takdiri Sayın Mahkemeye ait olmak üzere 12.03.2018 tarihinde meydana trafik kazasında davalının %100 kusur oranındaki sorumluluk durumuna göre davacı ...'in;
+Davalının itirazı doğrultusunda değişiklik gerektirmeyen 31.07.2019 tarihli raporda belirlendiği gibi;
+Geçici iş göremezlik dönemine ait maddi zararının = 4.809,36 TL,
+Sürekli iş göremezlik dönemine ait
+%7,8 maluliyet oranı ile ilgili maddi zararının= 50.585,39 TL. olduğu,
+Temerrüt tarihinin 11.04.2018 olarak belirlendiği,
+Dava dilekçesinde yasal faiz talebinde bulunduğu" şeklinde mütaala ettikleri görülmüştür.
+Davacı vekili 23/12/2019 tarihli dilekçesi ile; (100 TL'lik geçici ve iş göremezlik talebini 4.709,36 TL arttırarak 4.809,36 TL olarak ve 100 TL olan kalıcı iş göremezlik talebini 50.485,39 TL arttırarak 50.585,39 TL olarak ıslah ederek,) toplamda 200 TL'lik tazminat talebini 55.394,75 TL olarak ıslah etmiştir.
+Dava; 12/03/2018 tarihinde gerçekleşen trafik kazası sonucu davacının malul kaldığından bahisle açılan tazminat davasıdır. Davalı yan davanın reddini savunmuştur.
+Tüm dosya kapsamı ve toplanılan delillerin bir bütün olarak değerlendirilmesi sonucunda; dava tarihi itibarıyla sigorta şirketine başvuru dava şartı düzenlemesi yürürlükte olmakla 27.03.2018 tarihi itibarıyla davacı yanca davalı sigorta şirketine başvuru yapıldığı, dosya kapsamına alınan ve hüküm kurmaya elverişli bulunan 04/03/2019 tarihli ... Üniversitesi Tıp Fakültesi Adli Sağlık Kurulu raporunun kaza tarihi itibarıyla yürürlükte bulunan Özürlülük Ölçütü, Sınıflaması ve Özürlülere Verilecek Sağlık Kurulu Raporları Hakkında Yönetmelik'ne uygun olarak düzenlendiği, davacının sürekli maluliyetinin %7,8, geçici maluliyet süresinin 3 ay olarak tespit edildiği, alınan kusur raporuna göre; dava dışı sürücünün geri manevra yaparken yolu kontrol etmeyerek KTK'nun 67. maddesini ihlal ederek yaya konumundaki davacıya çarparak %100 kusurlu olduğu, aktüer raporunda; kaza tarihi itibarıyla yürürlükte olan TRH 2010 yaşam tablosu esas alınarak davacının muhtemel yaşam süresinin tespit edildiği, davacının 50.585,39 TL sürekli iş göremezlik, 4.809,36 TL geçici iş göremezlik tazminatının hesaplandığı, kaza tarihi itibarıyla davalı sigortanın poliçe limiti 360.000 TL olmakla hesaplanan tazminatının bu limiti aşmadığı, kaza nedeniyle davacıya rücuya tabi bir ödeme yapılmadığının anlaşıldığı, davalı yana davadan önce 27.03.2018 tarihi itibarıyla başvuru yapıldığı ve başvuru dilekçesinde 15 gün içinde cevap verilmesinin talep edildiği anlaşıldığından 15 günlük süre sonunda 11.04.2018 tarihi itibarıyla davalı yanın temerrüde düştüğü, Yargıtay 17. Hukuk Dairesinin emsal içtihatları uyarınca davalı sigortanın geçici iş göremezlik tazminatından da sorumlu olduğu, davalı taraf, 04/03/2019 tarihli ... Üniversitesi Hastanesinden alınan ATK raporuna tespit edilen %7,8 özürlülük oranının fahiş olduğundan bahisle itiraz ederek, sigorta şirketi tarafından yaptırılan 26.03.2019 tarihli tıbbi mütaalayı dosyaya sunmuş olmakla, anılı itirazın incelenmesinde; davalı tarafça sunulan tıbbi mütalaada davacının özürlülük oranına ilişkin oran %3 olarak hesaplanmış olup ATK raporu ile tıbbi mütalaa arasındaki farkın nedeninin, tıbbi mütalaada davacının sol omuz eklem hareket kısıtlılığı şekli ile trafik kazası arasında nedensellik bağının bulunmadığı tespitinden kaynaklandığı, ayrıca tıbbi mütalaanın sonuç kısmında kaza tarihli sol omuz yaralanmasının olduğunu belirtir tıbbi evrak ibrazının gerektiğinden bahsedildiği, ancak ... Üniversitesinden alınan ATK raporunda davacının sol omzundaki arızaya ilişkin kaza tarihinden yakın bir süre sonra alınan 29.03.2018 tarihli sol omuz BT raporu incelenerek maluliyet oranı tespit edilmiş olmakla, davalı yanın ATK raporundaki maluliyet oranının fahiş olduğu itirazının yerinde olmadığı anlaşılmakla açıklanan gerekçelerle davanın kabulüne dair aşağıdaki şekilde karar vermek gerekmiştir.
+HÜKÜM : Yukarıda yazılı nedenlerle,
+1-Davanın KABULÜ İLE,
+4.809,36 TL geçici iş göremezlik ve 50.585,39 TL sürekli iş göremezlik olmak üzere toplam 55.394,75 TL maddi tazminatın 11.04.2018 tarihinden itibaren işleyecek yasal faizi ile birlikte davalıdan alınarak davacıya verilmesine,
+2-Alınması gerekli 3.784,01 TL karar harcından davacının peşin yatırdığı 224,90 TL'nin (ıslah harcı da dahil) mahsubu ile 3.559,11 TL ilam harcının davalıdan tahsili ile Hazineye irat kaydına,
+3-Davacı tarafından yatırılan 35,90 TL peşin, 35,90 başvurma harcı ve 189,00 TL ıslah harcı olmak üzere toplam 260,80 TL harcın davalıdan tahsili ile davacıya verilmesine,
+4-Davacı kendisine vekille temsil ettirdiğinden, karar tarihinden yürürlükte bulunan A.A.Ü.T. göre hesaplanan 8.001,22 TL vekalet ücretinin davalıdan tahsili ile davacıya verilmesine,
+5-Davacı tarafından yapılan 1.606,44 TL (bilirkişi ücreti, posta masrafı v.s.) yargılama giderinin davalıdan alınarak davacıya verilmesine,
+6-Taraflarca yatırılan gider avansından kullanılmayan kısmın karar kesinleştiğinde ve talep halinde yatıran tarafa iadesine,
+Dair; davacı vekilinin yüzlerine karşı gerekçeli kararın tebliğinden itibaren iki hafta içerisinde mahkememize ya da mahkememize gönderilmek üzere istinaf dilekçesi sunulmak suretiyle İstanbul Bölge Adliye Mahkemesi nezdinde istinaf kanun yolu açık olmak üzere verilen karar açıkça okunup usulen anlatıldı. 07/07/2020
+Katip ...
+e-imza
+Hakim ...
+e-imza

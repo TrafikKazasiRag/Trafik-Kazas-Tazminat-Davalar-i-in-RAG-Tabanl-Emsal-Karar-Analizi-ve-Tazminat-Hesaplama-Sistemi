@@ -1,78 +1,148 @@
-SIRA NO: 219
-DOKÜMAN ID: 1197848000
-DAİRE / MAHKEME: Bursa Bölge Adliye Mahkemesi 13. Hukuk Dairesi
-ESAS NO: 2022/485
-KARAR NO: 2023/1079
-KARAR TARİHİ: 16.05.2023
-İÇERİK HASH (MD5): e1ea57c2965f39da063ae44b91f2088a
-===========================================================================
+SIRA NO: 219 (ÇEKİRDEK)
+DOKÜMAN ID: 1225995600
+DERECE: İlk Derece Mahkemesi
+DAİRE / MAHKEME: Ankara 4. Asliye Ticaret Mahkemesi
+ESAS NO: 2023/340
+KARAR NO: 2026/269
+KARAR TARİHİ: 17.04.2026 (Yıl: 2026)
+ARAMA KELİMESİ: trafik kazası aktüer bilirkişi raporu net tutar
+SAYFA NO: 1
+İNDİRME ZAMANI: 2026-10-25 00:17:05
+HESAP DOĞRULAMA ADAYI: True
+İÇERİK HASH (MD5): c9d54738403b2a3dca4ebe680fd567cb
+================================================================================
 
-T.C. ... BAM ...... HUKUK DAİRESİ Esas-Karar No: .../... - ..../........
+T.C. ... 4. ASLİYE TİCARET MAHKEMESİ Esas-Karar No: 2023/340 Esas - 2026/269
 T.C.
-.....
-BÖLGE ADLİYE MAHKEMESİ T Ü R K M İ L L E T İ A D I N A
-...... HUKUK DAİRESİ K A R A R
-DOSYA NO : ..../...
-KARAR NO : .../...
-BAŞKAN :........
-ÜYE :.......
-ÜYE : ..........
-KATİP : ...........
-İNCELENEN KARARIN
-MAHKEMESİ :....... ...... ASLİYE TİCARET MAHKEMESİ
-ESAS NO :......./.........
-KARAR NO : ........./.........
-KARAR TARİHİ : ........
-İSTİNAF BAŞVURU TARİHİ : ..........
-DAVACILAR : 1-............
-2-.............
-VEKİLİ : Av. ...........
-DAVALI : 1 ...........
-VEKİLİ : Av.........
-DAVALI : 2 -.......
-VEKİLİ : Av.........
-İHBAR OLUNAN : ............
-DAVANIN KONUSU : Tazminat (Haksız Fiilden Kaynaklanan)
-B.A.M. KARAR TARİHİ : .......
-KARAR YAZIM TARİHİ : ...........
-Davacı tarafından, davalılar aleyhine açılan davanın yapılan yargılaması sonunda mahalli mahkemesince davanın kabulüne dair verilen karara süresi içinde davalılar vekilleri tarafından istinaf kanun yoluna başvurulması üzerine yapılan ön inceleme sonunda, incelemenin duruşma açılmadan karar verilmesi mümkün hallerden olduğu anlaşılmakla dosya incelendi.
-GEREĞİ DÜŞÜNÜLDÜ:
-Davacılar vekili dava dilekçesinde, 06/03/2016 tarihinde, .......İli ....... İleçsi ..........dönüşünde meydana gelen yaralamalı ve maddi hasarlı trafik kazasında, davalı ........ sevk ve idaresinde bulunan ve maliki olduğu ..........plakalı aracı ile müvekkili .............'in maliki olduğu ve olay günü sevk ve idaresinde bulunan ...........plakalı araca çarptığını, meydana gelen trafik kazasında müvekkillerinin çeşitli bölgelerinden yaralandığını ve vücutlarında kalıcı hasar meydana geldiğini, kaza mahalline gelen trafik polisi ekibi tarafından tutulan 06/03/2016 tarihli Trafik Kazası Tespit Tutanağı’nda, davalının kusuru 8/8 olarak belirlendiğini, müvekkillerin meydana gelen trafik kazası neticesinde, ......... Devlet Hastanesine kaldırıldığı ve tedavi altına alındığını, daha sonraki tedavilerine ise ...........hastahanesinde devam edildiğini, müvekkillerinin bu kaza nedeniyle 20 gün çalışamadığını ve hastanede yattığı dönem için tedavi masrafı ödediğini, müvekkilin yaşadığı psikolojik çöküntünün üstesinden gelebilmek için düzenli terapiye başladığını, meydana gelen trafik kazası sonucu müvekkiline ait plaka sayılı aracın ağır hasar gördüğünü ve kullanılamaz hale geldiğini, söz konusu araca ait hurda halinin "....................." adresinde bulunduğunu, araç bedelinin ödenmediğini, tüm bu nedenlerle ............. için araç hasarı nedeniyle fazlaya dair talep ve dava hakkı saklı kalmak kaydı 15.000 TL maddi tazminat, iş göremezlik ve kalıcı cismani hasar nedeniyle fazlaya dair talep ve dava hakkı saklı kalmak kaydı ile 1.000,00 TL maddi tazminat 10.000,00 TL. manevi tazminat ........ için iş göremezlik ve kalıcı cismani hasar nedeniyle fazlaya dair talep ve dava hakkı saklı kalmak kaydı ile 1.000,00 TL maddi tazminat 10.000,00 TL manevi tazminatın davalıdan alınarak davacılara verilmesine karar verilmesini talep ve dava etmiştir.
-Davacılar vekili 24/10/2021 tarihli ıslah dilekçesi ile araç bedelinin 70.000,00 TL olarak belirlenmesi ve sigorta şirketinin yapmış olduğu 6.900,00 TL 'nin mahsup edilmesi ile dava değerini 63.100,00 TL'ye yükselterek dava tarihinden itibaren işleyecek yasal faizi ile birlikte davalılardan tahsiline, kazalı aracın sigorta şirketine iadesine karar verilmesini talep etmiştir.
-Davalı ........... vekili cevap dilekçesinde, davacılara ait aracın kazanın oluşumuna etkisi olduğu için kusurlu olduğunu, davaya konu olayda davacıların müterafik kusurunun meydana gelen olaydaki varlığı nazara alınarak zarardan tenkis yapılması gerektiğini, Borçlar Kanunu hükmü uyarınca tazminat miktarının indirilmesi ve hiç kimse kendi kusurdan yararlanamadığı ilkesi uyarınca davacının kusuru oranında tazminat miktarında indirim yapılması gerektiğini, davacı tarafın kazaya konu aracı diğer davalı sigorta şirkeli tarafından tamir giderlerinin karşılandığını, kaza sırasında davacının aracının değerine ve araçta oluşan hasarın değerine bakıldığında davacının fahiş ve haksız bir tazminat talebinde bulunduğu açıkça görüleceğini, davacı tarafın araçta meydana gelen hasarı diğer davalı .......... tarafından karşılanmış olup davacının bu husustaki talebinin reddine karar verilmesini davalı sigorta şirketi tarafından .........numaralı hasar dosyası üzerinden açılan hasar bedeli dava dışı ...........' ya ödenmiş olduğu halde araçta meydana gelen hasardan ötürü dava açılması hukuka aykırı olduğunu, davacıların dava dilekçesinde faiz talep etmemiş olmakla talep edilen miktarlara faiz işletilmemesine karar verilmesi gerektiğini, bağlılık ilkesi uyarınca faiz hususunda karar verilmemesini, diğer davalı sigorta şirketinin faize dair açıklamalarını kabul etmediklerini, bu nedenlerle davacının tüm taleplerinin reddi ile davacıların faiz talebi bulunmadığından bu hususta karar verilmemesine, davacının araç hasarı nedeniyle maddi tazminat talebinin reddine, müvekkili geçici iş görmezlik tazminatından sorumlu olmadığından davacıların bu talebinin reddine ve davacıların haksız manevi tazminat taleplerinin reddine karar verilmesini talep etmiştir.
-Davalı Sigorta Şirketi vekili cevap dilekçesinde, öncelikle usul ve yetki itirazlarının bulunduğunu, davacı tarafın müvekkili şirkete herhangi bir başvuru yapmadan bu davayı açtığını, 6704 sayılı torba kanunu uyarınca davadan önce başvuru yapmak zorunlu hale getirildiğini, bu sebeple öngörülen 15 günlük süre içerisinde bu başvurunun yapılmadığını, davacı tarafın geçici iş göremezlik tazminatı ve tedavi giderini talep ettiğini, davacının geçici iş göremezlik tazminatı ve tedavi gideri taleplerinin trafik sigortası yeni genel şartları gereği teminat dışında olduğunu, tedavi ile ilgili tüm sorumlulukların ise SGK'da olduğunu, davanın kabülü anlamına gelmemekle birlikte, davacının kaza sebebiyle elde ettiği gelir ve tazminatların mahsubunun gerektiğini, davacıların bağlı bulunduğu sosyal güvenlik kurumunun tespit edilerek, mükerrer ödemeyi ve haksız zenginleşmeyi önlemek için kurum tarafından davacıya ödenen geçici iş göremezlik ödeneği ile maluliyet nedeni ile bağlanan gelirin peşin sermaye değerinin sorulmadığını, zira davanın mahiyeti itibarıyla öncelikle sosyal güvenlik kurumlarınca karşılanmayan zarartarın giderilmesine ilişkin olduğunu, teminatın tek, hasar görenlerin birden fazla olması durumunda karayolları trafik kanunu 96.madde gereğince teminatın paylaştırılması gerektiğini, ilgili ATK dairesinden kusur raporunun aldırılması gerektiğini, müvekkil şirketin sorumluluğu poliçede yazılı limitle sınırlı olduğunu, kaza tarihinde geçerli poliçe teminatının 310.000-TL ile sınırlı olduğunu, davacı tarafın araç hasarı müvekkil şirket tarafından karşılandığını, müvekkil şirketin sorumluluğu bulunmadığını, tüm bu nedenlerle dosyanın yetki yönünden reddini ve aleyhe haksız olarak açılan davanın reddine karar verilmesini talep etmiştir.
-Mahkemece, davanın kısmen kabulüne, kısmen reddi ile davacı ...........’nun iş göremezlik maddi tazminat talebinin reddine, davacı ...........’nun hasar bedeli maddi tazminat talebinin kısmen kabulü ile 42.100,00 TL maddi tazminatın (ıslah dilekçesindeki faiz talep tarihi dikkate alınarak) dava tarihi olan 09/06/2016 tarihinden itibaren işleyecek yasal faizi ile birlikte davalılardan müştereken ve müteselsilen alınarak davacı ..........’.ya verilmesine, kazaya karışan araç olan ............ plakalı aracın davalı sigorta şirketine teslimi talebinin reddine, davacı ............’nun manevi tazminat talebinin kısmen kabulü ile 1.000,00 TL manevi tazminatın davalı ..........’dan alınarak davacı ............’ya verilmesine, fazlaya ilişkin talebin reddine, davacı ...........’nun maddi tazminat talebinin kısmen kabulü ile 966,79 TL maddi tazminatın davalılardan müştereken ve müteselsilen alınarak davacı ............’ya verilmesine ve davacı ...........’nun manevi tazminat talebinin kısmen kabulü ile 2.000,00 TL manevi tazminatın davalı ..........’dan alınarak davacı ...........’ya verilmesine, fazlaya ilişkin talebin reddine karar verilmiştir.
-Davalı ........ vekili istinaf kanun yoluna başvuru dilekçesinde, bilirkişi raporundan aracın kaza tarihindeki rayicinin ve hasar miktarının tespit edilerek aracın pert kabul edilip edilmeyeceğinin belirlenmesi gerekirken günümüzdeki değerine göre belirleme yapılmasının hatalı olduğunu ayrıca müvekkilinin araçla ilgili malikine yapılan ödeme dikkate alınarak poliçe limiti itibariyle bakiye sorumluluğu 24.100 TL olmasına rağmen mahkeme tarafından poliçe limiti gözetilmeksizin daha fazla tazminata hükmedilmiş olması nedeniyle kararın kaldırılmasına karar verilmesini talep etmiştir.
-Davalı ........... vekili istinaf kanun yoluna başvuru dilekçesinde, kazadaki kusur durumunun değerlendirilmesine ilişkin bilirkişiden alınan raporun eksik araştırma ve incelemeye dayalı olduğunu, çarpışma esnasında taraflara ait araçlarda meydana gelen hasar ve çarpma sonrası savrulma açısı ve hızı dikkate alındığında davacının aracının hız limitinin üzerinde olduğunu, davacının aracın hızını yol ve trafik durumuna göre ayarlamadığından kazanın oluşumunda kusurlu olduğunu, davacıların ihtiyari dava arkadaşı olmaları nedeniyle maddi ve manevi tazminat taleplerin yönünden ret gerekçesi farklı olan davacılar aleyhine müvekkili lehine reddedilen maddi ve manevi tazminat talepleri için her bir davacı yönünden ayrı ayrı vekalet ücreti takdir edilmesi gerektiğini, davacı .........'nun reddedilen maddi ve manevi tazminat talebi için ayrı ayrı 5.100,00 TL , davacı Yasemin'in reddedilen maddi tazminat talebi için 33,21 TL ve reddedilen manevi tazminat talebi için 5.100,00 TL vekalet ücreti takdir edilmesi gerekirken sadece reddedilen maddi tazminat talebi ile ilgili tek 5.100,00 TL vekalet ücretine hükmedilmesi hatalı olduğundan kararın kaldırılmasını talep etmiştir.
-DEĞERLENDİRME VE GEREKÇE:
-Dava; maddi hasarlı ve yaralamalı trafik kazası nedeniyle maddi ve manevi tazminat istemine ilişkindir.
-Taraflar arasındaki uyuşmazlık kazadaki kusur durumu, maddi tazminat hesabı ve davalılar lehine takdir edilmesi gereken vekalet ücretidir.
-Davalı vekili alınan kusur raporunun hatalı olduğu ve davacının kazanın oluşumunda kusurlu olduğunu beyanla istinaf isteminde bulunmuş ise de, mahkeme tarafından yapılan keşif ile trafik bilirkişisinden alınan raporda kaza nedeniyle tarafların kusur durumlarının değerlendirildiği ve davalı aracın sürücüsünün kazanın oluşumunda % 100 kusurlu olduğu ve davacının kazanın oluşumunda kusurunun bulunmadığının tespit edildiği ve alınan raporun kaza tespit tutanağı ve kazanın oluşum şekli ile uyumlu olması nedeniyle kusura ilişkin yeniden rapor alınmasına gerek bulunmadığından bilirkişi tarafından ibraz edilen kusur raporunun hükme esas alınmasında isabetsizlik bulunmadığından davalı .......... vekilinin kusura ilişkin istinaf isteminin reddi gerekmiştir.
-Aracın perte ayrıldığının kabulü için kaza tarihindeki ikinci el rayiç değeri belirlenip, tamir masraflarının belli bir orana ulaşması ve aracın kaza tarihindeki ikinci el değerinden, sovtaj değeri düşülerek davacının zararının belirlenmesi gerekir (Yargıtay 17 HD, 2018/1089 E.- 2018/5070 K. sayılı ilam).
-Davalı sigorta vekili, aracın kaza tarihindeki hasarlı ve hasarsız değeri ile hasar bedelinin belirlenmesi gerekirken rapor tarihindeki değerinin tespit edilerek aracın pert kabul edilmesinin doğru olmadığını beyanla istinaf isteminde bulunmuş olup yukarıdaki açıklamalar da dikkate alınmak suretiyle eylemin haksız fiilden kaynaklı olması nedeniyle aracın haksız fiil tarihindeki hasarlı ve hasarsız ikinci el değeri ile tamir masraflarının da hesaplanarak aracın pert kabul edilmesi gerekip gerekmediğinin değerlendirilmesi gerekirken rapor tarihindeki değerine göre değerlendirme yapılması usul ve yasaya aykırı olduğundan davalı sigorta vekilinin bu husustaki istinaf isteminin reddi gerekmiştir.
-Davacı ..........'nun aracın maliki olmadığı ve sigorta şirketi tarafından aracın malikine davadan önce ödeme yapıldığı anlaşılmakla, dava tarihinden önce yapılan ödemenin maddi tazminat miktarında mahsup edilmesi yerinde ise de kaza tarihi itibariyle geçerli bulunan ZMMS poliçesinde kaza nedeniyle maddi hasar için teminat limitinin 31.000,00 TL ve hesaplanan tazminat miktarının poliçe limitinin üzerinde olması nedeniyle davalı sigorta şirketinin maddi tazminattan bakiye poliçe miktarı ile sorumlu tutulması gerekirken tüm tazminattan diğer davalı ile birlikte müteselsil sorumlu tutulması hatalı olduğundan davalı sigorta vekilinin bu husustaki istinaf isteminin de kabulü gerekmiştir.
-Davacılar tarafından davalılar aleyhine açılan iş bu davada davacılar ve davalılar arasındaki ilişki HMK 57/1-a maddesi uyarınca ihtiyari dava arkadaşlığı olup, HMK 58. maddesi uyarınca ihtiyari dava arkadaşlığında, davaların birbirinden bağımsız olduğu ve dava arkadaşlığında her birinin diğerinden bağımsız hareket ettiği düzenlenmiştir.
-Davacıların maddi ve manevi tazminat taleplerinin kısmen kabulüne karar verilmiş olması nedeniyle reddedilen maddi ve manevi tazminat talepleri yönünden kendilerini vekil ile temsil ettiren davalılar lehine karar tarihinden yürürlükte bulunan AAÜT 10/2 ve 13/2 ve 13/3 maddelerine göre vekalet ücreti takdir edilmesi gerekirken sadece reddedilen maddi tazminatla ilgili iki davacı yönünden tek olmak üzere davalılar lehine vekalet ücreti takdir edilmiş olması nedeniyle davalı ........ vekilinin bu husustaki istinaf isteminin kabulü gerekmiştir.
-Bu durumda tüm açıklamalar ışığında mahkeme tarafından yapılması gereken, davacı tarafın kaza nedeniyle araçta meydana gelen hasar bedelinin talep edilmiş olması karşısında başka bir makine mühendisi bilirkişiden meydana gelen hasar ve kazanın oluşum şekilinin uyumlu olup olmadığı, aracın kaza tarihindeki hasarlı ve hasarsız değerinin ayrı ayrı tespit edilmesi ve ayrıca hasar değerinin de belirlenmesi ile aracın tamirini ekonomik olup olmadığının tespiti için denetime açık rapor alınması ile sonucuna göre tarafların kazanılmış hakları ve poliçe limiti dikkate alınarak sonucuna göre karar vermek gerekmektedir.
-6100 sayılı HMK 355 maddesi gereğince istinafa başvuranın sıfatı, istinaf konusu yapılan nedenler ve kamu düzeni ile sınırlı olarak yapılan inceleme sonucunda, davalı ........ vekili ile davalı ........... vekilinin istinaf başvurusunun kabulü ile ilk derece mahkemesi kararının 6100 Sayılı HMK'nın 353/1. fıkrası (a-6) bendi gereğince kaldırılmasına, Dairemiz kararı gereğince davanın yeniden görülmesi için dosyanın kararı veren mahkemeye gönderilmesine karar verilmesi gerekmiştir.
-HÜKÜM:Gerekçesi yukarıda açıklandığı üzere;
-1-Davalı .......... vekili ile davalı ............. istinaf başvurularının yukarıda açıklanan nedenlerle KABULÜ ile ....... ...... Asliye Ticaret Mahkemesi'nin ............ tarih ve ..../.... - .../..... sayılı kararının KALDIRILMASINA,
-Gerekçede yapılan açıklamalar göz önünde bulundurularak yargılama yapılmak üzere dosyanın ilk derece mahkemesine GÖNDERİLMESİNE,
-2-a)Davalı .............. tarafından yatırılan 736,00 TL nisbi istinaf karar harcının talep halinde iadesine,
-b)Davalı ................ tarafından yatırılan 786,71 TL nisbi istinaf karar harcının talep halinde iadesine,
-3-Karar tebliğ ve harç iade işlemlerinin ilk derece mahkemesince yapılmasına,
-4-İstinaf kanun yoluna başvuran davalı tarafça yapılan istinaf yargılama giderinin ilk derece mahkemesince yargılama sonunda verilecek gerekçeli kararda dikkate alınmasına,
-5-İstinaf yargılaması sırasında duruşma açılmadığından vekalet ücreti takdirine yer olmadığına,
-Dair, duruşma açılmadan dosya üzerinde yapılan inceleme sonunda 6100 sayılı HMK'nun 353/1-a hükmü uyarınca kesin olmak üzere 16/05/2023 tarihinde oy birliği ile karar verildi.
-........
-Başkan
-.......
-......
-Üye
-..........
-.........
-Üye
-..........
-........
-Katip
-...............
+...
+4. ASLİYE TİCARET MAHKEMESİ
+GEREKÇELİ KARAR
+ESAS NO : 2023/340 Esas
+KARAR NO : 2026/269
+HAKİM : ....
+KATİP :....
+DAVACILAR : 1- ... ...
+2- ... .....
+3- ... ....
+VEKİLİ : Av....
+DAVALI : 1- ... ....
+VEKİLİ : Av.....
+DAVALI : 2- ... .....
+DAVA : Tazminat (Ölüm Ve Cismani Zarar Sebebiyle Açılan Tazminat)
+DAVA TARİHİ : 11/05/2023
+KARAR TARİHİ : 17/04/2026
+GEREKÇELİ KARARIN YAZILDIĞI TARİH : 29/04/2026
+Mahkememizde görülmekte olan Tazminat (Ölüm Ve Cismani Zarar Sebebiyle Açılan Tazminat) davasının yapılan açık yargılaması sonunda,
+DAVA:
+Davacı vekili dava dilekçesinde özetle; Dosyaya sunulmuş olan dava dilekçesi ve trafik görevlilerince tutulmuş trafik kazası
+tespit tutanağındaki bilgilere göre; 03.3.2019 tarihi saat 17:45 sularında, davalı ....
+Sigorta A.Ş. ile ZMM Sigortalı, sürücü ... ... yönetimindeki ...
+plakalı araç, ... İli, Keçiören ilçesi, 19 Mayıs Mahallesi’nde, Baharlı Sokaktan
+Özgürlük Caddesi yönüne seyir halindeyken, olay yeri 4-6 No’lu binanın önüne
+geldiğinde, bu yol üzerinde oynamakta olan çocuklardan Davacı yaya ...
+...’e fren tedbirsiz halde arıcının ön sağ kısmı ile çarpması sonucu, tek araçlı
+yaya çarpmalı, yaralanmalı bir trafik kazası meydana gelmiştir.
+Davacı tarafından, yaya ... ...‘in söz konusu trafik kazası sonucunda ağır
+şekilde yaralandığı ve vücudunun çeşitli yerlerinde kırıklar ve yaralanmalar
+meydana geldiği, bu nedenle sürekli iş görmezliğe maruz kaldığı ve bakıma muhtaç
+hale geldiği, dava konusu trafik kazasında kazaya neden olan .... plakalı
+aracın ZMM Sigorta şirketi davalı ... Sigorta A.Ş. ye 07.02.2020 tarihinde yapılan
+başvuruya istinaden sigorta şirketi tarafından 08.12.2020 tarihinde 20.000 TL maddi
+tazminat ödemesi yapıldığı, ancak bu ödemenin yetersiz bulunduğunu talep ve dava etmiştir.
+CEVAP:
+Davalı Sigorta vekili cevap dilekçesinde özetle; Müvekkili
+şirketin, başvuru sahibinin başvurusu üzerine aktüer hesabına göre ödemede bulunarak poliçeden
+kaynaklanan tüm sorumluluğunu yerine getirdiğini, başkaca bir sorumluluğunun bulunmadığını,
+geçici bakıcı giderinin poliçe teminat dışında olduğunu, davacı yanın avans faizi talebinin hukuka
+aykırı olduğunu belirterek açıklanan nedenlerle davanın reddine karar verilmesini talep etmiştir.
+DELİLLER VE GEREKÇE:
+Dava "Davacının 03/03/2019 tarihinde meydana gelen trafik kazası nedeni ile sürücüsünün kusurlu olduğunu ileri sürdüğü aracın ZMMS ile sigortalayan davalı sigorta şirketine ve davalı araç sürücüsü aleyhine açtığı şimdilik 50,00 TL sürekli iş göremezlik ve 50,00 TL bakıcı gideri olmak üzere şimdilik toplam 100,00 TL tutarında maddi tazminat " istemine ilişkindir.
+Talep, cevap, araç tescil kayıtları, davacının ve davalı ... ...'ın sosyo-ekonomik durum araştırmaları, davacının tedavi evrakı, SGK yazı cevabı, ... 30. Asliye Ceza Mahkemesi'nin 2019/1199 Esas-2020/841 Karar sayılı ilamı, kusur durumuna ilişkin temin edilen makine mühendisi bilirkişinin 21/02/2025 tarihli raporu, Hacettepe Üniversitesi Tıp Fakültesi Dahili Tıp Bilimleri Adli Tıp Ana bilim dalı Başkanlığı'nın raporu, makine mühendisi bilirkişinin 20/05/2024 tarihli ek raporu, aktüer bilirkişinin 18/11/2024 tarihli raporu, 22/01/2025 tarihli ek raporu ve 02/01/2026 tarihli 2. Ek raporu ile tüm dosya kapsamı birlikte değerlendirildiğinde;
+Makine mühendisi bilirkişinin 21/02/2024 tarihli raporunda;"5.1. Davalı ... Sigorta A.Ş. ile ZMM Sigortalı, Erdal ARAS’ın maliki olduğu,
+... plakalı Toyota marka özel aracın olay anındaki davalı sürücüsü
+... ...’ın, 2918 sayılı Karayolları Trafik Kanunu’nun 52/b Yönetmeliğin
+101/b maddelerini ihlal etmesi yanında, dikkat ve özen gösterme yükümlülüğüne
+aykırı tedbirsiz sürüşü ve etkin bir fren tatbikinde bulunamaması nedeniyle,
+meydana gelen trafik kazasının oluşumunda % 25 (yüzde yirmibeş) oranında
+kusurlu olduğu; 5.2. 4 yaşındaki Yaya ... ..., bir araç yolunda bulunmanın, burada
+oyun oynamanın tehlike analizi yapamamış bu eylemine uyan 2918 sayılı
+Karayolları Trafik Kanunu’nun 68/b ve c maddelerini ihlal etmesi yanında
+dikkatsizliği ve tedbirsizliği de söz konusu olduğundan, kendisinin yaralanması
+ile sonuçlanan dava konusu trafik kazasının meydana gelmesinde % 75 (yüzde
+yetmişbeş) oranında kusurlu olduğu" şeklinde görüş ve kanaatte bulunulmuştur.
+Makine mühendisi bilirkişinin
+20/05/2024 tarihli bilirkişi ek raporunda; "
+5.2. 4 yaşındaki Yaya ... ..., bir araç yolunda bulunmanın, burada
+oyun oynamanın tehlike analizi yapamamış ancak 2918 sayılı Karayolları Trafik
+Kanunu’nun 68/b ve c maddelerinin ihlal edilerek dava konusu kazanın
+meydana gelmesinde ebeveynden kaynaklı etken olması ve buna göre kendisine
+atfedilen % 75 (yüzde yetmişbeş) oranındaki kusur değerlendirmesinde
+değişikliğe gidilmesine gerek görülmediği" şeklinde görüş ve kanaatte bulunulmuştur.
+Hacettepe Üniversitesi Tıp Fakültesi Dahili Tıp Bilimleri Adli Tıp Ana bilim dalı Başkanlığı'nın bila tarihli raporunda; " 03/03/2019 tarihli trafik kazasına bağlı kişinin toplam vücut engel oranının %10
+(yüzdeon)olduğu, sekel halini aldığı ve sürekli olduğu,
+Kaza nedeniyle kişinin tedavisine başlanmasından itibaren sürekli sakatlık raporu alana kadar tedavi
+süresince ortaya çıkan bakıcı ihtiyaç süresinin 2 (iki) ay olduğu,
+Tıbbi iyileşme süresinin 6 (altı) aya kadar uzayabileceği kanaatinde olduğumuzu bildirir Adli Tıp Kurulu
+raporudur.
+" şeklinde görüş ve kanaatte bulunulmuştur.
+Aktüer bilirkişinin 18/11/2024 tarihli raporunda;
+TRH 2010 yaşam tablosu ve progresif rant (%10 artırım %10 eksiltim) kullanılarak yapılan
+hesaplama sonucunda davacı ... ...’in;
+Geçici işgücü kaybından kaynaklanan tazminat tutarının bulunmadığı,
+2- Sürekli işgücü kaybından kaynaklanan bakiye tazminat alacağının 308.857,83 TL olduğu,
+(sigorta şirketi ödemesinin güncellenerek indiriminin sağlanmasından sonra)
+3-Geçici Bakıcı giderinden kaynaklanan tazminat tutarının ise 1.279,20 TL olduğu,
+4- Sayın Mahkeme tarafından davacı yanın sigorta şirketine başvurusunun geçerli olduğunun
+kabulü halinde; davacı tarafın sigorta şirketine başvuru tebliğ tarihinden 8 iş günü sonrası
+(başvuru/ihbar tebliğ tarihi dosyada mevcut olmadığından) temerrüde düşme tarihinden
+itibaren yasal faiz yürütülerek, diğer davalıdan kaza tarihinden itibaren yasal faiz
+yürütülerek tazminat talebinde bulunabileceği,
+5-Kaza tarihinde (2019 yılı) ölüm ve sakatlanma teminat limit tutarının 390.000,00 TL
+olduğu, hesaplanan tazminat tutarının bakiye poliçe teminat limit tutarını aşmadığı" şeklinde görüş ve kanaatte bulunulmuştur.
+Aktüer bilirkişinin 22/01/2025 tarihli raporunda;
+Taraf vekilleri tarafından yapılan itirazlar, Mamak Askerlik Şubesi Başkanlığının 18.12.2024
+tarihli yazısı dikkate alınarak, TRH 2010 yaşam tablosu ve progresif rant (%10 artırım %10
+eksiltim) kullanılarak yapılan hesaplama sonucunda davacı ... ...’in (2025 yılı
+güncel asgari ücrete göre hesaplama yapılmıştır);
+Geçici işgücü kaybından kaynaklanan tazminat tutarının bulunmadığı, Sürekli işgücü kaybından kaynaklanan tazminat tutarının toplam 430.505,78 TL olduğu,
+davalı zararının kaza tarihinde (03.03.2019) poliçe teminat limit tutarının (390.000,00 TL’nin)
+üzerinde olduğu, bu duruma göre; -Davalı Mapfre sigorta şirketinin ZMSS poliçesi kapsamında bakiye sorumluluğunun
+(yapılan ödemenin indirimi sonrası) 372.188,00 TL olduğu
+Diğer davalı ... ...’ın (sürücü) sorumluluğunun 32.488,92 TL olduğu,
+Geçici Bakıcı giderinden kaynaklanan tazminat tutarının ise 1.279,20 TL olduğu, Sayın Mahkeme tarafından davacı yanın sigorta şirketine başvurusunun geçerli olduğunun
+kabulü halinde; davacı tarafın sigorta şirketine başvuru tebliğ tarihinden 8 iş günü sonrası
+(başvuru/ihbar tebliğ tarihi dosyada mevcut olmadığından) temerrüde düşme tarihinden
+itibaren yasal faiz yürütülerek, diğer davalıdan kaza tarihinden itibaren yasal faiz
+yürütülerek tazminat talebinde bulunabileceği" şeklinde görüş ve kanaatte bulunulmuştur.
+Aktüer bilirkişinin 02/01/2026 tarihli raporunda;"Sayın Mahkeme tarafından yapılan görevlendirme dikkate alınarak 2026 yılı güncel asgari
+ücrete göre tekrar hesaplama yapılmış, ayrıca sigorta şirketinin bakiye sorumluluğu belirlenmiş ve
+ödemeler güncellenerek diğer davalı ... ...’ın (sürücü) sorumlulu olduğu kısım tekrar
+belirlenmiştir.
+Ayrıca önceki ek raporda taraf vekilleri tarafından yapılan itirazlar, Mamak Askerlik Şubesi
+Başkanlığının 18.12.2024 tarihli yazısı dikkate alınarak, TRH 2010 yaşam tablosu ve progresif rant
+(%10 artırım %10 eksiltim) kullanılarak yapılan hesaplama sonucunda davacı ...
+...’in (2026 yılı güncel asgari ücrete göre hesaplama yapılmıştır);
+Geçici işgücü kaybından kaynaklanan tazminat tutarının bulunmadığı,
+Sürekli işgücü kaybından kaynaklanan tazminat tutarının toplam 541.921,47 TL olduğu,
+ZMSS poliçesi limiti kapsamında talep edebileceği bakiye tazminat tutarının 342.188,00 TL
+(yapılan ödemenin indirimi sonrası) olduğu, diğer davalı ... ...’ın (sürücü)
+sorumluluğunun (541.921,47 TL - 29.737,74 TL- 342.188,00 TL) = 169.995,73 TL olduğu,
+Geçici Bakıcı giderinden kaynaklanan tazminat tutarının ise 1.279,20 TL olduğu, (ZMSS
+poliçesi tedavi giderleri klozu teminat limit tutarının kaza tarihinde 360.000,00 TL olduğu)
+Sayın Mahkeme tarafından davacı yanın sigorta şirketine başvurusunun geçerli olduğunun
+kabulü halinde; davacı tarafın sigorta şirketine başvuru tebliğ tarihinden 8 iş günü sonrası
+(başvuru/ihbar tebliğ tarihi dosyada mevcut olmadığından) temerrüde düşme tarihinden
+itibaren yasal faiz yürütülerek, diğer davalıdan kaza tarihinden itibaren yasal faiz
+yürütülerek tazminat talebinde bulunabileceği" şeklinde görüş ve kanaatte bulunulmuştur.
+Davacı vekili talep artırım dilekçesi sunarak, harcını ikmal etmiştir. Talep artırım dilekçesi davalılara/vekillerine tebliğ edilmiştir.
+Yukarıda içerikleri açıklanan hüküm kurmaya ve denetime elverişli oldukları anlaşılan kusur durumuna yönelik makine mühendisi bilirkişinin raporu ve kaza tarihi itibariyle yürürlükte bulunan yönetmelik hükümlerine göre hazırlanan maluliyet raporu dikkate alınarak hazırlanan aktüer bilirkişinin 02/01/2026 tarihli raporu dikkate alındığında; davanın kabulüne karar vermek gerekmiş ve aşağıdaki şekilde hüküm kurulmuştur.
+HÜKÜM: Gerekçesi yukarıda açıklandığı üzere;
+1- 1.279,20 -TL tutarındaki bakıcı gideri tazminatının davalı ... ... bakımından kaza tarihi olan 03/03/2019 tarihiden itibaren, davalı sigorta şirketi bakımından poliçe teminat limiti ile sınırlı olmak kaydıyla dava tarihi olan 11/05/2023 tarihinden itibaren işleyecek yasal faizi; 541.921,47 TL tutarındaki sürekli iş göremezlik tazminatının davalı sigorta şirketi bakımından poliçe teminat limiti ile sınırlı olmak kaydı ile dava tarihi olan 11/05/2023 tarihinden itibaren davalı ... ... bakımından kaza tarihi olan 03/03/2019 tarihinden itibaren işleyecek yasal faizi ile müştereken ve müteselsilen alınarak davacıya verilmesine,
+2-Alınması gerekli 37.106,03 -TL harçtan peşin alınan 179,90 TL peşin harcın ve 750,00 TL tamamlama harcının mahsubu ile bakiye 36.176,13 -TL harcın müştereken ve müteselsilen davalılardan alınarak hazineye irat kaydına,
+3-Bu dava kapsamında davacı tarafından yapılan 2.715,50-TL tebligat ve müzekkere gideri, 5.800,00-TL bilirkişi ücreti, 179,90- TL Peşin Harç, 179,90-TL Başvuru harcı ve 25,60-TL Vekalet harcı, 8.500,00-TL tamamlama harcı, 750,00-TL tamamlama harcı olmak üzere toplam 18.150,90-TL yargılama giderinin müştereken ve müteselsilen davalılardan alınarak davacıya ödenmesine,
+4-Davacı kendisini vekil ile temsil ettirdiğinden karar tarihinde yürürlükte bulunan AAÜT uyarınca hesaplanıp takdir edilen 86.912,11 TL vekalet ücretinin müştereken ve müteselsilen davalılardan alınarak davacıya verilmesine,
+5-6102 sayılı Türk Ticaret Kanununun 5/A ve 6325 sayılı Hukuk Uyuşmazlıklarında Arabuluculuk Kanununun 18/A-13. Maddesi uyarınca sarf kararı hazırlanmadığından bu konuda karar verilmesine yer olmadığına
+6-Kullanılmayan gider avansı var ise hükmün kesinleşmesinden sonra yatırana iadesine,
+Dair; davacı vekilinin yüzüne karşı, davalı sigorta şirketi vekilinin ve davalı ... ...'ın yokluğunda gerekçeli kararın tebliğinden itibaren 2 hafta içinde ... Bölge Adliye Mahkemelerinde İstinaf yolu açık olmak üzere verilen karar açıkça okunup usulen anlatıldı. 17/04/2026
+Katip .... Hakim ....
+E-imza E-imza

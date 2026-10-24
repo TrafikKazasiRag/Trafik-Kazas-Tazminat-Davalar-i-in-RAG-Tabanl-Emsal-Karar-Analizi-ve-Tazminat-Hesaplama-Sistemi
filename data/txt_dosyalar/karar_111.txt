@@ -1,36 +1,54 @@
-SIRA NO: 111
-DOKÜMAN ID: 776372400
-DAİRE / MAHKEME: İstanbul Anadolu 1. Asliye Ticaret Mahkemesi
-ESAS NO: 2017/902
-KARAR NO: 2022/464
-KARAR TARİHİ: 26.05.2022
-İÇERİK HASH (MD5): 360418bb9dc77c47fb75938e56ac446e
-===========================================================================
+SIRA NO: 111 (ÇEKİRDEK)
+DOKÜMAN ID: 710145700
+DERECE: BAM (İstinaf)
+DAİRE / MAHKEME: Antalya Bölge Adliye Mahkemesi 4. Hukuk Dairesi
+ESAS NO: 2020/547
+KARAR NO: 2021/2110
+KARAR TARİHİ: 17.12.2021 (Yıl: 2021)
+ARAMA KELİMESİ: trafik kazası maddi manevi tazminat kusur (v3)
+SAYFA NO: 1
+İNDİRME ZAMANI: 2026-10-25 00:16:44
+HESAP DOĞRULAMA ADAYI: False
+İÇERİK HASH (MD5): da79ea47331e510a501fc90145e12fc4
+================================================================================
 
-T.C. İstanbul Anadolu 1. ASLİYE TİCARET MAHKEMESİ
-ESAS NO : 2017/902 Esas
-KARAR NO : 2022/464
-DAVA : Tazminat (Ölüm Ve Cismani Zarar Sebebiyle Açılan Tazminat)
-DAVA TARİHİ : 17/08/2017
-KARAR TARİHİ : 26/05/2022
-Mahkememizde görülmekte olan Tazminat (Ölüm Ve Cismani Zarar Sebebiyle Açılan Tazminat) davasının yapılan açık yargılaması sonunda,
-GEREĞİ DÜŞÜNÜLDÜ:
-Davacı vekili dava dilekçesinde özetle; ------- tarihinde ------istikametinden--------- istikametine seyir halinde olan sürücü ---------'in sevk ve idaresindeki -------- plakalı aracı ile müvekkili sürücü ----------'in sevk ve idaresinde bulunan --------- plakalı aracına çarpması sonucu yaralanmalı trafik kazası meydana geldiğini, trafik kazası tespit tutanağında kazanın oluşumunda--------- plaka sayılı araç sürücüsü müvekkili -----------'in tali yollardan ana yola çıkan sürücülerin ana yoldan geçen araçlara ilk geçiş hakkını vermesi gerektiği kuralını ihlal ettiğinden asli, diğer ------- plaka sayılı araç sürücüsü -----------'in kavşaklara yaklaşırken aracın hızını azaltmamak kuralını ihlal ettiğinden tali kusurlu olduğunun tutanağa geçirildiğini, kolluk tarafından tutulmuş bu tutanağın gerçeği yansıtmadığını, kazada müvekkilinin eşi ve çocuklarının ağır derecede yaralandığını, kaza kusur durumunun yeniden tespit edilmesini, fazlaya ilişkin hakları saklı kalmak kaydıyla müvekkili ----------- İçin geçici iş göremezlik zararı nedeniyle ----------- oluşan kalıcı hasar ve sürekli iş göremezlik nedeniyle ---------- bakıcı masrafı için --------- tedavi giderleri ve iyileşme süresince yaptığı tüm masraflar için -------olmak üzere toplamda---------- maddi tazminatın olay tarihinden itibaren işleyecek ticari faiziyle birlikte bütün davalılardan müştereken ve müteselsilen tahsiline, müvekkili -----------'in geçici iş göremezlik zararı nedeniyle --------- tedavi giderleri ve iyileşme süresince yaptığı tüm masraflar hasta ve yakınlarının hastaneye gidip gelme yol masrafları, beslenme masrafları gibi ek harcamalar için ---------- olmak üzere toplamda ---------maddi tazminatın olay tarihinden itibaren işleyecek ticari faiziyle birlikte bütün davalılardan müştereken ve müteselsilen tahsiline, müvekkili ---------'in uğramış olduğu manevi zarar için---------- manevi tazminatın olay tarihinden itibaren işleyecek yasal faiziyle birlikte davalı -------'den tahsiline, müvekkili ----------''in uğramış olduğu manevi zarar için ----------manevi tazminatın olay tarihinden itibaren işleyecek yasal faiziyle birlikte davalı ------------'den tahsiline, yargılama gideri ve vekalet ücretinin karşı tarafa yükletilmesine karar verilmesini talep ve dava etmiştir.
------------vekili cevap dilekçesinde özetle; meydana gelen kazanın tamamen sürücü kusurundan meydana geldiğini, müvekkiline atfedilecek bir kusurun bulunmadığını, trafik kazası tespit tutanağında yolun karayolları standartlarına uygun olduğunun tespit edildiğini, davanın yetkili ve görevli mahkemede açılmadığını, görevsizlik nedeniyle davanın usulden reddine karar verilmesini, taraflarına atfedilecek kusur bulunmadığından davanın esastan reddine, yargılama gideri ve vekalet ücretinin karşı tarafa yükletilmesine karar verilmesini talep etmiştir.
+T.C.
+ANTALYA
+BÖLGE ADLİYE MAHKEMESİ TÜRK MİLLETİ ADINA
+DÖRDÜNCÜ HUKUK DAİRESİ İSTİNAF KARARI
+İNCELENEN DOSYANIN
+MAHKEMESİ : ANTALYA 3. ASLİYE TİCARET MAHKEMESİ
+TARİHİ: 27/09/2019
+DAVA : Maddi ve Manevi Tazminat
+KARAR TARİHİ: 17/12/2021
+KARAR YAZIM TARİHİ: 20/12/2021
+Taraflar arasındaki davanın yapılan yargılaması sonunda ilk derece mahkemesince verilen, yukarıda tarih ve numarası gösterilen kararına karşı davalı ... A.Ş. vekili tarafından istinaf başvurusunda bulunulmakla, dosyada duruşma yapılmasını gerektiren eksiklik görülmediğinden Hukuk Muhakameleri Kanunu'nun 353/1-b-1-son maddesi uyarınca istinaf incelemesinin duruşmasız yapılmasına karar verilerek, dosya incelendi;
+GEREĞİ DÜŞÜNÜLDÜ
+DAVACI İSTEMİNİN ÖZETİ:
+Davacı vekili dava dilekçesinde özetle; davacının sürücüsü olduğu ... plaka sayılı motosikletle davalı ...'nın sürücüsü, davalı ... A.Ş.'nin kayıtlı maliki, davalı ... A.Ş.'nin ise zorunlu mali mesuliyet sigortacısı olduğu ... plaka sayılı otomobil arasında meydana gelen trafik kazası sonucu davacının yaralandığından bahisle şimdilik 20.000,00 TL maddi tazminatın tüm davalılardan, 150.000,00 TL manevi tazminatın ise davalılar ... ve ... A.Ş.'nden 03/04/2014 kaza tarihinden itibaren işleyecek yasal faiziyle birlikte müştereken ve müteselsilen tahsiline karar verilmesini talep etmiştir.
+DAVALI CEVABININ ÖZETİ:
+Davalı ... vekili davaya cevap dilekçesinde özetle; kusurun belirlenmesi açısından ceza yargılama sonucunun beklenilmesi gerektiğini beyanla davanın reddini istemiştir.
+Davalı ... A.Ş. vekili davaya cevap dilekçesinde özetle; kazaya karışan aracın uzun süreli kira sözleşmesi ile ... A.Ş. isimli firmaya kiralandığı, müvekkilinin işleten sıfatı ve taraf sıfatının bulunmadığı beyanla davanın reddini istemiştir.
+Davalı ... A.Ş. vekili davaya cevap dilekçesinde özetle; müvekkili şirketin sorumluluğunun sigortalının kusuru, poliçe kapsamı ve limiti ile sınırlı olduğu, kusurun, maluliyet oranının ile tazminatın usulünce belirlenmesi gerektiğini beyanla davanın reddini istemiştir.
 DELİLLER :
-Kaza tespit tutanağı, Savcılık Soruşturma dosyası, polis tutanakları, hastane evrakları, sigorta poliçesi, hasar dosyası, keşif tanık, ve bilirkişi incelemesi.
-DELİLLERİN DEĞERLENDİRİLMESİ VE GEREKÇE:
-Dava, trafik kazası sonucunda oluşan cismani zararın tazmini istemine ilişkindir.
-------- ve ------------aleyhine açılan davada; davacıların --------ye açtıkları dava HMK'nın 167.maddesi uyarınca tefrik edilerek Mahkememizin ayrı bir esasına kaydedilmiş, ---------- aleyhine açılan davaya işbu dosya üzerinden devam edilmiştir.
----------- sürücüsü olduğu -------- plakalı araç ile dava dışı-------in sürücüsü olduğu -------- plakalı aracın ----------- tarihinde çarpışması sonucu meydana gelen kazada davacılar yaralanmıştır.
-Davaya konu trafik kazasına ilişkin --------- tarihli trafik kazası tespit tutanağının incelenmesinde, kazanın oluşumunda --------- plakalı araç sürücüsü--------'in asli,---------- plaka sayılı araç sürücüsü -----------'in tali kusurlu olduğu belirtilmiştir.
----------- Dairesinden alınan ---------- tarihli raporda; davacı sürücü ---------’in %80 oranında, dava dışı sürücü-----------’in %20 oranında kusurlu olduğu tespit edilmiştir.
-Davaya konu kazanın meydana gelmesinde davalı --------'nün kusurunun olup olmadığı hususunda rapor alınmasına karar verilmiş, --------- tarafından düzenlenen------- tarihli bilirkişi raporunda; kazanın her iki sürücünün de trafik kurallarına uymamaları neticesinde meydana geldiği, davalı ---------’nün atfı kabil kusurunun bulunmadığı tespit edilmiştir.
-Dosya kapsamı ve tüm deliller birlikte değerlendirildiğinde, davaya konu trafik kazasının araç sürücülerinin kusuruyla meydana geldiği, olayda davalı -----------’nün kusurunun bulunmadığı anlaşılmakla, davanın reddine karar verilmiş ve aşağıdaki şekilde hüküm kurulmuştur.
-HÜKÜM : Yukarıda açıklandığı üzere;
-1-DAVANIN REDDİNE,
-2-Alınması gereken harcın, davacı tarafından peşin yatırılan------- harçtan mahsubu ile bakiye -------'nin davacıya iadesine,
-3-Davacı tarafından yapılan yargılama giderlerinin kendi üzerinde bırakılmasına,
-4-Davalı------- tarafından yapılan----------yargılama giderinin davacıdan alınarak bu davalıya verilmesine,
-5-Taraflarca yatırılan ancak sarf olunmayan gider avansının karar kesinleştiğinde yatıran tarafa iadesine,
-Dair davacı vekilinin yüzüne karşı, davalının yokluğunda verilen gerekçeli kararın tebliğ tarihinden itibaren iki haftalık süre içerisinde---------- Mahkemesi'nde İstinaf yasa yolu açık açık olmak üzere verilen karar açıkça okunup anlatıldı.
+Antalya 27. Asliye Ceza Mahkemesinin ... esas sayılı dava dosyası örneği, davacıya ait tıbbi evraklar, maluliyet raporu, kusur raporu, tazminat bilirkişisi raporu, tüm dosya kapsamı.
+İDM KARARININ ÖZETİ :
+İlk Derece Mahkemesince verilen kararda özetle; trafik kazasının meydana gelmesinde davacı sürücünün %25, davalı sürücünün ise %75 oranında kusurlu olduğu, davacının %7.3 oranında maluliyeti oluşacak ve 18 aya kadar iyileşebilecek şekilde yaralandığı, tazminat bilirkişisi raporuna göre davacının maddi zararının 37.251,35 TL olduğu, davacı tarafın davalı sigorta şirketiyle uzlaşma sağlamasından dolayı maddi tazminat davasından feragat ettiği, davalı ... A.Ş.'nin kazaya karışan aracın işleteni olmadığı gerekçesiyle maddi tazminat davasının feragat nedeniyle reddine, davalı ... A.Ş. yönünden açılan manevi tazminat pasif husumet yokluğu nedeniyle reddine, davalı ... yönünden açılan manevi tazminat davasının kısmen kabulü ile 8.000,00 TL manevi tazminatın kaza tarihinden itibaren işleyecek yasal faizi ile birlikte bu davalıdan tahsiline karar verilmiştir.
+İSTİNAF NEDENLERİ :
+Davalı ... A.Ş. vekili istinaf dilekçesinde özetle; müvekkili şirket yönünden maddi tazminat davasının feragat ve manevi tazminat davasının husumet yokluğu nedeniyle reddedilmesine rağmen, müvekkili lehine vekalet ücretine hükmedilmemesinin hukuka aykırı olduğunu beyanla ilk derece mahkemesi kararının vekalet ücretine yönelik kısımlarının kaldırılarak müvekkili şirket yönünden maddi ve manevi tazminat kararları için vekalet ücretine hükmedilmesine karar verilmesini istemiştir.
+İSTİNAFA CEVAP :
+Davacı vekili istinafa cevap dilekçesinde özetle; kararın miktar itibariyle kesinlik sınırı altında kaldığı, ilk derece mahkemesi kararının vekalet ücretine ilişkin ret kararının yerinde olduğunu beyanla istinaf talebinin reddini istemiştir.
+G E R E K Ç E
+Uyuşmazlık, trafik kazasına bağlı yaralanmadan kaynaklanan haksız fiil nedeni ile maddi ve manevi tazminat isteğine ilişkindir.
+Türk Borçlar Kanunu'nun 49. maddesi gereğince kasten veya taksirle başkasına zarar veren bu zararı gidermekle yükümlüdür. Bedensel zarara uğrayanların aynı kanunun 54. maddesi gereğince maddi tazminat ve aynı kanunun 56/1 maddesi gereğince manevi tazminat isteme hakları bulunmaktadır. 2918 Sayılı Karayolları Trafik Kanunu'nun 85. maddesi gereği motorlu araç işleteni doğan zararlardan sürücü ile birlikte müştereken ve müteselsilen sorumludur. 2918 Sayılı Karayolları Trafik Kanunu'nun 91, 97 ve 99. maddeleri gereği trafik kazasına ve zarara sebebiyet veren motorlu aracın zorunlu mali sorumluluk sigortacısı, yasa ve genel sigorta şartları kapsamına dahil maddi zararlardan işletenle birlikte müştereken ve müteselsilen sorumludur.
+Davacının sürücüsü olduğu motosiklet ile davalı ...'nın sürücüsü olduğu otomobil arasında meydana gelen trafik kazası sonucu davacı yaralanmıştır. Davalı ... A.Ş. otomobilin kayıtlı maliki, davalı sigorta şirketi ise bu aracın zorunlu mali mesuliyet sigortacısıdır. Davacı bu yaralanmadan dolayı maddi ve manevi zararının tahsilini talep etmiş, ilk derece mahkemesince yapılan yargılama sonucunda maddi tazminat davasının feragat nedeniyle reddine, davalı ... A.Ş.'nin işleten sıfatı bulunmadığından bu davalı yönünden açılan manevi tazminat davasının pasif husumet yokluğu nedeniyle reddine, davalı ... yönünden açılan manevi tazminat davasının kısmen kabulü ile 8.000,00 TL manevi tazminatın faiziyle birlikte bu davalıdan tahsiline karar verilmiş, bu karara karşı davalı ...A.Ş. vekili tarafından vekalet ücretine yönelik olarak istinaf yasa yoluna başvurulmuştur.
+6100 Sayılı HMK.'nun 355. maddesi gereğince istinaf dilekçesinde gösterilen istinaf sebepleri ile sınırlı yapılan istinaf incelemesi sonucunda;
+Dava dosyası içeriği itibariyle davalı tarafa ait ... plaka sayılı otomobil davalı ... A.Ş. adına kayıtlıdır. Davacı, aracın trafik kaydına göre davalı ... A.Ş.'ne işleten sıfatıyla husumet yöneltmiş, yargılama sırasında bu aracın uzun süreli kira sözleşmesi ile üçüncü bir şirkete kiralandığı savunmasının yapılması üzerine davalı şirketin işleten sıfatının haiz olmadığı anlaşılmıştır. Dolayısıyla davalı ... A.Ş.'ye husumet yöneltilmesinde davacı tarafa kusur yüklenilmesi mümkün değildir. Öte yandan davacı maddi tazminat davasından davalı sigorta şirketinden yapılan tazminat ödemesi karşılığı davadan feragat etmiştir. Davacının bu feragati, hakkın özünden feragat ettiği anlamına gelmemektedir. Davalı taraf trafik kazasının meydana gelmesinde kusurlu olduğundan zarara ve davanın açılmasına kendileri sebebiyet vermiştir. Mevcut bu durum karşısında davalı ... A.Ş. aleyhine açılan maddi ve manevi tazminat davasında davanın reddi kararı üzerine bu şirket lehine vekalet ücreti takdir edilmemesinde usul ve yasaya aykırı bir yön bulunmadığından davalı ... A.Ş. vekilinin yerinde görülmeyen istinaf başvurusunun 6100 Sayılı HMK'nun 353/1. fıkrası (b-1) bendi uyarınca esastan reddine karar verilmesi gerekmiştir.
+HÜKÜM : Gerekçesi yukarıda açıklandığı üzere;
+1-Davalı ... A.Ş. vekilinin tüm istinaf nedenleri yerinde görülmediğinden 6100 Sayılı HMK'nun 353/1. fıkrası (b-1) bendi uyarınca istinaf başvurusunun ESASTAN REDDİNE,
+2-Davalı ... A.Ş. tarafından peşin yatırılan 121,30 TL istinaf yoluna başvuru harcı ile 59,30 TL istinaf karar harcının mahsubuyla Hazineye gelir kaydına, fazla alınan 77,32 TL istinaf karar harcının talebi halinde bu davalıya iadesine,
+3-Yapılan istinaf giderlerinin davalı ... A.Ş. üzerinde bırakılmasına,
+4-Artan gider avanslarının yatıranlara iadesine,
+5-Kesin olan işbu kararın taraflara tebliği, avans ve harç tahsil/iade işlemlerinin ilk derece mahkemesince yerine getirilmesine,
+İlişkin dosya üzerinden yapılan inceleme sonucunda 17/12/2021 tarihinde, 6100 sayılı HMK'nun 362. maddesi (1-a) bendi gereğince KESİN olarak oy birliği ile karar verildi.
+...

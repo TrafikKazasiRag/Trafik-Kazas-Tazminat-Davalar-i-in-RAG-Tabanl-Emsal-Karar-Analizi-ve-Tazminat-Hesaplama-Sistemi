@@ -1,0 +1,71 @@
+SIRA NO: 302 (ÇEKİRDEK)
+DOKÜMAN ID: 1215169200
+DERECE: İlk Derece Mahkemesi
+DAİRE / MAHKEME: Ankara 4. Asliye Ticaret Mahkemesi
+ESAS NO: 2024/2
+KARAR NO: 2025/316
+KARAR TARİHİ: 24.04.2025 (Yıl: 2025)
+ARAMA KELİMESİ: trafik kazası aktüer bilirkişi raporu net tutar
+SAYFA NO: 12
+İNDİRME ZAMANI: 2026-10-25 00:43:51
+HESAP DOĞRULAMA ADAYI: True
+İÇERİK HASH (MD5): ef6b09f97a410aadfbc4c348ef96c88c
+================================================================================
+
+T.C. ... 4. ASLİYE TİCARET MAHKEMESİ Esas-Karar No: 2024/2 Esas - 2025/316
+TÜRK MİLLETİ ADINA
+T.C.
+...
+4. ASLİYE TİCARET MAHKEMESİ
+GEREKÇELİ KARAR
+ESAS NO : 2024/2 Esas
+KARAR NO : 2025/316
+HAKİM : ...
+KATİP : ....
+DAVACI : ...
+VEKİLİ : Av....
+DAVALI : ... ..
+VEKİLİ : Av....
+DAVA : Tazminat (Ölüm Ve Cismani Zarar Sebebiyle Açılan Tazminat)
+DAVA TARİHİ : 02/01/2024
+KARAR TARİHİ : 24/04/2025
+GEREKÇELİ KARARIN
+YAZILDIĞI TARİH : 24/04/2025
+Mahkememizde görülmekte olan Tazminat (Ölüm Ve Cismani Zarar Sebebiyle Açılan Tazminat) davasının yapılan açık yargılaması sonucunda;
+Dosya incelendi.
+GEREĞİ DÜŞÜNÜLDÜ:
+İDDİA VE İSTEK :
+Davacı vekili dilekçesinde özetle; 25/02/2023 Tarihinde, Sürücü ...’ ın sevk ve idaresindeki ... Plakalı aracı ile Banaz İlçesi İstikametinden Uşak İli İstikametine seyri esnasında; Kaza mahaline geldiğinde, Akaryakıt İstasyonundan çıkarak, yola kontrolsüz bir şekilde çıkış yapan ...’ ın sevk ve idaresindeki ... plakalı araçla çarpışması sonucunda, yaralanmalı ve maddi hasarlı trafik kazası meydana geldiğini, bu kazanın oluşumdan, ... Plakalı Araç Sürücüsü ... KTK 52/1-A Maddesine göre Kusurlu olduğu tespit edildiğini, davacının bu araç içerisinde yolcu olarak bulunduğunu beyan ederek fazlaya ilişkin talep ve dava haklarımız saklı kalmak üzere; sürekli İş Göremezlik Zararına Karşılık, Şimdilik 1.000,00 TL. Zararının Kaza Tarihinden İtibaren İşleyecek Avans Faizi İle Birlikte Davalıdan Tazmin Ve Tahsilini, Geçici İş Göremezlik Zararına Karşılık, Şimdilik 1.000,00 TL. Zararının Kaza Tarihinden İtibaren İşleyecek Avans Faizi İle Birlikte Davalıdan Tazmin Ve Tahsilini, SGK Kapsamı Dışında Fatura Edilemeyen Tedavi Gideri Zararı için 1.000,00 TL. nın Kaza Tarihinden İtibaren İşleyecek Avans Faizi İle Birlikte Davalıdan tahsilini talep ve dava etmiştir.
+CEVAP VE SAVUNMA
+Davalı vekili cevap dilekçesinde özetle; Davacı tarafından sunulan maluliyet raporunun hükme esas alınamayacağını, yeniden maluliyet raporu alınması gerektiğini, kusur raporu alınması gerektiğini, talep edilen faize itiraz ettiklerini ve hatır taşıması indirimi yapılması gerektiğini beyan ederek davanın reddine karar verilmesini talep etmiştir.
+DELİLLER :
+1-) Davalı sigorta şirketi tarafından açılan hasar dosyası ve ZMMM poliçesi örneği.
+2-) Kazazede davacıya ait tedavi belgeleri.
+3-) Maluliyet ve ATK Trafik İhtisas Dairesi kusur ile aktüer hesap bilirkişisi raporları.
+DELİLLERİN DEĞERLENDİRİLMESİ VE GEREKÇE:
+Dava, trafik kazasından doğan sürekli iş göremezlik, geçici iş göremezlik ve tedavi gideri maddi tazminat istemine ilişkindir.
+Mahkememiz’ce ZMMS poliçesi ile kaza nedeni ile açılan hasar dosyası, tıbbi tedavi evrakı, ceza dosyası celp edilmiş, rücuya tabi ödeme bulunup bulunmadığı hususunda SGK’ya müzekkere yazılmıştır.
+Dosyamız arasına celp edilen ZMMS poliçeleri ve sigorta hasar dosyalarının incelenmesinden; dava konusu trafik kazasına karışan aracın da kaza tarihini de kapsar şekilde davalı sigorta şirketine sigortalı oldukları ve davacıya ödemenin yapılmadığı anlaşılmıştır.
+Ayrıca kazazede davacının maluliyet oranı ve iyileşme süresi bakımından rapor aldırılmış, kusur ve aktüer hesap bilirkişi incelemesi yaptırılmıştır.
+Dosyamıza sunulan ATK Trafik İhtisas Dairesi Başkanlığından alınan 13/03/2024 tarihli kusur raporunda özetle; Sürücü ...’ın %75 (yüzde yetmişbeş) oranında kusurlu olduğu, Sürücü ...’ın %25 (yüzde yirmibeş) oranında kusurlu olduğu mütalaa olunmuştur.
+Dava konusu 25/02/2023 tarihinde meydana gelen çift taraflı trafik kazası sonucunda dosyaya celp edilen tedavi belgeleri ve son durum raporu ile kaza tarihinde yürürlükteki yönetmelik hükümlerine göre .... alınan 11/03/2025 tarihli maluliyet raporuna göre; davacının sürekli özür oranının %6 olup 4 ay geçiçi işgöremezlik ve 1 ay bakıcı ihtiyacının olduğu belirtilmiştir.
+Aktüer hesabı bakımından, dosya özellikle Anayasa Mahkemesi tarafından konuyla ilgili verilen iptal kararı da nazara alınarak mahkememizce değerlendirilmiştir. Buna göre;
+Hak sahiplerinin bakiye ömürleri önceki yıllarda Fransa’dan alınan 1931 tarihli “PMF” cetvellerine göre saptanmakta iken, Başbakanlık Hazine Müsteşarlığı, .... Aktüerya Bilimleri Bölümü, BNB Danışmanlık, Marmara Üniversitesi ve Başkent Üniversitesi’nin çalışmaları ile “TRH 2010”adı verilen “Ulusal Mortalite Tablosu” hazırlanmış olup, Sosyal Güvenlik Kurumunca’da ilk peşin sermaye değerinin hesaplanmasında anılan tabloların uygulanmasına geçilmiştir. Gerek diğer kurumlar ile Yargıtay Daireleri arasında tazminat hesabında birliğin sağlanması açısından ve gerekse bu tablonun ülkemize özgü ve güncel verileri içerdiği de göz önüne alınarak, ülkemizce de tazminat hesaplamalarında .... Tablosu’na göre bakiye ömür sürelerinin belirlenmesinin, güncel verilere ve ülkemiz gerçeklerine daha uygun olacağına Yargıtay 17.Hukuk Dairesi’nce de karar verilmekle görüş değişikliğine gidilmiştir. (Yargıtay 17.HD 22/12/2020 tarih, 2019/5206 Esas – 2020/8874 Karar sayılı ilamı, 14/01/2021 tarih 2020/2598 Esas – 2021/34 Karar sayılı ilamı)
+Öte yandan Anayasa Mahkemesi’nin 17/07/2020 tarih 2019/40 Esas - 2020/40 sayılı Kararı ile; KTK’nun 90. maddesindeki “bu Kanun çerçevesinde hazırlanan genel şartlarda öngörülen usul ve esaslara tabidir” bölümündeki “bu Kanun çerçevesinde hazırlanan genel şartlarda” ibaresinin Anayasa’ya aykırı olduğu gerekçesiyle iptaline karar verilmekle; zarar hesaplanmasında ZMMS Genel Şartları ekindeki cetvellerin kullanılması mümkün olmadığından ve %1,8 teknik faiz bu cetvellerle getirildiğinden, artık uygulanması mümkün değildir. Anılan nedenlerle tazminat hesaplamasında bakiye ömür sürelerinin ... Tablosu’na göre belirlenmesi, ve özellikle Yargıtay görüş değişikliği gereğince hesaplamada progresif rant yöntemine göre hesaplama yapılması yoluna gidilmiştir. (Konuyla ilgili emsal kabul edilen ve alıntılanan karar: ... BAM 26. Hukuk Dairesinin 24/06/2021 tarih, 2019/590 Esas, 2021/1242 K. sayılı kararı)
+Bu doğrultuda aktüer hesap bilirkişisi ile hekim bilirkişiden alınan 27/03/2025 tarihli raporda ise; ....'ın dosya kapsamına göre tedavi giderinin 2.343,92 TL, olduğu, geçici iş göremezlikten kaynaklanan tazminat tutarının 34.027,20 TL olduğu, sürekli işgücü kaybından kaynaklanan tazminat tutarının 735.690,20 TL olduğu, geçici Bakıcı giderinden kaynaklanan tazminat tutarının ise 10.008,00 TL olduğu bildirilmiştir.
+Davacı vekili celse arasında bedel artırım dilekçesi sunmuş olup sunduğu bedel artırım dilekçesi davalıya tebliğ edilmiştir.
+Davalı sigorta vekili hatır taşıması itirazında bulunmuş ise de; davacı ....’ın babası olan ...’ın sürücüsü olduğu araçta yolcu olması nedeniyle hatır taşıması indirimi yapılmamıştır.
+Bu bağlamda, yapılan yargılama ve tüm dosya kapsamına göre; trafik kazası sonucu yaralanan davacının trafik kazasından sorumlu olan aracın sigorta şirketine karşı açtığı sürekli iş göremezlik, geçici iş göremezlik ve tedavi gideri istemi bakımından; toplanan deliller ve Mahkememiz’ce yukarıda anılan ilkeler gözetilerek, Mahkememiz’ce de benimsenen maluliyet raporu ile ATK kusur raporu ve benimsenen aktüer ve hekim bilirkişi raporu uyarınca davacının davalı sigorta şirketinden sürekli iş göremezlik, geçici iş göremezlik ve tedavi gideri tazminatı talep edebileceği, bu bağlamda yukarıda anılan ilkeler gözetilerek dosyamıza sunulan aktüer raporu ve ATK kusur raporu doğrultusunda, dava dilekçesi ve bedel artırım dilekçesi talebi gibi, sigortalı araç sürücüsünün %25 oranında kusurlu olduğu hususu da gözetilerek davanın sürekli iş göremezlik, geçici iş göremezlik ve tedavi talebi bakımından kısmen kabulü gerektiği, buna göre davanın kısmen kabulü ile, davalı sigorta şirketi yönünden temerrüdün davalı sigorta şirketine usulüne uygun başvuru olan 04/010/2023 tarihini izleyen 8 iş günü sonu olan 17/10/2023 tarihinde oluştuğu gözetilerek anılan tarihten itibaren hüküm altına alınan tazminat alacaklarına aracın hususi olması sebebiyle yasal faizi işletilmesine ve fazlaya ilişkin tedavi gideri talebinin reddine dair aşağıdaki şekilde karar vermek gerekmiştir.
+HÜKÜM: Gerekçesi yukarıda açıklanacağı üzere;
+1-Davanın KISMEN KABULÜ ile 183.922,55 TL tutarındaki sürekli iş göremezlik tazminatı, 8.506,8 TL geçici iş göremezlik tazminatı ve 585,98 TL tedavi gideri olmak üzere toplam 193.015,33-TL tazminatın temerrüt tarihi olan 17/10/2023 tarihinden itibaren işleyecek yasal faizi birlikte davalıdan tahsili ile davacıya verilmesine, fazlaya ilişkin tedavi gideri talebinin reddine
+2-Alınması gereken 13.184,87-TL harçtan peşin alınan 427,60 TL harcın ve 655-TL tamamlama harcının düşümü ile eksik alınan 12.102,27-TL harcın davalıdan alınarak Hazine’ye gelir kaydına,
+3-Davacı tarafından yatırılan 427,60-TL başvurma harcı, 427,60-TL peşin harç ve 655- TL tamamlama harcı, 60,80-TL vekalet harcı olmak üzere toplam 1.571‬-TL harcın davalıdan tahsili ile davacıya verilmesine,
+4-Davacının dosya, pul, davetiye, yazışma, gideri bilirkişi ücreti olarak sarf ettiği 8.603,75-TL ile ATK rapor ücreti olan 3.375-TL olmak üzere toplam 11.978,75‬-TL’nin haklılık durumuna göre hesaplanan 11.953,110-TL yargılama giderinin davalıdan tahsili ile davacıya verilmesine, kalan yargılama giderinin davacı üzerinde bırakılmasına
+5-A.A.Ü.T. uyarınca hesaplanan 30.882,45-TL vekalet ücretinin davalıdan alınarak davacıya verilmesine,
+6-Arabuluculuk aşamasında harcanan 3.120,00-TL giderin davalıdan tahsili ile hazineye gelir kaydına,
+7-Ret edilen miktar gözetilerek 414,02‬-TL vekalet ücretinin davacıdan tahsili ile davalıya ödenmesine
+Dair; davacı vekilinin yüzüne karşı davalı Sigorta şirketi vekilinin yokluğunda gerekçeli kararın tebliğinden itibaren 2 hafta içinde ... Bölge Adliye Mahkemelerinde İstinaf yolu açık olmak üzere verilen karar açıkça okunup usulen anlatıldı.24/04/2025
+Katip ....
+¸e-imzalıdır
+Hakim ...
+¸e-imzalıdır

@@ -1,42 +1,99 @@
-SIRA NO: 235
-DOKÜMAN ID: 493315400
-DAİRE / MAHKEME: İstanbul 9. Asliye Ticaret Mahkemesi
-ESAS NO: 2016/1066
-KARAR NO: 2019/555
-KARAR TARİHİ: 11.04.2019
-İÇERİK HASH (MD5): 1aa225956bbee574400927d020385fb6
-===========================================================================
+SIRA NO: 235 (ÇEKİRDEK)
+DOKÜMAN ID: 1226289000
+DERECE: İlk Derece Mahkemesi
+DAİRE / MAHKEME: Ankara 4. Asliye Ticaret Mahkemesi
+ESAS NO: 2026/238
+KARAR NO: 2026/366
+KARAR TARİHİ: 03.06.2026 (Yıl: 2026)
+ARAMA KELİMESİ: trafik kazası aktüer bilirkişi raporu net tutar
+SAYFA NO: 3
+İNDİRME ZAMANI: 2026-10-25 00:22:02
+HESAP DOĞRULAMA ADAYI: False
+İÇERİK HASH (MD5): e97d26be2abc76d4bf0bebd56a69ca12
+================================================================================
 
+T.C. ... 4. ASLİYE TİCARET MAHKEMESİ Esas-Karar No: 2026/238 Esas - 2026/366
 T.C.
-İSTANBUL
-9. ASLİYE TİCARET MAHKEMESİ
-ESAS NO : 2016/1066 Esas
-KARAR NO : 2019/555
-DAVA : Maddi ve Manevi Tazminat
-DAVA TARİHİ: 27/10/2016
-KARAR TARİHİ: 11/04/2019
-Mahkememize açılan Maddi ve Manevi Tazminat davasının yapılan açık yargılaması
-sonucunda;
-GEREĞİ DÜŞÜNÜLDÜ:
-Davacılar vekili Mahkememize verdiği dava dilekçesi ile; Davacıların murisleri müteveffa ...'in sürücüsü olduğu ... plakalı araçla seyri sırasında 23.04.2016 tarihinde meydana gelen tek taraflı trafik kazası sonucunda vefat ettiğini, davacıların müteveffanın ölümü ile desteğinden yoksun kaldıklarını, davacıların mirasçı olarak değil destekten yoksun kalan 3.kişi sıfatı ile başvuru yaptıklarını, doğan zararın desteğe ait olmadığını, miras yoluyla geçmediğini, bu sebeple kusurun hak sahibi davacılara karşı ileri sürülemeyeceğini, ayrıca manevi tazminat taleplerinin olduğunu, sigorta şirketinin... numaralı poliçe dolayısıyla maddi tazminattan sorumlu olduğunu, 25.07.2016 tarihinde ... A.Ş.'ne başvuru yapıldığını ancak talebin reddedildiğini belirterek fazlaya ilişkin hakları saklı kalmak kaydıyla 1.000 TL destekten yoksun kalma tazminatının davalılardan ortaklaşa ve zincirleme tahsiline, eş için 150.000 TL, küçükler için 75.000'er TL olmak üzere 300.000 TL manevi tazminatın davalı işletenden tahsiline karar verilmesini talep ve dava etmişlerdir.
-Davalı ... A.Ş. vekili Mahkememize verdiği cevap dilekçesi ile; ...plakalı aracın 09.04.2016-2017 vadeli... numaralı Trafik Poliçesi ile sigortalı olduğunu, davaya konu talep sebebiyle şirketin sorumluluğu bulunmadığını, Trafik Poliçesi genel şartları A.6.D maddesi gereğince talebin teminat dışında kaldığını, davacılara destekten yoksun kalma tazminatı ödenmesi durumunda sürücünün ağır kusuru nedeniyle genel şartların B.4.a maddesi gereğince davacılara rücu davası açılacağını, alacaklı-borçlu birleşmesinin söz konusu olacağını, kusur durumunun Adli Tıp Kurumundan alınmasını, SGK' dan herhangi bir ödeme alınıp alınmadığının araştırılması gerektiğini belirterek davanın reddini talep etmiştir.
-Diğer davalı şirket davaya cevap vermemiştir.
-Dava trafik kazasından kaynaklı destekten yoksun kalma sebebiyle açılmış maddi ve manevi tazminat davasıdır.
-Mahkememizce taraf delilleri toplanmış, hasar dosyası celbedilmiş, SGK'dan rücuya tabi ödeme yapılıp yapılmadığı sorulmuş ve olayın meydana gelmesinde tarafların kusur durumunun araştırılması ve talep edilebilecek tazminat tutarının belirlenmesi için bilirkişi incelemesi yaptırılmıştır.
-HMK'nın 115/1. maddesi gereğince Mahkemeler dava şartının mevcut olup olmadığını davanın her aşamasında kendiliğinden araştırır. Görev kuralları kamu düzenine ilişkin olup, mahkemece kendiliğinden (re'sen) dikkate alınması zorunludur. 05.12.1977 tarih, 4/4 sayılı Yargıtay İçtihadı Birleştirme Kararında belirtildiği gibi mahkemelerin görevi kamu düzeni ile ilgili olup kıyas veya yorum yolu ile genişletilmesi veya değiştirilmesi mümkün değildir. İş Mahkemeleri özel kanunla kurulmuş olup görevleri istisnai nitelik taşıdığından 5521 sayılı Yasada sınırlı olarak sayılmış dava ve uyuşmazlıklar ile diğer yasaların İş Mahkemelerini görevlendirdiği dava ve işler dışındaki dava ve işlere İş Mahkemelerinde bakılamaz.
-İş kazasında, işveren dışında başka sorumlular varsa, işveren ile birlikte bu kişiler aleyhine de dava açılması durumunda dava yine İş Mahkemelerinde görülür.
-İş kazasında, yalnızca işveren ve vekili dışındaki kişiler dava edilirse İş Mahkemeleri görevli değildir. Yargıtay 17. Hukuk Dairesi'nin 2015/13523 E. 2018/7384 K. sayılı ve Yargıtay 21. Hukuk Dairesi'nin 2015/10453 E. 2016/4135 K. sayılı içtihatları da bu yöndedir.
-Somut olayda, davacıların murisi olan müteveffanın davalı Sabırlar Nakliye Vinç Metal İnşaat Taahhüt Sanayi ve Ticaret Limited Şirketinin işçisi olup kazanın, iş kazası olarak meydana geldiği dosya kapsamından anlaşılmaktadır. Meydana gelen trafik kazası, davacılar yönünden bir iş kazası olup uyuşmazlık iş hukukundan kaynaklanması nedeniyle mahkememizin davaya bakmakta görevli olmadığı, görevli Mahkemenin İstanbul İş Mahkemeleri olduğu sonuç ve kanaatine varılarak görevsizlik kararı verilmiştir.
-HÜKÜM : Yukarıda açıklanan nedenlerle;
-1-Davanın Mahkememizin görevsizliği nedeniyle HMK.nun 114/1-c ve 115/2 maddeleri gereğince usulden REDDİNE, Karar kesinleştiğinde ve kesinleşme tarihinden itibaren 2 hafta içerisinde talep edilmesi halinde dosyanın görevli İSTANBUL İŞ MAHKEMESİ'ne gönderilmesine,
-2-Kararın kesinleşmesinden itibaren 2 hafta içerisinde dava dosyasının görevli mahkemeye gönderilmesi talep edilmediği taktirde, talep halinde HMK nun 20.maddesi gereğince davanın açılmamış sayılmasına ve aynı yasanan 331/2.maddesi gereğince yargılama giderleri hakkında karar verilmesine,
-Davacı vekilinin ve davalı ... A.Ş. vekilinin yüzüne karşı; diğer davalının yokluğunda gerekçeli kararın tebliğ tarihinden itibaren 2 hafta içinde Mahkememize sunulacak veya gönderilecek dilekçe ile istinaf yolu açık olmak üzere oybirliğiyle verilen karar açıkça okunup usulen anlatıldı.
-Başkan
+...
+4. ASLİYE TİCARET MAHKEMESİ TÜRK MİLLETİ ADINA GEREKÇELİ KARAR
+ESAS NO : 2026/238 Esas
+KARAR NO : 2026/366
+BAŞKAN : ...
+ÜYE : ...
+ÜYE :...
+KATİP : ....
+DAVACI :.....
+VEKİLİ : Av. ...
+DAVALI :....
+VEKİLİ : Av. ....
+Av.....
+DAVA : Tazminat (Trafik kazasından Kaynaklanan)
+DAVA TARİHİ : 11/02/2021
+KARAR TARİHİ : 03/06/2026
+GEREKÇELİ KARARIN
+YAZILDIĞI TARİH : 30/06/2026
+Mahkememizde görülmekte olan Tazminat davasının (Trafik Kazasından Kaynaklanan) yapılan açık yargılaması sonucunda;
+Dosya incelendi.
+GEREĞİ DÜŞÜNÜLDÜ :
+Davacı vekili sunduğu dava dilekçesinde özetle; müvekkili davacının içerisinde yolcu olarak bulunduğu ve dava dışı sürücü .... plakalı araç ile Sandıklı ilçesinden Afyonkarahisar ili istikametine seyir halinde iken gerçekleşen trafik kazası sonucunda ağır şekilde yaralandığını, geçici ve sürekli iş göremezliğe maruz kaldığını, trafik kazasına karışan aracın kaza tarihi itibariyle dava dilekçesinde belirttiği poliçe numarası ile davalı sigorta şirketine Zorunlu Mali Sorumluluk Sigorta Poliçesi ile sigortalı olduğunu beyanla HMK 107 m.gereğince değer artırım talep hakları saklı kalmak kaydıyla dava konusu geçici ve bakıcı gideri talepleri yönünden ayrı ayrı 1.000,00-TL, sürekli iş göremezlik tazminatı yönünden ise; 10.000,00-TL olmak üzere toplam 12.000,00-TL maddi tazminatın kaza tarihi olan 18/09/2018 tarihinden itibaren işleyecek değişen oranlarda avans faizi ile birlikte davalı sigorta şirketinden yargılama giderleri ile birlikte tahsiline karar verilmesini talep etmiştir.
+CEVAP VE SAVUNMA :
+Davalı vekili sunduğu cevap dilekçesinde özetle; kabul anlamına gelmemek kaydıyla kazazede davacı yönünden engellilik değerlendirmesi hakkında yönetmelik hükümleri doğrultusunda maluliyet raporu alınması gerektiğini, kusur oranı tespiti bakımından ATK'dan rapor alınmasını talep ettiklerini, tedavi giderleri ile bakıcı gideri dahil tedavi sürecindeki tüm giderlerin SGK'nın sorumluluğunda olduğunu, davacı tarafça gelire ilişkin belge sunulmaması durumunda asgari ücret gelir verisi üzerinden tazminat hesaplaması yaptırılması ve davacının müterafik kusurunun bulunması halinde hesaplanacak tazminattan indirim yapılması gerektiğini beyanla davanın reddine karar verilmesini talep etmiştir.
+DELİLLER :
+- ZMMS poliçesi ve hasar dosyası örneği,
+- Maluliyet ve aktüer bilirkişi raporları,
+-SGK cevabi yazısı ve kolluk araştırma tutanağı.
+DELİLLERİN DEĞERLENDİRİLMESİ VE GEREKÇE :
+Dava, tek taraflı trafik kazasından kaynaklanan geçici ve sürekli iş göremezlik tazminatı ile bakıcı gideri alacağı istemine ilişkindir.
+Davacı vekili duruşmada dava dilekçesini aynen tekrar ile istemi gibi karar verilmesini talep etmiştir.
+Dosyamızda dava konusu trafik kazasının gerçekleştiği tarih itibariyle davalı sigorta şirketi tarafından düzenlenen ZMMS poliçesi ve hasar dosyası celp edilerek incelenmiş, trafik kazasına karışan .... plakalı otobüsün kaza tarihi olan 18/09/2018 tarihi itibariyle davalı sigorta şirketine ZMMS poliçesi sigortalı olduğu anlaşılmıştır.
+Dosyamızda kazazede davacıya ait tedavi belgeleri ilgili sağlık kuruluşlarından celp edildikten sonra dava konusu tazminat alacağı kalemleri yönünden HÜTF Adli Tıp Anabilim Dalı Başkanlığından maluliyet ve ayrıca aktüer hesap bilirkişisinden hesap raporu temin edilmiştir.
+Davacı vekili bedel arttırım dilekçesini sunmakla davalı vekiline tebliğ edilmiştir.
+Somut uyuşmazlıkta ileri sürülen maddi ve hukuki olgular ile dosya kapsamı dikkate alındığında; işbu davanın dayanağı olan trafik kazasına karışan... A.Ş. adına kesilen bilet ile taşıma sözleşmesi kapsamında yolcu olarak taşındığı sabit ve çekişmesizdir.
+Mahkememiz'ce yapılan yapılan yargılama sonucunda 6100 sayılı HMK’nın 114/1-c.m. delaleti ile 115/2.m. gereğince davanın Tüketici Mahkemesi'nin davaya bakmaya görevli olması nedeni ile göreve ilişkin dava şartı yokluğu sebebiyle usulden reddine karar verilmiş ve Mahkememiz kararın istinaf edilmeksizin kesinleşmiştir.
+Ancak kesinleşme sonrasında dava dosyasının tevzien gönderildiği ... 14.Tüketici Mahkemesi tarafından yapılan yargılama sonucunda verilen 04/05/2023 tarih, 2022/470 Esas ve 2023/226K. Sayılı kararı istinafen verilen ... BAM 26.H.D. Başkanlığı kararı ile davanın ZMMS poliçesinden kaynaklanan tazminat istemine ilişkin olup davalının zorunlu trafik sigortacısı olmasına göre somut uyuşmazlıkta Asliye Ticaret Mahkemesi'nin davaya bakmaya görevli olduğundan bahisle kesin nitelikte kaldırılmakla; anılan Mahkeme tarafından verilen 12/12/2025 tarih, 2025/824 E. ve 2025/449K. sayılı kararı ile davanın göreve ilişkin dava şartı yokluğu sebebiyle usulden reddine karar verilmiştir.
+Söz konusu kararın kesinleşmesi sonrasında yasal süresinde gönderme talep dilekçesinin sunulması üzerine dava dosyası Mahkememize tevzien gönderilmekle; Mahkememiz yeni esasına kayden yargılamaya devam olunmuş, tensip ara kararı ile osyamızın son raporu sunan aktüer hesap bilirkişisine yeniden tevdi edilerek, 2026 yılına ilişkin olarak tespit edilecek asgari ücret katsayı ve ek gösterge rakamları üzerinden hesaplamanın önceki görevlendirme ara kararına uygun olarak yeniden yapıldığı ve önceki aktüer raporuna yönelik taraf vekillerinin itirazlarınında karşılanarak mevcut ise maddi hataların gidireldiği ek rapor alınmıştır.
+Dosyamıza sunulan 06/04/2026 tarihli aktüer hesap bilirkişisi ek raporunda özetle; taraf vekillerinin asıl rapora yönelik itirazları irdelendikten sonra 2026 yılı güncel asgari ücret verileri dikkate alınarak yeniden yapılan hesaplama sonucunda
+davacı ...'ın dava konusu Geçici iş göremezlik kaybından kaynaklanan bakiye tazminat tutarının 8.508,12-TL, (Kaza
+tarihinde (18.09.2018) ZMSS poliçesi tedavi giderleri klozu teminat limit tutarının 360.000,00 TL x2
+= 720.000,00 TL olduğu) ,
+sürekli işgücü kaybından kaynaklanan tazminat tutarının 6.538.087,40-TL olduğu, ancak
+dava konusu trafik kazası tarihinde (18.09.2018) ZMSS poliçesi ölüm ve sakatlanma klozu teminat limiti tutarının
+360.000,00 TL x2= 720.000,00-TL olduğu, davacının sürekli iş gücü kaybından kaynaklanan
+tazminat tutarının poliçe teminatı limit tutarı olan 720.000,00 TL ile sınırlı olduğu,
+dava konusu Geçici Bakıcı giderinden kaynaklanan tazminat tutarının ise; yapılan hesaplamaya göre 6.088,50-TL olduğu, (Kaza
+tarihinde (18.09.2018) ZMSS poliçesi tedavi giderleri klozu teminat limit tutarının 360.000,00-TL x2
+= 720.000,00 TL olduğu)
+mütalaa edilmiştir.
+Ek rapor taraf vekillerine tebliğ edilmiş, ek rapordaki hesaplama metodolojisi yerleşik içtihatlar ve dosya kapsamındaki veriler ile uyumlu olup Mahkememiz'ce de denetime elverişli görülmekle; yeniden bilirkişi ek rapor alınmasına gerek görülmemiştir.
+Davalı sigorta şirketi yönünden dosyaya sunulan başvuru dilekçesine göre 2918 sayılı KTK'nın 99.m. Kapsamında 02/12/2020 tarihinde gerçekleştiği saptanmıştır.
+Bu bağlamda, yapılan yargılama ve toplanan deliller ile tüm dosya kapsamı birlikte gözetildiğinde ise; davacının içerisinde yolcu olarak bulunduğu ve dava dışı sürücü ...
+sayılı raporu ile sabit olduğu, söz konusu raporda kazazede davacının dava konusu olan 18.09.2018 tarihinde geçirmiş olduğu trafik kazası
+neticesinde kaza tarihinde yürürlükteki Yönetmelik hükümlerine göre yapılan değerlendirmeye göre sürekli bedensel özür oranının %45 olduğu, geçici iş göremezlik süresinin 12 ay olduğu, bakıcı
+ihtiyaç süresinin ise; 3 ay olduğu tespit edildiği, davalı sigorta şirketinin dosyaya celp edilen sigorta hasar dosyası içerisindeki ZMMS poliçesine göre dava konusu trafik kazasına karışan otobüsün zorunlu trafik sigortacısı olarak 2918 sayılı KTK'nın 91.m. gereğince zorunlu sigorta teminat limitleri ve sigortalısının kusuru oranında davacı kazazedenin zararını tazmin etmekle yükümlü olduğu, ancak Motorlu Araçlar Zorunlu Mali Sorumluluk Sigortasında Tarife Uygulama Esasları Hakkında
+Yönetmelikte Değişiklik Yapılmasına Dair Yönetmeliğin" 28/A.maddesi gereğince ZMMS teminat limitlerinin somut olayda 2 kat
+olacak şekilde düzenlendiği ve 07 ZY 555 plakalı aracın yolcu otobüsü olması nedeni ile de kaza tarihindeki teminat limitlerinin somut olayda 2 kat olarak (360.000*2=720.000,00-TL) uygulanmak gerekeceği, ( ... BAM 26. H. D. Başkanlığı'nın 06.02.2025 tarih,
+2023/43 E. ve 2025/98 K. sayılı ilamı) bu doğrultuda dosyamıza sunulan ve Mahkememiz'ce de benimsenerek hükme esas alınan aktüer bilirkişi ek raporu doğrultusunda davacının bedel artırım talebi gözetilerek davanın kısmen kabulü gerektiği kanaatine varılmakla; açıklanan gerekçelerle aşağıdaki şekilde karar vermek ve hüküm kurmak gerekmiştir.
+HÜKÜM: Gerekçesi yukarıda açıklandığı üzere;
+1-Davanın bedel artırım talebi gözetilerek KISMEN KABULÜ İLE;
+Dava konusu 8.508,12-TL geçici işgöremezlik tazminatı ile 6.088,50-TL geçici bakıcı gideri ve davalı sigorta şirketi tarafından tanzim edilen ZMMS poliçe teminat limiti ile sınırlı olarak 720.000,00-TL sürekli işgöremezlik tazminatı olmak üzere toplam 734.596,62-TL tazminatın davalının temerrüdünün gerçekleştiği 02/12/2020 tarihinden itibaren işleyecek avans faizi ile birlikte davalıdan tahsili ile davacıya verilmesine, fazlaya ilişkin istemin reddine,
+2-Alınması gerekli karar ve ilam harcı nispi 50.180,29-TL olup davacı tarafından peşin yatırılan 2.516,95-TL harcın mahsubu ile bakiye 47.663,34-TL harç ile birlikte 732,00-TL başvurma harcı olmak üzere toplam 48.395,34-TL harcın davalıdan alınarak Maliye Hazinesine gelir kaydına,
+3-Davacı tarafından peşin yatırılan 2.516,95-TL harcın davalıdan alınarak davacıya verilmesine,
+4-Davacı kendisini vekil ile temsil ettirdiğinden karar tarihinde yürürlükteki AAÜT gereğince nispi 116.189,49-TL vekalet ücretinin davalıdan alınarak davacıya verilmesine,
+5-(Reddine karar verilen alacak miktarı gözetilerek) Davalı kendisini vekil ile temsil ettirdiğinden karar tarihinde yürürlükteki AAÜT 13/2.m. gereğince nispi 14.322,31-TL vekalet ücretinin davacıdan alınarak davalıya verilmesine,
+5-Bu dava kapsamında davacı tarafından yatırılan gider avansından karşılanan ve aşağıda dökümü gösterilen toplam 7.099,00-TL yargılama giderinin HMK 326/2.m. gereğince red-kabul oranı (0,98) gözetilerek 6.963,23-TL'lik kısmının davalıdan alınarak davacıya verilmesine, bakiye giderin davacı üzerinde bırakılmasına,
+6-6325 sayılı kanunun 18. m. gereğince maktu 1.320,00-TL zorunlu arabuluculuk ücretinin red-kabul oranı(0,98) gözetilerek 1.293,60-TL'lik kısmının davalıdan, bakiyesinin ise; davacıdan alınarak maliye hazinesine gelir kaydına,
+7-HMK 333.m. gereğince artan gider avansının karar kesinleştiğinde davacıya İADESİNE,
+Dair; davacı vekilinin yüzüne karşı, davalı vekilinin yokluğunda gerekçeli kararın tebliğinden itibaren 2 hafta içerisinde verilecek dilekçe ile ... Bölge Adliye Mahkemesine istinaf yasa yolu açık olmak üzere oybirliğiyle verilen karar açıkça okunup usulen anlatıldı.
+03/06/2026
+Başkan ....
 ¸e-imzalıdır
-Üye
+Üye ...
 ¸e-imzalıdır
-Üye
+Üye ...
 ¸e-imzalıdır
-Katip
+Katip ....
 ¸e-imzalıdır
-¸Bu belge 5070 sayılı Kanun Kapsamında Elektronik İmza İle İmzalanmıştır.
+YARGILAMA GİDERİ DÖKÜMÜ:
+1-Posta ve davetiye gideri : 599,00-TL
+2-Bilirkişi ücreti :+ 6.500,00-TL
+TOPLAM : 7.099,00-TL

@@ -1,0 +1,53 @@
+SIRA NO: 10 (DIŞLANAN - MALULIYET_ISGOREMEZLIK_YOK)
+DOKÜMAN ID: 768215400
+DERECE: BAM (İstinaf)
+DAİRE / MAHKEME: Antalya Bölge Adliye Mahkemesi 4. Hukuk Dairesi
+ESAS NO: 2020/904
+KARAR NO: 2022/824
+KARAR TARİHİ: 06.06.2022 (Yıl: 2022)
+ARAMA KELİMESİ: trafik kazası maddi manevi tazminat kusur (v3)
+SAYFA NO: 1
+İNDİRME ZAMANI: 2026-10-25 00:16:44
+HESAP DOĞRULAMA ADAYI: False
+İÇERİK HASH (MD5): 62b579aceeca65c6c1ad778b2a02f9c6
+================================================================================
+
+T.C.
+ANTALYA
+BÖLGE ADLİYE MAHKEMESİ TÜRK MİLLETİ ADINA
+DÖRDÜNCÜ HUKUK DAİRESİ İSTİNAF KARARI
+İNCELENEN DOSYANIN
+MAHKEMESİ : ANTALYA 2. ASLİYE TİCARET MAHKEMESİ
+TARİHİ : 06/02/2020
+DAVA : Maddi ve Manevi Tazminat
+KARAR TARİHİ : 06/06/2022
+KARAR YAZIM TARİHİ : 06/06/2022
+Taraflar arasındaki davanın yapılan yargılaması sonunda ilk derece mahkemesince verilen, yukarıda tarih ve numarası gösterilen kararına karşı davalı ... tarafından istinaf başvurusunda bulunulmakla, dosyada duruşma yapılmasını gerektiren eksiklik görülmediğinden Hukuk Muhakameleri Kanunu'nun 353/1-b-1 maddesi uyarınca istinaf incelemesinin duruşmasız yapılmasına karar verilerek, dosya incelendi;
+GEREĞİ DÜŞÜNÜLDÜ
+DAVACI İSTEMİNİN ÖZETİ:
+Davacı vekili dava dilekçesinde özetle; davalı ...'nin sürücüsü, davalı ... Sigorta A.Ş.'nin zorunlu mali mesuliyet sigortacısı olduğu ... plaka sayılı otomobilin, davacı müvekkilinin sürücü olduğu ... plaka sayılı motosiklete asli kusurla çarpması suretiyle sebebiyet verdiği trafik kazası sonucu davacı müvekkilinin yaralandığından bahisle belirsiz alacak davası şeklinde açılan davada 1.000,00 TL maddi tazminatın davalı sigorta şirketinden, 50.000,00 TL manevi tazminatın 26/03/2017 olay tarihinden itibaren işleyecek yasal faizi ile birlikte davalı ...'den tahsiline karar verilmesini talep etmiştir.
+DAVALI CEVABININ ÖZETİ:
+Davalı ... Sigorta A.Ş. vekili davaya cevap dilekçesinde özetle; davacı tarafın eksik belge ile müvekkili şirkete başvurduğu için dava şartlarının oluşmadığı, müvekkili sigorta şirketinin sorumluluğunun işletenin kusuru, poliçe limiti ve kapsamı ile sınırlı olduğu, dava tarihi itibariyle temerrütün oluştuğunu beyanla davanın reddini istemiştir.
+Davalı ... davaya cevap dilekçesinde özetle; asliye hukuk mahkemelerinin görevli olduğu, bir ambulansın görüşünün engellemesi nedeniyle trafik kazasının meydana geldiği, davacının asli kusurlu olduğu, davacının kask ve koruyucu giysi kullanmadığı, talep edilen manevi tazminatın fahiş olduğu, kendi aracında oluşan 1.200,00 TL hasar bedelinin hükmedilecek tazminattan mahsubu gerektiğini beyanla davanın reddini istemiştir.
+DELİLLER :
+Antalya 28. Asliye Ceza Mahkemesinin ... esas sayılı dava dosyası örneği, davacıya ait tıbbi belgeler, doktor raporu, kusur raporu, sosyal ve ekonomik araştırma tutanakları, tüm dosya kapsamı.
+İDM KARARININ ÖZETİ :
+İlk Derece Mahkemesince verilen kararda özetle; trafik kazasının meydana gelmesinde davacı sürücünün %25, davalı sürücünün ise %75 oranında kusurlu oldukları, yargılama aşamasında davalı sigorta şirketinin yaptığı ödeme nedeniyle davacı tarafından maddi tazminat davasından feragat ettiği gerekçesiyle maddi tazminat davasının reddine, davacının yaralanma derecesi, kusur durumu ve olayın özelliklerine göre davacı yararına 20.000,00 TL manevi tazminat takdirine, ancak davalı ...'nin 1.200,00 TL mahsup talebine kusuruna denk gelen 300,00 TL araç hasar bedeli mahsup edildiğinde 19.700,00 TL manevi tazminatın davalı ...'den tahsiline karar verilmiştir.
+İSTİNAF NEDENLERİ :
+Davalı ... istinaf dilekçesinde özetle; davacının ehliyeti olmadığı, kendi görüş açısının kapalı olduğu, davacıyı kaza sonrası hastaneye götürüp kısmen masraflarını karşıladığını beyanla ilk derece mahkemesi kararının kaldırılarak davanın reddini istemiştir.
+İSTİNAFA CEVAP :
+Davacı vekili istinafa cevap vermemiştir.
+G E R E K Ç E
+Uyuşmazlık, trafik kazası haksız fiiline bağlı yaralanma nedeni ile maddi ve manevi tazminat isteğine ilişkindir.
+Türk Borçlar Kanunu'nun 49. maddesi gereğince kasten veya taksirle başkasına zarar veren bu zararı gidermekle yükümlüdür. Bedensel zarara uğrayanların aynı kanunun 54. maddesi gereğince maddi tazminat ve aynı kanunun 56/1 maddesi gereğince manevi tazminat isteme hakları bulunmaktadır. 2918 Sayılı Karayolları Trafik Kanunu'nun 85. maddesi gereği motorlu araç işleteni doğan zararlardan sürücü ile birlikte müştereken ve müteselsilen sorumludur. 2918 Sayılı Karayolları Trafik Kanunu'nun 91, 97 ve 99. maddeleri gereği trafik kazasına ve zarara sebebiyet veren motorlu aracın zorunlu mali sorumluluk sigortacısı, yasa ve genel sigorta şartları kapsamına dahil maddi zararlardan işletenle birlikte müştereken ve müteselsilen sorumludur.
+Davacının sürücüsü olduğu motosikletle, davalı .....'nin sürücüsü olduğu otomobil arasında meydana gelen trafik kazası sonucu davacı yaralanmıştır. Davalı sigorta şirketi otomobilin zorunlu mali mesuliyet sigortacısıdır. Davacı bu yaralanmasından dolayı uğradığı maddi zaranın davalı sigorta şirketinden, manevi zararın ise davalı ....'den tahsilini talep etmiş, ilk derece mahkemesince yapılan yargılama sonucunda davalı sigorta şirketi yönünden feragat nedeniyle davanın reddine, davalı ....'nin yerinde olan mahsup talebine göre manevi tazminat davası kısmen kabul edilerek 19.700,00 TL manevi tazminatın bu davalıdan tahsiline karar verilmiş, karara karşı davalı .... tarafından istinaf yasa yoluna başvurulmuştur.
+6100 Sayılı HMK.'nun 355. maddesi gereğince istinaf dilekçesinde gösterilen istinaf sebepleri ile sınırlı yapılan istinaf incelemesi sonucunda;
+Antalya 28. Asliye Ceza Mahkemesinin 01/07/2019 gün ve ....esas, ..... sayılı kararı ile davalının, davacıya karşı işlediği taksirle yaralama suçundan TCK.'nun 89/1, 89/2-b, 62 ve 52. maddeleri gereğince 3.000,00 TL adli para cezası ile cezalandırılmasına verilen adli para cezasının miktarına göre kesin olarak karar verilmiştir.
+Tali yoldan ana yola çıkan davalı sürücünün, ana yoldan gelen trafiği etkin bir şekilde kontrol etmesi ve gelen bir araç bulunmadığından emin olduğu takdirde ana yola çıkması gerekirken ana yolda akan trafiği etkin bir şekilde kontrol etmediği, dikkatsiz ve tedbirsiz davrandığı için asli ve %75 oranında kusurlu olduğu, davacı sürücünün ehliyetsiz olmasının kusura ve tazminatın belirlenmesine etkisinin olmadığı, olay tarihi, kusur durumu, tarafların sosyal ve ekonomik durumları, davacının yaralanma derecesi dikkate alındığında, davalının mahsup talebi kabul edilerek davacı yararına 19.700,00 TL manevi tazminat takdir edilmesinde esas ve usul bakımından hukuka aykırılık bulunmadığı ve davalı ......i'nin tüm istinaf nedenleri yerinde görülmediğinden 6100 Sayılı HMK'nun 353/1. fıkrası (b-1) bendi uyarınca istinaf başvurusunun esastan reddine karar verilmesi gerekmiştir.
+HÜKÜM : Gerekçesi yukarıda açıklandığı üzere;
+1-Davalı ......'nin tüm istinaf nedenleri yerinde görülmediğinden 6100 Sayılı HMK'nun 353/1. fıkrası (b-1) bendi uyarınca istinaf başvurusunun ESASTAN REDDİNE,
+2-Davalı .......tarafından peşin yatırılan 148,60 TL istinaf yoluna başvuru harcı ile 336,42 TL (282,02 TL + 54,40 TL) istinaf karar harcının Hazineye gelir kaydına, bakiye 1.009,29 TL istinaf karar harcının bu davalıdan alınarak Hazineye verilmesine,
+3-Yapılan istinaf giderlerinin davalı .......üzerinde bırakılmasına,
+4-Artan istinaf gider avansının yatıranlara iadesine,
+İlişkin dosya üzerinde yapılan inceleme sonunda 6100 Sayılı HMK'nun 362. maddesi (1-a) bendi uyarınca 06/06/2022 tarihinde KESİN olmak üzere oy birliği ile karar verildi.
+....
