@@ -1,0 +1,59 @@
+SIRA NO: 98 (DIŞLANAN - KUSUR_KELIMESI_YOK)
+DOKÜMAN ID: 1142119000
+DERECE: BAM (İstinaf)
+DAİRE / MAHKEME: Ankara Bölge Adliye Mahkemesi 35. Hukuk Dairesi
+ESAS NO: 2024/295
+KARAR NO: 2025/611
+KARAR TARİHİ: 29.04.2025 (Yıl: 2025)
+ARAMA KELİMESİ: sürekli iş göremezlik yıllık ücret bilinen gelir
+SAYFA NO: 4
+İNDİRME ZAMANI: 2026-10-25 00:59:18
+HESAP DOĞRULAMA ADAYI: False
+İÇERİK HASH (MD5): c7a18d8d4f8fb76b3875a0d427a830e8
+================================================================================
+
+T.C. ANKARA BÖLGE ADLİYE MAHKEMESİ BAM 35. HUKUK DAİRESİ Esas-Karar No: 2024/295 - 2025/611
+T.C.
+ANKARA
+BÖLGE ADLİYE MAHKEMESİ
+35. HUKUK DAİRESİ
+DOSYA NO : 2024/295
+KARAR NO : 2025/611
+T Ü R K M İ L L E T İ A D I N A
+K A R A R
+İNCELENEN KARARIN
+MAHKEMESİ : ANKARA 10. ASLİYE TİCARET MAHKEMESİ
+TARİHİ : 05/12/2023
+NUMARASI : 2022/486 Esas 2023/914 Karar
+DAVANIN KONUSU : Tazminat
+KARAR TARİHİ : 29/04/2025
+GEREKÇELİ KARAR
+YAZILMA TARİHİ : 21/05/2025
+Mahalli mahkemesince verilen karara karşı davacı vekili ve davalı ... Sigorta A.Ş. vekili tarafından süresi içinde istinaf kanun yoluna başvurulmuş olup, başvuru şartlarının yerine getirildiği dosya üzerinde yapılan ön inceleme ile anlaşılmakla yapılan istinaf incelemesi sonunda;
+TARAFLARIN İDDİA VE SAVUNMALARI
+Davacı vekili dava dilekçesinde;17.02.2021 tarihinde, davalı ... Sigorta A.Ş. tarafından ZMM sigorta poliçesi düzenlenen otobüsün, sürücüsü ... sevk ve idaresinde iken meydana gelen tek taraflı trafik kazasında otobüste yolcu olan davacının yaralandığını belirterek, fazlaya dair hakları saklı kalmak kaydıyla 9.800,00 TL kalıcı iş göremezlik tazminatı, 100,00 TL geçici iş göremezlik tazminatı ve 100,00 TL de bakıcı gideri olmak üzere toplam 10.000,00 TL tazminatın davalıdan tahsiline karar verilmesini istemiş, ıslah dilekçesi ile sürekli iş göremezlik tazminatı talebini 264.465,68-TL, bakıcı gideri tazminatı talebini 3.577,50-TL olarak artırmıştır.
+Davalı ... Sigorta A.Ş. vekili cevap dilekçesinde; davanın reddini talep etmiştir.
+İLK DERECE MAHKEMESİ KARARI
+Mahkemece; davanın kısmen kabulüne, 264.465,68 TL sürekli iş göremezlik tazminatı ve 3.577,50 TL bakıcı gideri tazminatı toplamı 268.043,18 TL'nin temerrüt tarihi olan 07/10/2021 tarihinden itibaren işleyecek avans faizi ile davlıdan alınarak davacıya ödenmesine, fazlaya ilişkin talebin reddine karar verilmiş, karar davacı vekili ve davalı vekili tarafından ayrı ayrı istinaf edilmiştir.
+İLERİ SÜRÜLEN İSTİNAF SEBEPLERİ
+Davacı vekili istinaf başvuru dilekçesinde; hükme esas alınan 20.07.2023 tarihli aktüer bilirkişi raporunda davacı lehine 346.505,68 TL sürekli iş göremezlik tazminatı hesaplandığını, davalı tarafça yapılan ödemenin rapor tarihine kadar yasal faizi oranı ile güncellenmesi sonucu bulunan 89.322,45 TL'nin mahsubu sonucu, davacı lehine 257.183,23-TL bakiye sürekli iş göremezlik tazminatı ve 3.577,50 TL geçici bakıcı gideri tazminatı olmak üzere toplam 260.760,73 TL maddi tazminat hesaplandığını, eldeki davanın 19.07.2022 tarihinde açıldığını, davalı tarafça yapılan 82.040,00 TL'lik ödemenin ise davadan sonra 25.07.2022 tarihinde yapıldığını, hal böyle iken dava açıldıktan sonra ödeme yapılmış olduğundan, hesaplanan maddi tazminattan yapılan ödemenin yasal faizi hesaplanmak ve toplam tazminattan düşürülmek sureti ile işlem yapılmasının yerinde olmadığını, davalı sigorta şirketi tarafından dosyaya sunulan 01.06.2023 tarihli dilekçe ile, ödemeden söz edildiğini ancak söz konusu ödeme dekontundan da açıkça görüleceği üzere açıklama olarak yalnızca "... 733131 nolu dosyanın ödemesidir..." şeklinde ibarenin yer aldığını, söz konusu ödemenin sürekli iş göremezlik ödemesi olarak yapıldığının sabit olduğunu, bilirkişi tarafından aleyhe olan hesaplamanın esas alındığı yerel mahkeme hükmünü kabul etmediklerini, ödemenin, dava açıldıktan sonra yapılmış olması nedeniyle yargılama sonunda davacı lehine hükmedilecek vekalet ücretinde yapılan ödeme de gözetilmek sureti ile tam vekalet ücretine hükmedilmesi gerektiğini, aktüer bilirkişi raporunda pasif dönemde davacının asgari ücret üzerinden gelir hesaplaması yapıldığını, gelir başlangıcının 11.402,32-TL olması gerekirken bilirkişi raporunda aylık bazda 9.590,15 TL olarak belirlenmesinin yerinde olmadığını, davacının pasif dönem kazancında gelir vergisi, damga vergisi, asgari geçim indirimi uygulanmadan 11.402,32-TL ücretin esas alınması gerektiğini belirterek, kararın kaldırılmasını istemiştir.
+Davalı vekili istinaf dilekçesinde; davacı tarafa davadan önce ödeme yapıldığını, davalı şirketin yapılan ödeme ile sorumluluğunu yerine getirdiğini, hükme esas alınan bilirkişi raporunda ödeme tarihi itibariyle ödemenin yeterli olduğu görüldüğü halde yeni hesaplama yapılmasının yerinde olmadığını, ödeme tarihi itibariyle çıkarılan farkın 919,54-TL olduğunu, bu tutarın fahiş fark kabul edilemeyeceğini, mahkemece ödemenin ödeme tarihi itibariyle yeterli olup olmadığı değerlendirilmeden karar verildiğini, hesap raporunda mağdurun 65 yaşında emekli olacağı kabul edilerek 65 yaşına kadar olan dönemde aktif dönem kazancının hesaplandığını, halbuki pasif döneme geçme yaşının 60 olduğunu, hükme esas alınan maluliyet raporunu kabul etmediklerini, raporda araz olarak bildirilen yerler, davacının klinik durumu, yaşı, kırıkların lokalizasyonu ve uygulanan tedavilerin netleşmediği gibi 12 aylık stabilizasyon süresinin beklenilmediğini, bilirkişi raporunda teknik faizin nazara alınması gerektiğini belirterek, kararın kaldırılmasını istemiştir.
+DELİLLERİN DEĞERLENDİRİLMESİ VE GEREKÇE
+Mahkemece verilen kararda kamu düzenine aykırılık görülmediğinden istinaf eden tarafların sıfatına göre ve istinaf sebepleri ile sınırlı olarak HMK'nın 355. maddesi gereğince yapılan inceleme sonucunda;
+Dava, trafik kazasından kaynaklanan cismani zarar nedeniyle maddi tazminat istemine ilişkindir.
+Taraf vekillerinin hükme esas alınan aktüer bilirkişi raporuna ilişkin istinaf taleplerinin incelenmesinde, eldeki davanın 19.07.2022 tarihinde açıldığı, davanın açılmasından sonra davalı tarafça davacıya 25.07.2022 tarihinde 59.452,00 TL sürekli sakatlık ödemesi ve 22.588,00 TL geçici iş göremezlik ödemesi olmak üzere toplam 82.040,00 TL'lik ödeme yapıldığının, davalı sigorta şirketi tarafından dosyaya sunulan yazı cevabından ve ekindeki dekonttan anlaşıldığı, bu halde mahkemece hükme esas alınan aktüer bilirkişi raporunda, davanın açılmasından sonra yapılan bu ödemenin doğrudan hesaplanan tazminatlardan düşülmesi gerekirken yanılgılı değerlendirme ile ödeme davanın açılmasından önce yapılmış gibi davalı tarafça yapılan ödemenin hesap tarihine kadar güncellenmesi ve hesaplanan tazminattan düşülmesiyle tazminat miktarlarının belirlenmesi yerinde görülmemiştir.
+Yine, davacının çalışma hayatının aktif çalışma dönemi ve emeklilik dönemi olan pasif devre olarak ayrılması, kaza tarihinden hesap tarihine kadar geliri bilinen (işlemiş) ve geliri bilinmeyen (işleyecek) aktif dönemin ve zarar görenin bakiye ömrü esas alınarak pasif dönemin tespit edilmesi, zarar görenin kaza tarihinden hesap tarihine kadar bilinen kazancı üzerinden, işlemiş (bilinen) aktif dönem zarar hesabının yapılması, işleyecek (bilinmeyen) aktif dönem hesabında zarar görenin hesap tarihinde bilinen son geliri nazara alınarak işleyecek aktif dönem tazminat hesabı yapılması, pasif dönem hesabında ise asgari geçim indirimi uygulanmaksızın asgari ücret üzerinden zarar hesabının yapılması gerekmektedir. Bu kapsamda yapılan incelemede hükme esas alınan aktüer bilirkişi raporunda davacının pasif dönem hesabında ödenecek (Vergi İstisnası Dahil)net ücretin 11.402,32 TL olarak belirlenmiş olması karşısında pasif dönem hesabında bu rakamın esas alınması gerekirken ilgili raporda pasif dönem hesabında (vergi istisnası hariç)9.590,15 TL'lik ücretin esas alınmasıyla tazminat miktarının belirlenmiş olması isabetli görülmemiştir.
+Kabule göre de, davalı sigorta şirketi tarafından davacıya yapılan ödemenin dava tarihinden sonra yapılmış olması nazara alınarak hükmedilecek vekalet ücretleri ve yargılama giderlerinde davanın açılmasındaki haklılık durumu ve bu kapsamda HMK 331.madde mahiyeti değerlendirilerek karar verilmesi gerekirken mahkemece hükümde bu hususun nazara alınmamış olması yerinde görülmemiştir.
+Yukarıda açıklanan nedenlerle, davacı vekilinin ve davalı vekilinin istinaf başvurularının ayrı ayrı kabulüne, uyuşmazlığın çözümünde etkili deliller toplanılmadan ve değerlendirilmeden karar verilmiş olması nedeniyle ilk derece mahkemesi kararının HMK'nın 353/1-a-6 maddesi gereğince kaldırılmasına, davanın yeniden görülerek, yeni bir aktüer bilirkişiden, davanın açılmasından sonra davalı tarafça davacıya yapılan ödemenin güncellenmeden doğrudan hesaplanacak tazminattan düşülmesi, pasif dönem hesabında asgari geçim indirimi uygulanmaksızın asgari ücret üzerinden zarar hesabının yapılması suretiyle tazminat miktarının hesaplanması amacıyla ek rapor alınması, mahkemece davalı sigorta şirketi tarafından davacıya yapılan ödemenin dava tarihinden sonra yapılmış olması nazara alınarak hükmedilecek vekalet ücretleri ve yargılama giderlerinde davanın açılmasındaki haklılık durumu ve bu kapsamda HMK 331.madde mahiyetinin değerlendirilmesiyle oluşacak sonuca göre karar verilmesi için dosyanın mahkemesine gönderilmesine, karar vermek gerekmiştir.
+HÜKÜM : Gerekçesi yukarıda izah edildiği üzere;
+1-Davacı vekilinin ve davalı vekilinin istinaf başvurularının AYRI AYRI KABULÜ İLE, Ankara 10.Asliye Ticaret Mahkemesi tarafından verilen 05/12/2023 tarihli, 2022/486 Esas - 2023/914 Karar sayılı kararın, HMK’nın 353/1-a-6. maddesi gereğince KALDIRILMASINA, Kararın kaldırılma sebebine göre, istinaf eden taraf vekillerinin sair istinaf sebeplerinin İNCELENMESİNE YER OLMADIĞINA,
+2-Dosyanın, davanın yeniden görülmesi için mahkemesine GÖNDERİLMESİNE,
+3-İstinaf eden taraflarca yatırılan istinaf karar harcının istek halinde istinaf eden tarafa iadesine,
+4-İstinaf yargılama giderlerinin ilk derece mahkemesinde değerlendirilmesine,
+5-Karar tebliği, kesinleştirme, harç ve gider avansı iadesi işlemlerinin ilk derece mahkemesince yapılmasına,
+Dair, dosya üzerinde yapılan inceleme sonunda, HMK.nın 353/1-a maddesi uyarınca KESİN olmak üzere 29/04/2025 tarihinde oy birliği ile karar verildi.
+Başkan
+Üye
+Üye
+Katip
+* Bu belge, 5070 sayılı Kanun hükümleri gereğince elektronik imza ile imzalanmıştır.

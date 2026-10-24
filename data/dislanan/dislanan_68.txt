@@ -1,0 +1,48 @@
+SIRA NO: 68 (DIŞLANAN - MALULIYET_ISGOREMEZLIK_YOK)
+DOKÜMAN ID: 803614100
+DERECE: İlk Derece Mahkemesi
+DAİRE / MAHKEME: İstanbul 11. Asliye Ticaret Mahkemesi
+ESAS NO: 2018/855
+KARAR NO: 2022/738
+KARAR TARİHİ: 21.09.2022 (Yıl: 2022)
+ARAMA KELİMESİ: trafik kazası maddi manevi tazminat kusur (v3)
+SAYFA NO: 1
+İNDİRME ZAMANI: 2026-10-25 00:16:44
+HESAP DOĞRULAMA ADAYI: False
+İÇERİK HASH (MD5): b7eafd22d380be7940f53ba60fca00a8
+================================================================================
+
+T.C.
+İSTANBUL
+11. ASLİYE TİCARET MAHKEMESİ
+ESAS NO:2018/855 Esas
+KARAR NO:2022/738
+DAVA:Tazminat (Haksız Fiilden Kaynaklanan)
+DAVA TARİHİ:10/07/2018
+KARAR TARİHİ:21/09/2022
+Mahkememizde görülmekte olan Tazminat (Haksız Fiilden Kaynaklanan) davasının yapılan açık yargılaması sonunda,
+GEREĞİ DÜŞÜNÜLDÜ:
+Davacı; 10/07/2016 tarihinde müvekkili ...'nün, sevk ve idaresindeki ... plakalı aracı ile seyir halindeyken, davalı ...'ın sevk ve idaresindeki ... plakalı aracın kırmızı ışıkta durmayarak yola çıkması nedeniyle trafik kazası meydana geldiğini ve müvekkilinin maddi ve manevi anlamda ağır zarara uğradığını belirterek, müvekkilinin uğramış olduğu ağır bedensel zarar nedeniyle 20.000-TL manevi tazminatın davalı ...'dan tahsilini, müvekkilinin kaza nedeniyle uğradığı maddi zarar nedeniyle ileride arttırılmak üzere şimdilik 5.000-TL maddi tazminatın davalı ... ve ... Sigorta A.Ş.'den müştereken ve müteselsilen tahsilini, yargılama gideri ile vekalet ücretinin davalılara yükletilmesine karar verilmesini talep etmiştir. Davalılar ise davanın reddini savunmuştur.
+DELİLLER VE GEREKÇE:
+Dava, trafik kazası nedeniyle yaralanan davacının, olaya sebebiyet veren aracın sürücüsü ve trafik sigortacısından maddi ve manevi tazminat talebine ilişkindir.
+Olay; 10/07/2016 tarihinde ... plakalı araç ile ... plakalı aracın çarpışması neticesinde meydana gelen trafik kazasıdır.
+Kusur; davalının kırmızı ışıkta geçerek zarara olduğu ve olayda davacıya atfedilebilecek kusuru bulunmadığından davalı ...'in olayda %100 oranında kusurlu olduğu anlaşılmıştır.
+Hasar; davacının davadan önce hasarın tazmini için davalı sigorta şirketine başvurduğu, 2/07/2016 tarihli "Teslim, İbra ve Temlik" belgesinde aracın sağlam ve eksiksiz şekilde davacı tarafından teslim alındığının yazılıp, davacı tarafından imzalandığı, yine 11/08/2016 tarihinde davalı sigorta şirketi tarafından davacıya hasar bedeli olarak 10.000,00-TL'nin ödendiği, tüm bu belgelere göre davacıya yapılan ödeme ile gerçek zarar arasında fahiş bir fark bulunmadığının anlaşıldığı, kaldı ki davacının da fahiş bir fark olduğuna dair iddiasının bulunmadığı hususları birlikte değerlendirildiğinde maddi tazminat yönünden istem reddedilmiştir.
+Manevi tazminat; tarafların kusur durumları, davacıdaki yaralanmanın niteliğine dair ATK raporu tarafların sosyal ve ekonomik durumları ile paranın olay tarihindeki satın alma gücü dikkate alındığında 8.000,00-TL manevi tazminatın hakkaniyete uygun olacağı kanaati ile aşağıdaki şeklide hüküm tesis etmek gerekmiştir.
+KARAR: Gerekçede açıklandığı üzere;
+Davanın KISMEN KABULÜ ile;
+1-8.000,00 TL manevi tazminatın 10/07/2016 tarihinden itibaren işleyecek yasal faizi ile birlikte davalı ...'ten alınarak davacıya verilmesine, fazlaya dair istemin reddine,
+A) Alınması gerekli 546,48-TL karar ve ilam harcından peşin harç + ıslah harcı toplamı 481,90-TL'nin mahsubu ile geriye kalan 64,58-TL eksik harcın davalı...'dan alınıp maliyeye gelir kaydına,
+B) Davacı tarafından yatırılan 481,90-TL peşin harç + ıslah harcı toplamının davalı...'dan alınıp davacıya verilmesine,
+C) Davacı taraf vekille temsil olunduğundan, Avukatlık Asgari Ücret Tarifesi uyarınca hesap ve takdir olunan 8.000,00-TL. vekalet ücretinin davalı...'dan alınıp davacıya verilmesine,
+D) Davalı... vekille temsil olunduğundan, Avukatlık Asgari Ücret Tarifesi uyarınca hesap ve takdir olunan 8.000,00-TL. vekalet ücretinin davacıdan alınıp davalıya verilmesine,
+E) Davacı tarafından yapılan 2.385,50‬-TL (35,90-TL. başvuru harcı, 5,20-TL. vekalet harcı, 2.000,00-TL. bilirkişi ücreti,344,40-TL. posta, tebligat masrafı) yargılama giderinin manevi tazminat davası yönünden kabul ve red oranına göre 954,20-TL'sinin davalı...'dan alınıp davacıya verilmesine, geriye kalanın davacı üzerinde bırakılmasına,
+2-Maddi tazminat davasının reddine,
+A)-Alınması gerekli 80,70-TL. karar ve ilam harcının davacıdan alınarak maliyeye gelir kaydına,
+B) Davalılar vekille temsil olunduğundan, Avukatlık Asgari Ücret Tarifesi uyarınca hesap ve takdir olunan 5.800,00-TL. vekalet ücretinin davacıdan alınıp davalılara verilmesine,
+3-Davacı tarafından yatırılan gider avansından geriye kalan kısmın karar kesinleştiğinde davacı tarafa iadesine,
+Dair, gerekçeli kararın tebliğinden itibaren 2 hafta içerisinde İstanbul Bölge Adliye Mahkemesinde istinaf yolu açık olmak üzere davacı vekilinin ve davalı ... vekilinin yüzüne karşı, diğer davalı tarafın yokluğunda verilen karar açıkça okunup, usulen anlatıldı. 21/09/2022
+Katip ....
+e-imzalıdır
+Hakim ...
+e-imzalıdır

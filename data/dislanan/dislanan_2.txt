@@ -1,0 +1,56 @@
+SIRA NO: 2 (DIŞLANAN - MALULIYET_ISGOREMEZLIK_YOK)
+DOKÜMAN ID: 910225400
+DERECE: BAM (İstinaf)
+DAİRE / MAHKEME: Antalya Bölge Adliye Mahkemesi 4. Hukuk Dairesi
+ESAS NO: 2021/298
+KARAR NO: 2023/1049
+KARAR TARİHİ: 19.06.2023 (Yıl: 2023)
+ARAMA KELİMESİ: trafik kazası maddi manevi tazminat kusur (v3)
+SAYFA NO: 1
+İNDİRME ZAMANI: 2026-10-25 00:16:44
+HESAP DOĞRULAMA ADAYI: False
+İÇERİK HASH (MD5): d0b6bf79a85c1ba23379fd84ad398ace
+================================================================================
+
+T.C.
+ANTALYA
+BÖLGE ADLİYE MAHKEMESİ TÜRK MİLLETİ ADINA
+DÖRDÜNCÜ HUKUK DAİRESİ İSTİNAF KARARI
+İNCELENEN DOSYANIN
+MAHKEMESİ : DENİZLİ ASLİYE TİCARET MAHKEMESİ
+TARİHİ : 16/10/2020
+DAVA : Maddi ve Manevi Tazminat
+KARAR TARİHİ : 19/06/2023
+KARAR YAZIM TARİHİ : 20/06/2023
+Taraflar arasındaki davanın yapılan yargılaması sonunda ilk derece mahkemesince verilen, yukarıda tarih ve numarası gösterilen kararına karşı davacı vekili tarafından istinaf başvurusunda bulunulmakla, dosyada duruşma yapılmasını gerektiren eksiklik görülmediğinden Hukuk Muhakameleri Kanunu'nun 353/1-b-1 maddesi uyarınca istinaf incelemesinin duruşmasız yapılmasına karar verilerek, dosya incelendi;
+GEREĞİ DÜŞÜNÜLDÜ
+DAVACI İSTEMİNİN ÖZETİ:
+Davacı vekili dava dilekçesinde özetle; müvekkilinin sürücüsü olduğu ... plaka sayılı otomobille, davalı ...'nun sürücüsü, davalı ...'ün kayıtlı maliki, davalı ... A.Ş.'nin trafik sigortacısı olduğu ... plaka sayılı yolcu minibüsü arasında meydana gelen trafik kazası sonucu müvekkiline ait aracın hasarlandığı, alkollü olarak araç kullanan davalı sürücünün gelen trafik ekibine kendi yerine bir arkadaşını sürücü olarak gösterdiği, trafik tutanağının da bu beyana göre düzenlendiği, ancak karakolda davalının aracı kendisinin kullandığını itiraf ettiği, kazanın meydana gelmesinde davalı sürücünün asli kusurlu olduğu, Denizli 2. Sulh Hukuk Mahkemesinin ... değişik iş sayılı dosyası ile hasarın ve kusurun belirlendiğinden bahisle fazlaya ilişkin hakları saklı kalmak kaydıyla 28.650,00 TL maddi tazminatın faiziyle birlikte tüm davalılardan tahsiline, müvekkilinin ailesi ile birlikte yaşadığı trafik kazası nedeniyle tedirgin olması, davalı sürücünün kendisi yerine bir başkasını sürücü olarak göstermesi, müvekkilinin gerçeği ortaya çıkarmak için uğraş vermesinden dolayı çektiği sıkıntı ve stres nedeniyle 3.000,00 TL manevi tazminatın faiziyle birlikte davalılar ... ve ...'den tahsiline karar verilmesini talep etmiş, 30/03/2017 tarihli ıslah dilekçesiyle hasar bedeli 33.200,00 TL, araç değer kaybı bedeli 5.000,00 TL olmak üzere toplam maddi tazminat miktarını 38.200,00 TL'na çıkarmıştır.
+DAVALI CEVABININ ÖZETİ:
+Davalı ... A.Ş. vekili davaya cevap dilekçesinde özetle; müvekkilinin davadan önce temerrüte düşürülmediği, kusurun ve zararın ispatlanması gerektiğini beyanla davanın reddini istemiştir.
+Davalı ... vekili davaya cevap dilekçesinde özetle; müvekkilinin az miktarda alkollü olmasının kusurlu olmasını gerektirmediği, davacının kusurunun daha fazla olduğunu beyanla davanın reddini istemiştir.
+Davalı ... davaya cevap vermemiştir.
+DELİLLER : :
+Denizli 10. Asliye Ceza Mahkemesinin ... esas, ... karar sayılı dosyası, Denizli 2. Sulh Hukuk Mahkemesinin ... değişik iş sayılı dosyası, trafik kazası tespit tutanağı, hasar dosyası, kusur raporları, tazminat bilirkişisi raporu, tüm dosya kapsamı.
+İDM KARARININ ÖZETİ :
+İlk Derece Mahkemesince verilen kararda özetle; trafik kazasının meydana gelmesinde davacı sürücünün %75, davalı sürücünün ise %25 oranında kusurlu olduğu, davacının aracında oluşan hasarın 33.200,00 TL, değer kaybının ise 5.000,00 TL olduğu, davacının %75 kusuruna göre talep edebileceği hasar bedelinin 8.300,00 TL, değer kaybının ise 1.250,00 TL olduğu, davacının trafik kazası sonucu bedensel bütünlüğünün zedelenmediği gerekçesiyle manevi tazminat davasının reddine, maddi tazminat davasının kısmen kabulü ile 8.300,00 TL hasar bedeli, 1.250,00 TL değer kaybı bedeli olmak üzere toplam 9.500,00 TL maddi tazminatın davalılardan müştereken ve müteselsilen alınarak davacıya verilmesine, bu miktara davalı sigorta şirketi yönünden poliçe teminat limiti ile sınırlı olmak üzere dava, diğer davalılar ... ve ... yönünden 12/11/2014 kaza tarihinden itibaren yasal faiz uygulanmasına, fazlaya ilişkin talebin reddine karar verilmiştir.
+İSTİNAF NEDENLERİ :
+Davacı vekili istinaf dilekçesinde özetle; davalı sürücünün alkollü olduğu, kazadan sonra 70 metre ileride durabildiği, asli kusurun davalı sürücüde olduğu, manevi tazminat davasının da reddinin doğru olmadığını beyanla ilk derece mahkemesi kararının kaldırılarak davanın tam olarak kabulüne istemiştir.
+Davalılar istinaf yasa yoluna başvurmamışlardır.
+İSTİNAFA CEVAP :
+Davalı ... vekili istinafa cevap dilekçesinde özetle; ilk derece mahkemesi kararının yerinde olduğunu beyanla istinaf talebinin reddini istemiştir.
+Diğer davalılar istinafa cevap vermemişlerdir.
+G E R E K Ç E
+Uyuşmazlık, trafik kazasına bağlı maddi ve manevi tazminat isteğine ilişkindir.
+Türk Borçlar Kanunu'nun 49. maddesi gereğince kasten veya taksirle başkasına zarar veren bu zararı gidermekle yükümlüdür. 2918 Sayılı Karayolları Trafik Kanunu'nun 85. maddesi gereği motorlu araç işleteni doğan zararlardan sürücü ile birlikte müştereken ve müteselsilen sorumludur. 2918 Sayılı Karayolları Trafik Kanunu'nun 91, 97 ve 99. maddeleri gereği trafik kazasına ve zarara sebebiyet veren motorlu aracın zorunlu mali sorumluluk sigortacısı, yasa ve genel sigorta şartları kapsamına dahil maddi zararlardan işletenle birlikte müştereken ve müteselsilen sorumludur.
+Davacı, trafik kazası nedeniyle aracında oluşan hasar bedeli, değer kaybı ve uğradığı manevi zararın tahsilini talep etmiş, ilk derece mahkemesince yapılan yargılama sonucunda maddi tazminat davasının kısmen kabulüne, manevi tazminat davasının reddine karar verilmiş, bu karara karşı davacı vekili tarafından istinaf yasa yoluna başvurulmuştur.
+6100 Sayılı HMK.'nun 355. maddesi gereğince istinaf dilekçesinde gösterilen istinaf sebepleri ile sınırlı yapılan istinaf incelemesi sonucunda;
+Trafik kazasının yaşandığı sırada davalı sürücü alkollü olsa da, davalı sürücünün anayolda, davacı sürücünün ise tali yolda seyir halinde bulunduğu, davacı sürücünün tali yoldan ana yola çıktığı sırada "dur" işaret levhasına dikkat etmeksizin ve anayolda seyir halinde bulunan araçlara ilk geçiş hakkını bırakmaksızın tedbirsizlik ve dikkatsizlik sonucu sebebiyet verdiği trafik kazasında asli kusurlu olduğu, ilk derece mahkemesinin Adli Tıp Kurumu Trafik İhtisas Dairesi ile İTÜ trafik heyetinden alınan kusur raporları doğrultusunda kusur oranlarını dosya kapsamına göre uygun belirlediği, davacının trafik kazası sonucu yaralanmadığı gibi manevi tazminatı gerektirecek şiddette bir kazanın da meydana gelmediği, karşı araç sürücünün sürücü olduğunu inkar etmesi ve davacının bu durumu ispata çalışması için sarf ettiği emeğin manevi tazminat koşulunu oluşturmadığı, ilk derece mahkemesince taraflarca gösterilen delillerin toplanmasında, değerlendirilmesinde esas ve usul bakımından hukuka aykırılık bulunmadığı ve davacı vekilinin tüm istinaf nedenleri yerinde görülmediğinden 6100 Sayılı HMK'nun 353/1. fıkrası (b-1) bendi uyarınca istinaf başvurusunun esastan reddine karar verilmesi gerekmiştir.
+HÜKÜM : Gerekçesi yukarıda açıklandığı üzere;
+1-Davacı vekilinin tüm istinaf nedenleri yerinde görülmediğinden 6100 Sayılı HMK'nun 353/1. fıkra (b-1) bendi gereğince istinaf başvurusunun ESASTAN REDDİNE,
+2-Davacı tarafından peşin yatırılan 148,60 TL istinaf yoluna başvuru harcı ile 54,40 TL istinaf karar harcının Hazineye gelir kaydına, bakiye 125,50 TL istinaf karar harcının davacıdan alınarak Hazineye verilmesine,
+3-Yapılan istinaf giderlerinin davacı üzerinde bırakılmasına,
+4-Artan istinaf gider avansının yatıranlara iadesine,
+5-Kesin olan işbu kararın taraflara tebliği, avans iade ile harç tahsil/iade işlemlerinin ilk derece mahkemesince yerine getirilmesine,
+İlişkin dosya üzerinde yapılan inceleme sonunda 6100 Sayılı HMK'nun 362. maddesi (1-a) bendi uyarınca 19/06/2023 tarihinde KESİN olmak üzere oy birliği ile karar verildi.
+....

@@ -1,0 +1,77 @@
+SIRA NO: 306 (ÇEKİRDEK)
+DOKÜMAN ID: 692598800
+DERECE: İlk Derece Mahkemesi
+DAİRE / MAHKEME: Ankara 4. Asliye Ticaret Mahkemesi
+ESAS NO: 2020/403
+KARAR NO: 2021/692
+KARAR TARİHİ: 02.11.2021 (Yıl: 2021)
+ARAMA KELİMESİ: trafik kazası aktüer bilirkişi raporu net tutar
+SAYFA NO: 13
+İNDİRME ZAMANI: 2026-10-25 00:45:24
+HESAP DOĞRULAMA ADAYI: False
+İÇERİK HASH (MD5): 5a2303463bdd4dea509f2f183025740f
+================================================================================
+
+T.C. ANKARA 4. ASLİYE TİCARET MAHKEMESİ Esas-Karar No: 2020/403 Esas - 2021/692
+TÜRK MİLLETİ ADINA
+T.C.
+ANKARA
+4. ASLİYE TİCARET MAHKEMESİ GEREKÇELİ KARAR
+GEREKÇELİ KARAR
+ESAS NO : 2020/403 Esas
+KARAR NO : 2021/692
+HAKİM :....
+KATİP : .....
+DAVACI : ....
+VEKİLİ : Av. ....
+DAVALI : 1- ....
+VEKİLİ : Av. ....
+DAVALILAR : 2- .....
+3- ....
+DAVA : Tazminat (Ölüm Ve Cismani Zarar Sebebiyle Açılan Tazminat)
+DAVA TARİHİ : 31/08/2020
+KARAR TARİHİ : 02/11/2021
+GEREKÇELİ KARARIN
+YAZILDIĞI TARİH : 02/11/2021
+Mahkememizde görülmekte olan Tazminat (Ölüm Ve Cismani Zarar Sebebiyle Açılan Tazminat) davasının yapılan açık yargılaması sonucunda;
+Dosya incelendi.
+GEREĞİ DÜŞÜNÜLDÜ :
+İDDİA VE İSTEK :
+Davacı vekili Av.Öykü Bozkurt sunduğu dava dilekçesinde özetle; davalının zorunlu trafik sigortacısı olduğu... plakalı aracın yaya olan müvekkiline çarpması ile 05/05/2017 tarihinde gerçekleşen trafik kazası sonucunda müvekkilinin yaralandığını ve maluliyetinin oluştuğunu, müvekkilinin şikayetine istinaden dava dışı sigortalı araç sürücüsü hakkında kamu davası açıldığını beyanla belirsiz alacağa ilişkin değer artırım hakları saklı kalmak kaydıyla 1.000,00-TL maddi tazminatın sigorta şirketi haricindeki davalılardan trafik kazası tarihinden,davalı sigorta şirketinden ise; temerrüdün gerçekleştiği 09/03/2020 tarihinden itibaren işleyecek avans faizi ve yargılama giderleri ile birlikte davalılardan müştereken ve müteselsilen tahsiline karar verilmesini talep etmiştir.
+CEVAP VE SAVUNMA :
+Davalı ... Tur. Taş. Tic. A.Ş. vekili Av. ...sunduğu cevap dilekçesinde özetle; dava konusu zararın meydana gelmesinde müvekkilinin sorumluluığunun bulunmadığını, kaza sonrasında düzenlenen tutanak ile Cumhuriyet Savcılığı tarafından alınan raporda kazann oluşumunda 2918 sayılı Kanunun 68/1-b-3m. gereğince davacı yayanın kusurlu olduğunun tespit edildiğini beyanla davanın reddine karar verilmesini talep etmiştir.
+Diğer davalılar ise; usulüne uygun tebligata ragmen cevap dilekçesi sunmadıkları gibi kendilerini de vekil ile temsil ettirmemişlerdir.
+DELİLLER :
+- Sigorta hasar dosyası ve ZMMM poliçesi örneği.
+-Kazazede davacıya ait tedavi belgeleri.
+-Maluliyet ve kusur ile aktüer hesap bilirkişisi raporları.
+DELİLLERİN DEĞERLENDİRİLMESİ VE GEREKÇE:
+Dava, trafik kazasından kaynaklanan geçiçi ve sürekli işgöremezlik nedeni ile maddi tazminat istemine ilişkindir.
+Davacı yan vekili duruşmada dava dilekçesini aynen tekrar ile istemi gibi karar verilmesini talep etmiştir.
+Davacı vekili Mahkememiz’ce verilen ara karar gereğince dava konusu geçiçi ve sürekli işgöremezlik taleplerini miktar itibariyle ayrı ayrı belirterek HMK 31.m. kapsamında açıklama dilekçesini sunmuştur.
+Mahkememiz’ce ZMMS poliçesi ile kaza nedeni ile açılan hasar dosyası, tedavi evrakları, Ankara ....ASCM’nin 2018/722E.-131K. sayılı dosyası celp edilmiş, rücuya tabi ödeme bulunup bulunmadığı hususunda SGK’ya müzekkere yazılmıştır.
+Dosyamız arasına celp edilen sigorta hasar dosyası içerisindeki ZMMS poliçesinin incelenmesinde; dava konusu trafik kazasına karışan... plakalı aracın kaza tarihi olan 05/05/2017 tarihini de kapsar şekilde 31/03/2017-31/03/2018 dönemine ilişkin olarak ZMMS poliçesi ile sigortalı olduğu, kaza başına ölüm ve sakatlık police teminat limitinin 330.000,00-TL olduğu anlaşılmıştır.
+Ayrıca kazazede davacının maluliyet oranı ve iyileşme süresi bakımından rapor aldırılmış, kusur ve aktüer hesap bilirkişi incelemesi yaptırılmıştır.
+Dosyamıza sunulan kusur raporunda özetle; dava konusu trafik kazasının oluşumunda dava dışı davalı sigorta şirketinin sigortalısı olan araç sürücüsü ...’nun kazanın oluşumunda % 100 oranında kusurlu olduğu olduğu mütalaa edilmiştir.
+Kaza tarihinde yürürlükteki “Özürlülük Ölçütü Sınfılandırması ve Özürlülere Verilecek Sağlık Raporları Hakkında Yönetmelik” hükümlerine göre yapılan değerlendirme sonucunda davacının sürekli özür oranının % 13 olup 1 ay süre ile geçiçi işgöremezlik halinde kalacağı belirtilmiştir.
+Maluliyet bilirkişi alındıktan sonra aktüer hesap bilirkişisinden alınan raporda ise; davacının kaza tarihinde yürürlükteki TRH-2010 yaşam tablosu ve %1,8 teknik faiz oranı esas alınarak progresif rant tekniği uygulanmak suretiyle ev hanımı olan davacının kaza tarihi itibari ile AGİ harç asgari ücretin neti miktarı üzerinden hesaplama yapıldığında davacının 15.993,06-TL geçiçi ve 62.114,51-TL sürekli işgöremezlik tazminatı olmak üzere toplam 78.107,57-TL maddi tazminat talep edebileceği mütalaa edilmiştir.
+Dosyamıza sunulan aktüer hesap bilirkişi raporu yerleşik içtihatlara uygun hesaplama yöntemini içermekle dosya kapsamındaki gerçek gelir verileri ile de uyumlu görülmekle; Mahkememiz’ce de benimsenmiştir.
+Davacı vekili aktüer bilirkişi raporu doğrultusunda değer artırım dilekçesini sunmakla davalı vekiline tebliğ edilmiştir.
+Yapılan yargılama ve toplanan deliller birlikte değerlendirildiğinde; tüm dosya kapsamına göre davacı yayanın davalı sigorta şirketine kaza tarihi itibariyle sigortalı araç sürücüsünün tam kusurlu olarak sebebiyet erdiği trafik kazası neticesinde yaralandığı ve maluliyetinin oluştuğu toplanan deliller ile sabit olup davalı sigorta şirketi ile diğer davalı araç sürücüsü ve işleten 2918 sayılı KTK’nın 85 ve 91.m. gereğince davacının oluştuğu sabit olan geçiçi ve sürekli işgöremezlik zararını (sigorta şirketi poliçe teminat limiti ile ve sigortalısının kusuru oranında sınırlı sorumlu olmak kaydıyla) tazminle yükümlüdür. Bu nedenle, Mahkememiz’ce de benimsenen aktüer hesap bilirkişi raporu doğrultusunda davacının değer artırım talebi de gözetilerek davanın dava konusu geçiçi ve sürekli işgöremezlik tazminatı yönünden kabulüne karar vermek gerektiği kanaatine varılmıştır.
+Diğer taraftan, her ne kadar dosyamıza celp edilen sigorta hasar dosyası içerisinde sigorta şirketine başvuru dilekçesi dikkate alındığında; davalı sigorta şirketine yönelik başvuru dilekçesinin 26/02/2020 tarihinde davalı tarafından öğrenildiğinin davalının cevap dilekçesi içeriği ile de sabit olduğu anlaşılmakla; 2918 sayılı KTK’nın 99.m. gereğince öürenme tarihinden itibaren 8 işgünü sonrasında davalı sigorta şirketi yönünden 10/03/2020 tarihinde temerrüt olgusunun gerçekleştiği anlaşılmakla; bilirkişi raporu doğrultusunda hüküm altına alınan geçiçi ve sürekli işgöremezlik tazminatı alacaklarına davalı sigorta şirketi yönünden 10/03/2020, diğer davalılar yönünden ise; trafik kazasının gerçekleştiği 05/05/2017 tarihinden itibaren (kazaya karışan sigortalı aracın ticari servis aracı olması nedeni ile) avans faizi işletilmesine karar vermek gerektiği kanaatine varılmakla; davanın bedel artırım talebi gözetilerek açıklanan gerekçelerle; kabulüne dair aşağıdaki şekilde hükümn kurmak gerekmiştir.
+GEREĞİ DÜŞÜNÜLDÜ:Gerekçesi yukarıda açıklandığı üzere;
+1-Davanın bedel arttırım talebi gözetilerek KABULÜ İLE; (tahsilde tekerrüre sebebiyet vermemek kaydıyla) Dava konusu 15.993,06 TL geçici ve 62.114,51 TL sürekli işgöremezlik tazminatı olmak üzere toplam 78.107,57 TL işgöremezlik tazminatının davalı sigorta şirketi yönünden temerrüt tarihi olan 10/03/2020, diğer davalılar yönünden ise; kaza tarihi olan 05/05/2017 tarihinden itibaren işleyecek avans faizi ile birlikte müştereken ve müteselsilen tahsili ile davacıya verilmesine, (davalı sigorta şirketi poliçe teminat limiti ile sınırlı sorumlu olmak kaydıyla)
+2-)Alınması gerekli karar ve ilam harcı nisbi 5.335,52-TL harçtan peşin yatırılan 59,30-TL ile 263,36-TL değer artırım harcı olmak üzere toplam 322,66-TL harcın mahsubu ile bakiye 5.012,86-TL harcın davalılardan alınarak Maliye Hazinesine gelir kaydına,
+3-Davacı tarafından peşin yatırılan 59,30-TL ile 263,36-TL değer artırım harcı olmak üzere toplam 322,66-TL harcın davalılardan alınarak davacıya verilmesine,
+4-Davacı kendisini vekil ile temsil ettirdiğinden karar tarihinde yürürlükteki AAÜT 13/1.m. gereğince nisbi 10.953,91-TL vekalet ücretinin davalılardan alınarak davacıya verilmesine,
+5-Bu dava kapsamında davacı tarafından yatırılan gider avansından karşılanan ve aşağıda dökümü gösterilen toplam 1.940,00-TL yargılama giderinin dikkate alınarak davalılardan alınarak davacıya verilmesine, (davalı sigorta şirketi police teminat limiti ile sınırlı sorumlu olmak kaydıyla)
+6- HMK 333.m. gereğince artan gider avansının karar kesinleştiğinde davacıya İADESİNE,
+Dair davacı vekilinin yüzüne karşı davalı ... Tur şirketi vekili ile diğer davalıların yokluğunda gerekçeli kararın tebliğinden itibaren 2 haftalık süre içerisinde mahkememize verilecek dilekçe ile istinaf yolu açık olmak üzere verilen karar açıkça okunup anlatıldı. 27/10/2021
+Katip ....
+¸e-imzalıdır
+Hakim....
+¸e-imzalıdır
+YARGILAMA GİDERİ DÖKÜMÜ:
+1-Posta ve davetiye gideri: 390,00-TL
+2-Bilirkişi ücreti :1.550,00-TL
+TOPLAM :1.940,00-TL

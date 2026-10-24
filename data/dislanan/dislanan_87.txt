@@ -1,0 +1,43 @@
+SIRA NO: 87 (DIŞLANAN - MALULIYET_ISGOREMEZLIK_YOK)
+DOKÜMAN ID: 971007400
+DERECE: İlk Derece Mahkemesi
+DAİRE / MAHKEME: İstanbul Anadolu 13. Asliye Ticaret Mahkemesi
+ESAS NO: 2022/422
+KARAR NO: 2023/842
+KARAR TARİHİ: 28.11.2023 (Yıl: 2023)
+ARAMA KELİMESİ: trafik kazası aktüer bilirkişi raporu net tutar
+SAYFA NO: 3
+İNDİRME ZAMANI: 2026-10-25 00:23:28
+HESAP DOĞRULAMA ADAYI: False
+İÇERİK HASH (MD5): 3a6067063c4b9a8e40ee4f7098fce8dd
+================================================================================
+
+T.C. İstanbul Anadolu 13. ASLİYE TİCARET MAHKEMESİ
+ESAS NO : 2022/422
+KARAR NO : 2023/842
+DAVA : Tazminat (Haksız Fiilden Kaynaklanan)
+DAVA TARİHİ : 15/06/2022
+KARAR TARİHİ : 28/11/2023
+Mahkememizde görülmekte olan Tazminat (Haksız Fiilden Kaynaklanan) davasının yapılan açık yargılaması sonunda,
+GEREĞİ DÜŞÜNÜLDÜ:
+Davacı vekili dava dilekçesinde özetle; Müvekkilinin,----plakalı,----- model ---- marka/model aracın maliki olduğunu, 24.09.2021 tarihinde davalı ----- sigortalı ve dava dışı ----- TC kimlik numaralı ----- kaza anındaki sürücüsü ve dava dışı----- TC kimlik numaralı-----maliki olduğu------ plakalı otomobilin müvekkilinin aracına çarpması sonucunda maddi hasarlı trafik kazası meydana geldiğini, kaza sonrasında tutulan trafik kazası tespit tutanağında da belirtildiği üzere------plakalı araç sürücüsü 2918 sayılı kanunda öngörülen kurallara uymadığını ve kazanın oluşumuna sebebiyet verdiğini, kazanın oluşumunda tüm kusurun ------ plakalı araç sürücüsünde olduğunu, araçta meydana gelen hasar bedeli gibi bu hasardan kaynaklanan değer kaybı zararını da ZMSS teminatı kapsamında olduğunu beyan ederek fazlaya ve başkaya ilişkin talep, dava ve ıslah hakları saklı kalmak kaydı ile------ plakalı araçta meydana gelen değer kaybına tekabül eden bedelden fazlaya ilişkin hak ve talepleri saklı kalmak kaydıyla HMK 109 maddesi uyarınca kısmi dava olarak şimdilik 100 TL’nin kaza tarihi olan 24.09.2021 tarihinden itibaren işleyecek avans faizi ile birlikte davalıdan tahsiline, yargılama giderleri ve vekâlet ücretinin davalı tarafa yükletilmesine karar verilmesini talep ve dava etmiştir.
+Davalı vekili cevap dilekçesinde özetle; 24.09.2021 tarihinde maddi hasarlı trafik kazasına karıştığını belirtilen ----- plakalı aracın, 16.07.2021-2022 tarihli ve------numaralı Zorunlu Mali Mesuliyet (Trafik) Sigorta Poliçesi ile maddi hasarda araç başına kaza tarihi itibarıyla 43.000-TL’sine kadar azami sorumluluk hadleri ile müvekkili şirkete sigorta ettirildiğini, söz konusu maddi teminat miktarının davalı müvekkili sigorta şirketinin iş bu poliçeden doğan sorumluluğunun üst limiti olduğunu, davacının, dava dilekçesinde söz konusu kaza sebebiyle ------plakalı müvekkilinin aracında değer kaybı oluştuğunu belirttiğini, başvuran tarafından başvuru öncesinde hasar tespiti yapıldığını ve açık ve net olarak bir tutar belirlendiğini, davanın haksız olduğunu beyan ederek davanın reddine, yargılama giderleri ile vekâlet ücretinin davacıya tahmiline karar verilmesini talep etmiştir.
+Deliller
+Tarafların ticaret sicil sorguları dosya arasına alınmıştır.
+Davalı sigorta şirketine yazılan müzekkere cevabı dosya arasına alınmıştır.
+------Noterler Birliğine yazılan müzekkere cevabı dosya arasına alınmıştır.
+Trafik kusuru konusunda uzman bilirkişi, otomotiv alanında uzman makine mühendisi bilirkişi ile sigorta hukuku alanında uzman aktüer bilirkişi heyeti kök ve ek raporları dosyaya sunulmuştur.
+Delillerin değerlendirilmesi ve gerekçe:
+Dava, 24.09.2021 tarihinde meydana gelen trafik kazası sebebiyle davalı sigorta şirketi nezdinde sigortalı bulunan----- plakalı aracın, davacıya ait ----- plakalı araç ile çarpışması çarpması sonucu, kusurun irdelenmesi, ------plakalı araçta değer kaybı oluşup oluşmadığı, varsa miktarının ne olduğuna dair HMK 109.maddesi uyarınca kısmi dava olarak 100,00 TL maddi tazminat davasıdır.Mahkememizce dava dilekçesi, cevap dilekçesi, gelen müzekkere cevapları ve tüm dosya kapsamı bir bütün olarak değerlendirilmiştir.
+Dosya, trafik kusuru konusunda uzman bilirkişi, otomotiv alanında uzman makine mühendisi bilirkişi ile sigorta hukuku alanında uzman aktüer bilirkişi heyetine tevdi edilmiş; 08/01/2023 tarihli rapora göre dosyadaki bilgi, belge, sigorta poliçesi, hasar dosyası ve ibraz edilen deliller ışığında, ----- plakalı araç sürücüsünün 2918 sayılı Karayolları Trafik Kanununun 47/d ve 84/b maddelerini ihlal etmesi sebebiyle %100 kusurlu olduğu, ------ plakalı araç sürücüsünün kusurunun bulunmadığı, 09.10.2020 tarihinde ----- yayımlanan Anayasa Mahkemesi kararının, devam etmekte olan tüm davalara uygulandığı, yani, değer kaybının belirlenmesi hususunda aracın kaza tarihindeki hasar görmemiş piyasa değeri ile onarılmış haldeki piyasa değeri arasındaki fark kriterinin esas alınacağı, ------ plaka sayılı aracın kaza sonrası değer kaybının, 2021 Eylül ayı itibarıyla 6.673,38 TL olduğu, araçta meydana gelen total değer kaybı tutarının 6.673,38 TL olduğu, sigortalının kusuru nispetinde ödenebilir değer kaybı tazminat tutarının da 6.673,38 TL olduğu, hesaplanan değer kaybının davacıya 10.03.2022 tarihinde ödenmiş olduğundan, davacının bakiye anapara alacağının kalmamış olduğu, değer kaybı ödemesi yönünden davalının 26.12.2021 tarihi itibariyle temerrüde düşmüş olduğu, 26.12.2021 ile ödemenin yapıldığı 10.03.2022 tarihleri arası işlemiş temerrüt faizinin 213,07 TL olarak hesaplandığı, rapor edilmiş olup, davacı tarafın rapora itirazlarının değerlendirilmesi amacıyla aynı bilirkişi heyetinden ek rapor alındığı, itirazlar irdelenerek düzenlenen ek rapora göre, bilirkişilerin ek rapordaki görüş ve kanaatlerinin, kök rapordaki ile aynı olduğu görülmüştür. 20.06.2023 tarihli celsede, davacı vekilinin talebi üzerine, davasını ıslah etmek, ıslah harcını yatırmak ve usulüne uygun ıslah dilekçesini sunmak üzere HMK 180 ve devamı maddeleri uyarınca bir hafta kesin süre verildiği, aksi takdirde ıslah hiç yapılmamış gibi davaya devam olunacağına ilişkin kesin süre sonuçlarının huzuren ihtar edildiği, davacı tarafça aşamalarda davanın ıslah edilmediği ve yargılamaya bu hali ile devam edildiği görülmüştür.Dava konusu araçta kaza tarihinden önce herhangi bir hasar yok ise; aracın kazasız piyasa rayici belirlenip buna göre hasarlı hali arasındaki fark değer kaybı kabul edilmelidir.
+Davacıya ait araçta meydana gelen gerçek zararın belirlenmesi için mahkemece yapılacak iş, aracın kaza tarihindeki hasarsız piyasa değeri ve hasarlı haldeki piyasa değeri arasındaki farkı belirlemek için konusunda uzman bilirkişiden ayrıntılı denetime açık ve gerekçeli rapor alınarak, davalı sürücünün kusur oranı nispetinde tazminata hükmedilmesi olmalıdır.
+Mahkememizce aldırılan bilirkişi heyeti kök ve ek raporlarının bu yönleriyle hükme esas alınmaya uygun, gerekçeli ve denetlenebilir bulunması sebebiyle yeni bir rapor alınması cihetine gidilmeyerek ve ıslaha yönelik ara karardan rücu edilmesi talebinin dosya kapsamına göre reddine karar verilerek, her ne kadar davacı tarafça değer kaybı alacağı yönünden dava açılmış ise de, davacı tarafın davalı taraftan herhangi bir alacağı bulunmadığı tesptine bağlı olarak, davacının davasını ispat edemediği anlaşılmakla sübut bulmayan davanın reddine karar vermek gerekmiş ve aşağıdaki şekilde hüküm tesis edilmiştir.
+HÜKÜM : Gerekçesi yukarıda açıklandığı üzere;
+1-Davanın REDDİNE,
+2-Karar tarihi itibariyle alınması gereken 269,85 TL karar ve ilam harcından peşin alınan 80,70 TL harcın mahsubuyla bakiye 189,15 TL harcın davacıdan alınarak hazineye irad kaydına,
+3-Davacı tarafından yapılan yargılama giderlerinin davacı üzerinde bırakılmasına,
+4-Arabuluculuk Kanununun 18/A-(13).maddesi ve Hukuk Uyuşmazlıklarında Arabuluculuk Yönetmeliği’nin 26/2. Maddeleri ile AÜT uyarınca Adalet Bakanlığı bütçesinden ödenen 1.560,00 TL arabuluculuk ücretinin davacıdan alınarak hazineye irad kaydına,
+5-Davalı kendisini vekille temsil ettirdiğinden yürürlükte bulunan AAÜT uyarınca 100,00 TL vekalet ücretinin davacıdan tahsili ile davalıya verilmesine,
+6-Davalı tarafından yapılan yargılama gideri olmadığından bu hususta karar verilmesine yer olmadığına,
+7-Karar kesinleştiğinde varsa bakiye gider avansının yatırana iadesine,
+Dair, davacı vekilinin yüzüne karşı, gerekçeli kararın tebliğinden itibaren 2 hafta içinde-----Bölge Adliye Mahkemesinde İstinaf Kanun yolu açık olmak üzere verilen karar açıkça okunup usulen anlatıldı.

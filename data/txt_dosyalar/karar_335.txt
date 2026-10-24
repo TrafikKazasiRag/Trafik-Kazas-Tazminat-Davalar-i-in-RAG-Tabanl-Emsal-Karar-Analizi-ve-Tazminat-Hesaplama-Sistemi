@@ -1,0 +1,73 @@
+SIRA NO: 335 (ÇEKİRDEK)
+DOKÜMAN ID: 877889400
+DERECE: BAM (İstinaf)
+DAİRE / MAHKEME: Ankara Bölge Adliye Mahkemesi 35. Hukuk Dairesi
+ESAS NO: 2022/718
+KARAR NO: 2023/283
+KARAR TARİHİ: 01.03.2023 (Yıl: 2023)
+ARAMA KELİMESİ: sürekli iş göremezlik yıllık ücret bilinen gelir
+SAYFA NO: 2
+İNDİRME ZAMANI: 2026-10-25 00:56:12
+HESAP DOĞRULAMA ADAYI: True
+İÇERİK HASH (MD5): 53943800797aa639347978aee9a1a638
+================================================================================
+
+T.C. Ankara Bölge Adliye Mahkemesi 35. Hukuk Dairesi
+T.C.
+ANKARA
+BÖLGE ADLİYE MAHKEMESİ
+35. HUKUK DAİRESİ
+DOSYA NO : 2022/718
+KARAR NO : 2023/283
+T Ü R K M İ L L E T İ A D I N A
+K A R A R
+BAŞKAN : ... (...)
+ÜYE : ... (...)
+ÜYE : ... (...)
+KATİP : ... (...)
+İNCELENEN KARARIN
+MAHKEMESİ : ANKARA 12. ASLİYE TİCARET MAHKEMESİ
+TARİHİ : 24/12/2020
+NUMARASI : 2016/498 Esas 2020/764 Karar
+DAVACI : ... - TCK:...
+VEKİLİ :
+DAVALILAR :
+VEKİLLERİ :
+DAVANIN KONUSU : Tazminat (Ölüm Ve Cismani Zarar Sebebiyle Açılan Tazminat)
+KARAR TARİHİ : 01/03/2023
+GEREKÇELİ KARAR
+YAZILMA TARİHİ : 28/03/2023
+Mahalli mahkemesince verilen karara karşı davacı vekili, davalı ... vekili ve davalı .... A.Ş. vekili tarafından süresi içinde ayrı ayrı istinaf kanun yoluna başvurulmuş olup, başvuru şartlarının yerine getirildiği dosya üzerinde yapılan ön inceleme ile anlaşılmakla yapılan istinaf incelemesi sonunda;
+TARAFLARIN İDDİA VE SAVUNMALARI
+Davacı vekili dava dilekçesinde; 18/03/2016 tarihinde davacının karşıdan karşıya geçmekte olduğu sırada davalı sürücü ...'nin, sevk ve idaresindeki aracın davacıya çarpması sonucu davacının yaralandığını belirterek, sürekli iş göremezlik zararına mahsuben şimdilik 500,00-TL, geçici işgöremezlik zararı olarak 500,00-TL, en son çalıştığı işyerinden ayrılması nedeniyle mahrum kalınan gelire ilişkin 500,00-TL maddi tazminatın fazlaya ilişkin talep ve dava hakları saklı kalmak kaydıyla, olay tarihinden itibaren işleyecek yasal faizi ile birlikte davalılardan müştereken ve müteselsilen tahsiline, ortopedik rehabilitasyon malzemeleri, tedavi ve ulaşım giderleri vb. belgesi olan ya da olmayan masraflara mahsuben şimdilik 1.290,00-TL maddi tazminatın fazlaya ilişkin talep ve dava hakları saklı kalmak kaydıyla, yasal faizi ile birlikte davalılardan tahsiline, 15.000,00-TL manevi tazminatın dava tarihinden itibaren işleyecek yasal faizi ile birlikte sigorta şirketi haricindeki davalılardan müştereken ve müteselsilen tahsiline karar verilmesini talep etmiş, ıslah dilekçesi ile tedavi ve yol gideri talebini 1.939,90TL, geçici işgöremezlik tazminatı talebini 23.280,43TL, sürekli işgöremezlik tazminatı talebini 12.022,42TL olarak arttırmıştır.
+Davalı .... A.Ş. vekili cevap dilekçesinde; davanın reddine karar verilmesini talep etmiştir.
+Davalı ...Ş. vekili cevap dilekçesinde; davanın reddine karar verilmesini talep etmiştir.
+Davalı ... usulüne uygun tebliğe rağmen davaya cevap vermemiştir.
+İLK DERECE MAHKEMESİ KARARI
+Mahkemece; davanın kısmen kabulüne, 1.939,90-TL tedavi-yol giderinden kaynaklı, 23.280,43-TL geçici işgöremezlikten kaynaklı ve 12.022,42-TL sürekli işgöremezlikten kaynaklı toplam 37.242,75-TL maddi tazminatın davalılardan ... ve .... ve Tic. A.Ş.'den kaza tarihinden, davalılardan ... Sigorta A.Ş.'den ise dava tarihinden itibaren işleyecek yasal faiziyle birlikte tahsili ile davacıya ödenmesine, fazlaya ilişkin istemin reddine, 9.000,00-TL manevi tazminatın kaza tarihinden itibaren işleyecek yasal faiziyle birlikte davalılar ... ve .... ve Tic. A.Ş.'den tahsili ile davacıya ödenmesine, fazlaya ilişkin istemin reddine karar verilmiştir.
+İLERİ SÜRÜLEN İSTİNAF SEBEPLERİ
+Davacı vekili istinaf dilekçesinde, mahkemece hükmedilen manevi tazminatın düşük olduğunu, davacının en son çalıştığı hastaneden ayrılması sebebiyle mahrum kaldığı gelirin hesaplanması için yeniden bilirkişi raporu aldırılması gerektiğini belirterek kararın kaldırılmasını talep etmiştir.
+Davalı ...Ş. vekili istinaf dilekçesinde, davadan önce sigorta şirketine kanunda belirtilen evraklar ile müracaat edilmediğini, geçici iş göremezlik ve tedavi gideri talepleri ile ulaşım gideri talebinin poliçe teminatı kapsamında olmadığını, davacının gelirinin somut bir şekilde belirlenmesi gerekirken bilirkişi tarafından TUİK verilerinin esas alınmasının hatalı olduğunu belirterek kararın kaldırılmasını talep etmiştir.
+Davalı... A.Ş. vekili istinaf dilekçesinde, davacının sakatlık oranıyla ilgili Adli Tıp raporları arasındaki çelişki giderilmeden karar verilmesinin hatalı olduğunu, kaza tarihi 28/03/2016 olmasına rağmen bilirkişi ve mahkemece kaza tarihinin 18/03/2016 olarak kabul edildiğini, bu tarihten itibaren faize hükmedilmesi suretiyle, gerek hükmedilen zarar kalemleri hesabında gerekse hükmedilen tazminatların faiz hesabında davalı aleyhine fazla hesaplama yapıldığını, davacının geçici iş göremezlik süresi 1 ay olduğu halde mahkemece 6 ay süreyle geçici iş göremezlik kaybı hesaplandığını, bilirkişi tarafından davacının pasif dönem başlangıcının emekli olduğu tarih yerine 60 yaş ikmali olarak kabul edilmesinin usul ve yasaya aykırı olduğunu, maluliyet raporunda davacının iyileşme sürecinin altı aya kadar uzayabileceği belirtilmiş olmasına karşın bu sürenin kesin ve mutlak olmadığı, bu sürenin daha önce sona erme ihtimalinin olduğunu, davacının geçici iş göremezlik süresinin kaza ile işe giriş tarihleri arasında kabul edilerek geçici iş göremezlik tazminatında fazlaya dair talebin reddine karar verilmesi gerektiğini, raporda sürekli işgöremezlik hususunda bir hesap yapılmadığını,18/11/2019 tarihli ATK 2.İhtisas Kurulu raporunda davacının maluliyet oranının %3 olduğunun tespit edildiğini, 27.08.2020 tarihli bilirkişi raporundaki hesaplama davacının % 3 sürekli maluliyet oranına göre yapılmış gibi görünse de sürekli gelir kaybı hesaplamasının hüküm vermeye ve denetime elverişli olmadığını, kusur durumu hususunda ceza dosyası sonucu beklenmeden karar verilmesinin yerinde olmadığını, hükmedilen manevi tazminat miktarının fahiş olduğunu belirterek yerel mahkeme kararının kaldırılmasını talep etmiştir.
+DELİLLERİN DEĞERLENDİRİLMESİ ve GEREKÇE
+İstinaf talebinde bulunan taraf vekillerinin istinaf sebepleri doğrultusunda, dosya içerisindeki bilgi ve belgeler, mahkeme kararının gerekçesi, dayanılan delillerin tartışılıp değerlendirilmesi ile yapılan inceleme sonunda;
+Dava, trafik kazasından kaynaklanan cismani zarar nedeniyle maddi ve manevi tazminat istemine ilişkindir.
+Davacı tarafça, emekli olduğu ancak kaza tarihinde fiilen çalışmaya devam ettiği ...’teki özel bir hastaneden kaza nedeni ile 17/04/2016 tarihinde ayrılmak zorunda kaldığı, aylık kazancının asgari ücretin çok üzerinde olduğu belirtilerek maddi tazminat isteminde bulunulduğu, 28/03/2016 tarihinde meydana gelen kaza tarihi esas alınarak davacı vekilinin dilekçesi ekinde sunduğu SGK kayıtlarının tetkikinde, 15/05/2004 tarihinde emekli olan davacının 19/09/2015-17/03/2016 tarihleri arasında 1030878 sicil nolu işyerinde 4a kapsamında sigortalı çalışmasının bulunduğu ve bu işyerinden kod:16 (iş sözleşmesi sona ermeden sigortalının aynı işverene ait diğer işyerine nakli) kodu ile 17/03/2016 tarihinde çıkış işleminin yapıldığı, akabinde 09/05/2016-15/07/2016 tarihleri arasında ... sicil nolu işyerinde, 22/07/2016-06/04/2018 tarihleri arasında ... sicil nolu işyerinde, 10/04/2018 tarihinden -06/04/2018 tarihleri arasında ... sicil nolu işyerinde ve sonrasında değişik işyerlerinde 4a kapsamında sigortalı çalışmasının bulunduğu, davacının geçici işgöremezlik süresi olarak ATK tarafından belirlenen 6 aylık süre içinde sigortalı çalışmalarının olduğu, 17/03/2016 tarihinden sonra 09/05/2016 tarihinde işe giriş kaydı yapılan işverenlerin aynı olup olmadığının ve bu sebeple 28/03/2016 kaza tarihinde davacının aktif bir çalışması olup olmadığının mevcut belgelerden tespit edilemediği, davacı tarafça iddia edildiği gibi 17/04/2016 tarihinde gerçekleşmiş bir işten çıkış işleminin bulunmadığı, hükme esas alınan aktüerya raporunda davacının gelirine ilişkin maaş belgesinin sunulmadığı ancak; sosyal durum araştırma ve tespit tutanağında davacının ...’nde doktor olduğunun belirtildiğinin görüldüğünden hareketle, davacının fizik tedavi uzmanı olması nedeniyle TUİK Kazanç Verilerinden hareketle asgari ücretin 3,728 katı gelirinin olduğunun dikkate alınarak, davacının kaza tarihinde 60 yaşını geçmiş olmasına rağmen halen çalışmaya devam ediyor olduğu kabul edilerek kaza tarihinden itibaren 6 ay süre ile geçici iş göremezlik zararının ve 65 yaşında pasif döneme geçeceği kabul ile %3 iş göremezlik oranına göre aktif ve pasif dönem sürekli iş göremezlik zararının hesaplandığı, mahkemece bilirkişi raporundaki hesaplama benimsenerek yazılı şekilde hüküm kurulduğu anlaşılmıştır.
+Haksız fiil neticesi oluşan işgöremezlikten kaynaklı olarak ortaya çıkan zararın tayininde zarar görenin elde ettiği gelirinin doğru biçimde belirlenmesi, tazminatın doğru tespitinde önemli yer tutmaktadır. Bu hesap yapılırken ise, zarar görenin kaza tarihinde çalıştığına ve asgari ücretten fazla kazancı olduğuna dair bir iddiası varsa bu hususta kendisine ispat imkanı tanındıktan sonra, aktif çalışması ve elde ettiği gelirin net biçimde belirlenmesi bakımından çalıştığı bildirilen yerden, maaş bordrolarının, SGK dökümlerinin vb. kayıtlarının getirtilmesi, gelen belgelerle gelirin tespiti halinde bu gelirin, resmi belgelerle gelirin ispat edilememesi halinde asgari ücretin zarar hesabına esas kazanç kabul edilmesi, zarar görenin çalışma hayatının aktif çalışma dönemi ve emeklilik dönemi olan pasif devre olarak ayrılması, kaza tarihinden itibaren bilinen (işlemiş) ve bilinmeyen (işleyecek) aktif dönem ile zarar görenin bakiye ömrü esas alınarak pasif dönemin tespit edilmesi, işlemiş (bilinen) aktif dönem zarar hesabının, zarar görenin bilinen kazancı nazara alınarak, eğer geliri yok ise kaza tarihinden hesap tarihine kadar yürürlükte bulunan asgari ücretler (asgari geçim indirimi dahil) dikkate alınarak yapılması; işleyecek (bilinmeyen) aktif dönem hesabında zarar görenin hesap tarihindeki bilinen son geliri nazara alınarak muhtemel gelirinin her yıl için % 10 artırılıp % 10 iskonto edilmesi ile belirlenecek peşin değeri esas alınıp işleyecek aktif dönem tazminat hesabı yapılması, pasif dönem hesabında ise asgari geçim indirimi uygulanmaksızın asgari ücret üzerinden zarar hesabının yapılması, geçici işgöremezlik süresi içinde zarar görenin aktif çalışmasına devam ettiği süreç olması halinde mahrum kaldığı ücret yahut ek ödemeler varsa bu sürece dair zarar hesabının mahrum kalınan miktar ve süre ile sınırlı olarak yapılması, zarar görenin geçici iş göremezlik süresi içinde bir zararının oluşmaması halinde dahi sürekli iş göremezlik zararının kaza tarihinden değil davacının geçici iş göremezlik halinin sona erdiği tarihten itibaren hesap edilmesi gerekmektedir.
+Somut olayda anılan ilke ve usuller dikkate alınarak tazminat hesabının yapılması gerekirken, eksik inceleme ile hüküm tesisi de doğru görülmemiştir.
+Açıklanan nedenlerle, ilk derece mahkemesinin kararının kaldırılmasına, davanın yeniden görülerek yukarıda açıklanan hususlardaki eksiklikler ikmal edilerek, davacının aktif çalışması ve elde ettiği ek gelirin net biçimde belirlenmesi bakımından çalıştığı bildirilen yerden, bordroları, SGK dökümleri, geçici iş göremezlik süresi içinde mahrum kalınan kazanç iddiasına ilişkin kayıt ve belgeler getirtilip akabinde dosya aktüer bilirkişiye tevdi edilerek usuli kazanılmış haklar korunarak, hükme esas alınan rapor tarihine kadar davacının işlemiş aktif dönem zarar hesabının bilinen kazancı nazara alınarak, kazancın asgari ücretten az olması halinde yürürlükte bulunan asgari ücretler (asgari geçim indirimi dahil) dikkate alınarak, bilinmeyen aktif dönem zarar hesabının ise hesap tarihindeki bilinen son gelirin her yıl için her yıl için % 10 artırılıp % 10 iskonto edilmesi ile belirlenecek peşin değeri esas alınarak yapılması, pasif dönem hesabında ise asgari geçim indirimi uygulanmaksızın asgari ücret üzerinden zarar hesabının yapılması suretiyle sürekli işgöremezlik zararının ve geçici işgöremezlik süresi içinde zarar görenin aktif çalışmasına devam ettiği süreç olması halinde mahrum kaldığı ücret yahut ek ödemeler varsa bu sürece dair zarar hesabının mahrum kalınan miktar ve süre ile sınırlı olarak geçici işgöremezlik zararının hesaplanması için rapor alınarak, sonucuna göre karar verilmesi için dosyanın mahkemesine gönderilmesine, kaldırma sebebine göre davacı vekilinin tüm, davalı ...Ş vekili ve davalı... A.Ş. vekilinin sair istinaf nedenlerinin şimdilik incelenmesine yer olmadığına karar verilerek aşağıdaki hüküm kurulmuştur.
+HÜKÜM : Gerekçesi yukarıda izah edildiği üzere;
+1- Davalı ...Ş vekili ve davalı... A.Ş. vekilinin istinaf başvurularının KABULÜ ile; Ankara 12. Asliye Ticaret Mahkemesi tarafından verilen 24/12/2020 tarih, 2016/498 Esas 2020/764 Karar sayılı kararının, HMK’nın 353/1-a-6.maddesi gereğince KALDIRILMASINA, tüm deliller toplanıp birlikte değerlendirilerek varılacak sonuca göre bir karar verilmesi için dosyanın yerel mahkemesine GÖNDERİLMESİNE, kaldırma ve gönderme sebebine göre davacı vekilinin tüm, davalı ...Ş vekili ve davalı... A.Ş. vekilinin sair istinaf nedenlerinin şimdilik incelenmesine yer olmadığına,
+2-İstinafa gelen taraflarca yatırılan istinaf başvuru harcı ile istinaf karar harcının talep halinde yatırana iadesine,
+3-İstinafa gelen taraflarca yatırılan gider avansından varsa artan kısmın karar kesinleştiğinde ilgilisine iadesine,
+4-İstinafa gelen taraflarca sarf edilmiş istinaf yargılama giderlerinin İlk Derece Mahkemesince verilecek kararda gözetilmesine,
+5-İİK'nın 36. maddesi gereğince Ankara 5. İcra Dairesinin 2021/1247 Esas sayılı dosyasına yatırılan 96.419,00- TL ve 80.000,00-TL tutarlı teminat mektubunun yatırana iadesine,
+6-Karar tebliği, kesinleştirme, harç ve gider avansı iadesi işlemlerinin ilk derece Mahkemesince yapılmasına,
+Dosya üzerinde yapılan inceleme sonunda, HMK.353/1-a maddesi uyarınca KESİN olmak üzere 01/03/2023 tarihinde oy birliği ile karar verildi.
+...
+...
+Başkan ...
+Üye ...
+Üye ...
+Katip ...
+* Bu belge, 5070 sayılı Kanun hükümleri gereğince elektronik imza ile imzalanmıştır.

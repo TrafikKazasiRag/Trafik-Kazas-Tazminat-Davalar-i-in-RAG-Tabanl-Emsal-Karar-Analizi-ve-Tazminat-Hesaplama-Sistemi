@@ -1,0 +1,58 @@
+SIRA NO: 97 (DIŞLANAN - MALULIYET_ISGOREMEZLIK_YOK)
+DOKÜMAN ID: 1165321900
+DERECE: İlk Derece Mahkemesi
+DAİRE / MAHKEME: Ankara 13. Asliye Ticaret Mahkemesi
+ESAS NO: 2023/811
+KARAR NO: 2025/318
+KARAR TARİHİ: 29.04.2025 (Yıl: 2025)
+ARAMA KELİMESİ: trafik kazası aktüer bilirkişi raporu net tutar
+SAYFA NO: 15
+İNDİRME ZAMANI: 2026-10-25 00:51:25
+HESAP DOĞRULAMA ADAYI: False
+İÇERİK HASH (MD5): f7e3c21a6dd850844f602afb511e87df
+================================================================================
+
+T.C. ANKARA 13. ASLİYE TİCARET MAHKEMESİ Esas-Karar No: 2023/811 Esas - 2025/318
+TÜRK MİLLETİ ADINA
+T.C.
+ANKARA
+13. ASLİYE TİCARET MAHKEMESİ
+GEREKÇELİ KARAR
+ESAS NO : 2023/811 Esas
+KARAR NO : 2025/318
+HAKİM :....
+KATİP : ....
+DAVACI : ....
+DAVALI : ....
+VEKİLLERİ : Av. ...
+Av.....
+Av. ...
+DAVA : Tazminat (Ölüm Ve Cismani Zarar Sebebiyle Açılan Tazminat)
+DAVA TARİHİ : 28/11/2023
+KARAR TARİHİ : 29/04/2025
+GEREKÇELİ KARARIN
+YAZILDIĞI TARİH : 02/06/2025
+Mahkememizde görülmekte olan Tazminat (Ölüm Ve Cismani Zarar Sebebiyle Açılan Tazminat) davasının yapılan açık yargılaması sonunda,
+GEREĞİ DÜŞÜNÜLDÜ:
+DAVA: Davacı vekili dava dilekçesinde özetle; 20/08/2023 tarihinde sürücü .... sevk ve idaresindeki .... plakalı aracı ile ... geldiği esnada aracın direksiyon hakimiyetini kaybederek arka refüje girdiğini ve 30 metre ilerledikten sonra yolun gidişine göre tersi istikamete geçip 33 metre burada ilerledikten sonra bariyerleri aşarak 64 metre şarampole yuvarlanıp tekerleri üzerine durması sonucu tek taraflı, yaralanmalı, ölümlü ve maddi hasarlı trafik kazası meydana geldiğini, bu kazanın sonucunda ... plakalı otobüste yolcu konumunda olan müvekkili...’ın eşi Hatice ....'ın vefat ettiğini, desteğinin ölümü nedeniyle müvekkil maddi açıdan mağdur olduğunu belirterek şimdilik 200.000,00-TL destekten yoksun kalma tazminatının belirsiz alacak davası olarak temerrüt tarihi olan 28/09/2023 tarihinden itibaren işleyecek ticari temerrüt (avans) faizi ile birlikte limit sınırları içerisinde 6098 sayılı Türk Borçlar Kanunu'nun 61, 2918 sayılı KTK'nın 88. ve Türk Borçlar Kanunu'nun 163. maddeleri gereği teselsül hükümleri uyarınca davalıdan müşterek ve müteselsilen tahsiline karar verilmesini talep ve dava ettikleri görülmüştür.
+CEVAP: Davalı vekili sunduğu cevap dilekçesinde özetle; davacının başvuru dilekçesinin Karayolları Trafik Kanununun 97. maddesine uygun bir başvuru olmadığını, başvuru belgesine eklenmesi gereken belgelerin eksik olduğunu, eksik evrak ile başvuru yapılarak başvuru şartı yerine getirilmediğinden davanın usulden reddi gerektiğini, mahkemenin yetkili olmadığını, yetkili mahkemelerin Sivas mahkemeleri olduğunu, müteveffanın kazadan 1 gün sonra vefat ettiğini, bu nedenle kaza ile vefat arasındaki illiyet bağının araştırılması gerektiğini, kazadaki kusur durumunun ATK aracılığıyla tespit edilmesi gerektiğini, eğer bir tazminata hükmedilecekse de müterafik kusur durumunun araştırılması gerektiğini, faiz talebinin de reddedilmesi gerektiği belirterek davanın reddini istemiştir.
+DELİLLERİN DEĞERLENDİRİLMESİ VE GEREKÇE: Dava; davalı sigorta şirketine ZMSS poliçesi ile sigortalı aracın karıştığı tek taraflı trafik kazası neticesinde davacının eşi olan yolcu desteğin vefatı dolayısıyla destekten yoksun kalma maddi tazminatı istemine ilişkindir.
+Deliller toplanmış, SED araştırması yaptırılmış, nüfus kayıt örneği, poliçe ve hasar dosyası, SGK kayıtları, trafik kazası tespit tutanakları, Sorgun CBS'nin 2023/2361 sayılı soruşturma dosyası sureti getirtilmiş, bilirkişi incelemesi yaptırılmıştır.
+Davaya konu trafik kazasına ilişkin olarak adli trafik uzmanı bilirkişi tarafından 13/08/2024 tarihli bilirkişi raporunda özetle; "..... plakalı araçta yolcu olarak bulunan ve aralarında davacı ....'ın eşi müteveffa ... ile diğer 28 yolcunun, kaza tespit tutanağını düzenleyen görevlilerce emniyet kemerinin takılı olup olmadığına ilişkin resmi bir tespitin olmaması nedeniyle kusur izafesinin söz konusu olmadığı ... olay tarihinde davalıya ZMSS poliçesiyle sigortalı olan ... plaka sayılı otobüs sürücüsü ....'nun sevk ve idaresindeki aracı ile Yozgat ili Saraykent mevkiinden Sorgun ilçesi istikametine seyir halindeyken olay mahalli olan km 27 + 100'e gelmeden önce gün durumunun gerektirdiği şartlara uygun bir seyit hızıyla aracını sevk ve idare etmesi gerekirken aksine hareketle dikkatsizce ve tedbirsizce seyri sırasında aracının kontrolünü kaybedip önce orta refüje girip burada 30 metre ilerledikten sonra ters istikamete geçiş yapıp 33 metre de burada ilerleyip bariyerleri aşarak 64 metre sonra duruşa geçmesiyle meydana gelen trafik kazasının oluşumunda 2918 sayılı Karayolları Trafik Kanunu'nun 52/1b (sürücüler, araçlarının hızlarını, kullandıkları aracın yük ve teknik özelliğine, görüş, yol, hava ve trafik durumunun gerektirdiği şartlara uydurmak zorundadır) kanun maddesi ile yönetmeliğin 101/b maddesine riayetsizliği nedeniyle tam ve asli kusurlu olduğu..."
+yönünde görüş ve kanaat bildirdiği görülmüştür. Tüm dosya kapsamı, mahkememizce alınan bilirkişi raporu ile davaya konu trafik kazasına dair soruşturma dosyasında yer alan maddi vakıaya dair tespitler kapsamında dosyaya mübrez teknik bulgular, olayın örgüsü ile birlikte bir bütün halinde değerlendirildiğinde davalıya ZMSS poliçesi ile sigortalı .... plakalı araç sürücüsünün kazanın oluşumunda %100 kusurlu olduğunun kabulünün gerektiği sonuç ve kanaatine varılmıştır. Davacının desteğinin mütefarik kusur durumu bakımından ise; davaya konu trafik kazası sırasında yolcu olarak seyahat eden davacıların desteğinin, kaza tespit tutanağı ile dosya mübrez kayıtlardan emniyet kemeri takmadığına dair bir delilin olmadığı görüldüğünden somut olayda müterafik kusur izafesine yer olmadığına karar verilmiştir.
+Tazminat hesabı yönünden aktüer hesap uzmanı bilirkişi tarafından 13/08/2024 tarihli kök bilirkişi raporunda özetle; "...kaza tarihi olan 20/08/2023 itibariyle ZMSS poliçesi sigorta teminat limitinin 1.200.000,00-TL olup bu tutarın garamaten paylaşımı yapılarak (dava dışı anne ve babanın payları dikkate alınarak) yapılan hesaplama sonucunda, davacı eş ...'ın destekten yoksun kalma tazminat tutarının tazminat tutarının 652.678,18-TL olduğu, ... davacı yanın sigorta şirketine başvurusunun geçerli olduğunun kabulü halinde sigorta şirketinin temerrüde düştüğü 28/09/2023'den itibaren avans faizi yürütülerek tazminat talebinde bulunabileceği..." yönünde, aynı bilirkişi tarafından 05/02/2025 tarihli ek bilirkişi raporunda ise özetle; "...taraf itirazlarının değerlendirildiği, ayrıca desteğin muhtemel 1 çocuğu olabileceği varsayımıyla (nihai takdiri sayın Mahkemeye bırakılarak) destek paylarının yeniden dağıtıldığı, ek rapor 2025 yılında hazırlandığından, 2025 yılı güncel asgari ücret verilerinin kullanıldığı, kaza tarihi olan 20/08/2023 itibariyle ZMSS poliçesi sigorta teminat limiti 1.200.000,00-TL olup bu tutarın garamaten paylaşımı yapılarak (dava dışı anne ve babanın payları dikkate alınarak) yapılan hesaplama sonucunda davacı eş....'ın destekten yoksun kalma tazminat tutarının tazminat tutarının 563.764,84-TL olduğu..." yönünde kanaat bildirilmiştir. Mezkur bilirkişi ek raporunda poliçe teminat limitinin Karayolları Motorlu Araçlar Zorunlu Mali Sorumluluk Sigortasında Tarife Uygulama Esasları Hakkında Yönetmelik'in 28/A madde hükmü gereğince kaza tarihinde 2.400.000,00-TL olmasına rağmen 1.200.000,00-TL olarak tespit edilmiş olması dışında yapılan tazminat hesaplamasının ve uygulanan yöntemin, Yargıtay içtihatlarında öngörülen ilkelere ve dosya kapsamına uygun, gerekçeli ve denetime elverişli olduğu görüldüğünden ve poliçe teminat limitine dair yanlışlığın dosyaya mübrez verilere göre mahkememizce resen değerlendirilebilecek mahiyette olduğu görüldüğünden bilirkişi ek raporunun bu kısım dışında hükme esas alınması uygun bulunmuştur.
+Tüm dosya kapsamı, kayıt ve belgeler ile alınan bilirkişi raporları birlikte değerlendirildiğinde; 20/08/2023 tarihinde davalı ...A.Ş.'ye sigortalı olan .... plakalı araçta yolcu olarak seyahat eden davacının eşi olan desteğinin meydana gelen trafik kazasında vefat ettiği, davaya konu trafik kazasının meydana gelmesinde davalı.... A.Ş.'ye ZMSS poliçesi ile sigortalı .... plakalı araç sürücüsünün %100 oranında kusurlu olduğu, yukarıda belirtildiği üzere 20/08/2023 kaza tarihi itibariyle ZMSS poliçe teminat limiti ölüm halinde 2.400.000,00-TL olup 05/02/2025 tarihli aktüer bilirkişi ek raporu ile de hesap edildiği üzere davacının destekten yoksun kalma zararı 1.103.693,98-TL olduğu ve dava dışı diğer hak sahipleri ile birlikte toplam 2.349.264,58-TL olan zarar miktarına göre belirtilen poliçe teminat limiti nazara alındığında garame hesabı yapılmasına yer olmadığı anlaşılmıştır. Bu bağlamda davacının değer artırım dilekçesi de nazara alınarak davanın 1.103.693,98-TL üzerinden kabulü gerekmiştir. Temerrüt durumu bakımından ise KTK'nın 99. maddesi uyarınca davalı sigorta şirketine başvuru tarihine göre 28/09/2023 temerrüt tarihinin esas alınması gerekmiş ve mahkememizce hükmolunan maddi tazminat miktarına, kazaya karışan aracın otobüs olması hasebiyle kullanım amacı gözetilerek, bu tarihten itibaren avans faizi işletilmesine karar verilmiş ve son tahlilde davanın kabulüne dair aşağıdaki şekilde hüküm kurulmuştur.
+HÜKÜM: Gerekçesi yukarıda açıklandığı üzere;
+1-DAVANIN KABULÜ İLE; 1.103.693,98-TL destekten yoksun kalma tazminatının 28/09/2023 temerrüt tarihinden itibaren işletilecek avans faizi ile birlikte davalıdan tahsili ile davacıya ödenmesine,
+2-Alınması gereken 75.393,33-TL harçtan peşin alınan 683,10-TL ve 3.086,57-TL tamamlama harcının mahsubu ile bakiye 71.623,66-TL harcın davalıdan alınarak hazineye gelir kaydına,
+3-6325 sayılı yasanın 18/A maddesi ve Arabuluculuk Asgari Ücret Tarifesi gereğince belirlenen 3.120,00-TL arabuluculuk ücretinin davalıdan alınarak hazineye gelir kaydına,
+4-Davacı kendisini vekil ile temsil ettirdiğinden karar tarihindeki AAÜT'ne göre hesaplanan 166.517,16-TL ücreti vekaletin davalıdan alınarak davacıya verilmesine,
+5-Davacı tarafça yatırılan 269,85-TL başvuru harcı, 686,10-TL peşin harç, 3.086,57-TL tamamlama harcı, 95,00-TL tebligat, 18,75-TL müzekkere gideri ve 7.500,00-TL bilirkişi ücreti olmak üzere toplam 11.656,27-TL yargılama giderinin davalıdan alınarak davacıya verilmesine,
+6-Davalı tarafından yapılan 50,00-TL yargılama giderinin üzerinde bırakılmasına,
+7-Sarfedilmeyen gider avansının karar kesinleştiğinde taraflara iadesine,
+Dair taraf vekillerinin yüzüne karşı, gerekçeli kararın tebliğ tarihinden itibaren yasal 2 haftalık sürede mahkememize müracaat ile... Bölge Adliye Mahkemesi nezdinde istinaf başvuru yolu açık olmak üzere verilen karar açıkca okunup usulen anlatıldı.
+29/04/2025
+Katip ....
+¸e-imzalıdır.
+Hakim ....
+¸e-imzalıdır.

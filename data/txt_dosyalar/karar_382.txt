@@ -1,0 +1,54 @@
+SIRA NO: 382 (ÇEKİRDEK)
+DOKÜMAN ID: 1142024900
+DERECE: İlk Derece Mahkemesi
+DAİRE / MAHKEME: Ankara 11. Asliye Ticaret Mahkemesi
+ESAS NO: 2023/133
+KARAR NO: 2025/220
+KARAR TARİHİ: 08.04.2025 (Yıl: 2025)
+ARAMA KELİMESİ: sürekli iş göremezlik yıllık ücret bilinen gelir
+SAYFA NO: 8
+İNDİRME ZAMANI: 2026-10-25 01:09:53
+HESAP DOĞRULAMA ADAYI: False
+İÇERİK HASH (MD5): c6225a9c386bf49599c90a10d0af3f95
+================================================================================
+
+T.C. ANKARA 11. ASLİYE TİCARET MAHKEMESİ Esas-Karar No: 2023/133 Esas - 2025/220
+TÜRK MİLLETİ ADINA YARGILAMA YAPMAYA VE HÜKÜM VERMEYE YETKİLİ
+T.C.
+ANKARA
+11. ASLİYE TİCARET MAHKEMESİ
+KARAR
+ESAS NO : 2023/133
+KARAR NO : 2025/220
+HAKİM :.....
+KATİP :.....
+DAVACI : ...
+VEKİLİ : Av. .....
+DAVALI : .....
+VEKİLİ : Av. .....
+DAVA : Tazminat (Trafik Sigorta Sözleşmesi Kaynaklı Rücuen)
+DAVA TARİHİ : 27/02/2023
+KARAR TARİHİ : 08/04/2025
+GEREKÇELİ KARARIN
+YAZILDIĞI TARİH : 09/04/2025
+Mahkememizde görülmekte olan Tazminat (Trafik Sigorta Sözleşmesi Kaynaklı Rücuen) davasının yapılan açık yargılaması sonunda,
+GEREĞİ DÜŞÜNÜLDÜ:
+DAVACININ TALEBİ: Davacı vekili dava dilekçesinde özetle; Davalı sigorta firmasının ... poliçe nolu ZMMS üzerinden sigortalandığı ... plakalı aracın 18/01/2022 tarihinde yaya olarak bulunan davacı ...'ın yaralanmasına sebebiyet vermesi nedeniyle davacının geçici sürekli iş göremezliğe uğradığını ve davacının geçici olarak bakıcı ihtiyacı doğduğunu, kazanın oluşumunda davalının sigortaladığı ... plakalı aracın sürücüsünün tam kusurlu olduğunu, davacının ise yaya konumunda olup, kusurunun bulunmadığını, kaza nedeniyle davalı sigortaya ..... üzerinden başvuru yapılmış olup, başvurunun 06/01/2022 tarihinde teslim edildiğini, sigortaya başvuru tarihinden 8 iş günü sonrası olan 19/01/2023 tarihi itibariyle davalı sigortanın temerrüde düştüğünü ve faiz sorumluluğu başladığını, davalı tarafından maddi tazminatlar ödenmediğinden iş bu davanın açılma zorunluğunun doğduğunu, 50,00TL geçici iş göremezlik tazminatı, 50,00TL sürekli iş göremezlik tazminatı, 50,00TL geçici bakıcı gideri tazminatı olmak üzere toplam 150,00TL'nin poliçe limiti dahilinde ve başvuru tarihinden 8 iş günü sonraki tarih olan 19/01/2023 tarihinden itibaren işleyecek yasal faiziyle birlikte davalıdan alınarak davacıya verilmesini talep etmiştir.
+DAVALILARIN CEVABI: Davalı vekili cevap dilekçesinde özetle; Kazanın çift taraflı olup öncelikle kusur oranlarının tespit edilmesi gerektiğini, kusur oranının tespitinin ardından davacının maluliyet oranlarının belirlenmesinin gerektiğini, kazanın 18/01/2022 tarihinde meydana geldiğini, alt ekstremiteden kaynaklı maluliyetin tespiti için yönetmelik uyarınca iyileşme süresinin geçmesinin ardından bir yıllık stabilizasyon süresinin geçmesinin beklenmesi gerektiğini, 120 gün iyileşme süresi tespit edildiğine göre raporun alınabileceği en erken tarihin 18/05/2023 tarihi olmasına karşın raporun henüz iyileşme süresi tamamlanmadan 21/12/2022 tarihinde alındığını, sunulan raporunu kabulünün mümkün olmadığını, ... rapor alınması gerektiğini, geçici iş göremezlik ve bakıcı giderlerinin sağlık gideri teminatında olup kendi sorumluluklarının bulunmadığını beyan etmekle davanın reddini talep etmiştir.
+DELİLLER VE DEĞERLENDİRME:
+Dava, yaralama ile sonuçlanan trafik kazasından kaynaklı geçici ve sürekli iş göremezlik tazminatı ile geçici bakıcı gideri istemlerine ilişkindir.
+Mahkememizce taraf teşkili sağlanmış, tarafların sunmuş oldukları deliller toplanmıştır. İlgili sigorta poliçesi dosyaya kazandırılmış, davacının davaya konu trafik kazası nedeniyle geçici ve sürekli iş gücü kaybına uğrayıp uğramadığı bakımından rapor alınmıştır. ..... tarafından düzenlenmiş raporun sağlık kurulu raporu şeklinde düzenlenmiş olması ve hüküm kurmaya elverişli bulunmaması nedeniyle ..... rapor alınmıştır. ... tarafından düzenlenmiş 29/05/2024 tarihli raporda özetle; davacının 18/01/2022 tarihinde geçirmiş olduğu davaya konu trafik kazası nedeniyle kaza tarihinde yürürlükteki erişkinler için engellilik değerlendirmesi hakkındaki yönetmelik hükümlerine göre tüm vücut engellilik oranının %2 olduğu, iyileşme süresinin ise 3 aya kadar uzayabileceği, sürekli bakıcı ihtiyacının bulunmadığı ancak iyileşme süresi içerisinde bir ay bir başkasının yardımına gereksinim duyabileceği mütala edilmiştir. Anılan rapor hüküm kurmaya ve denetime elverişli kabul edilerek benimsenmiştir.
+Davaya konu trafik kazasının oluşumunda davalıya sigortalı araç sürücüsü ile davacının kusur durumlarının tespiti bakımından Adli Trafik Uzmanı bilirkişiden rapor alınmıştır. 14/10/2023 tarihli kusur raporunda davacı yayanın yol çalışmasına bağlı olarak yolun tek şeride düşürülmesine göre yolun karşıdan geçici sırasında yaklaşan aracın uzaklık ve hızını dikkate alarak kendi can güvenliği açısından yeterince kontrol etmeden yolun karşısına geçmesi sonucu oluşan kazada 2918 sayılı ATK'nın 68/1--3 maddesi gereği tali olarak ve %30 oranında kusurlu olduğu, davalıya sigortalı araç sürücüsünün ise yol çalışmasına bağlı olarak yolun tek şeritli olması ve azami hız sınırının saatte 30 km'ye düşürülmüş olması karşısında dikkatli ve tedbirli olarak seyrine devam etmesi gerekirken trafik işaret levhasına rağmen gündüz vakti görüş mesafesinin açık olduğu yolda yayaya çarpması sonucu oluşan kazada %70 oranında kusurlu olduğu mütala edilmiştir. Mahkememizce kusur raporu dosya kapsamına uygun ayrıca hüküm kurmaya elverişli kabul edilerek benimsenmiştir. Sonrasında davacının maddi tazminat istemlerinin hesaplanması bakımından nitelikli hesaplamalar bilirkişisinden rapor alınmıştır. 10/10/2024 tarihli bilirkişi raporunda dosyada mevcut ... raporu ve kusur raporu uyarınca davacının geliri ... kaydı uyarınca asgari ücretin 1,6771 katı kabul edilmek suretiyle hesaplama yapılmıştır. Yargıtayın belirlemiş olduğu kriterler çerçevesinde TRH 2010 yaşam tablosu kullanılarak %10 artırım ve iskonto yöntemi uygulanmıştır. Sonrasında 24/12/2024 tarihli duruşmada 2025 yılına ilişkin asgari ücretin belirli olması üzerine ve Yargıtay kararları uyarınca bilinen son asgari ücretin uygulanması kamu düzenine ilişkin olduğundan nitelikli hesaplama bilirkişisinden ek rapor alınmıştır. 31/12/2024 tarihli ek rapor ile kök rapordaki veriler kullanılmak suretiyle davacının sürekli iş göremezlik zararı 296.818,02TL, geçici iş göremezlik zararı 6.599,00TL, bir ay süre ile bakıcı gideri ihtiyacından kaynaklanan zararın ise 3.502,80TL olarak hesaplanmıştır. Mahkememizce bilirkişi raporu hüküm kurmaya ve denetime elverişli kabul edilerek benimsenmiştir.
+Davacı vekili 10/01/2025 tarihli talep artırım dilekçesi ile maddi tazminat istemlerini, bilirkişi raporu doğrultusunda belirli hale getirmiş olduğundan anılan dilekçe gözetilerek davanın kabulüne karar vermek gerekmiş ve aşağıdaki hüküm kurulmuştur.
+HÜKÜM: Gerekçesi yukarıda açıklandığı üzere;
+1-Davanın KABULÜNE, 296.818,02TL sürekli iş göremezlik tazminatı, 6.599,00TL geçici iş göremezlik tazminatı, 3.502,80TL geçici bakıcı gideri olmak üzere toplam 306.919,82TL maddi tazminatın temerrüt tarihi olan 19/01/2023 tarihinden işleyecek yasal faizi ile birlikte davalıdan alınarak davacıya verilmesine, davalının sorumluluğunun poliçe limiti ile sınırlı tutulmasına,
+2-Alınması gerekli 20.965,69TL karar ve ilam harcından peşin ve ıslah ile alınan toplam 1.048,28TL harcın mahsubu ile kalan 19.917,41TL karar ve ilam harcının davalıdan alınarak Hazineye gelir yazılmasına,
+3-Davacı tarafından yapılan 179,90TL başvuru harcı, 179,90TL peşin harç, 668,54TL ıslah harcı, 199,84TL ıslah harcı, 8.500,00TL bilirkişi ücreti, 1.940,25TL tebligat, müzekkere, 1.500,00TL adli tıp ücreti ile ..... sunulan rapor masrafı 1.380,00TL gideri olmak üzere toplam 14.548,43TL yargılama giderinin davalıdan alınarak davacıya verilmesine,
+4-AAÜT uyarınca belirlenen 49.107,17TL vekalet ücretinin davalıdan alınarak kendisini vekille temsil ettiren davacıya verilmesine,
+5-Dava öncesi zorunlu ara buluculuk gideri olan 3.120,00TL'nin davalıdan alınarak hazineye gelir yazılmasına,
+6-HMK 333. maddesi uyarınca artan gider avansının karar kesinleştiğinde yatırana iadesine,
+Dair, davacı vekilinin yüzüne karşı, davalı tarafın yokluğunda HMK'nun 341 ve devamı maddeleri gereğince kararın tebliğinden itibaren iki haftalık süre içinde Mahkememize ..... Bölge Adliye Mahkemesi ilgili Hukuk Dairesine gönderilmek üzere verilecek dilekçe ile istinaf yolu açık olmak üzere verilen karar açıkça okunup usulen anlatıldı.08/04/2025
+Katip .....
+e-imza
+Hakim .....
+e-imza

@@ -1,37 +1,45 @@
-SIRA NO: 264
-DOKÜMAN ID: 393733500
-DAİRE / MAHKEME: İstanbul Anadolu 2. Asliye Ticaret Mahkemesi
-ESAS NO: 2016/50
-KARAR NO: 2018/54
-KARAR TARİHİ: 18.01.2018
-İÇERİK HASH (MD5): d31bcd1424d663929cf1a225d90d0d30
-===========================================================================
+SIRA NO: 264 (ÇEKİRDEK)
+DOKÜMAN ID: 541061100
+DERECE: İlk Derece Mahkemesi
+DAİRE / MAHKEME: İstanbul 10. Asliye Ticaret Mahkemesi
+ESAS NO: 2014/1457
+KARAR NO: 2019/675
+KARAR TARİHİ: 17.09.2019 (Yıl: 2019)
+ARAMA KELİMESİ: trafik kazası aktüer bilirkişi raporu net tutar
+SAYFA NO: 6
+İNDİRME ZAMANI: 2026-10-25 00:31:22
+HESAP DOĞRULAMA ADAYI: False
+İÇERİK HASH (MD5): 01f1a41e605b2e15176aac240eed64c9
+================================================================================
 
 T.C.
-İstanbul Anadolu
-2. ASLİYE TİCARET MAHKEMESİ
-ESAS NO : 2016/50 Esas
-KARAR NO : 2018/54
+İSTANBUL
+10. ASLİYE TİCARET MAHKEMESİ
+ESAS NO: 2014/1457 Esas
+KARAR NO: 2019/675
 DAVA : Tazminat (Ölüm Ve Cismani Zarar Sebebiyle Açılan Tazminat)
-DAVA TARİHİ : 15/01/2016
-KARAR TARİHİ : 18/01/2018
+DAVA TARİHİ: 01/12/2014
+KARAR TARİHİ: 17/09/2019
 Mahkememizde görülmekte olan Tazminat (Ölüm Ve Cismani Zarar Sebebiyle Açılan Tazminat) davasının yapılan açık yargılaması sonunda,
-GEREĞİ DÜŞÜNÜLDÜ:
-Davacı vekili dava dilekçesi ile özetle; 11.12.2014 tarihinde meydana gelen kazada davacının ağır yaralandığından bahisle maddi ve manevi tazminata hükmedilmesini talep ve dava etmiştir.
-Davacı vekilince 08.06.2016 tarihli dilekçe ile maddi tazminat talebi yönünden feragat ettiklerini, manevi tazminat talepleri doğrultusunda taleplerinin kabulünü talep ettikleri görüldü.
-Davalı.....n 22.11.2016 tarihli celsede; "aracın şoförü ve mal sahibi olmayan adam bize dava açmış, benim kusurumun derecesi bellidir, davayı kabul etmiyorum" şeklinde beyanda bulunmuştur.
-Davalı ....Par 22.11.2016 tarihli celsede; "benim aracım karayollarına ait bir yerde değildi, yolu herhangi bir şekilde istila etmedim, bana izaf edilen bu kusuru kabul etmiyorum, bu kazada ben ağır şekilde yaralandım ve yoğun bakımda kaldım, ayrıca talep edilen tazminatı ödeyecek durumum yoktur" şeklinde beyanda bulunmuştur.
-Mahkememizce Küçükçekmece 4. Asliye Ceza Mahkemesinin ......Esas sayılı dosya sureti celp ve tetkik edilmiştir.
-Mahkememizce kusur durumuna ilişkin rapor alınmış; raporda kazanın oluşumunda davacının da içinde yolcu olarak bulunduğu .... plakalı araç sürücüsü dava dışı ....' ın %100 kusurlu olduğu; davalı sürücü .... Par' ın,..... plakalı aracın yol kenarında park halinde bulunması itibariyle kusursuz olduğu belirlenmiştir.
-Dava, trafik kazası nedeniyle maddi ve manevi tazminat istemine ilişkindir.
-Yargılamanın başında davacı tarafça maddi tazminat talebi yönünden feragat beyanlı dilekçe sunulmuş olmakla maddi tazminat davası yönünden davanın reddine karar verilmiştir.
-Manevi tazminat davası yönünden ise; kazanın çift taraflı trafik kazası olup, davacının ..... plakalı araç içinde yolcu olarak bulunduğu; kazaya karışan ....plakalı araç sürücüsünün kazanın oluşumunda %100 kusurlu olduğunun belirlendiği, böylelikle davalılar ...... ve .....' un manevi tazminat talebi yönünden sorumluluklarının bulunmadığı görülmekle manevi tazminat davasının reddine dair aşağıdaki şekilde karar vermek gerekmiştir.
-H Ü K Ü M: Gerekçesi yukarıda açıklandığı üzere;
-1.Maddi tazminat talebine yönelik davanın feragat nedeni ile REDDİNE,
-Manevi tazminat talebine yönelik davanın sübut bulmadığından REDDİNE,
-2.Davacı tarafından dava açılırken peşin olarak yatırılan 175,90 TL harçtan alınması gerekli 35,90 TL harcın mahsubu ile bakiye 140,00 TL' nin davacıya iadesine,
-3.Davacı tarafından yapılan yargılama giderlerinin üzerinde bırakılmasına,
-4.Davalılardan ..... Sigorta ve .... Sigorta vekilinin yargılama gideri ve vekalet ücreti talebi bulunmadığından bu hususta karar verilmesine yer olmadığına,
-5.Davalılar tarafından yapılan yargılama gideri bulunmadığından bu hususta karar verilmesine yer olmadığna,
-6.Kullanılmayan gider avansının kararın kesinleşmesi ve talep halinde ilgili tarafa iadesine,
-Dair, Davacı Vekilinin ve Davalı ... SİGORTA Vekilinin yüzlerine karşı tebliğden itibaren 2 hafta süre içinde İstinaf yolu açık olmak üzere verilen karar açıkça okunup, usulen anlatıldı.16.02.2018
+DAVA: Davacı vekili mahkememize vermiş olduğu dava dilekçesi ile, meydana gelen trafik kazasında ... sevk ve idaresindeki davalı ... şirketi nezdinde sigortalı bulunan ... plakalı araç ile kendi otomobili ile seyir halinde bulunan davacının aracının çarpıştığını, kaza neticesinde kazanın oluşumunda herhangi bir kusuru olmayan davacının yaralandığını, söz konusu kazanın davalı ... şirketi nezdinde sigortalı bulunan araç sürücüsünün tam ve asli kusurlu olduğunu, bu sebeple davalı ... şirketinin de sorumluluğu bulunduğunu, davacının kaza neticesinde yaralı olarak hastaneye kaldırıldığını ve tedavi altına alındığını, sonuç olarak davacının tüm vücut fonksiyon kaybı ve buna bağlı olarak meslekte kazanma gücü kaybı ile efor kaybı ve gerek tedavi sürecinin gerekse oluşan tedavi ve bakım giderlerinin meydana geldiğini, kazadan sonra davalıya başvuru yapıldığını, ancak davalı tarafından davacıya herhangi bir ödeme yapılmadığını beyanla, şimdilik davacı için 1.000TL maddi tazminatın davalıdan kaza tarihinden itibaren işletilecek avans faizi ile birlikte tahsiline, geçici ödeme ve avans talebinin kabulüne, harç ve yargılama giderlerini karşılayacak imkanı bulunmayan davacının adli yardım talebinin kabulüne karar verilmesini talep ve dava etmiştir.
+CEVAP: Davalı vekili mahkememize vermiş olduğu cevap dilekçesi ile, somut olayda sigortalı aracın sürücüsünün kusurunun kanıtlanması gerektiğini, bunun için kusur incelemesinin yapılması gerektiğini, dava konusu olayın ticari iş niteliğinde olmadığından davacı vekilinin avans faizine yönelik taleplerinin reddi gerektiğini, ayrıca dava açılmadan önce davalıya herhangi bir başvuru yapılmadığını beyanla, kaza tarihi tespiti sonrası olay poliçe vadesinde değilse, davalı aleyhine açılan haksız ve mesnetsiz davanın reddini talep etmiştir.
+DELİLLER VE GEREKÇE:
+Taraflara usulune uygun davetiye tebliğ edilmiş olup, trafik kazası tespit tutanağı, sağlık kurulu raporu, sigorta poliçesi, hastane evrakları, SGK kayıtları, geçici iş göremezlik ödeneği belgesi, Bakırköy ...Asliye Ceza Mahkemesinin ...esas sayılı dosyası sureti celp olunmuştur.
+Tarafların iddia ve savunmaları, dosyada toplanan deliller nazara alınarak, dosya rapor tanzimi için Adli Tıp Kurumu'na gönderilmiş olup, ...İhtisas Kurulunun 08/06/2016 tarihli adli tıp raporunda; davacının 18/08/2014 tarihinde geçirmiş olduğu trafik kazasına bağlı arızasının, maluliyetine neden olacak düzeyde araz bırakmadığı cihetle sürekli maluliyet tayinine mahal olmadığını, geçici iş göremezlik süresinin olay tarihinden itibaren 6 aya kadar uzayabileceğini belirtmiştir.
+Adli tıp raporu taraflara tebliğ edilmiş olup, dava konusu olayda kusur incelemesi için dosya Adli Tıp Kurumu Trafik İhtisas Dairesine gönderilmiş olup, tanzim olunan 06/02/2018 tarihli raporda; davacının 18/08/2014 tarihli ifadesinde kaza yapan araçların gerekli tedbiri almadıkları için kazaya karışan kamyona arkadan çarpmak zorunda kaldığını iddia ettiği görülmekle, sürücü ...'un ifadesinde is karayolları görevlilerin geldiğini ve araın etrafına dubalar koyduklarını beyan ettiği görülmekle, meydana gelen maddi hasarlı trafik kazası akabinde olay mahalinde gerekli önlemlerin alınıp alınmadığının anlaşılamadığını, eğer olay mahalinde gerekli önlemlerin alınması durumunda; davacının %100 oranında kusuru, sürücü ...'in kusursuz, sürücü ...'un kusursuz olduğunu, gerekli önlemlerin alınmamış olması durumunda ise, davacının %70 oranında kusurlu, sürücülerin ise %30 oranında kusurlu olduğunu belirtmiştir. Adli tıp raporları taraflara tebliğ edilmiş olup, raporlara karşı beyan ve itirazlar dosyaya ibraz edilmiştir.
+Dosya aktüer hesabı için bilirkişi Aktüer ...'ya tevdi edilmekle, tanzim olunan 19/04/2018 tarihli bilirkişi raporunda; davacının iş göremezlik tazminat tutarının; Trafik İhtisas Dairesi tarafından belirlenen 1.duruma göre davacının %100 kusurlu olması durumunda tazminat tutarının oluşmadığını ve bu durumda davalının herhangi bir sorumluluğunun bulunmadığını, 2.durumda ise davacının %70 kusurlu olması durumunda 1.631,03TL geçici iş göremezlik tazminat tutarından SGK tarafından davacıya ödenen 869,40TL ödeneğin tenzili sonrası 761,63TL olduğunu, gerekli önlemleri alması gerekenler yönünden kusur dağılımı netleştirilemediğinden davalının sorumlu olduğu oran ve tutarın belirlenemediğini belirtmiştir. Bilirkişi raporuna karşı sunulan beyan ve itirazlar doğrultusunda tanzim olunan 11/12/2018 tarihli ek raporda ise; bakıcı giderlerinin ödenmesi kanaatine varması ve bakıcı ihtiyacı süresinin iyileşme süresi olarak kabulü halinde, davacının talep edebileceği bakıcı giderleri tazminat tutarının, Adli Tıp Trafik İhtisas Dairesi tarafından belirlenen 1.durumda davacının %100 kusurlu olması durumunda tazminat alacağının olmayacağı, 2.durumda davacının %70 kusurlu olması durumunda ise 2.072,79TL olabileceğini, bakıcı giderleri tazminat tutarının ödenip ödenmemesi husunun mahkemenin takdirinde olduğunu belirtmiştir.
+Dava,, meydana gelen trafik kazası sonucunda malul kalan davacının, kazaya karışan aracın sigortacısına karşı açtığı tazminat davası olduğu tespit edilmiştir.
+Tarafların iddia ve savunmaları, dosyada toplanan deliller ve tanzim olunan adli tıp ve bilirkişi raporu birlikte değerlendirildiğinde; 18/08/2014 günü sürücü ... sevk ve idaresindeki ... plakalı çekici ile seyir halinde iken olay mahaline geldiğinde önündeki trafiğin yavaşlaması üzerine yavaşladığı esnada aracının arka kısımlarına, gerisinden gelmekte olan sürcü ... sevk ve idaresindeki ... plakalı kamyonun çarpması sonucu maddi hasarlı trafik kazasının meydana geldiği, meydana gelen kazanın akabinde olay yerine karayolları görevlilerinin geldiği ve bu sırada aynı istikamete doğru seyir halinde olup, olay mahaline geldiğinde sağa yönelek plakası belirsiz bir otobüsün arkasında seyir halinde olan davacı sürücü ... sevk ve idaresindeki ... plakalı otomobilin ... plakalı kamyonun arka kısımlarına çarpması sonucu yaralanmalı trafik kazası meydana geldiği anlaşılmıştır.
+ATK Trafik İhtisas dairesinin 06/0262018 tarihli raporunda davacı sürücü ...'ün plakası belirsiz olan otobüsü yakın mesafeden takip ettiği sırada (olay mahallinde meydana 15-20 dakika önce meydana gelmiş olan trafik kazası nedeni ile) sağa yönelmesi sonucu duramayarak çarpması nedeniyle olay yerinde güvenlik tedbirlerinin alınmış olması halinde tam kusurlu, güvenlik tedbirlerinin alınmamış olması halinde ise %70 oranında kusurlu olduğu yönünde kanaat bildirilmiştir. Olayın daha önce meydana gelen kazadan yaklaşık olarak 15-20 dakika sonra meydana gelmiş olması, bu esnada trafik ekipleri ve sağlık görevlilerin gelmiş ve yaralıların kaldırılmış olması nedeniyle güvenlik tedbirlerinin alınmamış olmasının hayatın olağan akışına uygun olmaması, davacının güvenli sürüş mesafesi bırakmayarak yakından takip etmiş olduğu otobüsün kazayı fark ederek sağa manevra yapabilmesine rağmen manevra kabiliyeti çok daha yüksek olan otomobil sürücüsü davacının manevra yapamayarak önünde durmakta olan araca çarpması nedeniyle kazanın meydana gelmesinde tam kusurlu olduğu anlaşıldığından davanın reddine dair aşağıdaki şekilde karar verilmiştir.
+HÜKÜM: Yukarıda açıklanan nedenler ve dosya içeriğine göre;
+1-Davanın REDDİNE,
+2-Harçlar tarifesi gereğince alınması gereken 44,40TL karar harcının davacıdan alınarak Hazine'ye irat kaydına,
+3-Karar tarihinde yürürlükte bulunan A.A.Ü.T gereğince; 1.000,00TL ücreti vekaletin davacıdan alınarak kendini vekil ile temsil ettiren davalıya verilmesine,
+4-Davacı tarafından yapılan giderlerin üzerinde bırakılmasına,
+5-Davacı tarafından yatırılan ve kullanılmayan gider avansının talep halinde ve karar kesinleştiğinde davacıya İADESİNE,
+Dair davacı vekilinin yüzüne karşı, davalı tarafın yokluğunda, kesin olmak üzere verilen karar, açıkça okunup usulen anlatıldı.
+Katip ...
+e-imzalı
+Hakim ...
+e-imzalı
+İşbu evrak 5070 sayılı Elektronik İmza Yasası kapsamında imzalanmıştır

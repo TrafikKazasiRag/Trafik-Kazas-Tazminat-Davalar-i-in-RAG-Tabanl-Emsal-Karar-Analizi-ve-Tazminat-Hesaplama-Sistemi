@@ -1,0 +1,53 @@
+SIRA NO: 94 (DIŞLANAN - MALULIYET_ISGOREMEZLIK_YOK)
+DOKÜMAN ID: 403301600
+DERECE: İlk Derece Mahkemesi
+DAİRE / MAHKEME: İstanbul 13. Asliye Ticaret Mahkemesi
+ESAS NO: 2016/1228
+KARAR NO: 2018/275
+KARAR TARİHİ: 06.04.2018 (Yıl: 2018)
+ARAMA KELİMESİ: trafik kazası aktüer bilirkişi raporu net tutar
+SAYFA NO: 10
+İNDİRME ZAMANI: 2026-10-25 00:39:08
+HESAP DOĞRULAMA ADAYI: False
+İÇERİK HASH (MD5): efd4d01c221aed4572a6be9f48914389
+================================================================================
+
+T.C.
+İSTANBUL
+13. ASLİYE TİCARET MAHKEMESİ
+ESAS NO : 2016/1228 Esas
+KARAR NO : 2018/275
+DAVA : Tazminat (Ölüm Ve Cismani Zarar Sebebiyle Açılan Tazminat)
+DAVA TARİHİ : 14/12/2016
+KARAR TARİHİ : 06/04/2018
+Mahkememizde görülmekte olan Tazminat (Ölüm Ve Cismani Zarar Sebebiyle Açılan Tazminat) davasının yapılan açık yargılaması sonunda,
+DAVA:
+Davacı vekili dava dilekçesinde özetle; Davacı vekili dava dilekçesi ile İstanbul ... Asliye Hukuk Mahkemesinin ... Esas sayılı tazminat davasının yargılaması sırasında alınan bilirkişi raporuna göre; 65.000TL daha tazminat alacağının ortaya çıktığını belirterek açılan bu ek dava ile 65.000TL tazminatın davalıdan alınarak davacılara ödenmesini, eldeki bu ek davanın ise İstanbul ...Asliye Hukuk Mahkemesinin ... Esas sayılı dava dosyası ile birleştirilmesini talep ve dava etmiştir.
+CEVAP:
+Davalı vekili cevap dilekçesinde özetle; Müvekkili şirketin ticari merkezi itibariyle söz konusu dava yetkisiz mahkemede açıldığını, bu nedenle davanın öncelikle İstanbul Anadolu Mahkemelerine gönderilmesi gerektiğini, müvekkili sigorta şirketin ancak sigortalı araç sürücüsünün kusuru oranında sorumlu olduğunu, dolayısıyla müvekkilin sorumlu tutulabileceği tazminat bakımından kusur oranının önem arz ettiğini, destekten yoksun kalma tazminatına ilişkin talebin değerlendirilmesi amacıyla aktüer sıfatına sahip bir bilirkişinin görevlendirilmesini, müteveffanın müterafik kusurunun bulunup bulunmadığı hususlarının mahkemece tespiti ve yapılacak tazminat hesabında kusur oranı doğrultusunda gerekli mahsubun yapılması gerektiğini, faizin müvekkili şirkete ancak ihbar ile başlayacağını ve yasal faizin talep edilebileceğini beyan etmiştir.
+Her ne kadar davalı yetki itirazında bulunmuş isede yetki itirazının süresinde olmadığından yetkisizlik talebinin reddine karar verilmiştir.
+İstanbul ...Asliye Hukuk Mahkemesinin ... Esas sayılı davasında davalı ....'nin kazaya karışan ... plaka sayılı aracın kasko sigorta poliçesi ile sigortacısı olduğu anlaşılmıştır.
+Tüm dosya içeriği ile İstanbul...Asliye Hukuk Mahkemesinin ... Esas sayılı dosyası birlikte değerlendirildiğinde; davalının, ihbar olunan ...'in sahibi olduğu... plaka sayılı aracın kasko sigortacısı olduğu bu durumda TTK 1483/1.maddesi uyarınca davanın ek dava tarihi itibari ile ticari dava olup artık İstanbul ...Asliye Hukuk Mahkemesinin ... Esas sayılı dosyası ile birleşemeyeceği; davanın TTK 4/1-a ve 5.maddeleri uyarınca Asliye Ticaret Mahkemesinde görülmesi gerektiği göz önünde tutularak davacının dava dilekçesinin usul yönünden reddine karar vermek gerektiği sonuç ve kanaatine varılmıştır.
+GEREKÇE:
+Dava; ölümlü trafik kazası sebebiyle müteveffa ...'in eşi ... ve kızı ...'in kazaya karışan araç sigorta şirketinden destekten yoksun kalma maddi tazminatı talebinden ibarettir.
+İst. ...Asliye Hukuk Mahkemesinin 15/11/2016 tarih... E. ... K. Sayılı kararında davacının ek dava tarihi itibari ile ticari dava olup İst.... Asliye Hukuk mahkemesinin ... E. Sayılı dava dosyası ile birleşemeyeceği bu sebeple dava dilekçesinin göreve ilişkin dava şartı yokluğu nedeniyle reddine karar verilerek Mahkememize gönderilmiş olduğu görülmüştür.
+Dava TBK 53/3 maddesi ile 2918 sayılı KTK ve poliçe genel şartlarına dayalı olarak açılmıştır. İst. ... Asliye Hukuk Mahkemesinin 30/12/2016 tarih ... E. ... K. Sayılı ilamında davacıların ..., ..., davalısının... A.Ş. Ve .... , davanın Trafik kazasından kaynaklı destekten yoksun kalma zararı Mahkemece asıl ve ıslahla açılan destekten yoksun kalma tazminatının davasının kabulüne karar verildiği bu kararın 31/05/2017 tarihinde kesinleşmiş olduğu görüldü.
+Toplanan delillere göre mahkememizden talep edilen destek zararının dolayısıyla talep edebilebilecek tazminat miktarının tespiti yönünden dosya ... Asliye Hukuk Mahkemesince aktüer bilirkişiye verilip rapor alınmış, bilirkişi 14/11/2014 tarihli raporunda; 18/01/2011 tarihinde meydana gelen trafik kazası sonucu vefat eden ...'in geride kalan hak sahiplerinin, destekten yoksun kalma sebebiyle maddi zararları toplamının; Davacı eş ...'in nihai ve gerçek maddi zararı toplamının 316.424,41-TL'den, Davacı kızı ...'in nihai ve gerçek maddi zararı toplamının 123.259,27-TL'den, davalı ...Şirketi'nin ZMMS poliçesi kapsamında, (200.000,00)-TL tutarındaki teminat miktarı ile sınırlı olarak, her bir hak sahibine karşı sorumlu olduğu tutara göre, davacı hak sahiplerinin nihai ve gerçek maddi zararının; hak sahibi davacı eş ...'in nihai ve gerçek maddi zararı tutarının 143.932,75-TL'den, hak sahibi davacı kızı ...'in nihai ve gerçek maddi zararı tutarının 123.259,27-TL'den Toplam 200.000,00-TL'den, davalı ....'in Kasko Sigorta Poliçesi kapsamında, (10.000,00)-TL tutarındaki teminat miktar ile sınırlı olarak, her bir hak sahibine karşı sorumlu olduğu tutara göre, davacı hak sahiplerinin nihai ve gerçek maddi zararının; hak sahibi davacı eş ...'in nihai ve gerçek maddi zararı tutarı 7.196,64-TL'den, hak sahibi davacı kızı ...'in nihai ve gerçek maddi zararı tutarı 2.803,36-TL'den Toplam 10.000,00-TL'den ibaret bulunduğu görüş ve tespitlerine yer vermiştir.
+Davalı yanın itirazları üzerine dosya ... Asliye Hukuk Mahkemesince aktüer bilirkişiye verilip ek rapor alınmış, bilirkişi 16/02/2016 tarihli ek raporunda; 18/01/2011 tarihinde meydana gelen trafik kazası sonucu vefat eden...'in geride kalan hak sahiplerinin, destekten yoksun kalma sebebiyle maddi zararları toplamının; hak sahibi eş ...'in destekten yoksun kalma sebebiyle nihai ve gerçek maddi zararının 435.414,00-TL'den, hak sahibi kızı ...'in destekten yoksun kalma sebebiyle nihai ve gerçek maddi zararının 166.438,05-TL'den, hak sahiplerinin destekten yoksun kalma sebebiyle nihai ve gerçek maddi zararları tutarları toplamının 601.852,05-TL'den, davalı ...Şirketi'nin ZMMS poliçesi kapsamında, (200.000,00)-TL tutarındaki teminat miktar ile sınırlı olarak, her bir hak sahibine karşı sorumlu olduğu tutara göre, davacı hak sahiplerinin nihai ve gerçek maddi zararlarının; hak sahibi davacı eş ...'in nihai ve gerçek maddi zararı tutarının 144.691,37-TL'den, hak sahibi davacı kızı ...'in nihai ve gerçek maddi zararı tutarının 55.308,63-TL'den Toplam 200.000,00-TL'den, davalı ....'ın Kasko Sigorta Poliçesi kapsamında, (75.000,00)-TL tutarındaki teminat miktar ile sınırlı olarak, her bir hak sahibine karşı sorumlu olduğu tutara göre, davacı hak sahiplerinin nihai ve gerçek maddi zararlarının; hak sahibi davacı eş ...'in nihai ve gerçek maddi zararı tutarının 54.259,27-TL'den, hak sahibi davacı kızı ...'in nihai ve gerçek maddi zararı tutarının 20.740,73-TL'den Toplam 75.000,00-TL'den ibaret bulunduğu görüş ve tespitlerine yer vermiştir.
+Toplanan tüm delillere, iddia ve savunmaya, aktüer bilirkişiden alınan kök ve ek hesap raporuna göre;
+18/01/2011 olay tarihinde davacı eş ...'e ve davacı kızı ...'e, davalı ... şirketinin ZMMS Poliçesi ile sigortaladığı ... plaka sayılı aracın %100 kusurlu olarak çarpması sonucu ...'in öldüğü, davacı eş ve kızının desteğinden mahrum kaldıkları, KTK 91 madde uyarınca davalı ... şirketinin, işletenlerin aynı kanunun 85.maddesinin 1.fıkrasına göre maddi ve hukuki sorumluluklarını teminat altına aldıkları ve bu sebeple poliçe limiti ile sorumlu olduğu, davacıların denetlemeye ve hükme dayanak etmeye elverişli aktüer bilirkişi kök ve ek raporu doğrultusunda poliçe limiti içinde kalmak üzere destek zararlarının hesaplandığı görülmekle,
+Toplanan tüm delillere, iddia ve savunmaya, incelenen İstanbul ... Asliye Ticaret Mahkemesinin 30/12/2016 tarih ... Esas,... Karar sayılı dosyasına göre; davanın kabulüne, davacı eşi ... için 47.062,63-TL, davacı kızı ... için 17.937,37-TL olmak üzere toplam; 65.000,00-TL destekten yoksun kalma tazminatının, temerrüt tarihi olan 29/06/2011 tarihinden itibaren işleyecek reeskont faizi ile birlikte davalıdan tahsili ile davacılara verilmesine karar verilmiş ve aşağıdaki gibi hüküm kurulmuştur.
+Bu itibarla;
+HÜKÜM:
+1-)Davanın KABULÜNE,
+2-)Davacı eşi ... için 47.062,63-TL, davacı kızı ... için 17.937,37-TL olmak üzere toplam; 65.000,00-TL destekten yoksun kalma tazminatının, temerrüt tarihi olan 29/06/2011 tarihinden itibaren işleyecek reeskont faizi ile birlikte davlıdan tahsili ile davacılara verilmesine,
+3-)Harçlar Yasası uyarınca alınması gerekli 4.440,15-TL nispi karar harcından peşin alınan 61,27-TL harcın, 161,00-TL tamamlama harcının mahsubu ile bakiye 4.217,88-TL harcın davalıdan tahsili ile hazineye gelir kaydına,
+4-)Davacı tarafından dava açıldığı sırada yatırılan 222,27-TL peşin nispi harcın (peşin+tamamlama) davalıdan tahsiline, davacıya verilmesine,
+5-)Davacılar tarafından yapılan 29,20-TL başvuru harcı, 262,00-TL davetiye ve müzekkere masrafı olmak üzere toplam 291,20-TL yargılama giderinin davalıdan tahsili ile davacılara verilmesine,
+6-)Davacılar duruşmalarda kendilerini bir vekil ile temsil ettirdiklerinden hüküm tarihinde yürürlükte bulunan Avukatlık Asgari Ücret Tarifesi uyarınca 7.500,00-TL nispi vekalet ücretinin davalıdan tahsili ile davacılara verilmesine,
+7-)Karar kesinleştiğinde ve talep halinde davacıların gider avansından artan bakiyelerinin davacılara / vekillerine iadesine,
+Dair davacı vekilinin yüzüne karşı; tarafların gerekçeli kararın tebliğ tarihinden itibaren iki hafta içerisinde mahkememize verecekleri bir dilekçe ile veya başka bir mahkeme aracılığı ile mahkememize gönderecekleri dilekçe ile İstinaf yolu açık olmak üzere verilen karar açıkça okunup usulen anlatıldı.
+Katip ...
+e-imza
+Hakim ...
+e-imza

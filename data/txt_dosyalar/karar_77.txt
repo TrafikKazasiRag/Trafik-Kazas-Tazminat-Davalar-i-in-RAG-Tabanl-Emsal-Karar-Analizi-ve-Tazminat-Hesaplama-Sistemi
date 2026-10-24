@@ -1,63 +1,101 @@
-SIRA NO: 77
-DOKÜMAN ID: 635986900
-DAİRE / MAHKEME: Ankara Batı Asliye Ticaret Mahkemesi
-ESAS NO: 2016/727
-KARAR NO: 2018/156
-KARAR TARİHİ: 14.03.2018
-İÇERİK HASH (MD5): 9ffba805de4b6346dd2ac08dd8886e49
-===========================================================================
+SIRA NO: 77 (ÇEKİRDEK)
+DOKÜMAN ID: 673446700
+DERECE: İlk Derece Mahkemesi
+DAİRE / MAHKEME: Bakırköy 4. Asliye Ticaret Mahkemesi
+ESAS NO: 2019/177
+KARAR NO: 2021/426
+KARAR TARİHİ: 15.04.2021 (Yıl: 2021)
+ARAMA KELİMESİ: trafik kazası maddi manevi tazminat kusur (v3)
+SAYFA NO: 1
+İNDİRME ZAMANI: 2026-10-25 00:16:44
+HESAP DOĞRULAMA ADAYI: True
+İÇERİK HASH (MD5): 9ea1fca50428012f7dc2333f9469fe3c
+================================================================================
 
-T.C. Ankara Batı ASLİYE TİCARET MAHKEMESİ Esas-Karar No: 2016/727 Esas - 2018/156
-T.C.
-Ankara Batı
-ASLİYE TİCARET MAHKEMESİ
-KARAR
-TÜRK MİLLETİ ADINA
-ESAS NO : 2016/727
-KARAR NO : 2018/156
-HAKİM :
-KATİP :
-DAVACI :
-VEKİLİ :
-DAVALILAR : 1-
-VEKİLİ :
-: 2-
-3-
-VEKİLİ :
-DAVA : MADDİ VE MANEVİ TAZMİNAT
-DAVA TARİHİ : 28/10/2016
-KARAR TARİHİ : 14/03/2018
-K.YAZIM TARİHİ : 06/04/2018
-Yukarıda tarafları yazılı dava dosyasının mahkememizde yapılan açık yargılaması neticesinde;
-GEREĞİ DÜŞÜNÜLDÜ :
-TALEP :Davacı vekili mahkememize sunduğu dava dilekçesinde özetle; davalılardan ...Tic. Ltd. Şirketinin maliki, davalı ...'nın da sevk ve idaresindeki ... plakalı aracın 09.09.2016 tarihinde müvekkilinin maliki ve kullananı olduğu ... plakalı araca arkadan çapması neticesinde trafik kazasının meydana geldiğini, davalılardan ... Sigorta A.Ş.'nin kazaya sebebiyet veren ... plakalı aracın ZMSS düzenleyen sigorta şirketi olduğunu, kazanın oluşumunda kusurun davalı ...'da bulunduğunu, bu durumun Trafik Kazası Tespit Tutanağında da belirlendiğini, kaza nedeniyle müvekkilinin
-e-imzalı e-imzalı
-aracında değer kaybı olduğunu, araç mahrumiyet zararı oluştuğunu, ayrıca kazada davacının yaralanması nedeniyle manevi tazminat taleplerininde bulunduğunu, yapılacak yargılama neticesinde; fazlaya ilişkin hakları saklı tutularak, şimdilik, 1.000,00TL değer kaybı tazminatının tüm davalılardan, 1.000,00TL araç mahrumiyet zararının davalılar ... ile davalı ... Tic. Ltd. Şirketinden, 5.000,00TL manevi tazminatında davalı ... ile davalı ... .... .... .... ... .... ... . Tic. Ltd. Şirketinden tahsili ile müvekkiline verilmesini talep ve dava etmiştir.
-CEVAP :Davalı ... Sigorta A.Ş. vekili mahkememize sunduğu cevap dilekçesinde özetle; dava açılmazdan evvel müvekkiline müracaat olmadığını, KTK'un değişik 97. maddesindeki başvuru şartı yerine getirilmediğinden, davanın usulden reddedilmesi gerektiğini, araçtaki değer kaybı belirlenirken aracın rayiç değeri, daha önce kazaya karışıp karışmadığı, kaza aldığı bölge, yaşı ve kilometresi ile kusur oranları dikkate alınarak genel şartlar ekindeki hesaplama yöntemince değer kaybı hesabının yapılmasının zorunlu olduğunu, hukuki dayanaktan yoksun davanın reddine karar verilmesi gerektiğini savunmuştur.
-Davalılar ... ile ... .... .... .... ... .... ... . Tic. Ltd. Şirketi vekili cevap dilekçesinde; kazanın oluşumunda davalı ...'nın kusurunun bulunmadığını, bu nedenle de trafik kazası tespit tutanağını kabul etmediklerini, istenilen tazminat miktarlarınında fahiş olduğunu, manevi tazminatında şartlarının oluşmadığını, davanın reddine karar verilmesinin gerektiğini bildirmiştir.
-DELİLLER :Maddi Hasarlı Trafik Kazası Tespit Tutanağı, davalı sigorta şirketi tarafından düzenlenen ... poliçe nolu Zorunlu Mali Sorumluluk (Trafik) Sigorta Poliçesi (ZMSS), davalı ... Sigorta A.Ş.'ye Karayolları Trafik Kanun değişik 97. maddesi uyarınca başvuru yapıldığına dair belgeler, davacının maliki olduğu ... plakalı araca ilişkin kaza neticesinde kasko sigorta poliçesini düzenleyen ... Sigorta A.Ş. tarafından gönderilen hasar dosyası, davacıya ait aracın trafik kayıtları, kusur ve hasar konularında uzman bilirkişinin 19.06.2017 tarihli ve 08.12.2017 tarihli raporu ile tüm dosya kapsamı.
-GEREKÇE :Talep, yaralamalı ve maddi hasarlı trafik kazası nedeniyle maddi ve manevi tazminat istemine ilişkindir.
-Olay tarihinde davacı... sevk ve idaresindeki ... plakalı araç ile Ankara ili Yenimahalle sınırları içerisindeki Anadolu Bulvarında seyir halinde iken Gimat Toptancılar Sitesi önündeki alt geçit girişinde trafik yoğunluğundan dolayı durmak zorunda kaldığı, davalı/sürücü ...'nın sevk ve idaresindeki ... plakalı araç ile davacıya ait araca arkadan çarptığı, aldığı bu darbeyle savrulan ... plakalı aracın önünde bulunan ... plaka sayılı araca çarparak (zincirlemeli) trafik kazasının meydana geldiği anlaşılmıştır.
-Davacı, dayanak kaza neticesinde aracında olaşan hasar bedelini kasko sigortasını düzenleyen ... Sigorta A.Ş.'den tahsil etmiş, araçta oluşan değer kaybı zararı, araç mahrumiyet zararı ve manevi tazminat istemleriyle mahkememize müracaat etmiştir.
-Tarafların bildirdikleri deliller, maddi hasarlı trafik kazası tespit tutanağı ve davacı aracında oluşan hasar nedeniyle kasko sigortası kapsamında ödeme yapan ... Sigorta A.Ş.'nin düzenlediği hasar dosyası getirilmiş, kusur ve hasar konularında uzman makine mühendisi bilirkişiden rapor alınmıştır.
-Olay tarihinde alt geçitte trafik yoğunlaşması nedeniyle durmak zorunda kalan davacıya ait ... plakalı araca davacı ...'nın kullandığı ... plakalı aracın arkadan çarparak kazanın oluşumuna neden olduğu anlaşılmaktadır. Sürücü ... sevk ve idaresindeki ... plakalı aracı ile gündüz vakti meskun
-mahalde yola gereken dikkati vermediği, hızını yol ve trafiğin şartlarına göre ayarlamadan tehlike arz edecek tarzda dikkatsiz ve tedbirsiz bir şekilde seyretmesi neticesinde duran trafikte bekleme yapan ... plakalı araca arkadan çapması sonucu neden olduğu kazada asli ve tam kusurlu olduğu; sürücü...'ın trafiğin alt geçitte kilitlenmesi neticesinde durmak zorunda kaldığı, davalı yanın araca arkadan çarptığı, davalının oluşturduğu ihlal ve aykırılığı öngörmesine ve de kazayı önlemesine imkan bulunmadığı, kazanın oluşumunda kural ihlali ve kusurunun bulunmadığı kanaatine varılmıştır.
-Bilirkişi tarafından yapılan inceleme neticesinde davacıya ait araçta dayanak kaza nedeniyle oluşan hasar neticesinde 3.123,75TL değer kaybı zararı ile 750,00TL araç mahrumiyet zararı oluştuğu belirlenmiştir. Raporda yerleşik Yargıtay içtihatlarına uygun surette araç değer kaybı zararının hesaplandığı, aracın makul tamir süresi nazara alınarak, bu süreye ilişkin yoksun kalınan araç mahrumiyet zararının belirlendiği görülmekle (rapor) hükme esas alınmıştır. Dava dilekçesinde 1.000,00TL araç değer kaybı tazminatı istenmekte ve rapor doğrultusunda ıslah talebinde bulunulmamakla (talep doğrultusunda) bu miktar hükme bağlanmış, araç mahrumiyet zararı da raporda belirlenen 750.,00TL üzerinden kısmen kabul edilmiştir.
-Davacı, dayanak trafik kazasında yaralandığı bildirerek manevi tazminat isteminde bulunmuştur. TBK'un 56/1 maddesinde "Hakim, bir kimsenin bedensel bütünlüğünün zedelenmesi durumunda, olayın özelliklerini göz önünde tutarak, zarar görene uygun bir miktar paranın manevi tazminat olarak ödenmesine karar verebilir" denmektedir. Davacı, dayanak trafik kazası nedeniyle yaralandığı bildirmiş ise de bu iddiasına ilişkin dosyaya hiçbir bilgi ve belge sunmamıştır. Dava dilekçesi ekinde sunulan ve daha sonra hasar dosyası ekinde de dosyaya getirtilen "Maddi Hasarlı Trafik Kazası Tespit Tutanağında" da davacının bu iddiasına ilişkin bir tespit bulunmamaktadır. Davacının bedensel bütünlüğünün zedelenmesi durumu ortaya konup, ispatlanamadığından, manevi tazminat isteminin reddine karar verilmiştir.
-Bu gerekçeye uygun aşağıdaki hüküm kurulmuştur.
-HÜKÜM : Gerekçesi yukarıda açıklandığı üzere;
-1-Davacının araç değer kaybı tazminatı isteminin KABULÜNE, 1.000TL araç değer kaybı tazminatının davalılardan müştereken ve müteselsilen tahsili ile davacıya verilmesine, hüküm altına alınan miktara davalılardan ... ... ... Sanayi ... Ticaret Ltd. Şti. İle ... yönünden olay tarihi olan 09/09/2016 tarihinden itibaren, diğer davalı ... Sigorta A.Ş. Yönünden de dava tarihi olan 28/10/2016 tarihinden itibaren yasal faiz yürütülmesine,
-2-Davacının araç mahrumiyet zararı isteminin KISMEN KABULÜNE, 750TL araç mahrumiyet zararının davalılardan ... ... ... Sanayi ... Ticaret Ltd. Şti. İle ...'dan olay tarihi olan 09/09/2016 tarihinden itibaren işletilecek yasal faiziyle birlikte müştereken ve müteselsilen tahsili ile davacıya verilmesine, fazlaya ilişkin bu kalem istemin reddine,
-3-Davacının manevi tazminat isteminin REDDİNE,
-4-Harçlar kanunu gereği alınması gereken 119,55TL karar ve ilam harcının davalılardan müştereken ve müteselsilen alınarak hazineye irat kaydına, Davacı tarafından yatırılan 119,55TL peşin harç, 29,20TL başvuru harcı, 4,30TL vekalet harcı olmak üzere toplam 153,05TL harcın davalılardan müştereken ve müteselsilen alınarak davacıya verilmesine,
-5-Davacı tarafından sarf edilen 254,45TL tebligat ve posta gideri ile 450,00TL bilirkişi ücreti olmak üzere toplam 704,45TL yargılama giderinin davanın kabul ve red oranına göre hesap edilen 176,11TL'nin davalılardan müştereken ve müteselsilen alınarak davacıya ödenmesine, bakiye gider avansının karar kesinleştiğinde davacıya iadesine,
-e-imzalı e-imzalı
-6-Maddi Tazminat Yönünden;
-a-)Davacının kendisini vekil ile temsil ettirdiği görülmekle karar tarihinde yürürlükte bulunan AAÜT gereğince davanın kabul oranına göre takdir ve hesap edilen; 1.750,00TL, vekalet ücretinin davalılardan müştereken ve müteselsilen alınarak davacıya ödenmesine,
-b-)Davalılar ... ... ... Sanayi ... Ticaret Ltd. Şti. ile ... kendilerini vekil ile temsil ettirdikleri görülmekle karar tarihinde yürürlükte bulunan AAÜT gereğince davanın red oranı göre takdir ve hesap edilen 250,00TL vekalet ücretinin davacıdan alınarak bu davalılara ödenmesine,
-7-Manevi tazminat yönünden;
-Davalılar ... ... ... Sanayi ... Ticaret Ltd. Şti. ile ...'dan kendilerini vekil ile temsil ettirdikleri görülmekle karar tarihinde yürürlükte bulunan AAÜT gereğince davanın red oranına göre takdir ve hesap edilen; 2.180,00TL vekalet ücretinin davacıdan alınarak bu davalılara ödenmesine,
-Dair, taraf vekillerinin yüzüne karşı, istinaf kanun yolu açık olmak üzere (kararın tebliğinden itibaren iki hafta içerisinde mahkememize sunulacak, yahut mahkememize gönderilmek üzere bir başka mahkemeye ibraz edilecek bir dilekçeyle istinaf kanun yoluna başvurulabileceği, istinaf incelemesinin Bölge Adliye Mahkemeleri ilgili Hukuk Dairesi tarafından yapılacağı) karar verildi.
-14/03/2018
-Katip Hakim
-e-imzalı e-imzalı
+T.C. BAKIRKÖY 4. ASLİYE TİCARET MAHKEMESİ
+GEREKÇELİ KARAR
+ESAS NO : 2019/177 Esas
+KARAR NO : 2021/426
+DAVA : Tazminat (Ölüm Ve Cismani Zarar Sebebiyle Açılan Tazminat)
+DAVA TARİHİ : 13/04/2015
+KARAR TARİHİ : 15/04/2021
+KARARIN YAZILDIĞI TARİH : 06/05/2021
+Davacı vekili tarafından açılan Tazminat davasının Mahkememizde yapılan açık
+yargılaması sonucunda:
+GEREĞİ DÜŞÜNÜLDÜ:
+Davacı vekilinin Küçükçekmece ... Asliye Hukuk Mahkemesine vermiş olduğu dava dilekçesi ile; davalılardan ... Sigorta ya sigortalı, davalı ... in adına kayıtlı ve bu davalının sevk ve idaresindeki ... plakalı aracın 26/06/2014 tarihinde seyir halinde iken karşıdan karşıya geçen müvekkili davacıya çarptığını, olayda davacı müvekkilinin yaralandığını ve ayağına platin takıldığını, ameliyat sürecinin halen devam ettiğini, öncelikle dava sonuna kadar ... aracın trafik kaydına 3.kişilere satışının engellenmesi için teminatsız tedbir konulmasına, davacının işgörememezlikten ve çalışamayacağı sürelere karşılık fazlaya dair hakları saklı kalmak ve olay tarihinden itibaren işleyecek yasal faizi ile birlikte olmak üzere şimdilik 15.000 TL maddi tazminatın tüm davalılardan müştereken ve müteselsilen tahsiline, yine olay tarihinden itibaren işleyecek yasal faizi ile birlikte 40.000 TL manevi tazminatın aracın maliki ve sürücüsü davalı ... ndan tahsiline, mahkeme masrafları ve avukatlık ücretinin davalılardan müştereken ve müteselsilen tahsiline karar verilmesini talep ve dava etmiştir.
+Davalılardan ... Sigorta Şirketi vekilinin Küçükçekmece ... Asliye Hukuk Mahkemesine vermiş olduğu cevap dilekçesi ile; haksız ve mesnetsiz davanın usulden yetkisizlik nedeniyle, esasına girildiği takdirde, sigortalı araç sürücüsüne atfı kabil kusur bulunmaması nedeniyle, meydana geldiği iddia edilen zararın kaza ile illiyeti bulunmaması nedeniyle reddine, mahkeme masraf ve vekalet ücretinin davacı tarafa yükletilmesine karar verilmesini, aksi halde, davacı yanın müterafik kusurunun nazara alınmasına, celp edilmesi gereken delillerinin toplanmasına, kusur durumu ve zararın tespiti için bilirkişi incelemesi yapılmasına, her halde haksız ve mesnetsiz davanın reddine karar verilmesini talep etmiştir.
+Davalılardan ... nun Küçükçekmece ..Asliye Hukuk Mahkemesine vermiş olduğu cevap dilekçesi ile; davacı tarafın haksız ve hukuka aykırı davasının reddine, yargılama giderleri ve vekalet ücretinin davacı tarafa tahmiline karar verilmesini talep etmiştir.
+Dosya Küçükçekmece ... Asliye Hukuk Mahkemesinin ... esas ... karar sayılı görevsizlik kararı ile mahkememize gönderilmiştir.
+Yapılan yargılama sonucu dosya Mahkememizce kül olarak değerlendirildiğinde; dava hukuki niteliği itibariyle tazminat davası olup, Küçükçekmece ...Asliye Hukuk Mahkemesinde Adli Tıp Kurumundan alınan raporda; ........Mevcut belgelere göre;
+Kişi oğlu, 1948 doğumlu ...’in 26.06.2014 tarihinde geçirmiş olduğu trafik kazası kazasına bağlı beyin kanaması sekeli arızası nedeniyle, 11.10.2008 tarih ve 27021 sayılı Resmi Gazete’de yayımlanan Çalışma Gücü ve Meslekte Kazanma Gücü Kaybı Oranı Tespit İşlemleri Yönetmeliği hükümlerinden yararlanılarak ve meslek grup numarası Grup1 kabul olunarak:
+Gr1 I(18Ba……….35)A %39x1/3=%13.0
+E cetveline göre %17,2(yüzdeonyedivirgüliki) oranında meslekte kazanma gücünden kaybetmiş sayılacağı,
+İyileşme (iş göremezlik) süresinin olay/kaza tarihinden itibaren 12(Oniki) aya kadar uzayabileceği, açıklanmış, Küçükçekmece ... Asliye Hukuk Mahkemesinde makine mühendisi bilirkişiden tarafların kusur oranın belirlenmesi için rapor alınmış, bilirkişinin 22/02/2016 tarihli raporunda; .........davalı sürücü ... olayda 2918 sayılı Karayolları Trafik Kanunun 52/b maddesinde belirtilen kurallara aykırı dikkatsiz ve tedbirsiz araç sevk ve idare ettiğinden ve ayrıca 52/1-a maddesinde belirtilen " araçların hızını yaya geçitlerine yaklaşırken azaltma" kuralını ihlal ettiğinden %80 oranında asli kusurlu olduğu belirlenmiş olup, işbu %80 asli kusur oranından davalı sürücünün kullanmış olduğu bahse konu aracın sigortalı olduğu diğer davalı ... Sigorta Şirketinin teminat miktarıyla sınırlı kalmak kaydı ile müştereken ve müteselsilen sorulmu olduğu tespit edilmiştir.
+Davacı yaya ... olayda Karayolları Trafik Kanunun 68/b maddesinde belirtilen kurallara aykırı hareket ederek yaya kusurlarından taşıtlara ilk geçiş hakkını vermemek kusurunu işleyerek olaya neden olduğundan %20 oranında tali kusurlu olduğu açıklanmış, rapora itiraz üzerine ek rapor alınmış, bilirkişinin 22/07/2016 tarihli ek raporunda; kök raporda bir değişiklik olmadığı görülmüş, aktüerya bilirkişiden alınan 15/11/2019 havale tarihli raporunda; ......Olay: 26.06.2014 günü saat 23:30 sıralarında davalı sürücü ... idaresindeki ... plaka sayılı araç ile ... Caddesinden ... istikametine doğru seyrederken ... Polis Merkezi önüne geldiğinde aracın sol ön cam kısmı ile karakol tarafından karşıya geçmekte olan yaya davacı ...’ye çarpması neticesinde yaralanmalı ve maddi hasarlı trafik kazası meydana geldiği, Makina Mühendisi ... tarafından düzenlenen Kusur Bilirkişi Raporunda;
+Olayda;
+Davalı sürücü ...’nun %80 (yüzdeseksen) oranında asli kusurlu olduğu,
+Davacı yaya ...’nin %20 (yüzdeyirmi) oranında tali Kusursuz olduğu kanaatini bildirdiği görülmüştür.
+Adli Tıp Kurumu Başkanlığı ... İhtisas Kurulu tarafından düzenlenen ... sayı, 05.11.2018 tarih ve ... Karar nolu Adli Tıp Kurumu raporuna göre;
+1948 doğumlu ...’nin 26.06.2014 tarihinde geçirmiş olduğu trafik kazasına bağlı yaralanmasının
+E Cetveline göre %17,2 (yüzdeonyedivirgüliki) oranında meslekte kazanma gücünden kaybetmiş sayılacağı,
+İyileşme (iş göremezlik) süresinin olay/ kaza tarihinden itibaren 12 (oniki) aya kadar uzayacağına mütalaa olunduğu,
+Davacı ...’nin 26.06.2014 tarihinde geçirmiş olduğu trafik kazası sonrası 12 ay geçici iş göremezlik döneminde % 100 maluliyetinin 10.085,62 TL, % 17,2 maluliyetine ilişkin zararının 34.225,53 TL olmak üzere toplam maddi zararının 44.311,15 TL olduğu ve davacının maddi tazminatından davalılarının müştereken ve müteselsilen sorumluluğunun takdirinin Sayın Mahkemeye ait olacağı,
+Davacı için hesaplanan maddi tazminat tutarı Sigorta şirketinin limiti dahilinde olduğu, (Limit: 268.000,00 TL)
+Sigorta şirketi açısından 13.04.2015 dava tarihinin, diğer davalılar için 26.06.2014 olay/ kaza tarihinin temerrüt tarihi olarak kabul edileceğinin,
+Ayrıca davacının manevi tazminatının ve miktarının Mahkemeye ait olduğu açıklanmış, davalı ... şirketinin rapora karşı itirazlarının değerlendirilmesi için bilirkişiden ek rapor alınmış, bilirkişinin 01/06/2020 havale tarihli ek raporunda; .......A- Olay: 26.06.2014 günü saat 23:30 sıralarında davalı sürücü ... idaresindeki ... plaka sayılı araç ile ... Caddesinden ... istikametine doğru seyrederken ... Polis Merkezi önüne geldiğinde aracın sol ön cam kısmı ile karakol tarafından karşıya geçmekte olan yaya davacı ...’ye çarpması neticesinde yaralanmalı ve maddi hasarlı trafik kazası meydana geldiği,
+B- Makina Mühendisi ... tarafından düzenlenen Kusur Bilirkişi Raporunda;
+Olayda;
+Davalı sürücü ...’nun %80 (yüzdeseksen) oranında asli kusurlu olduğu,
+Davacı yaya ...’nin %20 (yüzdeyirmi) oranında tali Kusursuz olduğu kanaatini bildirdiği görülmüştür.
+C- Adli Tıp Kurumu Başkanlığı ... İhtisas Kurulu tarafından düzenlenen ... sayı, 05.11.2018 tarih ve ... Karar nolu Adli Tıp Kurumu raporuna göre;
+1948 doğumlu ...’nin 26.06.2014 tarihinde geçirmiş olduğu trafik kazasına bağlı yaralanmasının
+E Cetveline göre %17,2 (yüzdeonyedivirgüliki) oranında meslekte kazanma gücünden kaybetmiş sayılacağı,
+Îyileşme (iş göremezlik) süresinin olay/ kaza tarihinden itibaren 12 (oniki) aya kadar uzayacağına mütalaa olunduğu,
+D- Davacının Maddi zararı seçenekli olarak hesaplandığı,
+1. Seçenek: Davacının gelir elde edeceği ve 12 aylık geçici iş göremezlik döneminin %100 malul kabul edilmesi durumunda;
+Davacı ...’nin 26.06.2014 tarihinde geçirmiş olduğu trafik kazası sonrası 12 ay geçici iş göremezlik dönemine %20 kusur oranı yansıtılması ile zararının 10.085,62 TL, %17,2 maluliyet dönemine % 20 kusur oranı yansıtılması ile zararının 41.234,25 TL olmak üzere toplam maddi zararının 49.302,74TL olacağı,
+1. Seçenek Davacının gelir elde edemeyeceğinin ve kaza tarihinden bakiye ömür sınırına kadar %17,2 maluliyetinin kabulü durumunda;
+Davacı ...’nin 26.06.2014 tarihinde geçirmiş olduğu trafik kazası sonrası %17,2 maluliyetine % 20 kusur oranı yansıtılması ile zararının toplam maddi zararının 42.622,03 TL olacağı,
+E- ... plakalı araç, davalı .... tarafından, Karayolları Trafik Zorunlu Mali Mesuliyet Sigorta Poliçesinin tanzim edildiği ve sigorta poliçesinde davalı ... şirketi tarafından verilen üst limitin kişi başı ölüm ve sürekli sakatlık teminatı 268.000,00 TL olduğu,
+F- Davacı için Hesap edilen bedellerden davalılar ... Sürücü .. ’ın, müştereken ve müteselsilen sorumlu olup olmadığı konusundaki takdirin Sayın Mahkemeye ait olduğu,
+G- Dosya kapsamında davacı taraf, 13.04.2015 (ilk dava) tarihinde kadar maluliyetine ilişkin davalı ... şirketine başvuru yapıldığına dair bilgi ve belgeye rastlanmadığı,
+H- Manevi tazminat, sorumluluk, temerrüt tarihi ve faiz türü gibi hukuki olgular konusunda takdir tamamen Mahkemeye aittir.
+Ancak, Sayın Mahkemenin savunmalarının tümüne hasren tamamen davalı müdafaaları yönünde hüküm kurmak hususunda da hiç şüphesiz muhtar bulunduğu, sair hususların yüce yargı makamının münhasır takdiri içinde kaldığı, açıklanmış, davalı ... vekilinin ek rapora karşı itirazları nedeniyle bilirkişiden 2.ek rapor alınmış, bilirkişinin 05/10/2020 havale tarihli 2.ek raporunda; .........A- Olay: 26.06.2014 günü saat 23:30 sıralarında davalı sürücü ... idaresindeki ... plaka sayılı araç ile ... Caddesinden ... istikametine doğru seyrederken ... Polis Merkezi önüne geldiğinde aracın sol ön cam kısmı ile karakol tarafından karşıya geçmekte olan yaya davacı ... ’ye çarpması neticesinde yaralanmalı ve maddi hasarlı trafik kazası meydana geldiği,
+B- Makina Mühendisi ... tarafından düzenlenen Kusur Bilirkişi Raporunda;
+Olayda;
+Davalı sürücü ...’nun %80 (yüzdeseksen) oranında asli kusurlu olduğu,
+Davacı yaya ...’nin %20 (yüzdeyirmi) oranında tali Kusursuz olduğu kanaatini bildirdiği görülmüştür.
+C- Adli Tıp Kurumu Başkanlığı .... İhtisas Kurulu tarafından düzenlenen ... sayı, 05.11.2018 tarih ve ... Karar nolu Adli Tıp Kurumu raporuna göre;
+1948 doğumlu ...’nin 26.06.2014 tarihinde geçirmiş olduğu trafik kazasına bağlı yaralanmasının
+E Cetveline göre %17,2 (yüzdeonyedivirgüliki) oranında meslekte kazanma gücünden kaybetmiş sayılacağı,
+İyileşme (iş göremezlik) süresinin olay/ kaza tarihinden itibaren 12 (oniki) aya kadar uzayacağına mütalaa olunduğu,
+D- Davacının Maddi zararı seçenekli olarak hesaplandığı,
+1. Seçenek: Davacının gelir elde edeceği ve 12 aylık geçici iş göremezlik döneminin %100 malul kabul edilmesi durumunda;
+Davacı ...’nin 26.06.2014 tarihinde geçirmiş olduğu trafik kazası sonrası 12 ay geçici iş göremezlik dönemine %20 kusur oranı yansıtılması ile zararının 10.085,62 TL, %17,2 maluliyet dönemine % 20 kusur oranı yansıtılması ile zararının 41.234,25 TL olmak üzere toplam maddi zararının 49.302,74TL olacağı,
+1. Seçenek Davacının gelir elde edemeyeceğinin ve kaza tarihinden bakiye ömür sınırına kadar %17,2 maluliyetinin kabulü durumunda;
+Davacı ...’nin 26.06.2014 tarihinde geçirmiş olduğu trafik kazası sonrası %17,2 maluliyetine % 20 kusur oranı yansıtılması ile zararının toplam maddi zararının 42.622,03 TL olacağı,
+E- ... plakalı araç, davalı .... tarafından, Karayolları Trafik Zorunlu Mali Mesuliyet Sigorta Poliçesinin tanzim edildiği ve sigorta poliçesinde davalı ... şirketi tarafından verilen üst limitin kişi başı ölüm ve sürekli sakatlık teminatı 268.000,00 TL olduğu,
+F- Davacı için Hesap edilen bedellerden davalılar ... Sürücü ...’ın, müştereken ve müteselsilen sorumlu olup olmadığı konusundaki takdirin Sayın Mahkemeye ait olduğu,
+G- Dosya kapsamında davacı taraf, 13.04.2015 (ilk dava) tarihinde kadar maluliyetine ilişkin davalı ... şirketine başvuru yapıldığına dair bilgi ve belgeye rastlanmadığı,
+H- Manevi tazminat, sorumluluk, temerrüt tarihi ve faiz türü gibi hukuki olgular konusunda takdir tamamen Mahkemeye aittir.
+Ancak, Sayın Mahkemenin savunmalarının tümüne hasren tamamen davalı müdafaaları yönünde hüküm kurmak hususunda da hiç şüphesiz muhtar bulunduğu, sair hususların yüce yargı makamının münhasır takdiri içinde kaldığı, açıklanmış, 26/06/2014 günü davalı sürücü ... nun sevk ve idaresindeki aracın yaya davacıya çarpması neticesinde meydana gelen yaralamalı ve maddi hasarlı trafik kazasında bilirkişi raporuna göre davalı sürücünün %80 davacının %20 oranında kusurlu olduğu, ATK ... İhtisas Kurulu 05/11/2018 tarihli raporda davacının meydana gelen trafik kazası nedeniyle E cetveline göre %17,2 oranında meslekte kazanma gücünden kaybetmiş sayılayacağı, iş göremezlik süresinin 12 aya kadar uzayacağı açıklanmış, aktüerya bilirkişi raporunda davacının aylık gelirinin 1.500 TL olduğu, bu kazanç geliri üzerinden yapılan hesaplamada geçici iş görememezlik nedeniyle 10.085,62 TL geçici iş göremezlik, 41.234,25 TL de maluliyet nedeniyle maddi tazminat talep edebileceği, açıklanmakla, rapor denetime ve hükme elverişli bulunduğundan mahkememizce hükme esas alınmış, davacı vekili son beyanında dava tarihinden itibaren yasal faiz talep ettiğinden 49.302,74 TL maddi tazminatın dava tarihinden itibaren yasal faizi ile birlikte davalılardan müştereken ve müteselsilen, davacı vekilinin manevi tazminat talebinin ise kazanın oluş şekli tarafların ekonomik ve sosyal durumu, meydana gelen kazada kusur oranı, kaza nedeniyle davacının çekmiş olduğu elem ve ızdırap ve maluliyet oranı göz önüne alındığında 25.000 TL manevi tazminatın davalı ... ndan dava tarihinden itibaren işleyecek yasal faizi ile birlikte alınarak davacıya verilmesi gerektiği sonuç ve kanaatine varılarak aşağıdaki hüküm kurulmuştur.
+HÜKÜM: Yukarıda açıklanan nedenlerle;
+1-Davacı vekilinin davalılar aleyhine açmış olduğu maddi tazminat davasının KABULÜ ile, 49.302,74 TL nin dava tarihinden itibaren işleyecek yasal faizi ile birlikte davalılardan müştereken ve müteselsilen alınarak davacıya verilmesine,
+2-Davacı vekilinin davalı ... aleyhine açmış olduğu manevi tazminat davasının KISMEN KABULÜ ile, 25.000 TL manevi tazminatın dava tarihinden itibaren işleyecek yasal faizi ile birlikte davalıdan alınarak davacıya verilmesine,
+3-Fazlaya ilişkin talebin reddine,
+4-Davacı lehine maddi tazminat yönünden takdir edilen 7.209,36.-TL vekalet ücreti ile davacının yaptığı 2.770,17.-TL yargılama giderinin davalılardan alınıp davacıya verilmesine,
+5-Davacı lehine manevi tazminat yönünden takdir edilen 4.080.-TL vekalet ücretinin davalılardan ... ndan alınıp davacıya verilmesine,
+6-Davalılardan ... lehine manevi tazminat yönünden takdir edilen 4.080.-TL vekalet ücretinin davacıdan alınıp davalılardan ... na verilmesine,
+7-Alınması gereken 5.075,62.-TL karar harcından peşin alınan 939,27.-TL, tamamlama harcı 585,81 TL olmak üzere toplam 1.525,08.-TL harcın mahsubu ile bakiye 3.550,54.-TL harcın davalıdan alınıp hazineye gelir kaydına.,
+8-Kalan gider avansının karar kesinleştikten sonra yatırana iadesine,
+Dair, 6100 sayılı Hukuk Muhakemeleri Kanununun 341 vd. maddeleri gereğince (5235 sayılı Kanunun 2. maddesi de dikkate alınarak) Davacı vekili Av. ... yüzüne karşı, davalı ... vekilinin ve davalı ... nun yokluğunda verilen karar, gerekçeli kararın tebliğinden itibaren iki hafta içinde mahkememize verilecek veya başka bir mahkeme aracılığıyla gönderilecek dilekçe ile İstanbul Bölge Adliye Mahkemesi ilgili Hukuk Dairesi nezdinde istinaf kanun yolu açık olmak üzere açıkça okunup usulen anlatıldı.15/04/2021
+Katip ...
+¸e-imzalıdır.
+Hakim ...
+¸e-imzalıdır.
+Davacı Yargılama Giderleri
+971,07.-TL İlk masraf
+1.050,00.-TL Bilirkişi ücreti
++ 749,10.-TL Yargılama gideri
+2.770,17.-TL
