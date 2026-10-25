@@ -5,9 +5,9 @@ from trafikrag.domain.facts import ExtractedFacts
 
 ALLOWED_ITEMS = {
     "surekli_isgoremezlik", "gecici_isgoremezlik",
-    "bakici_gideri", "tedavi_gideri", "diger",
+    "bakici_gideri", "tedavi_gideri", "manevi_tazminat", "diger",
 }
-ALLOWED_OUTCOMES = {"kabul", "kismen_kabul", "ret", "bozma"}
+ALLOWED_OUTCOMES = {"kabul", "kismen_kabul", "ret", "bozma", "istinaf_reddi", "kaldirma"}
 SIMPLE_FIELDS = ("plaintiff_fault", "defendant_fault", "disability_rate", "injury_type", "outcome")
 
 
@@ -49,6 +49,11 @@ def validate_facts(facts: ExtractedFacts, decision_text: str) -> tuple[Extracted
             drop(name, "dayanak cümle yok")
         elif _norm(quote) not in text:
             drop(name, "dayanak cümle karar metninde bulunamadı")
+        # 2b) yaralanma tanımı dayanak cümlede geçmeli (uydurmayı yakalar)
+    if facts.injury_type is not None:
+        quote = facts.evidence.get("injury_type", "")
+        if _norm(facts.injury_type).lower() not in _norm(quote).lower():
+            drop("injury_type", "değer dayanak cümlede geçmiyor") 
 
     # 3) kusur toplamı
     p, d = facts.plaintiff_fault, facts.defendant_fault

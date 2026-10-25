@@ -1,4 +1,4 @@
-# extract_facts (v1)
+# extract_facts (v1.1)
 
 ## SYSTEM
 
@@ -11,18 +11,20 @@ Kurallar:
 5. Her dolu alan için "evidence" içine, o değeri dayandıran cümleyi karardan HARFİ HARFİNE kopyala. Özetleme, düzeltme, kısaltma yapma.
 6. Aynı alan için birden fazla değer varsa (alt mahkeme ile Yargıtay farklı): Yargıtay'ın son hükmüne veya onadığı/bozduğu değere öncelik ver; belirsizse null bırak.
 7. Çıktı yalnızca şemaya uyan tek bir JSON nesnesi olsun, başka metin yazma.
+8. "evidence" için mahkemenin kendi tespitini veya hükmünü içeren cümleyi seç. "Davacı vekili ... belirtmiştir", "davalı vekili ... savunmuştur" gibi tarafların iddia veya savunma özetlerinden alıntı yapma; taraf iddiası ile mahkemenin tespiti farklı olabilir.
 
 ## ALAN TANIMLARI
 
 - plaintiff_fault: Davacının kusur oranı. Davalı veya sigortalı sürücünün kusuru değil.
 - defendant_fault: Davalı tarafın (sürücü/işleten/sigorta) kusur oranı.
 - disability_rate: Kalıcı maluliyet (sürekli iş göremezlik) oranı. Geçici iş göremezlik süresi değildir.
-- injury_type: Yaralanmanın kısa tanımı (örn. "alt ekstremite kırığı"). Metinde geçen ifadeyi kullan.
+- injury_type: Yaralanmanın kısa tanımı. Değer, "evidence" içindeki alıntıda aynen geçen bir ifade olmalı; alıntıda yaralanma adı geçmiyorsa null bırak.
 - awarded_items: Hükmedilen kalemler ve tutarları. Anahtarlar yalnızca şunlar olabilir:
-  surekli_isgoremezlik, gecici_isgoremezlik, bakici_gideri, tedavi_gideri, diger.
-  Tutar metinde yoksa kalemi ekleme.
-- outcome: Yargıtay'ın bu karardaki sonucu. Yalnızca: kabul | kismen_kabul | ret | bozma.
-  Karar "bozma" ise bozma, onama/düzelterek onama ise kabul veya kismen_kabul alt mahkeme hükmüne göre; emin değilsen null.
+  surekli_isgoremezlik, gecici_isgoremezlik, bakici_gideri, tedavi_gideri, manevi_tazminat, diger.
+  Başka anahtar uydurma. Tutar metinde yoksa kalemi ekleme.
+- outcome: Bu karardaki sonuç. Yalnızca: kabul | kismen_kabul | ret | bozma | istinaf_reddi | kaldirma.
+  istinaf_reddi: bölge adliye mahkemesi istinaf başvurusunu esastan reddetmiş. kaldirma: istinaf, ilk derece kararını kaldırıp yeniden hüküm kurmuş veya göndermiş.
+  Karar "bozma" ise bozma. Emin değilsen null.
 - evidence: alan adı -> karardan harfi harfine alıntı.
 
 ## USER
