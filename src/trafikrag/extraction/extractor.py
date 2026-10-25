@@ -20,10 +20,10 @@ FACTS_SCHEMA = {
             "type": "object",
             "propertyNames": {"enum": [
                 "surekli_isgoremezlik", "gecici_isgoremezlik",
-                "bakici_gideri", "tedavi_gideri", "diger"]},
+                "bakici_gideri", "tedavi_gideri", "manevi_tazminat", "diger"]},
             "additionalProperties": {"type": "number", "minimum": 0},
         },
-        "outcome": {"enum": ["kabul", "kismen_kabul", "ret", "bozma", None]},
+        "outcome": {"enum": ["kabul", "kismen_kabul", "ret", "bozma", "istinaf_reddi", "kaldirma", None]},
         "evidence": {"type": "object", "additionalProperties": {"type": "string"}},
     },
     "required": ["plaintiff_fault", "defendant_fault", "disability_rate",
