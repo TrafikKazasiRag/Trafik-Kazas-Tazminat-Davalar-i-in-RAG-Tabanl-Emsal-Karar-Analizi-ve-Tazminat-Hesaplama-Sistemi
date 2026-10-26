@@ -1,4 +1,5 @@
-"""clean.py adımı için kapsamlı birim ve regresyon testleri."""
+"""clean.py adımı için genişletilmiş birim ve gerçek veri regresyon testleri."""
+
 import re
 from pathlib import Path
 import pytest
@@ -65,7 +66,7 @@ def test_clean_removes_three_site_noises_and_explicit_page_numbers() -> None:
         "Yargıtay kararı tam metni.\n"
         "Kaynak gösterilmeden kopyalanamaz. Tüm hakları saklıdır © 2024\n"
         "BİLGİ : Bu karar emsal niteliğindedir.\n"
-        "B İ L G İ : İçtihat notu."
+        "B İ L G İ : İçtihat bilgi notudur."
     )
 
     cleaned_minval = clean_text(minval_noise)
@@ -87,8 +88,24 @@ def test_clean_removes_three_site_noises_and_explicit_page_numbers() -> None:
     assert "Yargıtay kararı tam metni." in cleaned_karamercan
 
 
+def test_clean_removes_generic_domain_and_bracketed_page_no() -> None:
+    """Yeni eklenen jenerik domain regex'lerinin ve köşeli sayfa kalıplarının temizliğini test eder."""
+    raw = (
+        "Kaynak: www.emsalicthatlar.net\n"
+        "[ Sayfa 1 ]\n"
+        "Bursa Avukat - Örnek Bürosu\n"
+        "I. DAVA\n"
+        "Tazminat talebi."
+    )
+    cleaned = clean_text(raw)
+    assert "emsalicthatlar.net" not in cleaned
+    assert "[ Sayfa 1 ]" not in cleaned
+    assert "Bursa Avukat" not in cleaned
+    assert "I. DAVA" in cleaned
+    assert "Tazminat talebi." in cleaned
+
+
 def test_clean_does_not_delete_legitimate_decision_sentences_and_ratios() -> None:
-    # Buğra'nın belirttiği 5 kritik false-positive senaryosu (uydurma isimlerle)
     legitimate_lines = [
         "Davalı Minval Hukuk Sigorta A.Ş. vekili temyiz etti.",
         "Davacı vekili Ankara Avukat Ornek Kisi dilekçe verdi.",
@@ -139,17 +156,8 @@ def _normalize_ws(text: str) -> str:
     return re.sub(r"\s+", " ", text).strip()
 
 
-@pytest.mark.skipif(
-    not (
-        Path("data/raw/karar_01.txt").exists()
-        or Path("data/raw/karar_02.txt").exists()
-        or Path("data/raw/karar_03.txt").exists()
-    ),
-    reason="data/raw içinde gerçek karar dosyaları bulunamadı (yerelde çalışır)",
-)
 def test_real_decisions_regression_with_injected_noise() -> None:
-    # Madde 4: Gerçek kararların başına ve sonuna sahte site gürültüsü ekleyip temizledikten sonra
-    # hem parse_decision çıktısı hem de metin (boşluk farkı hariç) orijinalle birebir aynı olmalı.
+    """data/raw dizinindeki tüm gerçek kararlara gürültü enjekte edip temizliği doğrular."""
     fake_header_noise = (
         "Anasayfa > Yargıtay Kararları > 4. Hukuk Dairesi\n"
         "Kararın Özeti; Yaralanmalı trafik kazası maddi tazminat davasıdır.\n"
@@ -167,8 +175,23 @@ def test_real_decisions_regression_with_injected_noise() -> None:
     )
 
     raw_dir = Path("data/raw")
-    for src in sorted(raw_dir.glob("karar_*.txt")):
-        original_text = src.read_text(encoding="utf-8")
+    raw_files = sorted(raw_dir.glob("karar_*.txt"))
+
+    if not raw_files:
+        pytest.skip("data/raw dizininde test edilecek gerçek karar dosyası bulunamadı.")
+
+    for src in raw_files:
+        original_text = None
+        for enc in ("utf-8", "cp1254", "latin-1"):
+            try:
+                original_text = src.read_text(encoding=enc)
+                break
+            except UnicodeDecodeError:
+                continue
+
+        if not original_text:
+            continue
+
         noisy_text = f"{fake_header_noise}\n{original_text}\n{fake_footer_noise}"
 
         cleaned_noisy = clean_text(noisy_text)
@@ -177,13 +200,11 @@ def test_real_decisions_regression_with_injected_noise() -> None:
         orig_parsed = parse_decision(original_text, src.stem)
         clean_parsed = parse_decision(cleaned_noisy, src.stem)
 
-        # 1. parse_decision sonuçları (daire, esas, karar, tarih, bölüm türleri) aynı olmalı
         assert orig_parsed.court == clean_parsed.court
         assert orig_parsed.esas_no == clean_parsed.esas_no
         assert orig_parsed.karar_no == clean_parsed.karar_no
         assert orig_parsed.date == clean_parsed.date
         assert [s.kind for s in orig_parsed.sections] == [s.kind for s in clean_parsed.sections]
 
-        # 2. Temizlenmiş gürültülü metin, gürültüsüz orijinalle (boşluk farkı hariç) birebir aynı olmalı
         assert _normalize_ws(cleaned_noisy) == _normalize_ws(original_text)
         assert cleaned_noisy == cleaned_original
