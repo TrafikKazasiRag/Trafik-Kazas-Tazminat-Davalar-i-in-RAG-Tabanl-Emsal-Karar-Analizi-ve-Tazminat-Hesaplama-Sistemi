@@ -49,3 +49,17 @@ def test_amount_must_appear_in_quote():
 def test_bad_json_returns_empty_facts():
     facts, warnings = extract_facts("k1", KARAR, FakeLLM("bu json değil"))
     assert facts.plaintiff_fault is None and warnings
+
+def test_zero_and_partial_amounts_are_rejected():
+    quote = "Sürekli iş göremezlik tazminatı 14.822,73 TL hükmedilmiştir."
+    text = KARAR + " " + quote
+    p = _payload(awarded_items={
+        "bakici_gideri": 0,
+        "tedavi_gideri": 822,
+        "surekli_isgoremezlik": 14822.73,
+    })
+    for kalem in ("bakici_gideri", "tedavi_gideri", "surekli_isgoremezlik"):
+        p["evidence"][f"awarded_items.{kalem}"] = quote
+    facts, warnings = extract_facts("k1", text, FakeLLM(p))
+    assert facts.awarded_items == {"surekli_isgoremezlik": 14822.73}
+    assert len(warnings) >= 2

@@ -1,4 +1,4 @@
-# extract_facts (v1.1)
+# extract_facts (v1.2)
 
 ## SYSTEM
 
@@ -12,6 +12,9 @@ Kurallar:
 6. Aynı alan için birden fazla değer varsa (alt mahkeme ile Yargıtay farklı): Yargıtay'ın son hükmüne veya onadığı/bozduğu değere öncelik ver; belirsizse null bırak.
 7. Çıktı yalnızca şemaya uyan tek bir JSON nesnesi olsun, başka metin yazma.
 8. "evidence" için mahkemenin kendi tespitini veya hükmünü içeren cümleyi seç. "Davacı vekili ... belirtmiştir", "davalı vekili ... savunmuştur" gibi tarafların iddia veya savunma özetlerinden alıntı yapma; taraf iddiası ile mahkemenin tespiti farklı olabilir.
+9. awarded_items içine yazdığın HER kalem için "evidence" içine ayrı bir kayıt ekle. Anahtar tam olarak "awarded_items.<kalem>" biçiminde olmalı, örneğin "awarded_items.surekli_isgoremezlik". Değer, o kalemin tutarını içeren cümlenin karardan harfi harfine alıntısı olmalı; tutar alıntıda aynen geçmelidir. Kalem adını yalnızca şu listeden yaz: surekli_isgoremezlik, gecici_isgoremezlik, bakici_gideri, tedavi_gideri, manevi_tazminat, diger.
+
+10. awarded_items yalnızca mahkemenin HÜKMETTİĞİ nihai tutarları içerir. Bilirkişi raporundaki hesabı veya davacının talep ettiği tutarı kalem olarak yazma. Tutarı sıfır olan veya metinde geçmeyen kalemi ekleme. Birden fazla davacı varsa ve ilgili kalem için toplam tutar açıkça yazılmamışsa o kalemi ekleme.
 
 ## ALAN TANIMLARI
 
