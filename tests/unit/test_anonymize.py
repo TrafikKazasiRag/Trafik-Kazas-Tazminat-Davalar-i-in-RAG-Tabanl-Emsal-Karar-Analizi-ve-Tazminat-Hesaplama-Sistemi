@@ -135,14 +135,21 @@ def test_anonymize_does_not_mask_legal_roles_as_persons() -> None:
 
 
 def test_real_decisions_anonymize_idempotency() -> None:
-    """Masaüstü ortamında veriler olduğunda tüm kararların anonimleştirme idempotency'sini test eder."""
-    data_dir = Path("data/interim")
-    if not data_dir.exists():
-        data_dir = Path("data/raw")
+    """Projedeki gerçek karar dosyalarının (.txt) anonimleştirme idempotency'sini test eder."""
+    candidate_dirs = [
+        Path("data/txt_dosyalar"),
+        Path("data/interim"),
+        Path("indirilen_kararlar"),
+        Path("data/raw"),
+    ]
 
-    files = sorted(data_dir.glob("karar_*.txt"))
+    files: list[Path] = []
+    for d in candidate_dirs:
+        if d.exists():
+            files.extend(list(d.glob("*.txt")))
+
     if not files:
-        pytest.skip("data/interim veya data/raw dizininde karar dosyası bulunamadı.")
+        pytest.skip("Projede test edilecek .txt karar dosyası bulunamadı.")
 
     for src in files:
         text = None

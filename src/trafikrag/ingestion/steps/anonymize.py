@@ -5,7 +5,7 @@ Maskelenen kalıplar:
 - [IBAN]    : TR ile başlayan IBAN numaraları
 - [EPOSTA]  : E-posta adresleri
 - [TELEFON] : Türkiye telefon numaraları
-- [PLAKA]   : Araç plakaları (01-81 il kodlu)
+- [PLAKA]   : Araç plakaları (01-81 il kodlu, boşluk/nokta/tire ayraçlı)
 - [ADRES]   : Mahalle, cadde, sokak, kapı no içeren açık adres kalıpları
 - [ŞİRKET]  : Şirket, kooperatif, ticari işletme unvanları (A.Ş., Ltd. Şti. vb.)
 - [KİŞİ]    : Kural + Genişletilmiş Türkçe isim sözlüğü + hukuki rol bağlamı + kısaltılmış isimler
@@ -41,9 +41,10 @@ _PHONE_RE = re.compile(
     r"(?<![\d/])(?:\+90\s?|0)?\(?[2-5]\d{2}\)?[\s.-]?\d{3}[\s.-]?(?:\d{2}[\s.-]?\d{2}|\d{4})\b(?![\d/])"
 )
 
-# 5. Araç Plakası
+# 5. Araç Plakası: 01-81 il kodu + 1-3 harf + 2-5 rakam (boşluk, nokta, tire tüm ayraçları destekler)
 _PLATE_RE = re.compile(
-    r"(?<![\d/])\b(?:0[1-9]|[1-7]\d|8[01])[\s.-]+[A-ZÇĞİÖŞÜ]{1,3}[\s.-]+\d{2,5}\b(?=\s+(?:plakalı|sayılı\s+plaka)|[.,;)\s]|$)"
+    r"(?<![\d/])\b(?:0[1-9]|[1-7]\d|8[01])[\s.-]*[A-ZÇĞİÖŞÜ]{1,3}[\s.-]*\d{2,5}\b",
+    re.IGNORECASE,
 )
 
 # 6. Açık Adres
@@ -53,9 +54,9 @@ _ADDRESS_RE = re.compile(
     r"(?:\s+[A-ZÇĞİÖŞÜa-zçğıöşü]+(?:/[A-ZÇĞİÖŞÜa-zçğıöşü]+)?)?",
 )
 
-# 7. Şirket / Tüzel Kişi Unvanları (İsim regex'inden ÖNCE çalışarak tüzel kişileri korur)
+# 7. Şirket / Tüzel Kişi Unvanları (Tüm A.Ş., Ltd. Şti. kalıplarını isimlerden önce yakalar)
 _COMPANY_RE = re.compile(
-    r"\b[A-ZÇĞİÖŞÜ0-9\s.&'-]{2,60}\s+"
+    r"\b(?:[A-ZÇĞİÖŞÜ0-9\s.&'-]{2,60}\s+)?"
     r"(?:Anonim\s+Şirketi|Limited\s+Şirketi|A\.Ş\.|Ltd\.\s*Şti\.|Şirketi|Kooperatifi|Ortaklığı|İşletmesi)\b",
     re.IGNORECASE,
 )
@@ -93,7 +94,7 @@ _COMMON_FIRST_NAMES: set[str] = {
     "Nuri", "Cengiz", "Levent", "Bülent", "Erkan", "Volkan", "Tolga", "Onur",
     "Uğur", "Barış", "Deniz", "Derya", "Selin", "Cansu", "Gizem", "Ebru",
     "Gökçehan", "Neval", "Barlas", "Alper", "Batu", "Doruk", "Bora", "Efe",
-    "Utku", "Kevser", "Melisa", "Derya", "Şevval", "İrem", "Berfin", "Damla",
+    "Utku", "Kevser", "Melisa", "Şevval", "İrem", "Berfin", "Damla",
 }
 
 # 8a. Kısaltılmış isim kalıpları: "Gamze V." veya "A. B." / "H. K." / "Ahmet Y."
@@ -162,7 +163,7 @@ def anonymize_text(text: str) -> str:
 
     result = text
 
-    # ÖNCELİK 1: Yapısal sayısal veriler ve Şirket Unvanları (İsim regex'lerinden ÖNCE çalışır!)
+    # ÖNCELİK 1: Yapısal veriler, Plaka ve Şirket Unvanları (İsim regex'lerinden kesinlikle ÖNCE çalışır!)
     result = _IBAN_RE.sub("[IBAN]", result)
     result = _EMAIL_RE.sub("[EPOSTA]", result)
     result = _TCKN_RE.sub("[TCKN]", result)
