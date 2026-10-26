@@ -1,0 +1,91 @@
+SIRA NO: 203 (ÇEKİRDEK)
+DOKÜMAN ID: 1181555900
+DERECE: BAM (İstinaf)
+DAİRE / MAHKEME: Samsun Bölge Adliye Mahkemesi 3. Hukuk Dairesi
+ESAS NO: 2025/504
+KARAR NO: 2025/1963
+KARAR TARİHİ: 05.12.2025 (Yıl: 2025)
+ARAMA KELİMESİ: trafik kazası maddi manevi tazminat kusur (v3)
+SAYFA NO: 1
+İNDİRME ZAMANI: 2026-10-25 00:16:45
+HESAP DOĞRULAMA ADAYI: False
+İÇERİK HASH (MD5): 88b86257d1f51a65bd715c19fa7a5dd4
+================================================================================
+
+.
+T.C.
+SAMSUN
+BÖLGE ADLİYE MAHKEMESİ
+3. HUKUK DAİRESİ
+DOSYA NO : 2025/504
+KARAR NO : 2025/1963
+T Ü R K M İ L L E T İ A D I N A
+İ S T İ N A F K A R A R I
+BAŞKAN : ....
+ÜYE : ....
+ÜYE :....
+KATİP : .....
+İNCELENEN KARARIN
+MAHKEMESİ : SAMSUN ASLİYE TİCARET MAHKEMESİ
+TARİHİ : 18/12/2024
+NUMARASI : 2020/526 Esas 2024/1553 Karar
+DAVACI : ....
+VEKİLLERİ : ....
+DAVALI :....
+DAVALI :....
+VEKİLİ :....
+DAVALI : ....
+VEKİLLERİ : ....
+DAVALI :.....
+VASİ : ....
+DAVANIN KONUSU : Tazminat
+TARAFLARIN İDDİA VE SAVUNMALARININ ÖZETİ :
+Davacı vekilinin dava dilekçesinde özetle; 15/11/2017 tarihinde .... plaka sayılı araç ile .... plaka sayılı aracın çarpışması şeklinde meydana gelen trafik kazası neticesinde .... plaka sayılı minibüste yolcu konumunda bulunan müvekkili ....'ın malul kalacak şekilde yaralandığını, .... plaka sayılı aracın davalı ..... nezdinde,.... plaka sayılı aracın davalı.... nezdinde ZMMS poliçesi ile sigortalı olduklarını, davalı ....'nin 57.488,00 TL tutarında, .....'nin 23/06/2020 tarihinde 7.867,00 TL tutarında ödeme yaptıklarını, yapılan bu ödemelerin yetersiz olduğunu belirterek, toplanacak delillere göre maddi tazminat tutarı belirlenerek şimdilik 500,00 TL geçici iş göremezlik, 500,00 TL sürekli iş göremezlik maddi zararın.... yönünden olay tarihinden itibaren yasal faizi ile .....ve ....yönünden sigorta limitini aşmamak üzere temerrüt tarihinden işletilecek avans faizi ile birlikte davalılardan müştereken ve müteselsilen tahsiline karar verilmesini talep ve dava etmiştir.
+Davalı .... vekilinin cevap dilekçesinde özetle; dava açılmadan evvel müvekkili şirket tarafından 07/11/2018 tarihinde 57.488,00 TLtutarında ödeme yapıldığını, yapılan bu ödeme ile müvekkili şirketin sorumluluğunun sona erdiğini, ibra edildiğini, maluliyet oranlarının Erişkinler İçin Engellilik Değerlendirmesi Hakkında Yönetmelik kapsamında tespit edilmesi gerektiğini, geçici iş göremezlik maddi tazminat taleplerinin teminat dışı olduğunu, hesaplamanın aktüeryal yöntemle TRH-2010 Tablosu ve ZMSS genel şartlarında belirlenen % 1,8 teknik faiz uygulanarak yapılması gerektiğini, kusur oranlarının tespiti gerektiğini, sigortalı aracın istiap haddini aşması sebebiyle yolca olan davacının müterafik kusurlu olduğunu, SGK da rücuya tabi bir ödeme alıp almadıklarının araştırılarak şayet rücuya tabi bir ödeme var ise hesaplanacak tazminatta mahsup edilmesi gerektiğini belirterek davanın reddine karar verilmesini talep etmiştir.
+İLK DERECE MAHKEMESİ KARARININ ÖZETİ:
+Yerel Mahkeme tarafından davacının maddi tazminat talebinin kabulüne, manevi tazminat talebinin kısmen kabul kısmen reddine karar verilmiştir.
+İSTİNAFA BAŞVURAN TARAFLAR ve İLERİ SÜRÜLEN İSTİNAF SEBEPLERİ:
+Davacı vekilinin istinaf başvuru dilekçesinde özetle; davacı yararına belirlenen maddi tazminat ve manevi tazminat miktarlarının düşük olduğu gerekçesi ile istinaf edilmiştir.
+Davalı .... vekilinin istinaf başvuru dilekçesinde özetle; davaya bakmakla görevli mahkemenin İş Mahkemesi olduğu, yargılama aşamasında alınan bilirkişi raporlarının kabul edilebilir olmadığı, kazada kusurunun bulunmadığı, maluliyet oranının yüksek belirlendiği, müterafik kusura ilişkin değerlendirme yapılmadığı, peşin sermaye değeri mahsup edilmeden yapılan aktüerya hesabının hatalı olduğu, manevi tazminatın fahiş olduğu gerekçesi ile istinaf edilmiştir.
+Davalı .... vekilinin istinaf başvuru dilekçesinde özetle; davaya konu kazanın iş kazası olduğu, davacıya peşin sermaye değeri ödemesi yapıldığı, yapılan ödemelerin getirtilerek hesaplamadan tenzil edilmesi gerektiği, verilen kararın hatalı olduğu gerekçesi ile istinaf edilmiştir.
+DELİLLER :
+Tüm dosya kapsamı.
+DELİLLERİN DEĞERLENDİRİLMESİ ve GEREKÇE :
+Dava, trafik kazası nedeniyle maddi ve manevi tazminat istemine ilişkindir.
+Dairemizce HMK'nın 355. maddesi kapsamında istinaf dilekçelerinde belirtilen sebeplerle ve kamu düzenine ilişkin hükümlerle sınırlı olmak üzere inceleme yapılmıştır.
+Dairemizce öncelikli olarak davalı ....'ın adli yardım talebinin değerlendirilmesine karar verilmiş, davalının ev hanımı olduğu, ekonomik ve sosyal durumları göz önünde bulundurularak yargı hakkına erişimin engellenmemesi bakımından istinaf harç ve masrafına yönelik adli yardım talebinin kabulüne karar verilmiştir.
+Yerel Mahkeme tarafından davacının maddi tazminat talebinin kabulüne, manevi tazminat talebinin kısmen kabul kısmen reddine karar verilmiş, verilen karar davacı vekili tarafından, davacı yararına belirlenen maddi tazminat ve manevi tazminat miktarlarının düşük olduğu gerekçesi ile; davalı .... vekili tarafından, davaya bakmakla görevli mahkemenin İş Mahkemesi olduğu, yargılama aşamasında alınan bilirkişi raporlarının kabul edilebilir olmadığı, kazada kusurunun bulunmadığı, maluliyet oranının yüksek belirlendiği, müterafik kusura ilişkin değerlendirme yapılmadığı, peşin sermaye değeri mahsup edilmeden yapılan aktüerya hesabının hatalı olduğu, manevi tazminatın fahiş olduğu gerekçesi ile; davalı ....vekili tarafından, davaya konu kazanın iş kazası olduğu, davacıya peşin sermaye değeri ödemesi yapıldığı, yapılan ödemelerin getirtilerek hesaplamadan tenzil edilmesi gerektiği, verilen kararın hatalı olduğu gerekçesi ile istinaf edilmiştir.
+Yerel Mahkeme tarafından toplanması gerekli tüm delillerin toplandığı, değerlendirilerek tartışıldığı, yargılamaya konu kaza iş kazası olarak kabul edilse dahi davanın işveren veya işveren temsilcisine yöneltilmemiş olması sebebiyle davaya asliye ticaret mahkemesi tarafından bakılmasında isabetsizlik bulunmadığı, hükme esas alınan kusur raporu, maluliyet raporu ve aktüerya raporunun denetime açık ve hüküm kurmaya elverişli olduğu, davacıya SGK tarafından yapılan ödemelerin dosyaya kazandırıldığı ve ödemelerin aktüerya hesabında tenzil edildiği, Yerel Mahkemenin müterafik kusura ilişkin değerlendirmesinde isabetsizlik bulunmadığı, taraf vekillerinin maddi tazminata yönelik istinaf taleplerinin yerinde olmadığı anlaşılmıştır.
+Trafik kazaları nedeniyle hükmedilen manevi tazminatın amacının zarara uğrayanda bir huzur duygusu yaratmak olduğu, manevi tazminat ile olay sebebiyle duyulan acı ve elemin kısmen de olsa giderilmesinin amaçlandığı, olayın meydana geliş şekli, davacının maluliyeti, tarafların ekonomik ve sosyal durumları bir bütün olarak değerlendirildiğinde davacı yararına hükmedilen manevi tazminatın makul olduğu, verilen kararın usul ve yasaya uygun olduğu, gerekçede hata edilmediği, davacı vekilinin, davalı .... vekilinin ve davalı ... vekilinin istinaf sebeplerinin yerinde olmadığı anlaşılmakla, taraf vekillerinin istinaf kanun yolu başvurularının 6100 sayılı HMK'nın 353/(1)-b-1. maddesi gereğince ayrı ayrı esastan reddine karar vermek gerekmiş, aşağıdaki şekilde hüküm kurulmuştur.
+HÜKÜM : Gerekçesi yukarıda açıklandığı üzere;
+1-Davacının İstinaf Başvurusunun Esastan REDDİNE,
+2-Davalı ....'ın İstinaf Başvurusunun Esastan REDDİNE,
+3-Davalı ....'nın İstinaf Başvurusunun Esastan REDDİNE,
+4-İstinaf Harçları Bakımından;
+Maddi Tazminat Yönünden;
+a)Adli yardımdan yararlanan davacının istinaf talebi reddedilmiş olduğundan, alınması gerekli 615,40 TL istinaf karar harcı ile 1.683,10 TL istinaf kanun yoluna başvurma harcının davacıdan alınarak hazineye gelir kaydına,
+b)Alınması gerekli 51.659,14 TL harçtan, istinaf başvuran davalı .... tarafından yatırılan 1.938,00 TL harcın mahsubu ile bakiye kalan 49.721,14 TL harcın davalılar ....(adli yardımlı istinaf başvurusunda bulunduğundan ve istinaf başvurusu reddedildiğinden) ve ....'den (davalı ....'nin sorumluluğu 5.810,87 TL ile sınırlı olmak üzere)müteselsilen alınarak hazineye gelir kaydına,
+Harç tahsil müzekkerelerinin Dairemiz Yazı İşleri Müdürü tarafından yazılmasına,
+Manevi Tazminat Yönünden;
+Davalı .... Adli Yardımlı istinaf başvurusunda bulunduğundan ve istinaf başvurusu reddedildiğinden alınması gerekli 546,48 TL istinaf karar harcının davalı ....dan alınarak hazineye gelir kaydına,
+Harç tahsil müzekkeresinin Dairemiz Yazı İşleri Müdürü tarafından yazılmasına,
+5-İş bu kararın, Dairemiz Yazı İşleri Müdürü tarafından taraflara tebliğine.
+Dair, HMK'nın 361/1 maddesi uyarınca kararın tebliğinden itibaren 2 hafta içerisinde temyiz yolu açık olmak üzere oy birliğiyle karar verildi .05/12/2025
+....
+Başkan
+....
+¸e-imza
+.....
+Üye
+....
+¸e-imza
+....
+Üye
+....
+¸e-imza
+.....
+Katip
+....
+¸e-imza
+GEREKÇELİ KARARIN YAZILDIĞI TARİHİ : 05/12/2025
+Bu belge 5070 sayılı Elektronik İmza Kanunu kapsamında E-İMZA ile imzalanmıştır!

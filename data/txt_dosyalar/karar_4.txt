@@ -1,0 +1,49 @@
+SIRA NO: 4 (ÇEKİRDEK)
+DOKÜMAN ID: 960381600
+DERECE: İlk Derece Mahkemesi
+DAİRE / MAHKEME: Antalya 1. Asliye Ticaret Mahkemesi
+ESAS NO: 2022/677
+KARAR NO: 2023/773
+KARAR TARİHİ: 20.11.2023 (Yıl: 2023)
+ARAMA KELİMESİ: trafik kazası maddi manevi tazminat kusur (v3)
+SAYFA NO: 1
+İNDİRME ZAMANI: 2026-10-25 00:16:44
+HESAP DOĞRULAMA ADAYI: False
+İÇERİK HASH (MD5): fc5163602aa05655fb76c5584e15aad1
+================================================================================
+
+T.C.
+ANTALYA
+1. ASLİYE TİCARET MAHKEMESİ
+ESAS NO : 2022/677 Esas
+KARAR NO : 2023/773
+DAVA : Tazminat (Ölüm Ve Cismani Zarar Sebebiyle Açılan Tazminat)
+DAVA TARİHİ : 07/10/2022
+KARAR TARİHİ : 20/11/2023
+Mahkememizde görülmekte olan Tazminat (Ölüm Ve Cismani Zarar Sebebiyle Açılan Tazminat) davasının yapılan açık yargılaması sonunda,
+GEREĞİ DÜŞÜNÜLDÜ:
+Davacı vekili dava dilekçesinde özetle; davalı sürücünün kusuruyla meydana gelen kaza neticesinde müvekkilinin malul kaldığını maddi ve manevi zarara uğradığını öne sürmüş bunun davalılardan tahsili talep etmiştir.
+Davalılar davanın reddini talep etmiştir.
+Ara buluculuk dava şartının yerine getirildiği görülmüştür.
+Sigorta şirketin başvuru dava şartının yerine getirildiği görülmüştür.
+Kusur raporuna göre davacının kazada kusurlu olmadığı kusurun davalıda olduğu bildirilmiştir.
+Maluliyet raporuna göre davacının %4 malul kaldığı 6 ay geçici iş göremezliği olduğu bildirilmiştir.
+Yargılama sırasında davacı taraf sigorta şirketiyle maddi tazminat noktasında anlaştıklarını bildirmiştir.
+Hukuki Nitelendirme, Delillerin Takdiri ve Gerekçe
+Eldeki dava trafik kazası nedeniyle maddi ve manevi tazminat istemidir. Davacı vekili müvekkilinin kaza nedeniyle malul kaldığını maddi ve manevi zarara uğradığını öne sürmüştür.
+Trafik kazası bir haksız fiil olup davalıların sorumluluğuna gidilebilmesi için sürücünün kusuruyla gerçekleşmiş bir trafik kazası ve bunun sonucunda davacının zarara uğramış olması gerekir. Bu zarardan sürücü kusuruyla, sigorta şirketi de sigorta sözleşmesi kapsamında ve maddi zararla sınırlı olmak üzere sorumludur.
+Somut olayda kazada davalının kusurlu olduğu, davacının malul kalmakla zarara uğradığı görülmekle haksız fiilin tüm şartları gerçekleşmiştir. Ancak davacı sigorta şirketi ile maddi tazminat konusunda anlaştıklarını bildirdiği için diğer davalıya da etki edecek şekilde maddi zarara ilişkin uyuşmazlık ortadan kalkmıştır. Ancak, davacının malul kalması, 6 ay kadar geçici iş göremezliğinin 2 ay kadar bakıma muhtaçlığının olması onun manen de zarara uğradığını gösterir. Kaza tarihi, maluliyetin oranı ve iş göremezliğin süresi dikkate alınarak davacının manevi tazminat talebinin makul olduğuna kanaat getirilmiş ve manevi tazminat talebinin kabulüne karar verilerek aşağıdaki şekilde hüküm kurulmuştur.
+HÜKÜM: Yukarıda açıklanan nedenlerle;
+1-Davacının maddi tazminat talebi yönünden karar verilmesine yer olmadığına,
+2-Davacının manevi tazminat talebinin kabulü ile; 25.000,00 TL manevi tazminatın ... tarihinden işleyecek yasal faizi ile davalı ...'dan alınarak davacıya verilmesine,
+3-Maddi tazminat yönünden alınması gerekli, 269,85 TL harcın peşin harçtan mahsubu ile artan harcın manevi tazminatta değerlendirilmesine,
+4-Maddi tazminat için davacı tarafından yapılan yargılama giderlerinin kendisi üzerinde bırakılmasına,
+5-Manevi tazminat için alınması gerekli 1.707,75 TL harçtan peşin alınan 669,42 TL harcın mahsubu ile bakiye 1.038,33 TL harcın davalı ...'dan alınarak Hazineye gelir kaydına,
+6-Manevi tazminat için Avukatlık Asgari Ücret Tarifesi uyarınca hesaplanan 17.900,00 TL vekalet ücretinin davalı ...'dan alınarak davacıya verilmesine,
+7-Manevi tazminat yönünden davacı tarafından yapılan 669,42 TL peşin harç ve 174,00 TL tebligat-posta masrafı olmak üzere toplam 843,42 TL yargılama giderlerinin davalı ...'dan alınarak davacıya verilmesine,
+8-Adalet Bakanlığı bütçesinden karşılanan 1.560,00 TL arabulucu ücretinin davalı şirketinden alınarak HAZİNEYE İRAT KAYDINA,
+Dair, davacı vekili ve davalı ... yüzüne karşı, gerekçeli kararın tebliğinden itibaren 2 hafta içerisinde İstinaf yasa yolu açık olmak üzere verilen karar açıkça okundu. Anlatıldı. 20/11/2023
+Katip ...
+¸e-imzalıdır
+Hakim ...
+¸e-imzalıdır

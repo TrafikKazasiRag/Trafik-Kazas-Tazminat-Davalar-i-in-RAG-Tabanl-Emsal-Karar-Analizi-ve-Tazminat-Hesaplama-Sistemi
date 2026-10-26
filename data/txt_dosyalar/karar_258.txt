@@ -1,0 +1,48 @@
+SIRA NO: 258 (ÇEKİRDEK)
+DOKÜMAN ID: 1036554700
+DERECE: İlk Derece Mahkemesi
+DAİRE / MAHKEME: İzmir 1. Asliye Ticaret Mahkemesi
+ESAS NO: 2018/406
+KARAR NO: 2020/60
+KARAR TARİHİ: 28.01.2020 (Yıl: 2020)
+ARAMA KELİMESİ: trafik kazası aktüer bilirkişi raporu net tutar
+SAYFA NO: 6
+İNDİRME ZAMANI: 2026-10-25 00:29:47
+HESAP DOĞRULAMA ADAYI: False
+İÇERİK HASH (MD5): ac182258b837f9ef3b43ba2ce57b30d0
+================================================================================
+
+T.C.
+İZMİR
+1. ASLİYE TİCARET MAHKEMESİ
+ESAS NO : 2018/406 Esas
+KARAR NO : 2020/60
+DAVA : Tazminat
+DAVA TARİHİ : 30/03/2018
+KARAR TARİHİ : 28/01/2020
+Mahkememizde görülmekte olan Tazminat davasının yapılan açık yargılaması sonunda,
+GEREĞİ DÜŞÜNÜLDÜ:
+DAVA : Davacı vekili mahkememize sunmuş olduğu dava dilekçesiyle ; 01.11.2014 tarihinde İzmir ilinde... sevk ve idaresindeki ...plakalı araç, müvekkiline ait... plakalı motosiklete çarpması sonucu maddi hasarlı ve yaralamalı trafik kazası meydana geldiği, kaza sonrası müvekkili ...ın Çiğli Bölge Eğitim Hastanesi ile Karşıyaka Devlet Hastanesi'nde tedavi gördüğü, iş bu kaza ile ilgili olarak Karşıyaka Cumhuriyet Başsavcılığınca soruşturma dosyası açıldığı, kaza sırasında ... plakalı araç ile davalı şirket arasında kaza tarihini de kapsar şekilde ZMMS poliçesi bulunduğu, davalı sigorta şirketine başvuru yapılmasına rağmen davalı sigorta şirketince herhangi bir ödeme yapılmadığı, bu nedenle fazlaya ilişkin haklar saklı kalmak kaydıyla şimdilik 100,00 TL maddi tazminatın olay tarihinden itibaren işleyecek yasal faizi ile birlikte davalıdan tahsiline, yargılama gideri ve vekalet ücretinin de davalıdan tahsiline karar verilmesini talep etmiştir.
+DAVA DEĞERİNİN ARTTIRILMASI : Davacı vekili 22.01.2020 tarihinde sunmuş olduğu dava değerinin arttırılmasına ilişkin dilekçe ile dava dilekçesinde 100,00 TL olarak talep edilen iş göremezlik tazminat miktarını arttırdıklarını belirterek toplamda 37.397,28 TL iş göremezlik tazminatının olay tarihinden itibaren işleyecek yasal faizi ile birlikte davalıdan tahsiline karar verilmesini talep etmiştir.
+CEVAP : Davalı vekili mahkememize sunmuş olduğu cevap dilekçesiyle ; Davayı kabul anlamına gelmemek kaydıyla müvekkili şirketin sorumluluğu poliçe limiti ile sınırlı olduğu, davacı tarafın sigortalının kusurunu ve zararını usulen ispat etmesinin gerektiği, yine davacı tarafın maddi tazminat taleplerine konu kalemler net olmamakla birlikte tedavi ve geçici iş göremezlik gibi taleplerinin 6111 Sayılı Yasa uyarınca reddinin gerektiği, yasa gereği davacının talep hakkının bulunmadığı, davacının kaza sebebiyle elde ettiği gelir ve tazminatların mahsubunun gerektiği, zira SGK tarafından ödenen meblağın müvekkili şirkete rücu edildiği, müvekkili şirketin faizden dava tarihi itibariyle sorumlu olduğu, bu nedenle açılan davanın reddine, yargılama giderleri ve vekalet ücretinin de davacıdan tahsiline karar verilmesini talep etmiştir.
+DELİLLER :
+1-Mahkememizce yapılan yargılama sırasında hasar dosyasının bir sureti getirtilerek mahkememiz dosyası arasına eklenilmiştir.
+2-Mahkememizce yapılan yargılama sırasında Ege Üniversitesi Tıp Fakültesi'nden davacının maluliyetine ilişkin rapor alınmış olup, düzenlenen 25.01.2019 tarihli raporda ; dava konusu trafik kazası nedeniyle davacının %3,3 oranında daimi maluliyetinin olduğu, tıbbi iyileşme süresinin de 45 gün olduğu sonuç ve kanaatine varıldığı bildirilmiştir.
+3-Yine mahkememizce yapılan yargılama sırasında tarafların iddia ve savunmalarının değerlendirilmesi açısından bilirkişi incelemesi yapılmasına karar verilmiş olup, aktüer bilirkişi... ve trafik uzmanı bilirkişi... tarafından düzenlenen 02.12.2019 raporda sonuç olarak ; Dava konusu trafik kazasının meydana gelmesinde sigortalı araç sürücüsünün %100 oranında asli ve tam kusurlu olduğu, davacı araç sürücüsünün kusursuz olduğu, davacı için 1.336,54 TL geçici iş göremezlik tazminatı, 36.060,74 TL sürekli iş göremezlik tazminatı olmak üzere toplam 37.397,28 TL maddi tazminatın hesaplandığı, hesaplanan tutarın kişi başı poliçe teminat limiti içerisinde kaldığı, dosya kapsamına göre sigorta şirketi bakımından davacı tarafından eksik belgelerin kendisine teslim edildiği 14.12.2017 tarihine 8 iş günü ilavesiyle 27.12.2017 temerrüt tarihine ulaşıldığı sonuç ve kanaatine varıldığı bildirilmiştir.
+DELİLLERİN DEĞERLENDİRİLMESİ - KABUL :
+Dava ; trafik kazası nedeniyle daimi ve geçici iş göremezlik tazminatının davalı sigorta şirketinden tahsili istemine ilişkindir.
+Davalı sigorta şirketi tarafından kaza tarihi olan 01.11.2014 tarihini de kapsar şekilde 01.11.2014-01.11.2015 tarihleri arasında ZMMS sigorta poliçesiyle sigorta kapsamına alınan... plakalı aracın karışmış olduğu trafik kazası neticesinde davacının yaralandığı dosya kapsamı belgelerden anlaşılmıştır.
+Taraflar arasındaki ihtilaf dava konusu trafik kazasının meydana gelmesinde davalı sigortalı araç sürücüsünün kusurlu olup olmadığı, bu kaza nedeniyle davacının malul kalıp kalmadığı, davacı tarafça talep edilen tazminat isteminin yerinde olup olmadığı ve davalı sigorta şirketinin bu tazminattan davaya konu poliçe kapsamında sorumlu olup olmadığı noktasında toplanmaktadır.
+Mahkememizce yapılan yargılama sırasında dava konusu trafik kazası nedeniyle davacının maluliyetine ilişkin olarak Ege Üniversitesi Tıp Fakültesi'nden alınan maluliyet raporuna göre dava konusu trafik kazası nedeniyle davacının %3,3 oranında daimi maluliyetinin oluştuğu ve iyileşme süresinin de yaralanma durumu dikkate alındığında 45 gün olarak belirlendiği anlaşılmakla, mahkememizce yapılan yargılama sırasında alınan bu rapor aynen benimsenerek hükme esas alınmıştır.
+Yine mahkememizce yapılan yargılama sırasında tarafların iddia ve savunmalarının değerlendirilebilmesi açısından tazminat hesabı yönünden aktüer ve kusur oranının belirlenmesi açısından da trafik uzmanı bilirkişi vasıtasıyla bilirkişi incelemesi yaptırılmış olup, alınan raporda sonuç olarak dava konusu trafik kazasının meydana gelmesinde davalı sigortalı araç sürücüsünün %100 oranında asli ve tam kusurlu olduğu, davacı sürücü ...ın kusurunun bulunmadığı, Ege Üniversitesi Tıp Fakültesi tarafından düzenlenen maluliyet oranı dikkate alınarak yapılan hesaplama neticesinde davacının 1.336,54 TL geçici iş göremezlik tazminatı, 36.060,74 TL sürekli iş göremezlik tazminatı olmak üzere toplam 37.394,28 TL maddi tazminat talep edebileceği, bu tazminatın kaza tarihi itibariyle ZMMS sigorta poliçesi limitinin kişi başı ölüm/sakatlık halinde 268.000,00 TL olması nedeniyle poliçe limiti dahilinde kaldığı anlaşıldığından davacı tarafça davalıdan talep edilebileceği sonuç ve kanaatine varıldığı bildirilmiş olmakla, aynen benimsenip hüküm kurmaya elverişli bulunan bilirkişi raporu gereğince davanın kabulüne, 1.336,54 TL geçici iş göremezlik, 36.060,74 TL sürekli iş göremezlik tazminatı olmak üzere toplam 37.397,28 TL maddi tazminatın, davacı vekilinin 28.01.2020 tarihli duruşmadaki talebi dikkate alınarak dava tarihinden itibaren işletilecek yasal faizi ile birlikte davalıdan tahsiliyle davacıya verilmesine karar verme gereği doğmuştur.
+HÜKÜM / Yukarıda açıklanan gerekçelerle;
+Davanın KABULÜNE, 1.336,54 TL geçici iş göremezlik, 36.060,74 TL sürekli iş göremezlik tazminatı olmak üzere toplam 37.397,28 TL maddi tazminatın dava tarihinden itibaren işletilecek yasal faizi ile birlikte davalıdan tahsiliyle davacıya verilmesine,
+Karar tarihinde yürürlükte bulunan Harçlar Tarifesi gereğince hesaplanan 2.554,60 TL nispi karar ve ilam harcından başlangıçta ve ıslah aşamasında yatırılan toplam 163,90 TL peşin harcın mahsubu ile bakiye 2.390,70 TL nispi karar ve ilam harcının davalıdan tahsili ile hazineye gelir kaydına,
+Davacı tarafından başlangıçta yatırılan peşin harç ve ıslah harcının toplamı 205,00 TL ile, tebligat gideri 76,50 TL, müzekkere gideri 77,63 TL ve bilirkişi ücreti 800,00 TL olmak üzere toplam 954,13 TL'nin davalıdan alınarak davacıya verilmesine,
+Karar tarihinde yürürlükte bulunan Avukatlık Asgari Ücret Tarifesi gereğince hesaplanan 5.609,59 TL nispi vekalet ücretinin davalıdan alınarak davacıya verilmesine,
+Taraflarca yatırılan gider avansından arta kalan bulunması halinde karar kesinleştiğinde taraflara iadesine,
+Dair, taraf vekillerinin yüzüne karşı, gerekçeli kararın tebliğinden itibaren iki hafta içerisinde İzmir Bölge Adliye Mahkemesi nezdinde istinaf kanun yolu açık olmak üzere karar verildi. 28/01/2020
+Katip...
+E imza
+Hakim ...
+E imza

@@ -1,0 +1,68 @@
+SIRA NO: 27 (DIŞLANAN - MALULIYET_ISGOREMEZLIK_YOK)
+DOKÜMAN ID: 877177800
+DERECE: İlk Derece Mahkemesi
+DAİRE / MAHKEME: İstanbul Anadolu 1. Asliye Ticaret Mahkemesi
+ESAS NO: 2022/778
+KARAR NO: 2023/209
+KARAR TARİHİ: 28.02.2023 (Yıl: 2023)
+ARAMA KELİMESİ: trafik kazası maddi manevi tazminat kusur (v3)
+SAYFA NO: 1
+İNDİRME ZAMANI: 2026-10-25 00:16:44
+HESAP DOĞRULAMA ADAYI: False
+İÇERİK HASH (MD5): 645f0ebe15b848d95fd66b078fc40173
+================================================================================
+
+T.C. İstanbul Anadolu 1. ASLİYE TİCARET MAHKEMESİ
+ESAS NO: 2021/311 Esas
+KARAR NO: 2023/218
+DAVA: Tazminat (Trafik Sigorta Sözleşmesi Kaynaklı Rücuen)
+DAVA TARİHİ: 18/06/2020
+KARAR TARİHİ: 02/03/2023
+Mahkememizde görülmekte olan Tazminat (Trafik Sigorta Sözleşmesi Kaynaklı Rücuen) davasının yapılan açık yargılaması sonunda,
+GEREĞİ DÜŞÜNÜLDÜ:
+Davacı vekili dava dilekçesinde özetle; Müvekkilinin maliki olduğu ----- plakalı araç ile----- tarihinde seyir halinde olduğu esnada davalı --- ait olan ve diğer davalı --- tarafından kullanılan aracın birden önlerinde durup geri geri gelmesi neticesinde trafik kazası meydana geldiğini, davalı ----- kaçırdığı sapağa girmek için geri geri araç kullandığını, davalı ----- kusurlu olduğunu, müvekkilinin kusurunun bulunmadığını, kazadan sonra müvekkilince aracın tamir işlemlerinin yapılarak davalı sigorta şirketinden aracın tamirat masraflarının istendiğini, ancak sigorta şirketinin hasar tazminatını müvekkiline ödemediğini, davalı sigorta şirketinin yapmış olduğu bu işlemin doğru olmadığını, müvekkiline ödenmesi gereken bedelin sigorta poliçesi kapsamında olduğunu, ayrıca müvekkilince diğer davalılardan da hasar bedelinin ödenmesi için talepte bulunulduğunu, davalıların da müvekkilinin hasar bedelini karşılamaktan imtina ettiklerini belirterek şimdilik araçta oluşan zarar ve hasara karşılık 9.245,00TL hasar bedelinin, davacının uğradığı diğer maddi kayıplarına karşılık 750.00,00TL maddi tazminatın ve davacının aracında meydana gelen değer kaybının, müvekkilinin tatile gidememiş olması, moralinin bozulması ve tatilini evde geçirmek zorunda kalması nedeni ile uğradığı manevi zarara karşılık 1.000,00 TL manevi tazminatın olayın meydana geldiği 01.08.2019 tarihinden itibaren en yüksek reeskont faiziyle birlikte davalılardan tahsiline, yargılama giderleri ile ücreti vekaletin davalılara yükletilmesine karar verilmesini talep ve dava etmiştir.Davalı vekili cevap dilekçesinde özetle; müvekkili şirket tarafındsan trafik sigortası yapılan--------- tarihide kazaya karıştığını, davacının manevi tazminat talebinin teminat dışı olduğunu, müvekkilinin sorumluluğunun sigortalı araç sürücüsünün kusuru oranında ve zarar nispetinde olduğunu, kabul anlamına gelmemek kaydıyla poliçeden dolayı müvekkili şirketin sorumluluğunun sigortalının kusuru oranında olmak üzere maddi zararlarda araç başına 36.000,00-TL ile sınırlı olduğunu, olay yerinde tutulan tunağın davacının beyanına göre tutulduğunu, olayı objektif olarak yansıtmadığını, olay yerinde yapılan araştırmada davacının aracı ile sigortalı araca arkadan hızla çarptığını, davacının aracında meydana gelen hasarın durumu da bunu desteklediğini, davacının aracında oluşan hasarın sigortalı aracın geri geri gelip davacı aracına çarpması ile oluşamayacağını, yolda kasis olduğunu, tanıkların ------- marka aracın-------- arkadan çarptığını belirtiklerini, bu nedenle davacının kazada asli kusurlu olduğunu, müvekkili sigorta şirketinin davacının araçtan mahrum kalma talebinden sorumlu olmayacağını, bütün bu nedenlerle, davanın reddini, yargılama giderleri ve vekalet ücretinin davacı tarafa yükletilmesine karar verilmesini talep etmiştir.
+Davalı ------ davaya cevap dilekçesi sunmamıştır.
+DELİLLER:
+Davacı vekili dava dilekçesinde delil olarak; ---- tarihli red mektubu,kaza tespit tutanağı, tanık, bilirkişi incelemesi, fatura, kaza anını gösteren resimler aracın gördüğü hasarı gösteren resimler, müvekkile çıkarılan fatura,ödeme dekontuna dayanmıştır.
+Davalı ------ dilekçesinde delil olarak; sigorta poliçesi, poliçe özel ve genel şartları ve yemine dayanmıştır.
+Davalılar------cevap dilekçesi vermediğinden delil bildirmemiştir.
+DELİLLERİN DEĞERLENDİRİLMESİ VE GEREKÇE:
+Dava trafik kazası nedeniyle açılmış maddi ve manevi tazminat davasıdır.
+Davacıya ait ---- plakalı araç ile davalı --- ait, davalı ---- tarafından kullanılan ve diğer davalı tarafından sigortalanan ----- plakalı aracın ----- tarihinde çarpışması sonucu, maddi hasarlı trafik kazası meydana gelmiştir.
+Davacı vekili dava dilekçesinde, 9.245-TL hasar bedeli, diğer maddi kayıplara karşılık olarak şimdilik 750.00.-TL maddi tazminat ile 1.000.-TL manevi tazminatın 01/08/2019 tarihinden itibaren işleyecek faizi ile en yüksek reeskont faiziyle birlikte davalılardan tahsiline karar verilmesini talep etmiştir.
+Davacı tanıkları dinlenmiş, kusur ve araç mahrumiyet zararı yönünden bilirkişi incelemesi yapılmasına karar verilmiştir.
+Davaya Konu Trafik Kazası Kusur Yönünden Değerlendirildiğinde;
+Trafik konusunda uzman makina mühendisinden alınan 08/09/2022 tarihli bilirkişi raporunda;
+-Davacı-sürücü -------- olayda %100 kusurlu olduğu,
+-Davalı sürücünün kusursuz olduğu,
+-Hasar bedelinin 9.245-TL,
+-Araç mahrumiyet zararının 1.200-TL olduğu, belirtilmiştir.
+Sürücüler tarafından düzenlenen 01/08/2019 tarihli Maddi Hasarlı Trafik Kaza Tutanağındaki sürücü beyanları ile Mahkememizce alınan 08/09/2022 tarihli bilirkişi raporu arasındaki çelişkilerin giderilmesi için talimat yoluyla ------- rapor alınmasına karar verilmiştir. 01/02/2023 tarihli raporda;
+------plakalı ----- sürücüsü -----, meydana gelen olayda %75 (yüzde yetmiş beş) oranında kusurlu olduğu,------ plakalı ----- sürücüsü ----, meydana gelen olayda %25 (yüzde yirmi beş) oranında kusurlu olduğu, görüş ve kanaatine varılmıştır.------raporu doğrultusunda, davaya konu trafik kazasının, davacının %25, davalı --------- %75 kusurlu olduğu kabul edilmiştir.
+Hasar Onarım Bedeli Yönünden Değerlendirildiğinde;
+Trafik konusunda uzman makina mühendisinden alınan 08/09/2022 tarihli bilirkişi raporunda, hasar bedeli 9.245-TL olarak hesaplanmıştır.Davacının talep edebileceği hasar onarım bedeli, davalı sürücünün kusuruna göre, 0,75x 9.245-TL=6.933,75-TL'dir.
+Hasar onarım bedeli, gerçek zararlar arasında olup, davalı ------ akdî sorumlu olarak, davalı araç sürücüsü ---- haksız fiil sorumlusu olarak, davalı araç maliki ----- ise işleten sıfatıyla bu tazminattan sorumludur.
+Açıklanan nedenlerle 6.933,75-TL'nin davalılardan tahsiline karar vermek gerekmiştir.
+Davadan önce davalı sigorta şirketine yapılan başvuru ve başvurunun tebliğ tarihine dair delil ibraz edilmemiş, sadece davalı sigorta şirketinin davacının başvurusunun reddine dair 04/04/2019 tarihli yazısı ibraz edilmiştir. Bu nedenle davalı sigorta şirketinin temerrüt tarihi başvurunun reddi tarihi olan 04/04/2019 olarak kabul edilmiştir. Diğer davalılar ise hajsız fiil tarihi olan kaza tarihinde temerrüde düşmüştür.
+Araç Mahrumiyet Zararı Yönünden Değerlendirildiğinde;
+Trafik konusunda uzman makina mühendisinden alınan 08/09/2022 tarihli bilirkişi raporunda, davacının araç mahrumiyet zararı 1.200-TL olarak hesaplanmıştır. Davacının talep edebileceği araç mahrumiyet zararı davalı sürücünün kusuruna göre, 0,75x1.200-TL=900-TL'dir. Ancak davacının talebi 750-TL'dir.
+Kaza nedeniyle talep edilen dolaylı zarar olan kazanç kaybı, davalı aracının zorunlu trafik poliçesinin düzenlendiği tarihte yürürlükte bulunan Genel Şartların Teminat dışı halleri düzenleyen A.6 maddesi (k) maddedinde "Gelir kaybı, kâr kaybı, iş durması ve kira mahrumiyeti gibi zarar verici olguya bağlı olarak oluşan yansıma veya dolaylı zararlar nedeniyle yöneltilecek tazminat talepleri" teminat dışında tutulduğundan bu alacaktan araç işleteni ve sürücüsü sorumlu olmakla birlikte ------- sorumlu değildir.Açıklanan nedenlerle 750-TL araç mahrumiyet zararının davalılar ------ tahsiline karar vermek gerekmiştir.
+Dava dilekçesinde davacı vekili reeskont faizi talep etmiştir. Sigortalı araç kamyonet olup ticari araçtır. Dava, ------ dayalı tazminat istemine ilişkindir. Dava konusu aracın ticari araç olması dikkate alındığında, TTK 3. maddesi ve 3095 SK 1. ve 2/1 maddesi uyarınca avans faizine hükmedilmesi gerekmektedir. --------Davacının talebiyle bağlı kalınarak kabul edilen maddi tazminat alacak kalemleri yönünden reeskont faizine karar vermek gerekmiştir.Davacının Manevi Tazminat Talebi Değerlendirildiğinde;
+------- göre davalı sigorta şirketi manevi tazminattan sorumlu değildir.
+Davaya konu trafik kazası maddi hasarlı trafik kazası olup, davacı maddi zarara uğramışsa da, ortada manevi tazminatı gerektirecek bir zarar söz konusu değildir. Bu nedenle şartları bulunmayan manevi tazminat talebinin reddine karar vermek gerekmiştir.
+Açıklanan nedenlerle, maddi tazminat talebinin kısmen kabulüne, manevi tazminat talebinin reddine karar verilmiştir.
+HÜKÜM : Yukarıda açıklandığı üzere;
+A/MADDİ TAZMİNAT YÖNÜNDEN
+1-Hasar onarım bedeli yönünden davanın kısmen kabulü ile, 6.933,75-TL'nin; davalı sigorta şirketinden 04/04/2019 tarihinden, diğer davalılar --------tarihinden itibaren işleyecek reeskont faizi ile birlikte davalılardan dan tahsiline, fazlaya ilişkin talebin reddine,
+2-Araç mahrumiyet zararı yönünden davanın ile, 750-TL'nin; davalılar ------- tarihinden itibaren işleyecek reeskont faizi ile birlikte tahsiline,
+B/MANEVİ TAZMİNAT YÖNÜNDEN
+1-Davanın reddine,
+HARÇ, MASRAF, YARGILAMA GİDERİ VE VEKALET ÜCRETLERİ;
+1-Alınması gereken 524,88 TL karar harcının, davacı tarafından yatırılan 170,78 TL peşin harç, 388,00 TL tamamlama harcı toplamı 558,78 TL harçtan mahsubu ile bakiye 33,90 TL'nin davacıya iadesine,
+2-Davacı tarafından bilirkişi ve tebligat ücreti olarak yapılan 7.121,75 TL yargılama gideri ile 524,88 TL karar harcı, 54,40 TL başvuru harcı toplamı 7.701,03 TL'nin davanın ret ve kabul oranı dikkate alındığında bakiye 5.920,24 TL'sinin (davalı sigorta şirketinin bu tutarın 4.107,00 TL'sinden müştereken ve müteselsilen sorumlu olması kaydıyla,) davalılardan müştereken ve müteselsilen tahsili ile davacı tarafa verilmesine, arta kalan kısmın davacı üzerinde bırakılmasına,
+3-Davalılar tarafından yapılan yargılama gideri bulunmadığından bu konuda karar verilmesine yer olmadığına,
+4-Maddi tazminat yönünden davanın kabul oranı dikkate alındığında davacı lehine karar tarihinde yürürlükte bulunan AAÜT göre takdir olunan 7.683,75 TL vekalet ücretinin (davalı sigorta şirketinin bu tutarın 5.330,39 TL'sinden müştereken ve müteselsilen sorumlu olması kaydıyla,) davalılardan müştereken ve müteselsilen tahsili ile davacı tarafa verilmesine,
+5-Maddi tazminat yönünden davanın ret oranı dikkate alındığında davalı sigorta şirketi kendini vekille temsil ettirdiğinden davalı sigorta şirketi lehine karar tarihinde yürürlükte bulunan AAÜT göre takdir olunan 3.061,25 TL vekalet ücretinin davacıdan alınarak bu davalıya verilmesine,
+6-Manevi tazminatın reddi yönünden davalı sigorta şirketi lehine karar tarihinde yürürlükte bulunan AAÜT göre takdir olunan 1.000,00 TL vekalet ücretinin davacıdan alınarak bu davalıya verilmesine,
+7-Taraflarca yatırılan ancak sarf olunmayan gider avansının karar kesinleştiğinde yatıran tarafa iadesine,
+Dair davacı vekilinin yüzüne karşı davalıların yokluğunda, davanın reddine karar verilen kısmı yönünden gerekçeli kararın tebliğ tarihinden itibaren iki haftalık süre içerisinde ------- Adliye Mahkemesi'nde İstinaf yasa yolu açık açık olmak üzere, davanın kabulüne karar verilen kısmı yönünden miktar itibariyle kesin olmak üzere verilen karar açıkça okunup anlatıldı. 02/03/2023

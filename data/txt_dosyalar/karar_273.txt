@@ -1,0 +1,52 @@
+SIRA NO: 273 (ÇEKİRDEK)
+DOKÜMAN ID: 816136800
+DERECE: İlk Derece Mahkemesi
+DAİRE / MAHKEME: Ankara 5. Asliye Ticaret Mahkemesi
+ESAS NO: 2021/617
+KARAR NO: 2022/569
+KARAR TARİHİ: 21.09.2022 (Yıl: 2022)
+ARAMA KELİMESİ: trafik kazası aktüer bilirkişi raporu net tutar
+SAYFA NO: 7
+İNDİRME ZAMANI: 2026-10-25 00:34:14
+HESAP DOĞRULAMA ADAYI: False
+İÇERİK HASH (MD5): df499f4e0338cfe52b6c1ddd2c76d9ac
+================================================================================
+
+T.C. ANKARA 5. ASLİYE TİCARET MAHKEMESİ Esas-Karar No: 2021/617 Esas - 2022/569
+Türk Milleti Adına Yargılama Yapmaya ve Hüküm Vermeye Yetkili
+ANKARA 5. ASLİYE TİCARET MAHKEMESİ
+GEREKÇELİ KARAR
+ESAS NO : 2021/617 Esas
+KARAR NO : 2022/569
+DAVA : Tazminat (Ölüm Ve Cismani Zarar Sebebiyle Açılan Tazminat)
+DAVA TARİHİ : 05/10/2021
+KARAR TARİHİ : 21/09/2022
+GEREKÇELİ KARARIN
+YAZILDIĞI TARİH : 21/10/2022
+Mahkememizde görülmekte olan Tazminat (Ölüm Ve Cismani Zarar Sebebiyle Açılan Tazminat) davasının yapılan açık yargılaması sonunda,
+GEREĞİ DÜŞÜNÜLDÜ:
+Davacı vekili dava dilekçesinde özetle: 29.07.2020 tarihinde, ... idaresindeki ... plaka sayılı araç ile DSİ istikametinden Osman Kavuncu Bulvarı’nı takiben gelip 6180 sokak kavşağından sağa dönüş yaptığı esnada aracının sağ yan kısımlarına aynı yönden gelen ve seyrine direkt devam eden sürücü ... idaresindeki ... plakalı motosikletinin ön kısımları ile çarpması sonucu yaralamalı ve maddi hasarlı trafik kazası meydana geldiğini, kaza neticesinde ... plaka sayılı araç sürücüsü müvekkilinin ağır şekilde yaralandığını, kazanın meydana gelmesinde kendisinin herhangi bir kusuru bulunmadığını, trafik kazasına sebebiyet veren ... plaka sayılı aracın kaza tarihi itibarıyla ... Sigorta A.Ş. (Eski unvanı ... Sigorta A.Ş.) nezdinde Zorunlu Mali Mesuliyet Sigortası ile teminat altında olduğundan müvekkilin zararlarından karşı yan sigorta şirketinin sorumlu olduğunu belirterek davanın kabulü ile HMK m.107 uyarınca belirsiz alacak davası niteliğinde olmak üzere ve HMK m.107/2 gereğince artırım hakları saklı kalmak kaydıyla, müvekkili davacının 29.07.2020 tarihinde meydana gelen yaralamalı trafik kazası neticesinde ağır şekilde yaralanması, sürekli ve geçici iş göremezlik ile bakıcı ihtiyacına maruz kalması sebebiyle şimdilik 10.000,00-TL maddi tazminatın, kaza tarihinden itibaren işleyecek değişen oranlarda avans faizi ile birlikte davalıdan tahsili ile müvekkil davacıya ödenmesine karar verilmesini talep ve dava etmiştir.
+Davacı vekili 24/05/2022 tarihli talep arttırım dilekçesi ile: 79.526,15-TL sürekli, 12.240,56-TL geçici iş göremezlik ile 5.886,00-TL bakıcı ihtiyacı tazminatı talep etmiştir.
+Davacı vekili 08/09/2022 tarihli ıslah dilekçesi ile: 116.441,17-TL sürekli, 12.240,56-TL geçici iş göremezlik ile 5.886,00-TL bakıcı ihtiyacı tazminatı talep etmiştir.
+Davalı vekili cevap dilekçesinde özetle: Öncelikle usule ilişkin yetki, işbölümü, zamanaşımı, hak düşürücü süre, görev, hukuki yarar ve dava şartı yokluğu yönünden itirazlarının bulunduğunu, davayı kabul anlamına gelmemekle birlikte müvekkili şirket, karayolları trafik kanunu’nun 91. maddesi ve zorunlu mali mesuliyet sigortası (ZMMS) uyarınca, sigortalısının kusuru ile 3. şahıslara verdiği zararı poliçe teminat limiti ile sınırlı olmak üzere tazmin etmekle mükellef olduğunu, müvekkili şirketin poliçe kapsamında davacıların tedavi giderleri kapsamında sayılan geçici iş görmezliğe ve bakıcı giderine ilişkin tazminat taleplerinden sorumlu olmadığını, davacının kaskının ve motosiklet kullanırken giymesi gereken koruyucu giysileri giydiğinin tespit edilemediği gözetilerek müterafik kusur indirimi yapılması gerekmekte olduğunu, öncelikle itirazları dikkate alınarak haksız ve hukuka aykırı davanın reddine, kazaya karışan araç sürücülerinin kusur durumunun tespiti için Karayolları Genel Müdürlüğü Fen Heyeti’nden ve Adli Tıp Trafik İhtisas Dairesi’nden kusur raporu alınmasına, derdest ceza davasının sonucunun bekletici mesele yapılmasına, davacının maluliyet oranının tespiti için Adli Tıp Kurumu 3. İhtisas Dairesi tarafından “Erişkinler İçin Engellilik Değerlendirmesi Hakkında Yönetmelik” göre rapor alınmasına, aleyhe hüküm kurulacak olması halinde SGK tarafından yapılan ve yapılacak ödemelerin müvekkili şirketin sorumluluğundan tenziline karar verilmesini talep etmiştir.
+DELİLLER
+-Kaza tespit tutanağıi poliçe, hasar dosyası, hastane evrakları, ceza mahkemesi dosyası,
+-Dosya Hacettepe Üniversitesi ATK'ya sevk olunmuş ATK raporunda;...ın dosyasının incelenmesi, tarafımızca yapılan muayene ve değerlendirmesi sonucunda; 29/07/2020 tarihinde gerçekleşen trafik kazasına bağlı meydana gelen sağ asetabulum kırığı dikkate alınarak; Erişkinler İçin Engellilik Değerlendirmesi Hakkında Yönetmelik” ve ekindeki cetveller esasi alınmak kaydıyla bedensel özür oranı hesaplandığında bedensel özür oranının %6 (yüzde altı) olduğu, sürekli olduğu ve sekel halini aldığı, kaza nedeniyle kişinin tedavisine başlanmasından itibaren tedavi süresince ortaya çıkan bakıcı ihtiyaç süresinin 2 (iki) ay olduğu, tıbbi iyileşme süresinin 6 aya kadar uzayabileceği kanaatine varılmıştır.
+Dosya kusur ve aktüer bilirkişi heyetine tevdi olunmuş bilirkişi raporunda: ... plakalı aracın sürücüsü ...'in dava konusu kazanın meydana gelmesinde %100 oranında asli kusurlu olduğunu, ... plakalı aracın sürücüsü ...'ın kusursuz olduğunu, geçici iş göremezlikten kaynaklanan bakiye tazminat tutarının 12.240,56 TL olduğu, sürekli işgücü kaybından kaynaklanan bakiye tazminat tutarının 79.526,15 TL olduğu, geçici bakıcı giderinden kaynaklanan tazminat tutarının ise 5.886,00 TL olduğu, olay tarihinde (29.07.2020) itibariyle ZMSS poliçesi ölüm-sakatlanma (klozu) teminat limit tutarının 410.000,00 TL olduğu, Sayın Mahkeme tarafından tazminata hükmedilmesi durumunda Davalı Sigorta Şirketinin kısmi ödeme yaptığı tarihten 30.03.3020 (temerrüde düşme) itibaren yasal faiz yürütülerek tazminat talebinde bulunabileceği, yönünde rapor düzenlenmiştir.
+Asgari ücrette meydana gelen artış sonrası dosya aktüer bilirkişiye tekrar tevdi olunmuş aktüer bilirkişi ek raporunda: Sayın Mahkeme tarafından yapılan görevlendirme gereğince 2022 yılı ikinci 6 aylık güncel asgari ücrete göre tekrar yapılan hesaplama sonucunda davacı ...'ın, geçici iş göremezlikten kaynaklanan bakiye tazminat tutarının 12.240,56 TL olduğu, sürekli işgücü kaybından kaynaklanan bakiye tazminat tutarının 116.441,17 TL olduğu, geçici bakıcı giderinden kaynaklanan tazminat tutarının ise 5.886,00 TL olduğu, olay tarihinde (29.07.2020) itibariyle ZMSS poliçesi ölüm-sakatlanma (klozu) teminat limit tutarının 410.000,00 TL olduğu, Sayın Mahkeme tarafından tazminata hükmedilmesi durumunda Davalı Sigorta şirketinin kısmi ödeme yaptığı tarihten 30.03.3020 (temerrüde düşme) itibaren yasal faiz yürütülerek tazminat talebinde bulunabileceği yönünde rapor düzenlenmiştir.
+DELİLLERİN DEĞERLENDİRİLMESİ VE GEREKÇE
+Dava, meydana gelen trafik kazası nedeni ile davacının uğradığı cismani zararlardan dolayı maddi tazminat istemine ilişkindir.
+Mahkememizce taraf delilleri toplanmış, bilirkişilerden rapor alınmıştır.
+Tüm dosya kapsamı, toplanan deliller, alınan bilirkişi raporlarına göre;
+Davalı şirket nezdinde zorunlu mali sorumluluk sigorta poliçesi ile kayıtlı bulunan ve dava dışı sürücü ... yönetimindeki ... plakalı otomobili ile davalı yönetimindeki ... plakalı motosikletin ön kısmına çarpması sonucu, meydana gelen çift taraflı yaralamalı trafik kazasında yaralandığı ve vücut genel çalışma gücünden ise %6 oranında kaybettiği hususunun Hacettep Üniversitesi Adli Tıp ABD raporu ile tespit edildiği, mahkememizce aldırılan ve dosya kapsamına ve denetime uygun olmakla hükmün tesisinde esas alınan aktüer bilirkişi tarafından yapılan hesaplama neticesinde davacının 12.240,56-TL geçici iş göremezlik zararı, 116.441,17-TL sürekli iş göremezlik zararı ve 5.886,00-TL bakıcı gideri hesaplandığı anlaşılmıştır. Davacı vekili 08/09/2022 tarihli ıslah dilekçesi ile: 116.441,17-TL sürekli, 12.240,56-TL geçici iş göremezlik ile 5.886,00-TL bakıcı ihtiyacı tazminatı talep etmiştir.
+Toplanan tüm deliller ve dosya kapsamına uygun olmakla hükme esas alınan bilirkişi raporları neticesinde davacının talebinde haklı olduğu kabul edilmekle, davanın kabulüne karar verilmiştir.
+Davacı tarafından kaza tarihi itibariyle avans faize hükmedilmesi istenilmişse de davalı sigorta şirketinin 05/04/2021 tarihi itibariyle temerrüde düşmüş olacağı ve kazaya karışan araç hususi nitelikte olduğundan yasal faize hükmedilebileceği kanaatine varılmış ve aşağıdaki şekilde hüküm tesis edilmiştir.
+HÜKÜM: Ayrıntısı yukarıda açıklandığı üzere;
+1-Davanın KABULÜNE,
+116.441,17 TL sürekli iş gücü kaybı tazminatı, 12.240,56 TL geçici iş gücü kaybı tazminatı, 5.886,00 TL bakıcı gideri tazminatının 05/04/2021 tarihinden itibaren işleyecek yasal faiziyle davalıdan tahsili ile davacıya verilmesine,
+2) 492 sayılı Harçlar Kanunu uyarınca alınması gereken 9.192,32 TL harçtan, dava açılışında alınan 59,30 TL peşin harç ile yargılama sırasında yatırılan 427,00 TL ıslah harcı olmak üzere toplam 486,30 TL harcın düşülmesi ile eksik alındığı anlaşılan 8.706,02 TL harcın davalıdan alınarak hazineye gelir kaydedilmesine,
+3) 6102 sayılı Türk Ticaret Kanununun 5/A ve 6325 sayılı Hukuk Uyuşmazlıklarında Arabuluculuk Kanununun 18/A-13. maddesi uyarınca alınması gereken 1.320,00 TL arabuluculuk ücretinin davalıdan alınarak hazineye gelir kaydedilmesine,
+4) Davacının yargılama sırasında yapmış olduğu 59,30 TL peşin harç, 427,00 TL ıslah harcı, 59,30 TL başvurma harcı, 146,60 TL tebligat ücreti, 1.900,00 TL bilirkişi ücreti, olmak üzere toplam 2.592,20 TL yargılama giderinin davalıdan alınarak davacıya verilmesine,
+5) Davacının yargılamada vekil ile temsil edildiği anlaşıldığından yürürlükte bulunan Avukatlık Asgari Ücret Tarifesi uyarınca hesaplanan 21.185,16 TL vekalet ücretinin davalıdan alınarak davacıya verilmesine,
+6) Taraflarca yatırılan ve kullanılmayan gider ve delil avansının HMK'nin 333. maddesi uyarınca karar kesinleştikten sonra Hukuk Muhakemeleri Kanunu Gider Avansı Tarifesinin 5. maddesi dikkate alınarak yatıranlara iadesine,
+Dair, taraf vekillerinin yüzüne karşı, kararın tebliğden itibaren 2 hafta içerisinde Ankara Bölge Adliye Mahkemeleri'nde İstinaf yolu açık olmak üzere verilen karar açıkça okunup usulen anlatıldı.21/09/2022

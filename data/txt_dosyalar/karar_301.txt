@@ -1,0 +1,78 @@
+SIRA NO: 301 (ÇEKİRDEK)
+DOKÜMAN ID: 1218487000
+DERECE: İlk Derece Mahkemesi
+DAİRE / MAHKEME: Ankara 4. Asliye Ticaret Mahkemesi
+ESAS NO: 2023/243
+KARAR NO: 2025/903
+KARAR TARİHİ: 25.12.2025 (Yıl: 2025)
+ARAMA KELİMESİ: trafik kazası aktüer bilirkişi raporu net tutar
+SAYFA NO: 12
+İNDİRME ZAMANI: 2026-10-25 00:43:47
+HESAP DOĞRULAMA ADAYI: True
+İÇERİK HASH (MD5): e68f073d8ec1d45437d1e589c2804e60
+================================================================================
+
+T.C. ... 4. ASLİYE TİCARET MAHKEMESİ Esas-Karar No: 2023/243 Esas - 2025/903
+TÜRK MİLLETİ ADINA
+T.C.
+...
+4. ASLİYE TİCARET MAHKEMESİ
+GEREKÇELİ KARAR
+ESAS NO : 2023/243 Esas
+KARAR NO : 2025/903
+HAKİM : ...
+KATİP : ....
+MÜTEVEFFA : ....
+DAVACILAR : ...
+1- ...
+2- ...
+3- ... ...
+VEKİLİ : Av. ...
+DAVALI : ... ....
+VEKİLLERİ : Av...
+Av. ...
+Av. ....
+VEKİLİ : Av. ...
+[16310-13857-72875] UETS
+DAVA : Tazminat (Haksız Fiilden Kaynaklanan)
+DAVA TARİHİ : 07/04/2023
+KARAR TARİHİ : 25/12/2025
+GEREKÇELİ KARARIN
+YAZILDIĞI TARİH : 23/01/2025
+Mahkememizde görülmekte olan Tazminat (Haksız Fiilden Kaynaklanan) davasının yapılan açık yargılaması sonunda,
+DAVA:
+Davacı vekili dava dilekçesinde özetle, 24/01/2023 tarihinde sürücü .... plakalı aracın müvekkili ...'e çarpması sonucu tek taraflı, yaralanmalı trafik kazası meydana geldiğini, bu kazada adı geçen dava dışı sürücünün kusurlu olduğunu, müvekkilin ağır yaralanarak sürekli ve geçici iş göremezlik ile bakıcı gideri zararına uğradığını, kazaya karışan aracın davalı sigorta şirketi nezdinde ZMMS sigorta poliçesi ile sigortalandığını, davalının olay nedeniyle tazmin yükümlülüğünün bulunduğunu, dava öncesinde arabuluculuk aşamasında anlaşma sağlanamadığını ileri sürerek açtığı, belirsiz alacak davasında müvekkilinin sürekli iş göremezlik zararı için şimdilik 100,00-TL, geçici iş göremezlik zararı için şimdilik 50,00-TL ve bakıcı gideri zararı için şimdilik 50,00-TL olmak üzere toplam 200,00-TL maddi tazminatın davalıdan tahsiline karar verilmesine talep ve dava etmiştir.
+Davacı vekili 26/06/2025 tarihli talep artırım dilekçesi ile talebini sürekli iş göremezlik tazminatı yönünden 421.622,68-TL'ye, geçici iş göremezlik tazminatı yönünden 74.429,55-TL'ye, bakıcı gideri tazminatı yönünden 17.013,60-TL'ye yükseltmiştir.
+CEVAP :
+Davalı vekili dilekçesinde özetle; hak düşürücü sürelerin ve zamanaşımının dolduğunu, davacı tarafından sigorta kuruluşuna usulüne uygun bir başvuru yapılmadığını bu sebeple dava ön şartı yokluğu nedeniyle davanın reddi gerektiğini, başvuruda gerekli evrakların sunulmaması nedeniyle şirketin temerrüdünün söz konusu olmadığını, kazanın oluşumunda müvekkilince sigortalanan aracın sürücüsünün kusurunun bulunmadığını, davacının sürekli maluliyetinin henüz oluşmadığını ve bu durumun ancak kazadan on iki ay sonra tespitinin mümkün olabileceğini, maluliyet tespiti için .. yetkilendirilmiş hastanelerden alınacak kurul raporunun esas alınması gerektiğini, davacının geçici iş göremezlik ve bakıcı gideri taleplerinin Sosyal Güvenlik Kurumunun sorumluluğunda olduğunu, aktüer hesabında %1.65 teknik faiz ve... yaşam tablosunun esas alınması gerektiğini, davacıya Sosyal Güvenlik Kurumu tarafından ödeme yapılıp yapılmadığının tespiti ile varsa yapılacak ödemelerin mahsubu gerektiğini ve faiz taleplerinin de hukuka aykırı olduğunu savunarak davanın reddini istemiştir.
+DELİLLER :
+1-) Davacıya ait tedavi belgeleri.
+2-) Takipsizlik kararı
+3-) Mirasçılık belgesi
+4-)Bilirkişi raporları (... Trafik İhtisas Dairesi Başkanlığı'ndan alınan adli tıp raporu, Hacettepe Üniversitesi Anabilim Dalı Başkanlığı'ndan alınan rapor ve aktüer bilirkişi raporu)
+DELİLLERİN DEĞERLENDİRİLMESİ VE GEREKÇE:
+Dava, davacı yayanın uğradığı trafik kazası sebebiyle geçiçi ve sürekli iş göremezlik ve bakıcı giderlerine yönelik maddi tazminat istemlerine ilişkindir.
+Dava, belirsiz alacak davası olarak açılmış olup davacının sigorta şirketine başvuruda bulunduğu email yoluyla yapılan başvurunun yeterli olduğu kanaatine varılmakla davacı tarafın dava ön şartı yokluğuna dair itirazına itibar edilememiştir.
+2918 sayılı Karayolları Trafik Kanunu’nun (KTK) 109 uncu maddesi uygulanacaktır. Anılan düzenleme uyarınca motorlu araç kazalarından doğan maddi zararların tazminine ilişkin talepler, zarar görenin, zararı ve tazminat yükümlüsünü öğrendiği tarihten başlayarak iki yıl ve herhâlde, kaza gününden başlayarak on yıl içinde zamanaşımına uğrar. Dava, cezayı gerektiren bir fiilden doğar ve ceza kanunu bu fiil için daha uzun bir zamanaşımı süresi öngörmüş bulunursa bu süre, maddi tazminat talepleri için de geçerlidir. Olay 24/01/2023 tarihinde gerçekleşmiş olup, davada henüz zamanaşımı süresinin dolmadığı anlaşılmakla, davalının zamanaşımı def'ine itibar edilmeksizin yargılamaya devam olunmuş ve davada hak düşürücü süreye ilişkin bir sınırlama bulunmadığından bu yöne ilişkin itirazın da reddi gerekmiştir.
+Ayancık Sulh Hukuk Mahkemesi'nin 27/06/2025 tarih 2025/387 Esas, 2025/405 karar sayılı ilamı uyarınca; " muris ... 'in, 03/03/2025 tarihinde ölümü ile miras meselesi 3 pay olarak kabul edilerek, bundan; 1 payın ... ve ... 'dan olma 19/01/1982 doğumlu .... T.C. nolu ... 'e, 1 payın ... ve ... 'dan olma 23/07/1985 doğumlu ... T.C. nolu ... 'ya, 1 payın ... ve ... 'dan olma 29/11/1988 doğumlu ....T.C. nolu ... ... 'ya aidiyetine, verasetin bu şekilde sübutuna, " dair karar verildiği anlaşılmıştır.
+Mahkememizce davacının yargılama sırasında ölümü nedeniyle mirasçıların davaya dahili sağlanmıştır.
+Kaza tespit tutanağından olay mahallinde yolun;tek yönlü yol, kavşak, yatay güzergahta düz, düşey güzergahta eğimsiz, zeminin asfalt, yol yüzeyinin ıslak-nemli, havanın açık, görüşe engel cismin bulunmadığı, kaza yerindeki azami hız limitinin 50 km/s, vaktin gündüz, mahallin meskun olduğu, trafik ışıklarının bozuk olduğu anlaşılmış olup, kazanın oluşumunda sürücü Mustafa Sönmez'in 2918 sayılı K.T.K.'nın 52/1-b maddesini ihlal ettiği, yaya ...'in aynı kanunun 68/1-c maddesini ihlal ettiği şeklinde tespitte bulunduğu anlaşılmıştır.
+Sinop SGK İl Müdürlüğü 17.04.2023 tarih ve....023 tarihinde geçirdiği kaza nedeniyle rücuya tabi herhangi bir ödeme yapılmadığının bildirildiği anlaşılmıştır.
+Hacettepe Üniversitesi Adli Tıp Anabilim Dalı Başkanlığının.... sayılı raporunda, davacı ...'in 11.01.2018 tarihinde geçirmiş olduğu trafik kazası neticesinde kişinin engellilik oranının % 23 olduğu, bakıcı ihtiyaç süresinin 2 ay olduğu, 9 ay süre ile iş göremezlik halinde kaldığı şeklinde tespite yer verildiği anlaşılmıştır.
+Adli Tıp Kurumu Başkanlığı ... Trafik İhtisas Dairesi Başkanlığının 28.09.2023 tarih ve 7700 sayılı raporunda, olayda; Sürücü Mustafa Sönmez'in % 85 (yüzde seksen beş) oranında kusurlu, Davacı yaya ...'in % 15 (yüzde on beş) oranında kusurlu olduğu tespitine yer verildiği anlaşılmıştır.
+27/03/2025 tarihli bilirkişi raporunda; " 2025 yılı güncel asgari ücret verileri, TRH 2010- Progresif rant el0 arttırım ve “610 eksiltim) yöntemine göre yapılan hesaplama sonucunda davacı ...”in; 1-Geçici işgöremezlikten kaynaklanan tazminat tutarının 74.429,55 TL, 2- Sürekli işgücü kaybından kaynaklanan tazminat tutarının 421.622,68 TL, 3- Geçici bakıcı giderinden kaynaklanan tazminat tutarının 17.013,60 TL olduğu, 4- Sayın Mahkeme tarafından davacı yanın sigorta şirketine başvurusunun geçerli olduğunun kabulü halinde; sigorta şirketinin temerrüde dü 06.03.2023'den itibaren yasal faiz yürütülerek (Sayın Mahkemenin aksi kanaatte olması durumunda arabuluculuk başvuru tarihinden itibaren yasal faiz yürütülerek), tazminat talebinde bulunabileceği, (... Bam 35 HD. 21.02.2025 tarih, 2024/1386 E. 2025/230 K. sayılı ilamı, Yargıtay 4. HD. 2021/18933 E. 2021/4438 K. Sayılı ilamı) 5- Olay tarihinde (24.01.2023) itibariyle ZMSS poliçesi ölüm-sakatlanma (klozu) limit tutarının 1.200.000,00 TL olduğu" şeklinde görüş bildirilmiştir.
+Somut uyuşmazlıkta 24.01.2023 tarihinde dava dışı sürücü .... sevk ve idaresindeki ....plaka sayılı kamyonet ile .... Caddesi üzerinden Köprübaşı Kavşağı istikametine seyir halinde iken olay mahalli kavşakta sola dönüş manevrası yaptığı esnada aracının sol ön kısımları ile; kavşak içerisinde yolun karşısına geçmek üzere yol üzerinde beklemekte olan davacı yaya ...'e çarpması neticesinde dava konusu yaralanmalı trafik kazası meydana geldiği davacının olay nedeniyle geçici iş göremezlik, sürekli iş göremezlik ve bakıcı gideri zararlarının bulunduğu iddiası ile kazaya karışan aracın ZMMS sigorta poliçesi sigortacısı davalı şirket aleyhinde eldeki maddi tazminat davasını açtığı anlaşılmıştır.
+Tüm dosya kapsamı, taraf iddia ve savunmaları, toplanan deliller ile hüküm kurmaya ve denetime elverişli bilirkişi raporu doğrultusunda uyuşmazlık ele alınmakla; 24/01/2023 tarihinde meydana gelen trafik kazası nedeniyle davacının cismani zarara uğradığı olay sonrasında başlatılan soruşturma neticesinde Ayancık Cumhuriyet Başsavcılığı'nın 2023/133 soruşturma sayılı dosyası üzerinden takipsizlik kararı verildiği, mahkememizce trafik bilirkişisinden alınan kusur raporunda; " dava dışı sürücü....'in sevk ve idaresindeki kamyonet ile olay mahalli kavşaktan sola manevra ile dönüş yaptığı esnada görüş alanını kontrolü altında bulundurması, kavşak içerisinden karşıdan karşıya geçmek isteyen yayaya ilk geçiş hakkını vermesi gerekirken bu hususlara riayet etmediği, kontrolsüz bir şekilde sola manevra ile dönüşe geçtiği sırada karşıdan karşıya geçmek üzere kavşak içerisinde beklemekte olan yayaya önlemsizce çarptığı bu nedenle gerçekleşen kazada asli kusurlu olduğu, davacı yaya ... yönünden ise olay mahalli kavşaktan karşıdan karşıya geçmek üzere kaplama üzerinde bulunduğu esnada dönüş yapan araçtan gerekli korunma tedbiri almadığı, bu haliyle mevzu bahis aracın çarpmasına maruz kaldığı olayda alt düzeyde tali kusurlu olduğu bu nedenle sürücü Mustafa Sönmez'in % 85, davacı ...'in % 15 oranında kusurlu olduğu, maluliyete ilişkin alınan adli tıp raporunda 20/02/2019 tarih ve 30692 sayılı Resmi Gazete'de yayımlanan “Erişkinler İçin Engellilik Değerlendirilmesi Hakkındaki Yönetmelik” ve ekindeki cetveller esas alınmak kaydıyla bedensel engel oranı hesaplandığında; davacının kaza zamanında 65 yaşın üzerinde olması nedeniyle yönetmeliğin 10/(4) maddesine göre hesaplanan engellilik oranına Balthazard formülü ile % 10 eklendiğinde 24/01/2023 tarihli trafik kazasına bağlı kişinin bedensel engel oranının % 23 olduğu, sekel halini aldığı ve sakatlık halinin sürekli olduğu, kaza nedeniyle davacının tedavisine başlanmasından itibaren tedavi süresince bakıcı ihtiyacı süresinin kişinin yaşı da dikkate alındığında 2 ay olduğu, Tıbbi iyileşme süresinin yaşı da dikkate alındığında 9 aya kadar uzayabileceğinin tespit edildiği, mahkememizce bu defa aktüer bilirkişi raporu alınmış olup 11.04.2023 tarihli ekonomik ve sosyal durum araştırma tutanağında davacının işsiz olduğu ve aylık gelirinin olmadığı belirtilmiştir. Olay tarihinde 73 yaşında ve pasif dönemde olan davacının Yargıtay Kararları gereğince tazminat hesabına esas kazancının emekli olarak pasif döneme girdiğinden pasif dönem zararına esas alınacak ücret, bir çalışmanın karşılığı değil, ekonomik bir değer taşıyan yaşamsal faaliyetlerin sürdürülmesinin karşılığı olduğundan, asgari geçim indirimi uygulanmamış asgari ücret olması gerekmektedir. Dolayısıyla davacı adına yapılacak tazminat hesabında AGİ'siz asgari ücret üzerinden hesaplamaya yapılması gerektiği ancak 01.01.2022 itibariyle asgari ücretten AGİ uygulaması kaldırıldığından net asgari ücretler üzerinden hesaplama yapılarak 2025 yılı güncel asgari ücret verileri, TRH 2010- Progresif rant (%10 arttırım ve %10 eksiltim) yöntemine göre yapılan hesaplama sonucunda davacı ...”in; geçici işgöremezlikten kaynaklanan tazminat tutarının 74.429,55 TL, sürekli işgücü kaybından kaynaklanan tazminat tutarının 421.622,68 TL, geçici bakıcı giderinden kaynaklanan tazminat tutarının 17.013,60 TL olduğu yönünde tespitte bulunulduğu olay tarihinde olaya karışan aracın davalı sigorta şirketi nezdinde ZMSS poliçesi ile sigortalandığı poliçedeki ölüm-sakatlanma (klozu) limit tutarının 1.200.000,00 TL olduğu anlaşılmakla oluşan cismani zarardan davalı sigorta şirketinin sorumluluğu bulunduğu kanaatine varılmakla, davacının yargılama sırasında ölümü üzerine mirasçıları davaya dahil edilerek ıslah dilekçesi doğrultusunda aşağıdaki şekilde hüküm tesis edilmiştir.
+HÜKÜM: Gerekçesi yukarıda açıklandığı üzere;
+1-Davanın KABULÜNE,
+Taleple bağlı kalınarak sürekli iş görememezlik, geçici iş görememezlik ve bakıcı giderlerinden oluşan toplam 512.865,83 TL maddi tazminatın temerrüt tarihi olan 24/01/2023 tarihinden itibaren işleyecek yasal faizi ile birlikte davalıdan alınarak davacılara dosya kapsamındaki veraset ilamındaki miras payları oranında verilmesine,
+2-Alınması gereken 35.033,86 TL harçtan 1.755,00 TL ıslah harcının düşümü ile kalan 33.278,86 TL harcın davalıdan alınarak Hazine’ye gelir kaydına, ‬‬
+3-Davacı tarafından yatırılan 25,60 TL vekalet harcı ile 1.755,00 TL ıslah harcı toplamı olan 1.780,6 TL 'nin davalıdan tahsili ile davacılara ödenmesine,
+4-Davacı tarafından yapılan tebligat ve posta masrafı 1.019,00 TL ile 5.000,00TL bilirkişi ücretin ve 2.940,00 TL adli tıp ücreti toplamı olan 8.959,00 TL yargılama giderinin davalıdan alınarak davacılara ödenmesine,
+5-Davacı kendisini vekil ile temsil ettirdiğinden karar tarihinde yürürlükte bulunan AAÜT uyarınca hesaplanıp takdir edilen 82.058,53 TL vekâlet ücretinin davalıdan alınarak davacılara verilmesine,
+6-Arabuluculuk aşamasında harcanan 3.120,00 TL giderin davalıdan tahsili ile hazineye gelir kaydına,
+Dair; taraf vekillerinin yokluğunda, gerekçeli kararın tebliğinden itibaren 2 hafta içerisinde verilecek dilekçe ile ... Bölge Adliye Mahkemesine İstinaf yolu açık olmak üzere verilen karar açıkça okunup usulen anlatıldı. 25/12/2025
+Katip ....
+¸
+Hakim ....
+¸

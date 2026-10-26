@@ -1,0 +1,41 @@
+SIRA NO: 230 (ÇEKİRDEK)
+DOKÜMAN ID: 491950100
+DERECE: İlk Derece Mahkemesi
+DAİRE / MAHKEME: İstanbul 12. Asliye Ticaret Mahkemesi
+ESAS NO: 2015/357
+KARAR NO: 2018/1246
+KARAR TARİHİ: 18.12.2018 (Yıl: 2018)
+ARAMA KELİMESİ: trafik kazası aktüer bilirkişi raporu net tutar
+SAYFA NO: 2
+İNDİRME ZAMANI: 2026-10-25 00:20:25
+HESAP DOĞRULAMA ADAYI: True
+İÇERİK HASH (MD5): b8a59797b6839d29dcfa5e3ebba16f1f
+================================================================================
+
+T.C.
+İSTANBUL
+12. ASLİYE TİCARET MAHKEMESİ
+ESAS NO : 2015/357 Esas
+KARAR NO : 2018/1246
+DAVA : Tazminat (Ölüm Ve Cismani Zarar Sebebiyle Açılan Tazminat)
+DAVA TARİHİ: 02/04/2015
+KARAR TARİHİ: 18/12/2018
+Mahkememizde görülmekte olan Tazminat (Ölüm Ve Cismani Zarar Sebebiyle Açılan Tazminat) davasının yapılan açık yargılaması sonunda,
+GEREĞİ DÜŞÜNÜLDÜ:
+DAVA:Davacı vekili dava dilekçesinde, müvekkilinin, sürücü...'in sevk ve idaresindeki ... plaka sayılı otobüste yolcu olarak seyahat ettiği sırada sigortası bulunmayan ... plakalı araç ile yaptığı yaralamalı, ölümlü ve maddi hasarlı trafik kazası meydana geldiğini, diğer aracın kural ihlali yaptığının tespit edildiğini, müvekkilinin ... Devlet Hastanesinin Özürlü Sağlık Kurul Raporu ile %18 oranında daimi suretle malul kaldığı davalı tarafın ilgili rapora itirazı üzerine belirlenen hakem hastaneder rapor alındığı, davalı kurumun bu rapora ilişkin de herhangi bir ödeme yapmamış, dosyayı sürüncemede bırakıp müvekkilinin mağduriyetine sebep olduğunu belirterek sürekli iş görmezlik tazminatının olay tarihinden işleyecek avans faiziyle birlikte davalıdan tahsiline, yargılama giderleri ve vekalet ücretinin davalıya tahmiline karar verilmesini talep ve dava etmiştir.
+CEVAP: Davalı vekili vermiş olduğu cevap dilekçesi ile;, davacı tarafın meydana gelen trafik kazası sonucunda tazminat talebinde bulunduğunu, ancak kaza tarihi itibariyle geçerli olan ve ceza yargılamasında uygulanan TCK'da öngörülen ceza zamanaşımı süresininde dolduğu, kazaya sebep olan araç ile müvekkilinin sorumluluğunun bulunmadığını, dosyanın Adli Tıp Kurumu Trafik İhtisas Dairesi, İTÜ veya Karayolları Fen Heyeti gibi kuruluşlardan seçilecek bilirkişi heyetine tevdi edilerek tarafların kusur oranlarının duraksamaya yer verilmeyecek şekilde rapor alınması gerektiği, davacının kazanç durumunun kesin belgelerle ispat etmesi, edemeği taktirde asgari ücrete göre hesaplama yapılması gerektiği, müvekkinin kaza tarihi itibariyle temerrüde düşmediğini, dava konusu taleple ilgili muaccel bir alacağında olmadığını, müvekkiline TTK hükümlerinden kaynaklanan ticari sorumluluk yüklenemeyeceğini, meydana gelen trafik kazası sonucunda ... plaka sayılı aracın malikinin ve sürücüsünün davaya ihbarı gerektiğini belirterek davanın reddini, lehlerine vekalet ücreti taktirine, yargılama giderinin davacı üzerinde bırakılmasını talep ve beyan etmiştir.
+DELİLLERİN DEĞERLENDİRİLMESİ VE GEREKÇE:
+Dava trafik kazası nedeniyle sürekli işgöremezlik-maluliyet tazminatı davası olup, davacının tedavi olduğu hastanenin tedavi kayıtları, sigorta şirketindeki hasar dosyası dosyamız arasına alınmıştır.
+Davacı asil İstanbul Adli Tıp Kurumuna sevk olunmuş, Adli Tıp Kurumunun ... oğlu, ... doğumlu ...’ın 02.03.2012 tarihinde geçirdiği trafik kazasına bağlı arızasının 11.10.2008 tarih ve 27021 sayılı Resmi Gazete'de yayımlanan Çalışma Gücü ve Meslekte Kazanma Gücü Kaybı Oranı Tespit İşlemleri Yönetmeliğinden yararlanılarak ve meslek grup numarası bildirilmemekle Grup 1 kabul olunarak:Gr1 XII (6a…….…25)A% 29x1/3= 9.66 E cetveline göre %8.2(yüzdesekiznoktaiki) oranında meslekte kazanma gücünden kaybetmiş sayılacağı, İyileşme (işgöremezlik) süresinin olay tarihinden itibaren 9 (dokuz)aya kadar uzayabileceği, oy birliği ile mütalaa olunur şeklinde rapor sunulmuştur.
+Dosya trafik ve aktüer kusur bilirkişisine tevdii olunmuş, bilirkişi raporunda" Kusur Yönüyle: Davacının yolcu olarak bulunduğu otomobilin dava dışı müteveffa sürücüsü ...'ün hatalı davranışının olayın meydana gelişinde TAMAMEN (takdiren %100- yüzde yüz oranında) etkili olduğu, Otobüsün dava dışı sürücüsü...'in herhangi bir hatalı davranışının bulunmadığı Tazminat Hesabı Yönüyle: Hesaplamanın yapıldığı 06,08.201 K tarihine göre bulunan maddi tazminat tutarı 63.712,34 TL olduğu, Davalı sigorta şirketi tarafından davaeı adına 05.11.2013 tarihinde yapılan ödeme 41.571.00 TL olduğu, Ödemenin yapıldığı döneme göre hesaplanan maddi tazminat tutarının 36.904,09 TL olduğu, Yargıtay kararı gereğince, davalı sigorta şirketi tarafından davacı adına yapılan ödemenin, ödemenin yapıldığı döneme göre yeterli olduğu, bakiye tazminat talebinin yerinde olmadığı" şeklinde raporunu sunmuştur.
+Netice olarak, kusur ve aktüer bilirkişi raporlarındaki açıklamalar mahkememizce de yerinde görülmüş, dosya içerisinde bulunan kaza tespit tutanağındaki olayın oluş şekli ve kusur durumuna ilişkin açıklamalar mahkememizce de uygun bulunmuş, mevzuat ve uygulamaya uygun hükme esas alınmaya elverişli rapor sunan aktüer bilirkişinin yaptığı hesaplamalar, sosyal ekonomik durum araştırması için ilgili kolluk birimine ve kaza dolayısıyla ödeme yapılıp yapılmadığına ilişkin ilgili ...Müdürlüğüne yazılan müzekkerelere verilen cevaplar ve poliçe limitleri dikkate alınarak; hesaplamanın yapıldığı 06.08.2018 tarihine göre bulunan maddi tazminat tutarının 63.712,34 TL olduğu, davalı sigorta şirketi tarafından davaeı adına 05.11.2013 tarihinde yapılan ödemenin 41.571.00 TL olduğu, ödemenin yapıldığı döneme göre hesaplanan maddi tazminat tutarının 36.904,09 TL olduğu, Yargıtay kararları ve uygulamaları gereğince, davalı sigorta şirketi tarafından davacı adına yapılan ödemenin, ödemenin yapıldığı döneme göre yeterli olduğu, bakiye tazminat talebinin yerinde olmadığı kanaatine varılmakla davanın reddine karar verilmiştir.
+HÜKÜM: Gerekçesi yukarda açıklandığı şekilde;
+1-Davanın reddine,
+2-Alınması gerekli harç 35,90 TL olup, peşin alınan 10,24 TL den mahsubu ile bakiye 25,66 TL harcın davacıdan alınarak hazineye aktarılmasına,
+3-Davacı tarafça yapılan yargılama giderlerinin üzerinde bırakılmasına,
+4-Davalı taraf vekille temsil olunduğundan karar tarihinde yürürlükte bulunan Avukatlık Asgari Ücret Tarifesi uyarınca hesap ve taktir olunan 2.180,00 TL vekalet ücretinin davacıdan alınıp davalıya verilmesine,
+5- Karar kesinleşene kadar yapılacak yargılama giderlerinin davacı gider avansından karşılanmasına, karar kesinleştikten sonra bakiye gider avansının istek halinde taraflara iadesine,
+Dair, davacı vekilinin yüzüne karşı davalı vekilinin yokluğunda kararın tebliğ tarihinden itibaren 2 haftalık kesin süre içerisinde İstanbul Bölge Adliye Mahkemesine istinaf yolu açık olmak üzere karar verildi.
+Katip ...
+Hakim ...
+¸

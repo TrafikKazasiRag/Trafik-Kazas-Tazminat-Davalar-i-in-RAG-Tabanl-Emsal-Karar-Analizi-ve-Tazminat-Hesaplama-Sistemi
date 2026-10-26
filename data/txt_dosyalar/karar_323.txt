@@ -1,0 +1,56 @@
+SIRA NO: 323 (ÇEKİRDEK)
+DOKÜMAN ID: 1206012100
+DERECE: BAM (İstinaf)
+DAİRE / MAHKEME: Antalya Bölge Adliye Mahkemesi 4. Hukuk Dairesi
+ESAS NO: 2023/532
+KARAR NO: 2026/267
+KARAR TARİHİ: 09.04.2026 (Yıl: 2026)
+ARAMA KELİMESİ: sürekli iş göremezlik yıllık ücret bilinen gelir
+SAYFA NO: 1
+İNDİRME ZAMANI: 2026-10-25 00:53:00
+HESAP DOĞRULAMA ADAYI: True
+İÇERİK HASH (MD5): 831083af87899bbe178637a9c7ff3c1a
+================================================================================
+
+T.C.
+ANTALYA
+BÖLGE ADLİYE MAHKEMESİ
+4. HUKUK DAİRESİ
+KARAR TARİHİ:09/04/2026
+T Ü R K M İ L L E T İ A D I N A
+İ S T İ N A F K A R A R I
+İNCELENEN KARARIN
+MAHKEMESİ:Denizli 1. Asliye Ticaret Mahkemesi
+TARİHİ:08/12/2022
+NUMARASI:2021/314 2022/1832
+DAVANIN KONUSU:Tazminat
+KARAR TARİHİ:09/04/2026
+KARAR YAZIM TARİHİ:16/04/2026
+Yukarıda tarih, esas ve karar numarası yazılı ilk derece mahkemesi kararına karşı süresi içinde istinaf kanun yoluna başvurulması üzerine dava dosyası Dairemize gönderilmiş olup inceleme raporu dinlendikten ve dosya içerisindeki tüm belgeler okunup incelendikten sonra işin gereği görüşülüp düşünüldü:
+Davacı vekili dava dilekçesinde özetle davacının kullandığı araç ile davalının sigortaladığı araç arasında gerçekleşen ve karşı araç sürücünün kusurlu olduğunu iddia ettiği trafik kazasında davacının yaralandığını ileri sürüp davalı sigorta şirketinin geçici ve sürekli iş göremezlik tazminatı ödemesine karar verilmesini talep etmiştir.
+Davalı vekili vekili tarafından özetle davanın reddine karar verilmesi talep edilmiştir.
+İlk derece mahkemesince özetle davanın kısmen kabulü ile poliçe limiti ile sınırlı olmak üzere 3.206,58 TL geçici iş göremezlik, 86.793,41 TL kalıcı iş göremezlik zararının temerrüt tarihi olan 07/09/2020 tarihinden itibaren işleyecek yasal faiziyle davalıdan alınarak davacıya verilmesine, fazlaya ilişkin talebin reddine karar verilmiştir.
+Davacı vekili tarafından özetle kusur raporu alınmadan poliçe limitinin 225.000 TL olduğu kabulüyle yazılı şekilde hüküm kurulmasının doğru olmadığı ileri sürülerek istinaf yoluna başvurulmuştur.
+Davalı vekili tarafından özetle zamanaşımı süresinin dolduğu, kusur raporu alınmadığı, kazanın alkol etkisiyle yapılıp yapılmadığına dair rapor alınmadığı, geçici iş göremezlik tazminatından sorumlu olmadıkları, sürekli iş göremezlik halinin oluştuğunu kabul etmedikleri, sürekli iş göremezlik tazminatının % 1,8 tazminat ile hesaplanması gerektiği, davacı lehine faize hükmedilemeyeceği, emniyet kemeri takılmadığından müterafik kusur indirimi yapılması gerektiği, lehe vekâlet ücretine hükmedilmediği, davanın kısmen reddi nedeniyle yargılama giderinin kısmen davacı üzerinde bırakılması gerektiği ileri sürülerek istinaf yoluna başvurulmuştur.
+Duruşma açılmasını gerektiren bir neden bulunmadığından inceleme ve görüşmeler HMK'nin 342, 353, 355 ve 356 maddeleri uyarınca istinaf sebepleri ve kamu düzenine ilişkin hususlarla sınırlı olmak üzere dosya üzerinden yürütülmüştür.
+Dava, yaralamalı trafik kazasından kaynaklanan geçici ve sürekli iş göremezlik tazminatına ilişkindir.
+Zamanaşımı def'inin değerlendirilmemesi, HMK'nin 297. maddesine aykırı bulunmakla ortadan kaldırma kararından sonra ilk derece mahkemesince zamanaşımı yönünden değerlendirme yapılmalıdır.
+6100 sayılı Hukuk Muhakemeleri Kanunu’nun 266 ve devamı maddeleri gereğince, çözümü özel veya teknik bilgiyi gerektiren hâllerde bilirkişinin oy ve görüşünün alınmasına karar verilir.
+Çözümü özel veya teknik bilgiyi gerektiren hâllerden olduğundan trafik kazalarındaki kusur durumu ve oranı ile kazanın münhasıran alkolün etkisinde oluşup oluşmadığının bilirkişi raporu alınarak incelenmesi gerekir. O halde diğer dosyalardaki kusur durumu ile ilgili tüm raporlar değerlendirilmek suretiyle kusur durumu ve oranı için ayrıca kazanın münhasıran alkolün etkisinde oluşup oluşmadığına yönelik İstanbul ATK'den rapor alınarak sonucuna göre karar verilmelidir.
+Dava konusu olayda davacının kullandığı araç ile dava dışı sürücünün kullandığı aracın ışıklı kavşakta karıştıkları trafik kazasında davacı yaralanmıştır.
+Haksız fiil sonucu çalışma gücünde kayıp olduğu iddiası ve buna yönelik bir talebin bulunması hâlinde, zararın kapsamının tespiti açısından varsa geçici iş göremezlik süresi ile sürekli iş göremezlik oranının doğru bir şekilde belirlenmesi gerekmektedir. Söz konusu belirlemenin ise bağlı oldukları mevzuat uyarınca sağlık kurulu raporu vermeye yetkili hastanelerin adli tıp anabilim dalı başkanlıkları ve benzeri kuruluşların çalışma gücü kaybı olduğu iddia edilen kişide bulunan şikâyetler dikkate alınarak oluşturulacak uzman doktor heyetince kaza tarihinde yürürlükte bulunan mevzuata göre yapılması gerekir.
+Somut olay bakımından kaza tarihi gözetildiğinde geçici iş göremezlik süresi ile sürekli iş göremezlik oranınına ilişkin raporun Çalışma Gücü ve Meslekte Kazanma Gücü Kaybı Oranı Tespit İşlemleri Yönetmelik hükümlerine uygun olarak hazırlanması gerekmektedir. Dosyada bu Yönetmelik hükümlerine göre hazırlanmış üç adet rapor bulunmaktadır. SDÜ tarafından hazırlanan raporda geçici iş göremezlik süresi on sekiz ay, sürekli iş göremezlik oranı % 45,2, PAÜ tarafından hazırlanan raporda geçici iş göremezlik süresi altı ay sürekli iş göremezlik oranı % 39,2, ATK Üçüncü İhtisas Kurulu tarafından hazırlanan raporda geçici iş göremezlik süresi altı ay, sürekli iş göremezlik oranı % 0 olarak belirtilmiştir. Bu haliyle raporlar arasında çelişki oluşmuş olup bu çelişkinin giderilmesi için Adlî Tıp Kurumu Kanunu'nun 15. Maddesi uyarınca Adli Tıp Kurulundan sürekli iş göremezlik oranı için yeniden bir rapor alınmalı ve sonucuna göre hüküm kurulmalıdır.
+Geçici ve sürekli iş göremezlik tazminatının hesaplanmasında davacının gelirinin belirlenmesi tazminatın doğru tespitinde önemli bir yer tutmaktadır.
+Aktüer bilirkişi tarafından tazminatın TRH 2010 Yaşam Tablosuna göre muhtemel bakiye ömür belirlenerek, % 1,8 teknik faiz kullanılmadan, rapor tanzim tarihine kadar gerçekleşen zararın bilinen veriler nazara alınarak iskonto uygulanmadan, bilinmeyen/işleyecek devre hesabı yapılırken bilinen son gelirin her yıl için % 10 artırılıp % 10 iskonto edilmesi esasına dayalı progresif rant yöntemiyle hesaplanması gerekmektedir.
+Bilinen dönem, kaza tarihinden karar tarihine kadar gelirdeki tüm değişiklikler dikkate alınarak belirlenir ve karar tarihine en yakın tarihteki gelir, bilinmeyen dönem için de progresif rant usulüyle hesaplanır.
+Hesaplama yapılırken, davacının kaza tarihindeki ve hesap tarihine kadarki gelirini gösteren belgelerin temin edilerek, saptanan gelir üzerinden hesap tarihine kadar elde edilebilecek gelirlerin belirlenmesi, belirlenen gelirler üzerinden, işlemiş (bilinen) dönem zarar hesabının yapılması; işleyecek dönem hesabında ise davacının hesap tarihinde bilinen son gelirinin uygulanması gerekmektedir.
+Somut olayda dava konusu trafik kazası 26/01/2013 tarihinde meydana gelmiştir. Davacının 2022 yılındaki maaş bordrosu celp edilmiş, aktüer bilirkişi bu maaş bordrosunu esas alarak aylık geliri belirleyip raporunu hazırlamıştır. Davacı, 2013-2022 yılları arasında ... Bankası ve Üniversitede 5434 sayılı Kanuna tabi olarak çalışmıştır. Bu durum karşısında kaza tarihi ile hesap tarihi arasındaki maaş bordroları dosya arasına alınmalı, bu suretle işlemiş dönem hesabında davacının kaza tarihinden hesap tarihine kadar bilinen gelirlerinin uygulandığı, hesap tarihinden sonraki dönem olan işleyecek dönem için davacının bilinen son gelirinin uygulandığı ek rapor alınarak oluşacak sonuca göre karar verilmesi gerekirken hüküm kurmaya elverişli olmayan bilirkişi raporu hükme esas alınarak yazılı şekilde karar verilmesi doğru bulunmamıştır.
+Geçici iş göremezlik tazminatı yönünden, davacının 5434 sayılı Kanuna tabi olarak çalıştığı ileri sürülmekle davacının geçici olarak çalışamadığı sürede maaşını alıp almadığı; buna göre davacının geçici süreyle çalışamamasından dolayı maddi bir kaybı olup olmadığının araştırılması gerekmektedir.
+Sigorta şirketleri, zorunlu mali sorumluluk sigortasında kaza tarihinde geçerli olan poliçe teminat limitleri dahilinde sorumludur. Hesaplanan zarar miktarından öncelikle kusur ve müterafik kusur nedeniyle indirim yapılmalı; ondan sonra bulunan miktarın poliçe teminat miktarını aşıp aşmadığı değerlendirilmeli, zarar miktarı poliçe teminat miktarından fazla ise poliçe teminat limiti kadar davalı sigorta şirketinin sorumluluğuna karar verilmelidir.
+Somut olayda aktüer bilirkişi tarafından geçici iş göremezlik tazminatı 8.116,47 TL, sürekli iş göremezlik tazminatı 755.245,32 TL olarak hesaplanmıştır. İlk derece mahkemesince davacının % 50 kusurlu olduğu, müterafik kusur nedeniyle tazminattan % 20 oranında indirim yapılması gerektiği kabul edilmiştir. Bu durumda geçici iş göremezlik tazminatı 3.246,58 TL, sürekli iş göremezlik tazminatı 302.098,12 TL olmalıdır. Bu miktarlar 225.000,00 TL olan poliçe teminat miktarını aştığından tazminatın poliçe teminat limitini aşmayacak şekilde belirlenmesi gerekmektedir. Bu durumda davalı sigorta şirketinin sorumluluğu, geçici iş göremezlik tazminatı için 2.391,79 TL, sürekli iş göremezlik tazminatı için 222.608,21 TL'dir. Hal böyle iken ilk derece mahkemesince 225.000 TL poliçe teminat limiti üzerinden önce % 50 kusur, sonra % 20 müterafik kusur indirimi yapılmak suretiyle tazminat hesaplanmış olup bu hesaplama yukarıda gösterilen hesaplamaya aykırı ve yanlıştır. O halde ortadan kaldırma kararından sonra ilk derece mahkemesince doğru indirim yöntemi uygunlanmak suretiyle poliçe teminat limiti aşmamak kaydıyla hüküm kurulmalıdır.
+Bu itibarla istinaf başvurularının kabulü ile HMK'nin 353/1-a-6 maddesi uyarınca esas incelenmeden kararın kaldırılmasına, yeniden karar verilmek üzere dosyanın kararı veren ilk derece mahkemesine gönderilmesine karar vermek gerekmiştir.
+KARAR:Yukarıda açıklanan nedenler ve gerekçe ile
+1-İstinaf başvurularının kabulü ile HMK'nin 353/1-a-6 maddesi uyarınca esas incelenmeden kararın kaldırılmasına, yeniden karar verilmek üzere dosyanın kararı veren ilk derece mahkemesine gönderilmesine,
+2- Başvuranlar tarafından yatırılan istinaf karar harcının talep halinde başvuranlara iade edilmesine,
+HMK'nin 353/1-a ve 362/1-g maddeleri uyarınca kesin olarak oy birliğiyle 09/04/2026 tarihinde karar verildi.
+...

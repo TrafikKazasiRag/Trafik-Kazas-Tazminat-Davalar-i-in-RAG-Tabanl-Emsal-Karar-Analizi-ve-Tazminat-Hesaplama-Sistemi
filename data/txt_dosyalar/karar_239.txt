@@ -1,0 +1,52 @@
+SIRA NO: 239 (ÇEKİRDEK)
+DOKÜMAN ID: 644523900
+DERECE: İlk Derece Mahkemesi
+DAİRE / MAHKEME: İzmir 1. Asliye Ticaret Mahkemesi
+ESAS NO: 2017/873
+KARAR NO: 2021/347
+KARAR TARİHİ: 30.03.2021 (Yıl: 2021)
+ARAMA KELİMESİ: trafik kazası aktüer bilirkişi raporu net tutar
+SAYFA NO: 3
+İNDİRME ZAMANI: 2026-10-25 00:23:40
+HESAP DOĞRULAMA ADAYI: False
+İÇERİK HASH (MD5): fcf90537defe23208a40105cc3579b43
+================================================================================
+
+T.C.
+İZMİR
+1. ASLİYE TİCARET MAHKEMESİ
+ESAS NO : 2017/873 Esas
+KARAR NO : 2021/347
+DAVA : Tazminat
+DAVA TARİHİ : 28/07/2017
+KARAR TARİHİ : 30/03/2021
+Mahkememizde görülmekte olan Tazminat davasının yapılan açık yargılaması sonunda,
+GEREĞİ DÜŞÜNÜLDÜ:
+DAVA; Davacı vekili mahkememize vermiş olduğu dava dilekçesiyle; 29.07.2009 tarihinde ... plakalı araç sürücüsü ...'ın müvekkilinin sevk ve idaresindeki ... plakalı motosiklete çarpması sonucu maddi hasarlı ve yaralanmalı trafik kazası meydana geldiği, iş bu kazanın oluşumunda ... plakalı araç sürücüsünün asli kusurlu olduğu, ... plakalı aracın davalı sigorta şirketi nezdinde sigortalı olduğu, kazanın ardından müvekkilinin hastanede tedavi gördüğünden bahisle fazlaya ilişkin haklar saklı kalmak kaydıyla davacının kalıcı maluliyetinden kaynaklı şimdilik 1.000,00 TL maddi tazminatın dava tarihinden itibaren işleyecek yasal faizi ile birlikte davalıdan tahsiline karar verilmesini talep etmiştir.
+DAVA DEĞERİNİN ARTTIRILMASI : Davacı vekili sunmuş olduğu 30.11.2020 tarihli dava değerinin arttırılmasına ilişkin dilekçe ile fazlaya ilişkin haklar saklı kalmak kaydıyla bilirkişi raporu doğrultusunda geçici iş göremezlik ve kalıcı iş göremezlik tazminatı olarak toplam 50.807,84 TL'nin davalı sigorta şirketinin temerrüte düştüğü tarihten itibaren işleyecek faizi ile birlikte tahsiline karar verilmesini talep etmiştir.
+CEVAP: Davalı sigorta şirketi vekili mahkememize sunmuş olduğu cevap dilekçesiyle; Dava konusu trafik kazasına karıştığı iddia edilen ... plakalı aracın müvekkili şirket nezdinde sigortalı olduğu, davacı tarafın başvuru şartını yerine getirmediği, davayı kabul anlamına gelmemek kaydıyla müvekkili sigorta şirketinin sorumluluğunun poliçe teminat limitiyle sınırlı olduğu, kaza ile sakatlık arasındaki illiyet bağının tespit edilmesinin gerektiği, yine davayı kabul anlamına gelmemek kaydıyla kusur oranlarının tespit edilmesinin gerektiğinden bahisle açılan davanın reddine, yargılama gideri ve vekalet ücretinin davacıdan tahsiline karar verilmesini talep etmiştir.
+DELİLLER:
+1-Mahkememizce yapılan yargılama sırasında İstanbul ATK Trafik İhtisas Dairesi'nden rapor alınmış olup, düzenlenen 24/12/2018 tarihli raporda ; Dava konusu trafik kazasının meydana gelmesinde davacı sürücü ...'nın %10 oranında kusurlu olduğu, davalı sigortalı araç sürücüsünün %90 oranında kusurlu olduğu sonuç ve kanaatine varıldığı bildirilmiştir.
+2-Mahkememizce yapılan yargılama sırasında davacının maluliyetinin tespiti açısından dosya Karadeniz Teknik Üniversitesi Tıp Fakültesi Hastanesi'ne gönderilmiş olup, düzenlenen 27/05/2020 tarihli rapor sonuç olarak; Davacı ...'nın Çalışma Gücü ve Meslekte Kazanma Gücü Kaybı Oranı Tespit İşlemleri Yönetmeliği'ne göre değerlendirme yapıldığında tıbbi iyileşme süresinin 2 aya kadar uzayabileceği, iş gücü kaybının ise %5,1 olduğu sonuç ve kanaatine varıldığı bildirilmiştir.
+3-Mahkememizce yapılan yargılama sırasında aktüer bilirkişiden rapor alınmasına karar verilmiş olup, aktüer bilirkişi ... tarafından düzenlenen 21.11.2020 tarihli raporda ; Dava konusu trafik kazasında yaralanan davacının geçici iş göremezlikten kaynaklı maddi tazminat alacağının 1.092,96 TL olduğu, %10 kusur indirimi sonrası 983,66 TL olacağı, daimi maluliyetten kaynaklı maddi tazminat alacağının ise 55.360,20 TL olduğu %10 kusur indirimi sonrası 49.824,18 TL olacağı sonuç ve kanaatine varıldığı bildirilmiştir.
+DELİLLER- DELİLLERİN DEĞERLENDİRİLMESİ KABUL:
+Dava; trafik kazası nedeniyle daimi iş göremezlik tazminatının davalı sigorta şirketinden tahsili istemine ilişkindir.
+Davaya konu 29.07.2009 tarihinde meydana gelen trafik kazasında davacı ...'nin sevk ve idaresindeki ... plakalı motosiklet ile dava dışı sürücü ...'ın sevk ve idaresindeki ... plakalı aracın maddi hasarlı ve yaralanmalı trafik kazasına karıştığı, kazaya karışan ... plakalı aracın davalı sigorta şirketi tarafından ZMMS sigorta poliçesiyle kaza tarihini de kapsar şekilde 03.01.2009-03.01.2010 tarihleri arasında geçerli olmak üzere sigorta kapsamına alındığı, meydana gelen trafik kazasında davacının yaralandığı dosya kapsamı belgelerden anlaşılmıştır.
+Taraflar arasındaki ihtilaf davaya konu trafik kazası nedeniyle davacıda daimi maluliyet oluşup oluşmadığı, bu kapsamda davacı tarafça talep edilen tazminat istemlerinin yerinde olup olmadığı ve davaya konu sigorta poliçesi kapsamında davalı sigorta şirketinin talep edilen tazminattan sorumlu olup olmadığı noktasında toplanmaktadır.
+Mahkememizce yapılan yargılama sırasında davaya konu trafik kazası nedeniyle tarafların kusur oranlarının tespiti açısından İstanbul ATK Trafik İhtisas Dairesinden rapor alınmış olup, düzenlenen raporda dava konusu trafik kazasının meydana gelmesinde davacı sürücü ...'nın %10 oranında, davalı sigortalı araç sürücüsünün ise %90 oranında kusurlu olduğu sonuç ve kanaatine varıldığı bildirilmiş olup, kusur oranlarına ilişkin iş bu rapor mahkememizce aynen benimsenerek hükme esas alınmıştır.
+Yine mahkememizce yapılan yargılama sırasında dava konusu trafik kazası nedeniyle davacının maluliyetine ilişkin olarak rapor alınmış olup, Karadeniz Teknik Üniversitesi Tıp Fakültesi Hastanesi'nce düzenlenen raporda sonuç olarak; Davacı ...'nın Çalışma Gücü ve Meslekte Kazanma Gücü Kaybı Oranı Tespit İşlemleri Yönetmeliği'ne göre değerlendirme yapıldığında tıbbi iyileşme süresinin 2 aya kadar uzayabileceği, iş gücü kaybının ise %5,1 olduğu sonuç ve kanaatine varıldığı bildirilmiş olup, iş bu rapor aynen benimsenerek hükme esas alınmıştır.
+Yine mahkememizce yapılan yargılama sırasında davacının dava konusu trafik kazası nedeniyle kalıcı maluliyetten kaynaklı tazminat isteminin yerinde olup olmadığının tespiti açısından aktüer bilirkişiden rapor alınmış olup, düzenlenen raporda dava konusu trafik kazası nedeniyle davacının %5,01 oranındaki kalıcı maluliyeti dikkate alınarak yapılan hesaplama neticesinde davacının sürekli maluliyetten kaynaklı maddi tazminat alacağının 55.360,20 TL olduğu, dava konusu olaydaki %10 kusuru dikkate alındığında talep edebileceği tazminat tutarının 49.824,18 TL olduğu hesaplanmış olup, iş bu rapor mahkememizce aynen benimsenerek hükme esas alınmıştır.
+Mahkememizce yapılan yargılama, toplanan deliller, alınan bilirkişi raporları ve tüm dosya kapsamı belgelerin birlikte değerlendirilmesi neticesinde dava konusu trafik kazasının oluşumda davalı sigortalı araç sürücüsünün %90, davacı sürücünü ise %10 oranında kusurlu olduğu, davaya konu trafik kazası neticesinde davacıda %5,1 oranında kalıcı maluliyet oluştuğu ve davacıda oluşan bu kalıcı maluliyet gereğince aktüer bilirkişiden alınan rapora göre davacının kusur indirimide yapıldıktan sonra talep edebileceği tazminat tutarının 49.824,18 TL olarak hesaplanmış olduğu anlaşılmış olmakla, kalıcı iş göremezliğe ilişkin maddi tazminat isteminin kabulüyle 49.824,18 TL maddi tazminatın dava tarihinden itibaren işletilecek yasal faizi ile birlikte davalıdan tahsiliyle davacıya verilmesine karar verme gereği doğmuştur.
+Ayrıca her ne kadar davacı vekili tarafından dosyaya sunulan talep arttırım dilekçesinde geçici iş göremezlik ve kalıcı iş göremezlik tazminatı toplamı olarak 50.807,84 TL talepte bulunulmuş ve iş bu talebin içerisinde bilirkişi raporunda hesaplanan 983,66 TL'lik geçici iş göremezlikten kaynaklı tazminatta dahil edilmiş ise de, dava dilekçesinin incelenmesinden dava dilekçesinde sadece kalıcı iş göremezliğe ilişkin maddi tazminat isteminde bulunulduğu, geçici iş göremezliğe ilişkin açılmış bir davanın bulunmadığından talep arttırım dilekçesindeki geçici iş göremezliğe ilişkin taleple ilgili olarak bir karar verilmesine yer olmadığına karar verme gereği doğmuştur.
+HÜKÜM: Yukarıda açıklanan nedenlerle:
+Kalıcı iş göremezliğe ilişkin maddi tazminat isteminin kabulüyle 49.824,18 TL maddi tazminatın dava tarihinden itibaren işletilecek yasal faizi ile birlikte davalıdan tahsiliyle davacıya verilmesine,
+Talep arttırım dilekçesindeki geçici iş göremezliğe ilişkin taleple ilgili olarak bir karar verilmesine yer olmadığına,
+Karar tarihinde yürürlükte bulunan Harçlar Tarifesi gereğince hesaplanan 3.403,48 TL harçtan başlangıçta ve sonradan tamamlanan toplam 899,40 TL peşin harcın mahsubu ile bakiye 2.504,08 TL nispi karar ve ilam harcının davalıdan tahsili ile hazineye gelir kaydına,
+Davacı tarafından başlangıçta ve sonradan tamamlanan toplam 935,40 TL harç, tebligat ve posta gideri 526,90 TL, ATK faturası 314,50 TL ve bilirkişi ücreti toplam 500,00 TL olmak üzere toplam 2.276,80 TL yargılama giderinin davalıdan alınarak davacıya verilmesine,
+Karar tarihinde yürürlükte bulunan Avukatlık Asgari Ücret Tarifesi gereğince hesaplanan 7.277,14 TL nispi vekalet ücretinin davalıdan alınarak davacıya verilmesine,
+Taraflarca yatırılan gider avansından arta kalan bulunması halinde karar kesinleştiğinde taraflara iadesine,
+Dair, davacı vekilinin yüzüne karşı, davalının yokluğunda gerekçeli kararın tebliğinden itibaren iki hafta içerisinde İzmir Bölge Adliye Mahkemesi nezdinde istinaf kanun yolu açık olmak üzere karar verildi. 30/03/2021
+Katip ...
+e -imzalıdır
+Hakim ...
+e -imzalıdır

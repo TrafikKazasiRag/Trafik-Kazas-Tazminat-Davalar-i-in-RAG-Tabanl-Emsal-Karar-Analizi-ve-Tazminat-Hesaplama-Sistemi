@@ -1,0 +1,72 @@
+SIRA NO: 226 (ÇEKİRDEK)
+DOKÜMAN ID: 1148216300
+DERECE: İlk Derece Mahkemesi
+DAİRE / MAHKEME: Ankara 13. Asliye Ticaret Mahkemesi
+ESAS NO: 2024/411
+KARAR NO: 2025/214
+KARAR TARİHİ: 25.03.2025 (Yıl: 2025)
+ARAMA KELİMESİ: trafik kazası aktüer bilirkişi raporu net tutar
+SAYFA NO: 2
+İNDİRME ZAMANI: 2026-10-25 00:20:09
+HESAP DOĞRULAMA ADAYI: False
+İÇERİK HASH (MD5): 99591ef69d9b8e0f77009539c4179f66
+================================================================================
+
+T.C. ANKARA 13. ASLİYE TİCARET MAHKEMESİ Esas-Karar No: 2024/411 Esas - 2025/214
+TÜRK MİLLETİ ADINA
+T.C.
+ANKARA
+13. ASLİYE TİCARET MAHKEMESİ
+GEREKÇELİ KARAR
+ESAS NO : 2024/411 Esas
+KARAR NO : 2025/214
+HAKİM : ...
+KATİP : ...
+DAVACI ...
+VEKİLLERİ : Av. ...
+DAVALI : ...
+VEKİLİ : Av. ...
+DAVA : Tazminat (Ölüm Ve Cismani Zarar Sebebiyle Açılan Tazminat)
+DAVA TARİHİ : 11/06/2024
+KARAR TARİHİ : 25/03/2025
+GEREKÇELİ KARARIN
+YAZILDIĞI TARİH : 30/04/2025
+Mahkememizde görülmekte olan Tazminat (Ölüm Ve Cismani Zarar Sebebiyle Açılan Tazminat) davasının yapılan açık yargılaması sonunda,
+GEREĞİ DÜŞÜNÜLDÜ:
+DAVA: Davacı vekili dava dilekçesinde özetle; 25/11/2022 tarihinde sürücü ... sevk ve idaresindeki ... plaka sayılı araç ile ... Caddesi'nden gelerek ... istikametine gitmek isterken kavşaktan sağa girdikten sonra sola dönüş yapıp ...'a girmek istediği esnada ... Caddesi'nden ... istikametine seyir halinde olan sürücü müvekkilİ ... sevk ve idaresindeki ... plaka sayılı motosikletin ön kısımlarına çarpması neticesinde çift taraflı yaralamalı trafik kazası meydana geldiğini, kaza sonrası beden bütünlüğü ihlale uğrayan müvekkilinin eski sağlığına kavuşma ihtimali bulunmadığını, 1992 doğumlu müvekkilinin yardıma ve bakıma muhtaç hale geldiğini belirterek, fazlaya ilişkin talep ve dava hakları saklı kalmak kaydıyla belirsiz alacak niteliğinde şimdilik 100,00-TL maddi tazminatın kaza tarihinden itibaren işleyecek avans faizi ile birlikte diğer sorumlularla beraber müştereken ve müteselsilen sorumluluk esaslarına göre davalıdan tahsiline karar verilmesini talep ve dava ettiği görülmüştür.
+CEVAP: Davalı vekili sunduğu cevap dilekçesinde özetle; dava dilekçesinde 100,00-TL maddi tazminat içerisinde ne talep edildiğinin belli olmadığını, açıklama yapılması gerektiğini, zamanaşımı, hak düşürücü süre, görev, hukuki yarar ve dava şartları yönünden itiraz ettiklerini, müvekkilinin sorumluluğunun teminat limiti ve kusur ile sınırlı olduğunu, bu nedenle ... Fen Heyeti'nden veya ...'nden kusur raporu alınmasını, maluliyet durumunun da ... tarafından belirlenmesi gerektiğini, tazminat hesaplanacak ise davacının kazanımlarının düşülmesi gerektiğini, tazminat hesabının da bir aktüer bilirkişi tarafından yapılması gerektiğini, emniyet kemerinin takılı olup olmadığının araştırılması, tazminattan da %20 müterafik kusur indirimi yapılması gerektiğini, müvekkilinin ancak yasal faiz ile sorumlu tutulabileceğini belirterek davanın reddini istemiştir.
+DELİLLERİN DEĞERLENDİRİLMESİ VE GEREKÇE: Deliller toplanmış, ... sayılı soruşturma dosyası, poliçe ve hasar dosyası, ... kayıtları, trafik kazası tespit tutanakları, ilgili hastanelerden celbedilmiş tedavi evrakları dosya kapsamına alınmış, ...'ndan davacının maluliyet durumuna, adli trafik uzmanı bilirkişiden kusur durumuna, aktüer hesap uzmanı bilirkişiden ise tazminat miktarına yönelik bilirkişi raporu alınmıştır.
+Davacının maluliyet durumunun tespitine dair ... tarafından düzenlenen 19/11/2024 tarihli raporda özetle; "...Erişkinler için Engellilik Değerlendirilmesi Hakkında Yönetmelik hükümlerine göre kişinin engel oranının %4 (yüzdedört) olduğu, 4 (dört) ay süre ile iş göremez halinde kaldığı..." yönünde görüş ve kanaat bildirildiği anlaşılmıştır. Maluliyet raporunda kaza tarihinde yürürlükte olan yönetmelik hükümleri esas alınarak davacının maluliyet durumunun belirlendiği, rapordaki tespitlere göre kaza ile maluliyet durumu arasında illiyet bağının kurulabildiği, raporun gerekçeli ve denetime elverişli olduğu nazara alınarak ilgili maluliyet raporunun hükme esas alınmasına karar verilmiştir.
+Trafik kazası nedeniyle tarafların kusurlarının varlığı ile oranı bakımından; adli trafik uzmanı bilirkişi tarafından 09/01/2025 tarihli raporda özetle; "...dava dışı sürücü ...'ın, azami 30 km seyir hızının ve seyir yönünde trafik ışıklarıyla
+kontrol edilen kavşağın olduğu yerleşim alanı bölünmüş taşıt yolunda kavşağa yaklaşırken aracının
+seyir hızını taşıt yolundaki zeminin de ıslak olmasına bağlı 2918 sayılı Karayolları Trafik Kanunu'nun 52/a-b, yönetmeliğin 100/101/a-b maddelerine riayetle azaltarak kavşağa yaklaşması ve kavşak
+başına geldiğinde Mobese kamera görüntü kayıtlarına göre kendisine kırmızı trafik ışığının yandığını
+gördüğünde aynı kanunun 47/b-c-d maddelerine riayetle de aracını kırmızı ışıkta durdurup yanacak
+olan yeşil ışığı bekleyerek ve yanan yeşil ışıkta geçişini sürdüren davacı ... yönetimindeki ... plakalı motosiklete geçiş hakkını tanımadan kavşakta kırmızı trafik ışığında geçişine devamla kendi aracının sağ yan motosikletin ön kısmı ile motosikletin seyir yönünü tamamen kapatmasına bağlı çarpışarak davacı sürücünün dosya kapsamına göre yaralanmasıyla meydana gelen çift taraflı maddi hasarlı trafik kazasının oluşumunda aynı kanunun 84/a maddesine de riayetsizliği nedeniyle kaza tespit tutanağı ve savcılık bilirkişi raporuyla da belirtildiği gibi
+tamamen asli kusurlu olduğu, ... ... plakalı motosikletin A sınıfı yeterli sürücü belgeli davacı sürücüsü
+...'nun dava konusu yaralandığı çift taraflı maddi hasarlı trafik kazasının
+oluşumunda olay yeri kavşakta kendisine yanan yeşil trafik ışığında geçişine bağlı tamamen kusursuz olduğu, davalı ... A.Ş. poliçesiyle olay tarihinde zorunlu mali mesuliyet sigortalı bulunan
+... plakalı aracın dava dışı sürücüsü ...'ın olay yeri
+kavşakta kendisine yanan kırmızı trafik ışığında geçişine bağlı dava konusu davacı motosiklet
+sürücüsünün yaralanmasıyla meydana gelen çift taraflı maddi hasarlı trafik kazasının oluşumunda
+tamamen % 100 oranında kusurlu olduğu..." yönünde kanaat bildirildiği görülmüştür. Tüm dosya kapsamı, kaza tespit tutanağı ile mahkememizce alınan bilirkişi raporunda yapılan tespitler kapsamında dosyaya mübrez teknik bulgular, olayın örgüsü ile birlikte bir bütün halinde değerlendirildiğinde; davalıya sigortalı araç sürücüsünün %100 oranında kusurlu olduğuna yönelik tespitin mahkememizce de benimsenmesine ve hükme esas alınmasına karar verilmiştir. Müterafik kusur durumu bakımından ise kaza tespit tutanağında davacının kask taktığı belirtildiği gibi, yaralanmasının da el bileği bölgesinde olduğu anlaşılmakla davacının kask takmamış olması ihtimalinde dahi bu durumun yaralanması ile illiyet bağı yaratmadığı ve somut olayda müterafik kusur izafesini gerektirir başka bir sebebin de bulunmadığı görüldüğünden davacı aleyhine müterafik kusur izafesine yer olmadığı sonuç ve kanaatine varılmıştır.
+Tazminat hesabı yönünden aktüer hesap bilirkişisi tarafından sunulan 14/01/2025 tarihli raporda özetle; "...TRH 2010- progresif rant (%10 arttırım ve %10 eksiltim) yöntemine göre yapılan hesaplama sonucunda davacı ...'nun geçici işgöremezlikten kaynaklanan tazminat tutarının 15.211,30-TL olduğu, sürekli işgücü kaybından kaynaklanan tazminat tutarının 544.868,36-TL olduğu, ... kaza tarihinde (25/11/2022) ZMSS poliçesi ölüm ve sakatlanma teminat limit tutarının 1.000,00-TL olduğu, hesaplanan tazminat tutarının poliçe teminat limit tutarını aşmadığı, ..." yönünde görüş ve kanaat bildirildiği görülmüştür. Sonrasında dosya, davacının saptanan geliri üzerinden hesap tarihine elde edilebilecek gelirlerin belirlenmesi, belirlenen gelirler üzerinden işlemiş (bilinen) dönem zarar hesabının yapılması, işleyecek dönem hesabında ise davacının hesap tarihinde bilinen son gelirinin uygulanması ve tarafların rapora karşı beyan ve itirazlarının da değerlendirilmesi suretiyle bir hesaplama yapılması için yeniden aktüer bilirkişiye tevdi edilmiştir. Aktüer bilirkişi tarafından sunulan 26/02/2025 tarihli ek bilirkişi raporunda özetle; "...geçici işgöremezlikten kaynaklanan tazminat tutarının 16.164,07-TL olduğu, sürekli işgücü kaybından kaynaklanan tazminat tutarının 463.342,37-TL olduğu..." yönünde kanaat bildirildiği görülmüştür. Bilirkişi ek raporunda yapılan hesaplamanın Yargıtay içtihatlarında öngörülen kriterlere uygun olduğu, raporun gerekçeli ve denetime elverişli bulunduğu anlaşılmakla, mahkememizce hükme esas alınmasına karar verilmiştir.
+Dava; davalı sigorta şirketine Zorunlu Mali Mesuliyet Sigorta poliçesi kapsamında sigortalı olan araç ile davacının sevk ve idaresindeki aracın karıştığı çift taraflı trafik kazası neticesinde davacının yaralanması nedeniyle maddi tazminat istemine ilişkindir.
+Tüm dosya kapsamı, deliller, adli tıp ve bilirkişi raporu birlikte değerlendirildiğinde; 25/11/2022 tarihinde meydana gelen trafik kazası neticesinde davacının yaralandığı, zarara neden olarak davalıya sigortalı araç sürücüsünün %100 oranında kusurlu olduğu, davacının tazminattan indirim yapılmasını gerektirir bir müterafik kusurunun bulunmadığı, 26/02/2025 tarihli aktüer hesap bilirkişi raporu da nazara alınarak davacının 16.164,07-TL geçici iş göremezlikten, 463.342,37-TL de sürekli iş göremezlikten kaynaklanan maddi tazminat alacağının bulunduğunun hesaplandığı, poliçe teminat limitinin ise kaza tarihinde ölüm ve sakatlık teminatı ile tedavi giderleri teminatı bakımından ayrı ayrı 1.000.000,00-TL olduğu anlaşılmış, davacının dava ve tarihli talep artırım dilekçesi nazara alınarak 463.342,37-TL sürekli iş göremezlik, 16.164,07-TL geçici iş göremezlik tazminatı olmak üzere toplam 478.553,67-TL maddi tazminat yönünden davanın kısmen kabulüne, fazlaya dair istemin ise reddine karar vermek gerekmiştir. Hükmolunan maddi tazminat kalemlerine ilişkin temerrüt tarihi bakımından ise; KTK'nın 99. maddesi uyarınca davalıya başvuru tarihine göre 29/11/2023 temerrüt tarihinin esas alınması gerekmiş ve bu tarihten itibaren yasal faiz işletilmesine karar verilmiştir. Son olarak davalı vekilince zamanaşımı defi ileri sürülmüş ise de; davaya konu trafik kazası 25/11/2022 tarihinde meydana gelmiş olup belirsiz alacak davası olarak ikame edilen 11/06/2024 dava tarihi itibariyle KTK md. 109'da öngörülen zamanaşımı süresi dolmamış olduğundan davalının zamanaşımı definin kabulü mümkün olmamış ve son tahlilde davanın kısmen kabulüne dair aşağıdaki şekilde hüküm kurulmuştur.
+HÜKÜM: Gerekçesi yukarıda açıklandığı üzere;
+1-DAVANIN KISMEN KABULÜ İLE; 15.211,30-TL geçici iş göremezlik, 463.342,37-TL daimi iş göremezlik olmak üzere toplam 478.553,67-TL maddi tazminatın 29/11/2023 temerrüt tarihinden itibaren işletilecek yasal faiziyle birlikte davalıdan alınarak davacıya ödenmesine,
+2-Fazlaya dair istemin REDDİNE,
+3-Alınması gereken 32.690,00-TL harçtan peşin alınan 427,60-TL ve 1.913,00-TL tamamlama harçları toplamının mahsubu ile bakiye 30.349,40-TL harcın davalıdan alınarak hazineye gelir kaydına,
+4-6325 sayılı yasanın 18/A maddesi ve Arabuluculuk Asgari Ücret Tarifesi gereğince 3.120,00-TL arabuluculuk ücretinin 2.665,84-TL'sinin davalıdan alınarak hazineye gelir kaydına, 454,16‬-TL'sinin davacıdan alınarak hazineye gelir kaydına,
+5-Davacı kendisini vekil ile temsil ettirdiğinden karar tarihindeki AAÜT'ne göre hesaplanan 75.783,05-TL ücreti vekaletin davalıdan alınarak davacıya verilmesine,
+6-Davalı kendisini vekil ile temsil ettirdiğinden karar tarihindeki AAÜT'ne göre hesaplanan 30.000,00-TL ücreti vekaletin davacıdan alınarak davalıya verilmesine,
+7-Davacı tarafından başlangıçta yatırılan 427,60-TL peşin harç, 427,60- TL başvuru harcı, 1.913,00-TL tamamlama harçları toplamı olmak üzere toplam 2.768,20-TL'nin davalıdan alınarak davacıya ödenmesine,
+8-Davacı tarafından yapılan 120,00-TL tebligat gideri, 8,00-TL müzekkere gideri, 7.000,00-TL bilirkişi ücreti olmak üzere toplam 7.128,00-TL yargılama giderinden kabul ve red oranına göre belirlenen 6.090,43-TL yargılama giderinin davalıdan alınarak davacıya verilmesine, bakiye yargılama giderinin davacı üzerinde bırakılmasına,
+9-Davalı tarafından sarfedilen yargılama gideri bulunmadığından bu hususta karar verilmesine yer olmadığına,
+10-Sarfedilmeyen gider avansının karar kesinleştiğinde taraflara iadesine,
+Dair davacı vekilinin yüzüne karşı, gerekçeli kararın tebliğ tarihinden itibaren yasal 2 haftalık sürede mahkememize müracaat ile ... Bölge Adliye Mahkemesi nezdinde istinaf başvuru yolu açık olmak üzere verilen karar açıkca okunup usulen anlatıldı.
+25/03/2025
+Katip ...
+¸e-imzalıdır.
+Hakim ...
+¸e-imzalıdır.

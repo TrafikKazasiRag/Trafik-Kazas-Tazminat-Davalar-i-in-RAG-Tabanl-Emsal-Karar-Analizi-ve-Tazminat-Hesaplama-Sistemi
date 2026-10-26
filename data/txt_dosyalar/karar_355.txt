@@ -1,0 +1,62 @@
+SIRA NO: 355 (ÇEKİRDEK)
+DOKÜMAN ID: 948922200
+DERECE: İlk Derece Mahkemesi
+DAİRE / MAHKEME: Ankara 9. Asliye Ticaret Mahkemesi
+ESAS NO: 2023/343
+KARAR NO: 2023/611
+KARAR TARİHİ: 02.10.2023 (Yıl: 2023)
+ARAMA KELİMESİ: sürekli iş göremezlik yıllık ücret bilinen gelir
+SAYFA NO: 5
+İNDİRME ZAMANI: 2026-10-25 01:03:30
+HESAP DOĞRULAMA ADAYI: True
+İÇERİK HASH (MD5): 673dd04c8a6a08c1cefa9187fa90bf78
+================================================================================
+
+T.C. ANKARA 9. ASLİYE TİCARET MAHKEMESİ Esas-Karar No: 2023/343 Esas - 2023/611
+Türk Ulusu Adına Yargılama Yapmaya ve Hüküm Vermeye Yetkili
+ANKARA 9. ASLİYE TİCARET MAHKEMESİ
+KARAR
+ESAS NO : 2023/343 Esas
+KARAR NO : 2023/611
+HAKİM : ....
+KATİP :...
+DAVACI :...
+VEKİLİ : Av.... - Av. ...
+DAVALI : ...
+VEKİLİ : Av. ...
+DAVA : TAZMİNAT
+DAVA TARİHİ : 15/05/2023
+KARAR TARİHİ : 02/10/2023
+YAZIM TARİHİ : 13/10/2023
+Mahkememizde açılan tazminat davasının yapılan açık yargılaması sonunda,
+GEREĞİ DÜŞÜNÜLDÜ :
+DAVA :
+Davacı vekili ; Dava dışı ...'in kullandığı ve davacının yolcu olarak bulunduğu ... plaka sayılı araç ile davalıya sigortalı ... plaka sayılı araçların çaprışması sonucu trafik kazası meydana geldiğini, ... plakalı aracın kırmızı ışık ihlali yaptığının bilirkişi rapor ile tespit edildiğini, ... Mahkemesinde yapılan yargılama sonucu alınan ilk rapor sonrası ıslah işlemi yaptıklarını, verilen bu kararın ...'si tarafından tazminat hesaplama yöntemi uygun görülmeyerek kaldırılıp dosyanın iade edildiğini, yeniden yapılan yargılama sonucu sürekli iş göremezlik zararının 118.930,42 TL olarak belirlendiğini, yeniden ıslah yapmaları mümkün olmadığı için mahkemenin kesinleşen kararı ile 76.368,45 TL nin davalıdan tahsiline karar verildiğini, bakiye sürekli iş göremezlik alacaklarının tahsili için bu davayı açmak zorunda kaldıklarını belirtip, 42.561,97 TL sürekli iş göremezlik alacaklarının davalıdan tahsiline karar verilmesini istemiştir.
+CEVAP :
+Davalı vekili ; ... plakalı sayılı araç için trafik sigorta poliçesi düzenlediklerini, olayda hatır taşımasının bulunduğunu, davacının ibrazı zorunlu belgelerle başvurusunun olmadığını, alacağın zaman aşımına uğdarığını, uzlaşma var ise davanın reddi gerekeceğini, davacının alacaklı ve borçlu sıfatı birleşiyorsa davanın reddi gerekeceğini, davacı talepleri sulh ile sonuçlandırılmışsa davanın reddi gerektiğini, davanın yetkisiz mahkemede açıldığını, delillerin tebliğ edilmediğini, kaza ile sakatlık arasındaki illiyet bağının tespit edilmesi gerektiğini, kusur tespiti için .... sevk edilmesi gerektiğini, maluliyet oranının tespiti için.... sevk edilmesi gerektiğini, geçici iş göremezlik talebinin teminat dışı olduğunu, hesabın aktüer bilirkişi tarafından yapılması gerektiğini, kazanın iş kazası olup olmadığının tespiti ile ... tarafından bağlanan peşin sermaye değerinin tenzil edilmesi gerektiği, gelirin asgari ücret üzerinden hesap edilmesi gerektiği, hazır taşıması ve müterafik kusur tenzili gerektiğini, dava tarihinden itibaren yasal faizden sorumlu olacaklarını belirtip, davanın reddini talep etmiştir.
+DELİLLER, DEĞERLENDİRMESİ VE GEREKÇE:
+Dava haksız fiil nedeniyle tazminat istemine ilişkindir.
+Davacının tazminat istemli ilk davasına ... Esas numarası verilerek yargılama yapılmıştır. Hükme esas alınan bilirkişi raporu ile sürekli iş göremezlik zararının 76.368,45 TL olduğu belirlenmiş, davacının bu miktarı esas alan ıslah işlemine bağlı kalınarak 76.368,45 TL sürekli iş göremezlik zararının davalıdan tahsiline karar verilmiştir.
+Karara karşı taraflarca istinaf yasa yoluna başvurulmuş, ... sayılı kararı ile " Somut olayda davacı için iş göremezlik tazminatının hesaplanmasında TRH 2010 yaşam tablosunun esas alındığı belirtilmiş ise de, devamında maluliyet davalarında hesaplanma konusu kişi hayatta olduğu için TRH 2010 yaşam tablosundaki bakiye ömrünün alınmasının uygun olmadığı,davacı ömrünün sonuna kadar aynı maluliyet oranını taşıyacağı için TRH 2010 hayat tablosunda yer alan her yıl (99 yıl) için yaşam olasılıklarının dikkate alınması gerektiği, bu nedenle davacının muhtemel bakiye ömrünün alınmadığı, yaşına göre her yıl için yaşam olasılığının ayrı ayrı hesaplandığı belirtilmiştir.Aktüer bilirkişi raporu bu anlamda denetime de elverişli olmadığı gibi davacının beklenen yaşam süresi 99 yaş esas alınarak bu yaşa göre devre başı ödemeli belirli süreli rant formülü üzerinden işleyecek / bilinmeyen devre hesabının yapılarak tazminat belirlenmiş olması doğru görülmemiştir. Bu durumda mahkemece yapılması gereken, davacının TRH 2010 yaşam tablosuna göre muhtemel bakiye yaşam süresinin belirlenmesi, bilinmeyen / işleyecek devre hesabı yapılırken, bilinen son gelirin her yıl için % 10 artırılıp % 10 iskonto edilerek progresif rant yönteminin kullanılması suretiyle daimi iş göremezlik zararı tespit edilmesi (6 aylık geçici iş göremezlik tazminatı ve 3 ay için bakıcı gideri yönünden tazminat miktarı değişmeyeceğinden) ve taraflar yararına oluşan usulü kazanılmış haklar gözetilerek, mahkemece hükme esas alınan 04.03.2019 tarihli aktüer bilirkişi raporunda belirlenen işlemiş dönem yine 31.12.2019 tarihinde sonlandırılarak, sürekli iş göremezlik tazminatı hesabı yapılması için aktüer bilirkişiden ek rapor alınarak sonucuna göre karar verilmesi gerekirken, yazılı şekilde yapılan hesaplamaya göre hüküm kurulmuş olması doğru görülmemiştir " denilerek kararın kaldırılıp, dosyanın mahkemesine iadesine karar verilmiştir.
+Dava bu kez aynı mahkemenin .... Esas numarasına kayıt edilmiştir. İade kararı doğrultusunda önceki bilirkişiden bu kez 23/01/2023 tarihli ek rapor alınmış, iade kararı doğrultusunda düzenlenen bu raporda davacının sürekli iş göremezlik zararının 118.930,42 TL olduğu belirlenmiştir. İlk yargılama sırasında bir kez ıslah işlemi yapıldığı ve ikinci kez ıslah yapılamayacağı için mahkeme ilk karardaki ıslaha konu 76.368,45 TL sürekli iş göremezlik alacağının davalıdan tahsiline karar vermiş, taraflar istinaf yasa yoluna başvurmadığı için bu karar 03/05/2023 tarihinde kesinleşmiştir.
+Her iki taraf .... Esas sayılı dava ile ilgili olarak verilen karara karşı istinaf yasa yoluna başvurmadığı için, bu yargılama sonucu hükme esas alınan çalışma gücü kaybı, kusur dağılım raporu ve ek tazminat hesaplamasının yapıldığı raporlarına itibar edilmesi gerektiği kabul edilip, yeniden rapor alınmasına gerek görülmemiştir.
+Davacı sigortalı araçta yolcu olarak bulunmayıp, karşı araçta yolcu olduğu için olayda hatır taşımasından söz edilemeyeceği, kaza 16/11/2017 tarihinde meydana gelmiş ve 2918 sayılı yasanın 109/2 maddesi uyarınca olaya uygulanması gereken 8 yıllık uzamış ceza zaman aşımı süresinin dolmadığı, uyuşmazlık TTK da düzenlenen zorunlu sigortadan kaynaklandığı için ticaret mahkemelerinin görevli oldukları, bakiye tazminat isteği yönünden ilk karar davanın açıldığı 15/05/2023 tarihinden önce 03/05/2023 tarihinde kesinleştiği için derdestlik ve kesin hüküm söz konusu olmadığı kabul edilip, tüm ilk itiraz ve diğer taleplerin ön inceleme duruşmasında reddine karar verilmiştir.
+Davacının yaralanması ile sonuçlanan kazada ... da meydana geldiği için .... Mahkemelerinin yetkili oldukları kabul edilmiştir.
+.... Mahkemesi tarafından ... si iade karaı öncesi aldırılan 04/03/2019 tarihli bilirkişi raporunda; davalı şirkete ZMMS poliçesi ile sigortalı ... plakalı araç sürücüsü ...'ın, olayda %100 oranında kusurlu olduğu, ... plakalı araç sürücüsü ...'in olayda kusursuz bulunduğu, davacı yolcu ...'nın olayda kusursuz olduğu, davalı... Şirketi'nin, 2918 sayılı Karayolları Trafik Kanunu'nun 91. maddesi gereğince, sigortalı araç sürücüsünün kusuru oranında sorumlu bulunduğu, davacı ...'nın sürekli iş göremezlik alacağının 76.368,45 TL olduğu belerlenmiştir.
+.... iade kararı doğrultusunda davacının TRH 2010 yaşam tablosuna göre muhtemel bakiye yaşam süresinin belirlenmesi, bilinmeyen / işleyecek devre hesabı yapılırken, bilinen son gelirin her yıl için % 10 artırılıp % 10 iskonto edilerek progresif rant yönteminin kullanılması ve işlemiş dönemin 31.12.2019 tarihinde sonlandırılması suretiyle daimi iş göremezlik zararı tespit edilmesi için aktüer bilirkişiden ek rapor alınmasına karar verilmiş ,mahkememizce aldırılan 23/01/2023 tarihli bilirkişi ek raporunda; davacı ...'nın 118.930,42 TL sürekli iş göremezlik tazminat alacağı olduğu tespit edilmiştir.
+Eldeki davada talep, her iki tarafın yasa yoluna başvurmadığı için kesinleşen karara dayanak alınan ve 118.930,42 TL sürekli iş göremezlik zararının belirlendiği raporun ilk kararda hüküm altına alınan 76.368,45 TL si dışında kalan ( 118.930,42 TL - 76.368,45 TL = 42.561,97 TL) 42.561,97 TL sürekli iş göremezlik alacağına ilişkindir.
+Söz konusu kazaya karışan ... plakalı aracın davalı sigorta şirketi tarafından kaza tarihini kapsar şekilde ZMMS poliçesiyle sigortalı olduğu, bu nedenle davalı sıfatlarının bulunduğu kabul edilmiştir.
+Davacının kazadan sonra tedavi gördüğü hastanelerden tıbbi belge ve bilgileri celbedilerek,... alınan 26.11.2018 tarihli rapora göre kaza nedeniyle davacıda meydana gelen sürekli çalışma gücü kayıp oranının %18 olduğu, tıbbi iyileşme süresinin 6 ay ve bakıcı ihtiyaç süresinin 3 ay olduğu belirtilmiştir.
+... olay nedeni ile davacıya rücu edilebilir ödeme yapılmadığı bildirilmiştir.
+Toplanan tüm bilgi ve belgeler kapsamında ; davalı şirkete ZMMS poliçesi ile sigortalı ... plakalı araç sürücüsü ...'ın, olayda %100 oranında kusurlu olduğunu, ... plakalı araç sürücüsü ...'in olayda kusuru olmadığı, bulunduğunu, davacı yolcu ...'nın olayda kusursuz olduğu,davalı... Şirketi'nin, 2918 sayılı Karayolları Trafik Kanunu'nun 91. Maddesi gereğince, sigortalı araç sürücüsünün kusuru oranında sorumlu bulunduğunu, davacı ...'nın 118.930,42 TL sürekli iş göremezlik zararı oluştuğu, kesinleyşen ilk hüküm ile bu zararın 76.368,45 TL sinin tahsiline karar verildiği, davacının talep edebileceği sürekli iş göremezlik zararı ile tahsiline karar verilen miktar arasındaki fark olan ( 118.930,42 TL - 76.368,45 TL = 42.561,97 TL) 42.561,97 TL sürekli iş göremezlik alacağının davalıdan tahsili gerektiği, faiz başlangıcının 26/06/2018 tarihi ve faizin türünün de avans faizi olacak şekilde kesinleşen ilk hüküm ile taraflar için bağlayıcı hale geldiği kabul edilip, aşağıdaki hüküm oluşturulmuştur.
+HÜKÜM: Nedenleri yukarıda açıklandığı üzere;
+42.561,97 TL sürekli iş göremezlik bakiye alacağının 26/06/2018 tarihinden itibaren değişen oranlı avans faiziyle birlikte davalıdan alınıp davacıya ödenmesine,
+Alınması gereken 2.907,41 TL karar ve ilam harcından peşin alınan 179,90 TL'nin mahsubu ile bakiye 2.727,51 TL'nin davalıdan tahsili ile HAZİNEYE ÖDENMESİNE.
+Davacı tarafından yatırılan 179,90 TL başvurma harcı, 179,90 TL peşin harç olmak üzere toplam 359,80 TL'nin davalıdan tahsili ile davacıya VERİLMESİNE.
+Davacı lehine hüküm tarihindeki AAÜT'si uyarınca hesaplanan 17.900,00 TL vekalet ücretinin davalıdan alınarak davacıya VERİLMESİNE.
+Davacı tarafından yapılan tebligat ve posta gideri 60,00 TL yargılama giderinin davalıdan alınarak davacıya ÖDENMESİNE.
+Arabuluculuk için ödenen 3.120,00 TL nin 6325 sayılı yasanın 18/A (11) (13) maddesi uyarınca davalıdan alınarak HAZİNEYE GELİR KAYDINA,
+Karar kesinleştiğinde kullanılmayan gider avansı kalması halinde bildirilecek hesap numarası olur ise hesaba, hesap numarası bildirilmez ise gider avansından karşılanmak koşulu ile posta havalesi ile yatıran tarafa İADESİNE.
+Dair, Davacı Vekili Av. ... 'ın yüzüne karşı kararın tebliğinden itibaren 2 haftalık süre içerisinde ... Bölge Adliye Mahkemesinde İstinaf yolu açık olmak üzere verilen karar açıkça okunup usulen anlatıldı.02/10/2023
+Katip ...
+Hakim ...

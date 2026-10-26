@@ -1,0 +1,56 @@
+SIRA NO: 29 (ÇEKİRDEK)
+DOKÜMAN ID: 1040998400
+DERECE: İlk Derece Mahkemesi
+DAİRE / MAHKEME: Antalya 1. Asliye Ticaret Mahkemesi
+ESAS NO: 2023/116
+KARAR NO: 2024/417
+KARAR TARİHİ: 10.06.2024 (Yıl: 2024)
+ARAMA KELİMESİ: trafik kazası maddi manevi tazminat kusur (v3)
+SAYFA NO: 1
+İNDİRME ZAMANI: 2026-10-25 00:16:44
+HESAP DOĞRULAMA ADAYI: False
+İÇERİK HASH (MD5): 2f272245840c5543447567d282e2e050
+================================================================================
+
+T.C.
+ANTALYA
+1. ASLİYE TİCARET MAHKEMESİ
+ESAS NO : 2023/116 Esas
+KARAR NO : 2024/417
+DAVA : Tazminat (Trafik Sigorta Sözleşmesi Kaynaklı Rücuen)
+DAVA TARİHİ : 07/12/2022
+KARAR TARİHİ : 10/06/2024
+Mahkememizde görülmekte olan Tazminat (Trafik Sigorta Sözleşmesi Kaynaklı Rücuen) davasının yapılan açık yargılaması sonunda,
+GEREĞİ DÜŞÜNÜLDÜ:
+Davacı vekili dava dilekçesinde; davalı sürücünün kusuru ile meydana gelen trafik kazası sonucu müvekkilinin malul kaldığını, bu malüliyet nedeni ile maddi zarara uğradığını, diğer yandan gerek maluliyeti gerekse bu süreçte gördüğü tedaviler sonucu manen de zarara uğradığını öne sürmüş, maddi ve manevi tazminat taleplerinin davalılardan tahsilini talep etmiştir.
+Davalı sigorta şirketi cevap dilekçesinde kendilerine usulüne uygun bir başvuru yapılmadığını, müvekkilinin manevi tazminattan sorumlu olmadığını, maluliyete ilişkin ise geçerli yönetmelik hükümlerine göre rapor alınması gerektiğini öne sürmüş davanın reddini talep etmiştir.
+Arabuluculuk ve sigorta şirketine başvuru şartlarının yerine getirildiği görülmüştür.
+Alınan kusur raporuna göre kazada her iki sürücüye de kusur atfedilmiştir.
+ATK'dan alınan rapora göre davacının kalıcı maluliyetinin olmadığı, geçici maluliyetinin ise 45 gün olduğu bildirilmiştir.
+Aktüerya bilirkişisinden alınan rapora göre davacının tedavi giderlerinin 800 TL olabileceği bildirilmiştir.
+Delillerin Değerlendirilmesi ve Gerekçe;
+Eldeki dava trafik kazası nedeniyle maddi ve manevi tazminat istemidir.
+Davacı vekili davalının kusuru ile meydana gelen kaza sonucu müvekkilinin malul kaldığını öne sürmüştür.
+Trafik kazası temelinde bir haksız fiil olup, sürücü haksız fiil faili olarak, araç sahibi işleten sıfatı ile sigorta şirketi ise sözleşme kapsamında zararlardan sorumlu olacaklardır. Bunun için sürücünün fiili ile illiyet bağı içerisinde bir zararın ortaya çıkması gerekir. Sürücü ve işleten bu kapsamdaki maddi ve manevi tüm zararlardan, sigorta şirketi ise teminat kapsamında ve kazanın doğrudan sonuca olan maddi zararlardan sorumludur.
+Somut olayda kazanın davalı sürücünün de kusuru ile meydana geldiği ve davacının alınan ATK raporuna göre geçici sürede olsa malul kaldığı ve bu sebep ile maddi zarara uğradığı görülmekle, haksız fiil sorumluluk şartlarının yerine geldiği anlaşılmaktadır. Geçici iş göremezlik zararı da kazanın doğrudan sonuçlarından olup her iki davalı da bu zarardan sorumludur. Her ne kadar kusur raporunda yüzdelik kusur belirlenmese de ihlal edilen yönetmelik hükümleri değerlendirildiğinde davacının tali kusurlu olduğu, buna karşın dava değerini asgari ücret üzerinden yaklaşık %50 kusur üzerinden belirlediği, buna göre talep edilen tazminatın hak edilen tazminata uygun olduğu anlaşılmıştır. Diğer yandan gerek kaza sonucu davacının malul kalışı gerekse bu süreçteki tedavi ve bakım işlemlerinde gördüğü elem ve ızrabında manevi bir zarar doğuracağı açıktır. Ancak manevi tazminatın olayın oluş şekli ile orantılı olması zenginleşmeye yol açmaması gerekir. Bu kapsamda davacının kalıcı maluliyetinin olmaması göz önüne alınarak buna ilişkin talebin reddine, geçici maluliyet talebinin ise talep gibi kabulüne karar vermek gerekmiş, kazanın oluş şekli meydana geldiği tarih ve davacının maluliyet derecesi de göz önüne alınarak ... TL manevi tazminatın makul olacağı kanaatine varılmış ve aşağıdaki şekilde hüküm kurulmuştur.
+HÜKÜM: Yukarıda açıklanan nedenlerle;
+1-Davacının kalıcı iş göremezlik talebinin reddine, geçici iş göremezlik talebinin ve bakım ve tedavi giderleri talebinin kabulüne, 12.700,00 TL'nin davalı ... yönünden ..., davalı sigorta şirketi yönünden ... tarihinden işleyecek yasal faizi ile müştereken ve müteselsilen alınarak davacıya verilmesine,
+*Davacının manevi tazminat talebinin kısmen kabulü ile; ... TL manevi tazminatın ... tarihinden işleyecek yasal faizi ile davalı ...'ten alınarak davacıya verilmesine,
+2-Maddi Tazminat yönünden;
+Alınması gerekli ... TL harçtan, ... TL peşin, ... TL tamamlama harcı olmak üzere toplam ... TL harcın mahsubu ile bakiye ... TL harcın davalılardan müştereken ve müteselsilen alınarak Hazineye gelir kaydına,
+Davacı tarafından yatırılan ... TL peşin, ... TL tamamlama harcı, ... TL başvuru harcının davalılardan müştereken ve müteselsilen alınarak alınarak davacıya verilmesine,
+Davacı tarafından yapılan ... TL bilirkişi ücreti, ... TL ATK fatura bedeli ve tebligat-posta masrafı olmak üzere toplam ... TL yargılama giderlerinin davada kabul ve red oranına göre ... TL'sinin davalılardan müştereken ve müteselsilen alınarak davacıya verilmesine, ... TL'sinin kendisi üzerinde bırakılmasına,
+A.A.Ü.T. uyarınca hesaplanan 12.700,00 TL vekalet ücretinin davalılardan müştereken ve müteselsilen alınarak davacıya verilmesine,
+A.A.Ü.T. uyarınca hesaplanan 100,00 TL vekalet ücretinin davacıdan alınarak davalılara verilmesine,
+3-Manevi tazminat yönünden;
+Alınması gerekli ... TL harcın, peşin alınan ... TL harçtan mahsubu ile artan ... TL harcın istemi halinde davacıya iadesine,
+Davacı tarafından yapılan tebligat-posta masrafı olmak üzere toplam ... TL yargılama giderlerinin davada kabul ve red oranına göre ... TL'sinin davalı ...'ten alınarak davacıya verilmesine, ... TL'sinin kendisi üzerinde bırakılmasına,
+A.A.Ü.T. uyarınca hesaplanan ... TL vekalet ücretinin davalı ...'ten alınarak davacıya verilmesine,
+A.A.Ü.T. uyarınca hesaplanan ... TL vekalet ücretinin davacıdan alınarak davalı ...'e verilmesine,
+4-Adalet Bakanlığı bütçesinden karşılanan 1.560,00 TL arabulucu ücretinin davalılardan müştereken ve müteselsilen alınarak HAZİNEYE İRAT KAYDINA,
+5-Sarf edilmeyen gider avansının HMK.'nun 333. maddesi uyarınca davacıya iadesine,
+Dair, davacı ve davalı ... vekilinin yüzüne karşı, gerekçeli kararın tebliğinden itibaren 2 hafta içerisinde İstinaf yasa yolu açık olmak üzere verilen karar açıkça okundu. Anlatıldı. 10/06/2024
+Katip ...
+¸e-imzalıdır
+Hakim ...
+¸e-imzalıdır

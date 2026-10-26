@@ -1,0 +1,74 @@
+SIRA NO: 101 (ÇEKİRDEK)
+DOKÜMAN ID: 1167876600
+DERECE: İlk Derece Mahkemesi
+DAİRE / MAHKEME: Antalya 4. Asliye Ticaret Mahkemesi
+ESAS NO: 2016/304
+KARAR NO: 2019/876
+KARAR TARİHİ: 19.12.2019 (Yıl: 2019)
+ARAMA KELİMESİ: trafik kazası maddi manevi tazminat kusur (v3)
+SAYFA NO: 1
+İNDİRME ZAMANI: 2026-10-25 00:16:44
+HESAP DOĞRULAMA ADAYI: False
+İÇERİK HASH (MD5): 3d3ce847d81b6d38b9a25e2f9013ad6f
+================================================================================
+
+T.C.
+ANTALYA
+4. ASLİYE TİCARET MAHKEMESİ
+ESAS NO : 2016/304 Esas
+KARAR NO : 2019/876
+DAVA : Tazminat (Ölüm Ve Cismani Zarar Sebebiyle Açılan Tazminat)
+DAVA TARİHİ : 29/04/2016
+KARAR TARİHİ : 19/12/2019
+Mahkememizde görülmekte olan Tazminat (Ölüm Ve Cismani Zarar Sebebiyle Açılan Tazminat) davasının yapılan açık yargılaması sonunda,
+GEREĞİ DÜŞÜNÜLDÜ:
+DAVA : Davacı vekili mahkememize sunmuş olduğu dava dilekçesinde, ... plakalı motosiklet ile seyir halindeyken, davalı ...'nın sevk ve idaresindeki ... plakalı aracın yolu kontrol etmeksizin sola dönüş kuralını ihlal ederek kendisine çarpması üzerine trafik kazası geçirdiğini, kaza tespit tutanağında davalının %100 kusurlu olduğunun belirtildiğini, meydana gelen trafik kazasında davacının ağır şekilde yaralandığını, meydana gelen kaza sonrası davacının sol kol dirseği tamamen parçalandığı için protez takıldığını, kaza nedeniyle davacının iyileşme sürecinin çok acı verici olması, hasarların kalıcı olması ve davalının tam kusurlu olmasına rağmen geçmiş olsun dahi dememesi gibi nedenlerle ... TL manevi tazminat ve şimdilik ... TL maddi tazminat taleplerinin kabulü ile yargılama gideri ve vekaletin karşı taraf üzerine bırakılmasına karar verilmesini dava ve talep etmiştir.
+CEVAP 1 : Davalı sigorta vekili mahkememize sunmuş olduğu cevap dilekçesinde, davayı kabul anlamına gelmemekle birlikte, davacı tarafın meydana gelen trafik kazası nedeniyle müvekkil şirket aleyhine açmış olduğu davada, geçici ve sürekli iş gücü kaybının SGK tarafından karşılanmayan tedavi ve bakım gideri şeklinde taleplerinin kabul edilemez olduğunu, müvekkil şirketin sorumluluğunun sigortalısının kusuru ve poliçe limiti ile sınırlı olduğunu, maluliyetinin olduğunu iddia eden davacının ortaya çıkan sonuçta müterafik kusurunun bulunup bulunmadığı hususlarının mahkemece tespiti gerektiğini, müterafik kusur için kazada kusurlu olmak değil, kaza sonucu oluşan zararın vukusunda kusur sahibi olmak şartının arandığını, maluliyet tazminatı belirlenirken, bilinen ücret, belirlenebilir bir ücret yoksa asgari ücretin baz alınması gerektiğini, müvekkil şirketin sorumlu bulunması durumunda, sorumluluğunun azami limit ile sınırlı olacağını, davacının dava açmadan evvel müvekkil sigorta şirketine başvuru yapmaması nedeniyle davanın öncelikle usulden reddine, vekalet ücretleri ve yargılama giderlerinin davacı üzerine bırakılmasına karar verilmesini talep etmiştir.
+CEVAP 2 : Davalı ... vekilinin mahkememize sunmuş olduğu cevap dilekçesinde, davaya konu kazayla ilgili yargılamanın Antalya ... Asliye Ceza Mahkemesinin .../... Esas sayılı dosyasıyla halen devam etmekte olduğunu, davalı müvekkil ...'ın kazaya konu aracı ...-... tarihleri arasında ... isimli kişiye kiraya verildiğini, davacıların bu kaza nedeniyle meydana geldiğini iddia ettiği zararının hayali ve fahiş olduğunu, bu nedenle de işleten sıfatı bulunmadığından manevi tazminat yönünden de taleplerinin reddini, yargılama giderleri ile vekalet ücretinin davacı tarafa yükletilmesine karar verilmesini talep etmiştir.
+DELİLLER : Dosyada tüm deliller toplanmış, Antalya ... Asliye Ceza Mahkemesinin .../... Esas sayılı dosyası celp edilmiş, dosya tarafların kusur oranlarınnı tespiti için Ankara Adli Tıp Kurumuna gönderilmiş ve mahkememize sunulan ... tarihli adli tıp raporunda, davacı sürücü ...'in %15 (Yüzde On Beş) oranında kusurlu olduğu, davalı sürücü ...'nın %85 (Yüzde Seksen Beş) oranında kusurlu olduğunu bildirir rapor sunulmşutur.
+Dosya davacı tarafın maluliyet oranının tespiti için İstanbul Adli Tıp Kurumuna gönderilmiş ve mahkememize sunulan ... tarihli raporda,
+Dosya içerisinde olay tarihli tıbbi belge olmamakla birlikte, tespit edilen arızanın ... tarihinde meydana gelen trafik kazası neticesi meydana gelmiş olduğunun Mahkemeniz'ce kabulü halinde:
+Mevcut belgelere göre;
+1. ... ve ... oğlu, ... doğumlu, ...’in ... tarihinde geçirmiş olduğu trafik kazasına bağlı gelişen yaralanmasının, 11.10.2008 tarih ve 27021 sayılı Resmi Gazete'de yayımlanan Çalışma Gücü ve Meslekte Kazanma Gücü Kaybı Oranı Tespit İşlemleri Yönetmeliği hükümlerinden yararlanılarak mesleğinin binek araç ve motosiklet şoförlüğü olduğu bildirilmekle meslek grup numarası Grup 41 (şoför ve yardımcıları) kabul olunarak:
+Gr41 VII (12Aa.......10)D %20x4/5=%16
+1.E cetveline göre %15.2 (yüzdeonbeşnoktaiki) oranında meslekte kazanma gücünden kaybetmiş sayılacağı,
+2.İyileşme süresinin olay tarihinden itibaren 3 (üç) aya kadar uzayabileceği,
+3.Başka birisinin sürekli bakımına muhtaç durumda olmadığı şeklinde rapor sunulmuştur.
+Dosya İstanbul nöbetçi Asliye Ticaret Mahkemesine talimat yazılarak meydana gelen trafik kazası nedeniyle tarafların kusur oranlarının tespiti için İTÜ Trafik Kürsüsünden seçilecek bilirkişilere tevdi edilmek üzere gönderilmiş ve mahkememize sunulan raporda davalı ...'nın %85 oranında kusurlu, davacı sürücü ...'in %15 (Yüzde On Beş) oranında kusurlu olduğunu bildirir rapor sunulmuştur.
+Dosya aktüerya bilirkişiye tevdi edilmiş ve bilirkişinin mahkememize sunmuş olduğu ... tarihli raporda, ... tarihinde trafik kazası sonucu %15,2 oranında sürekli ve 3 ay geçici iş gücü kaybına uğrayan davacı ...'in ;
+-Geçici iş gücü kaybından kaynaklanan maddi zararı ...(TL),
+-Sürekli iş gücü kaybından kaynaklanan maddi zararı ...(TL) ve
+- SGK dışı Tedavi giderleri ...(TL)
+Olduğunu bildirir rapor sunmuştur.
+Davacının davasını ıslah ettiği görüldü.
+DEĞERLENDİRME VE GEREKÇE:
+Dava, TBK 49 vd. Maddelerine dayalı haksız fiil niteliğindeki trafik kazası nedeniyle kusurlu olduğu belirtilen işleten-sürücü ve ZMMS aleyhine açılan maddi tazminat ile sigorta şirketi dışındaki işleten - sürücü aleyhine açılan manevi tazminat istemine ilişkindir.
+2918 sayılı Karayolları Trafik Kanunu'nun 91/1. maddesinde, "işletenlerin, bu kanunun 85/1 maddesine göre olan sorumluluklarının karşılanmasını sağlamak üzere mali sorumluluk sigortası yaptırmaları zorunludur", aynı yasanın 85/1 maddesinde, "bir motorlu aracın işletilmesi bir kimsenin ölümüne veya yaralanmasına yahut bir şeyin zarara uğramasına sebep olursa, araç işletenin bu zarardan sorumlu olacağı" aynı yasanın 85/son maddesinde ise, "işleten ve araç işleticisi teşebbüsün sahibi, aracın sürücüsünün veya aracın kullanılmasına katılan yardımcı kişilerin kusurundan kendi kusuru gibi sorumludur." hükümlerine yer verilmiş, Karayolları Zorunlu Mali Sorumluluk Sigortası Genel Şartlarının A-1. maddesinde de, "sigortacı bu poliçede tanımlanan motorlu aracın işletilmesi sırasında bir kimsenin ölümüne veya yaralanmasına veya bir şeyin zarara uğramasına sebebiyet vermesinden dolayı 2918 sayılı Karayolları Trafik Kanunu'na göre işletene düşen hukuki sorumluluğu, zorunlu sigorta limitlerine kadar temin eder" şeklinde ifade edilmiştir.
+Yukarda açıklanan madde hükümlerinden, Zorunlu Mali Sorumluluk Sigortası; motorlu bir aracın karayolunda işletilmesi sırasında, bir kimsenin ölümüne veya yaralanmasına veya bir şeyin zarara uğramasına neden olması halinde, o aracı işletenin zarara uğrayan 3. kişilere karşı olan sorumluluğunu belli limitler dahilinde karşılamayı amaçlayan ve yasaca yapılması zorunlu kılınan bir zarar sigortası türü olduğu anlaşılmaktadır
+Motorlu araçların işletilme tehlikesine karşı, zarar gören üçüncü şahısları korumak amacıyla getirilmiş olan bu düzenleme ile öngörülen sorumluluğunun bir kusur sorumluluğu olmayıp, sebep sorumluluğu olduğu; böylece araç işletenin sorumluluğunun sebep sorumluluğunun ikinci türü olan tehlike sorumluluğuna ilişkin bulunduğu , öğretide ve yargısal içtihatlarla kabul edilmektedir (Fikret Eren, Borçlar Hukuku, 9. Bası, s. 631 vd.; Ahmet Kılıçoğlu, Borçlar Hukuku, Genişletilmiş 10. Baskı, s. 264 vd).
+2918 Sayılı Kanunun 90. maddesinde "zorunlu mali sorumluluk sigortası kapsamındaki tazminatlar bu Kanun ve bu Kanun çerçevesinde hazırlanan genel şartlarda öngörülen usul ve esaslara tabidir. Söz konusu tazminatlar ve manevi tazminata ilişkin olarak bu Kanun ve genel şartlarda düzenlenmeyen hususlar hakkında 11/1/2011 tarihli ve 6098 sayılı Türk Borçlar Kanununun haksız fiillere ilişkin hükümleri uygulanır." düzenlemesi mevcuttur.
+6098 sayılı TBK 54.maddesinde de bedensel zararlar "bedensel zararlar özellikle şunlardır: 1-Tedavi giderleri, 2-Kazanç Kaybı, 3-Çalışma gücünün azalmasından yada yitirilmesinden doğan kayıplar, 4-Ekonomik geleceğin sarsılmasından doğan kayıplar" olarak belirtilmiştir.
+Somut olay yukarıdaki açıklamalar ışığında değerlendirildiğinde; davacı ... plakalı motosiklet ile seyir halindeyken, davalı ...'nın sevk ve idaresindeki ... plakalı aracın, sürücünün kusuruyla davacının aracına çarpması sonucu kazanın meydana geldiği anlaşılmış olup, meydana gelen kaza nedeniyle davalı sürücünün, araç işletenin ve sigorta şirketinin davacıya karşı sorumlu olduğu kanaatine mahkememizce varılmıştır.
+Mahkememizin bu kabulü doğrultusunda; hüküm kurmaya ve denetime elverişli oluşa ve yasaya uygun, kusur, maluliyet ve aktüerya bilirkişi raporları sonucu davacının kaza nedeniyle, geçici iş gücü kaybından kaynaklanan maddi zararı ...(TL), sürekli iş gücü kaybından kaynaklanan maddi zararı ...(TL) ve SGK dışı tedavi giderleri ...(TL) olarak bulunmuş davacının talebi üzerine fazlaya ilişkin hakların saklı tutulması kaydıyla ... TL üzerinden maddi tazminat davasının kabulüne karar vermek gerekmiştir.
+Manevi tazminat davası yönünden değerlendirme:
+TBK 56. Maddede Hâkim, bir kimsenin bedensel bütünlüğünün zedelenmesi durumunda, olayın özelliklerini göz önünde tutarak, zarar görene uygun bir miktar paranın manevi tazminat olarak ödenmesine karar verebilir. Ağır bedensel zarar veya ölüm hâlinde, zarar görenin veya ölenin yakınlarına da manevi tazminat olarak uygun bir miktar paranın ödenmesine karar verilebilir, düzenlemesi öngörülmüştür.
+Hakimin manevi zarar adı ile zarar görene verilmesine karar vereceği para tutarı adalete uygun olmalıdır. Hükmedilecek bu para, zarara uğrayanda manevi huzuru doğurmayı gerçekleştirecek tazminata benzer bir fonksiyonu olan özgün bir nitelik taşır. Bir ceza olmadığı gibi, mamelek hukukuna ilişkin zararın karşılanmasını da amaç edinmemiştir. O halde, bu tazminatın sınırı onun amacına göre belirlenmelidir. Takdir edilecek miktar, mevcut halde elde edilmek istenilen tatmin Duygusunun etkisine ulaşmak için gerekli olan kadar olmalıdır. 26.06.1966 günlü ve 7/7 sayılı Yargıtay İçtihadı Birleştirme Kararı’nın gerekçesinde takdir olunacak manevi tazminatın tutarını etkileyecek özel hal ve şartlar da açıkça gösterilmiştir. Bunlar her olaya göre değişebileceğinden hakim bu konuda takdir hakkını kullanırken ona etkili olan nedenleri de karar yerinde objektif ölçülere göre isabetli bir biçimde göstermelidir. Manevi tazminatın tutarını belirleme görevi hakimin takdirine bırakılmış ise de hükmedilen tutarın uğranılan manevi zararla orantılı, duyulan üzüntüyü hafifletici olması gerekir. Hakimin bu takdir hakkını kullanırken, ülkenin ekonomik koşulları tarafların sosyal ve ekonomik durumları paranın satın alma gücü, tarafların kusur durumu olayın ağırlığı olay tarihi gibi özellikleri göz önünde tutması, gelişen hukuktaki yaklaşıma da uygun olarak tatmin duygusu yanında caydırıcılık uyandıran oranda manevi tazminat takdir edilmesi gerektiği açıkça ortadadır. ( HGK 23.6.2004, 13/291-370)
+Yukarıdaki kanun maddesi, emsal içtihat ve açıklamalarda belirtilen ilkeler çerçevesinde davacı lehine takdiren ... TL manevi tazminata karar vermek gerekmiştir.
+Tüm dosya kapsamı bir arada değerlendirildiğinde maddi tazminat davasının kabulüne, manevi tazminat davasının kısmen kabulüne kısmen reddine karar vermek gerekmiş ve aşağıdaki şekilde hüküm tesis edilmiştir.
+HÜKÜM: Ayrıntısı gerekçeli kararda açıklandığı üzere,
+1-Davacının maddi tazminat davasının kabulü ile, ... TL sürekli iş göremezlik tazminatının sigorta şirketi açısından poliçe limitleri ile sınırlı kalmak kaydı ile ve dava tarihinden, diğer davalılar açısından kaza tarihinden (...) itibaren işleyecek yasal faizi ile birlikte davalılardan müştereken ve müteselsilen tahsili ile davacıya verilmesine,
+2-Davacının fazlaya ilişkin haklarının saklı tutulmasına,
+3-Davacının manevi tazminat davasının kısmen kabulü kısmen reddi ile, ... TL manevi tazminatın kaza tarihinden (...) itibaren işleyecek yasal faizi ile birlikte, sigorta şirketi harici davalılardan müştereken ve müteselsilen tahsili ile, davacıya verilmesine,
+4-Maddi tazminat talebi yönünden alınması gereken ... TL harçtan peşin ve ıslah ile alınan ... TL nin mahsubu ile eksik alınan ... TL nin davalılardan müştereken ve müteselsilen tahsili ile hazineye irad kaydına,
+5-Maddi tazminat talebi yönünden davacı tarafından yapılan ilk yargılama gideri, posta ve bilirkişi ücretinden ibaret toplam ... TL nin davalılardan müştereken ve müteselsilen tahsili ile davacıya verilmesine,
+6-Maddi tazminat talebi yönünden yürürlükte bulunan Avukatlık Asgari Ücret Tarifesine göre, ... TL vekalet ücretinin davalılardan müştereken ve müteselsilen tahsili ile, davacıya verilmesine,
+7-Manevi tazminat talebi yönünden alınması gereken ... TL harçtan peşin alınan ... TLnin mahsubu ile, eksik alınan ... TL nin davalı sigorta şirketi harici davalılardan müştereken ve müteselsilen tahsili ile hazineye irad kaydına,
+8-Manevi tazminat talebi yönünden davanın kabul ve red oranına göre hesaplanan ... TL yargılama giderinin davalı sigorta şirketi harici davalılardan müştereken ve müteselsilen tahsili ile davacıya verilmesine,
+9-Manevi tazminat talebi yönünden yürürlükte bulunan Avukatlık Asgari Ücret Tarifesine göre ... TL vekalet ücretinin davalı sigorta şirketi harici davalılardan müştereken ve müteselsilen tahsili ile davacıya verilmesine,
+10-Manevi tazminat talebi yönünden yürürlükte bulunan Avukatlık Asgari Ücret Tarifesine göre ... TL vekalet ücretinin davacıdan alınarak kendisini vekille temsil ettiren davalı ...'a verilmesine,
+11-Tarafların yatırmış olduğu ve kullanılmayan gider avansının karar kesinleştiğinde taraflara iadesine,
+Dair, davacı vekili ve davalı vekilinin yüzüne karşı kararın tebliğinden itibaren 6100 Sayılı Kanunun 345.maddesi gereğince 2 hafta içerisinde ilgili İstinaf Dairesi Başkanlığına sunulmak üzere Mahkememize verilecek dilekçe ile İstinaf yasa yolu açık olmak üzere verilen karar açıkça okunup usulen anlatıldı.
+Katip ...
+¸e-imzalıdır
+Hakim ...
+¸e-imzalıdır

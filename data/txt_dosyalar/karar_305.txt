@@ -1,0 +1,75 @@
+SIRA NO: 305 (ÇEKİRDEK)
+DOKÜMAN ID: 744420200
+DERECE: İlk Derece Mahkemesi
+DAİRE / MAHKEME: Gaziantep 1. Asliye Ticaret Mahkemesi
+ESAS NO: 2019/526
+KARAR NO: 2021/502
+KARAR TARİHİ: 16.07.2021 (Yıl: 2021)
+ARAMA KELİMESİ: trafik kazası aktüer bilirkişi raporu net tutar
+SAYFA NO: 13
+İNDİRME ZAMANI: 2026-10-25 00:45:20
+HESAP DOĞRULAMA ADAYI: False
+İÇERİK HASH (MD5): e6f577255a52f122fb8a97a56de8bd67
+================================================================================
+
+T.C.
+GAZİANTEP
+1. ASLİYE TİCARET MAHKEMESİ
+GEREKÇELİ KARAR
+ESAS NO :
+KARAR NO :
+HAKİM :
+KATİP :
+DAVACILAR : Müteveffa / miras bırakan mirasçıları,
+1-
+2-
+3-
+4-
+5-
+6-
+7
+8-
+VEKİLİ :
+DAVALI :
+VEKİLİ :
+DAVA : Tazminat (Ölüm Ve Cismani Zarar Sebebiyle Açılan Tazminat)
+DAVA TARİHİ : 25/06/2019
+KARAR TARİHİ : 16/07/2021
+GEREKÇE TARİHİ : 13/08/2021
+Mahkememizde görülmekte bulunan Tazminat (Ölüm Ve Cismani Zarar Sebebiyle Açılan Tazminat) davasının yapılan açık yargılamasının sonunda,
+GEREĞİ DÜŞÜNÜLDÜ:
+Davacı vekili dava dilekçesinde özetle; 14/05/2015 tarihinde davalı sigorta şirketi nezdinde sigortalı .....plakalı araç sürücüsünün kusuru sonucunda meydana gelen trafik kazası neticesinde .. .... ağır yaralanmış olduğunu belirterek, fazlaya ilişkin hakları saklı kalmak kaydıyla geçici ve sürekli dönem maluliyetinden kaynaklanan iş gücü kaybı tazminatının davalıdan tahsilini, yargılama gideri ve vekalet ücretinin karşı tarafa yükletilmesini talep ve dava etmiştir.
+Dava Değerinin Belirlenmesi: Davacı Vekili sunmuş olduğu 02/06/2021 tarihli dilekçesinde, dava dilekçesinde fazlaya ilişkin hakları saklı kalmak kaydıyla şimdilik Geçici İşgöremezlik için 500-TL Kalıcı İş Göremezlik, 500-TL,olarak açmış oldukları davayı Geçici İşgöremezlik için 3.062,88-TL Kalıcı İş Göremezlik, 15.388,11-TL olarak artırdıklarını, toplamda 19.450,99-TL'nin dava tarihinden itibaren işleyecek yasal faizi ile birlikte tahsilini, yargılama gideri ile vekalet ücretinin davalı üzerinde bırakılmasına karar verilmesini talep etmiştir.
+Davalı Sigorta vekili cevap dilekçesinde özetle; Davacı vekilinin dava dilekçesinde belirttiği 14/05/2015 tarihinde yaralamalı trafik kazasına karıştığını belirttiği ....Plakalı aracın ZMMS poliçesi ile sigortalandığını, müvekkili şirketin sigortalısının kusur oranında sorumluluğunun bulunduğunu ilgili yerlerden gerekli raporlar alınması gerektiğini belirterek açılan davanın reddini talep etmiştir.
+DELİLLER:
+1- Davalı sigorta şirketi nezdindeki hasar dosyası;
+Davalı sigorta şirketi tarafından sigorta poliçesi ile hasar dosyası Mahkememize sunulmuş, hasar dosyası kapsamında davacıya herhangi bir ödemenin yapılmadığı bildirilmiştir.
+2- Davacının meydana gelen trafik kazası sonrasına görmüş olduğu tedavilere ilişkin hastane kayıtları; Davacıya ait tedavi kayıtları celp edilerek dosya arasına eklenmiştir.
+3- SGK Kayıtları;
+Davaya konu trafik kazası sebebiyle davacıya geçici iş göremezlik sebebiyle ödeme yapılıp yapılmadığı, gelir bağlanıp bağlanmadığı hususunda SGK Gaziantep İl Müdürlüğüne müzekkere yazılmış, Gaziantep Sosyal Güvenlik İl Müdürlüğünün 26/06/2019 tarihli sayılı cevabında; davacıya meydana gelen trafik kazası nedeniyle geçici iş göremezlik ödemesi yapılmadığı ve peşin sermaye değerli gelir bağlanmadığı belirtilmiştir.
+4- Bilirkişi raporları;
+i) Kusur Bilirkişi Raporu: İddia ve savunmanın değerlendirilmesi bakımından, dosyaya toplanan kayıt ve belgeler, tarafların iddia ve savunmaları, gelen cevabi yazılar ve tüm dosya kapsamı nazara alınarak, meydana gelen trafik kazasında tarafların kusur durumlarının tespiti bakımından dosyanın trafik bilirkişisine tevdiine karar verilmiş olup, bilirkişi tarafından düzenlenen 21/10/2020 tarihli raporda, kazanın oluşumunda; .... plakalı araç sürücüsü ... ... 2918 sayılı Karayolları Trafik Kanunun asli kusurlardan saydığı Madde 56/1-A şerit izleme maddesini ihlal ettiği, ... ... ise 2918 sayılı Karayolları Trafik Kanununca her hangi bir kusurunun bulunmadığı, rapor edilmiştir.
+ii) Maluliyet Oranı Tespitine İlişkin Bilirkişi Raporu: Mahkememizce resen seçilen Adli Tıp Uzmanı bilirkişi heyetince düzenlenen 14/12/2020 tarihli gerekçeli raporda; Maluliyet Tespiti İşlemleri Yönetmeliği hükümleri uyarınca tıbbi iyileşme ve rehabilitasyon süresi dikkate alındığında 4 ay süre ile geçici iş görmezliğinin bulunuğu, iyileşme dönemi içerisinde 1 ay tam gün bakıcıya ihtiyacı olduğu rapor edilmiştir.
+iii) Aktüer Bilirkişi Raporu: Kusur ve maluliyet oranının tespitine müteakip dosya, gerçek zararın hesabı yönünden aktüer bilirkişiye tevdi edilmiş; aktüer bilirkişi tarafından düzenlenen 31/05/2021 tarihli gerekçeli raporda; TRH-2010 Türkiye Tablosu "Progresif Rant" %10 artık ve %10 İskonto yöntemine göre bakıcı gideri için 1.201,50-TL Geçici İş göremezlik Zararı için 3.562,88-TL sürekli İş Göremezlik Zararı için 15.888,11-TL zararı olduğu rapor edilmiştir.
+DELİLLERİN DEĞERLENDİRİLMESİ VE GEREKÇE:
+Dava, trafik kazası sonucunda oluşan geçici iş göremezlik, kalıcı maluliyet zararının, zorunlu mali mesuliyet sigortasına istinaden ve borçlar hukuku çerçevesinde tazmin edilmesi talebine ilişkindir.
+Tarafların iddia ve savunmaları ile duruşmadaki beyanları, bilirkişi raporları ve dosya içeriğinde bulunan tüm evrakın birlikte değerlendirilmesi neticesinde:
+Davacı vekili dava dilekçesi ile, davacının 14/05/2015 tarihli trafik kazası sebebiyle oluşan geçici ve sürekli iş göremezlik zararının tazminini talep etmiş, davalı vekili ise davanın reddini dilemiştir.
+.... plakalı aracın kaza tarihi itibariyle sürücüsünün ve işletenin .... ... olduğu, .... numaralı poliçe ile davalı tarafından sigortalandığı anlaşılmıştır.
+Kusur yönünden yapılan incelemede; .... plakalı araç sürücüsü .... ... 2918 sayılı Karayolları Trafik Kanunun asli kusurlardan saydığı Madde 56/1-A şerit izleme maddesini ihlal ettiği, Davacının yaya olduğu kazanın meydana gelmesine etken davranışının bulunmadığı dolayısıyla kusurunun bulunmadığı anlaşılmıştır.
+Davaya konu kaza 14/05/2015 tarihinde meydana gelmiş olup bu tarihte maluliyetin belirlenmesinde kriter olarak kullanılan Maluliyet Tespiti İşlemleri Yönetmeliği hükümlerine uygun olarak düzenlenen 14/12/2020 tarihli maluliyet raporuna göre; 4 ay süre ile geçici iş görmezliğinin bulunuğu, iyileşme dönemi içerisinde 1 ay tam gün bakıcıya ihtiyacı olduğu anlaşılmaktadır.
+Kusur ve maluliyet durumu anlaşılınca dosya meydana gelen zararın hesaplanması amacıyla aktüer bilirkişiye tevdi edilmiş, Aktüer bilirkişinin hazırladığı Anayasa Mahkemesinin 09/10/2020 tarihli resmi gazetede yayınlanan 17/07/2020 tarihli ve ..../... esas ..../.... sayılı kararı ve Yargıtayın bazı dairelerinde yerleşik olarak, 17. Hukuk dairesinin ise son dönemlerdeki içtihatları gözetilerek; TRH yaşam tablosu esas alınarak davacının muhtemel yaşam süresinin belirlenmesi; hesaplamalarda progresif rant yönteminin kullanılması ile bilinmeyen (işleyecek) devredeki gelirlerin her yıl için % 10 artırılıp % 10 iskonto edilmesi suretiyle tazminatın hesaplanması şeklinde uygulanan yöntemle yapılan hesaba itibar edilmiştir.
+Buna göre 31.05.2021 tarihli aktüerya raporunda asgari ücret üzerinden hesaplama yapılmış olup3.562,88 TL geçici iş göremezlik, 15.888,11TL kalıcı iş göremezlik olmak üzere toplam zarar; 19.450,99 TL olarak belirlendiği görülmüştür.
+Davacı vekili 02/06/2021 tarihli bedel arttırım dilekçesinde talebini bilirkişi raporuna uygun olarak arttırmıştır.
+Trafik kazaları esas itibariyle haksız eylem sayılan hallerden olmakla birlikte ZMMS'nı yapan sigortacı bakımından temerrüdün haksız eylem tarihinde oluştuğunun kabulü mümkün değildir. Sigortacının tazminat giderim yükümlülüğünü düzenleyen 2918 sayılı KTK m. 98/1 hükmü uyarınca sigortacı maddede belirtilen belgelerin iletildiği tarihten itibaren 8 iş günü sonrasında temerrüde düşer. Davadan önce böyle bir başvurunun bulunmaması halinde ise dava tarihinde temerrüde düşmüş sayılır. Davacı vekilinin talebi nazara alınarak dava tarihinden itibaren yasal faize hükmedilmiştir.
+Davacının dava devam ederken 16/02/2020 tarihinde vefat ettiği tespit edilmiştir. Gaziantep 1. Sulh Hukuk Mahkemesi .../.... esas, ..../... karar numaralı veraset ilamına göre geriye mirasçı olarak,..... kalmıştır. Davacı vekili mirasçıları davaya dahil etmiş ve bu şekilde yargılama devam etmiştir.
+Meydana gelen trafik kazasında davacıya sigortalı aracın sürücüsünün kusurunun bulunduğu, davacıların murisinin kusursuz olduğu, dava konusu trafik kazası nedeniyle davacıların murisinin malul kaldığı, tüm raporların taraflara tebliğ edildiği, kusur raporunun kaza tespit tutanağı ile uyumlu olduğu, kusur raporunun ceza dosyasında alınan raporlarla da uyumlu olduğu, düzenlenen raporların dosya kapsamına ve olayın oluşuna uygun olduğu, raporlar arasında çelişki olmadığı, mevzuata ve tüm dosya kapsamına uygun olarak hüküm kurmaya elverişli olduğundan, bu raporlar ve davacının ıslah dilekçesi dikkate alınarak davalının temerrüte düştüğü 07/08/2019 tarihinden itibaren işleyecek yasal faizi ile birlikte davacının uğradığı zararın tazmini cihetine gidilmiş,19.45,99 TL'nin davalıdan tahsili yönüyle davanın kabulüne karar verilmiş ve aşağıdaki şekilde hüküm kurulmuştur.
+H Ü K Ü M : Gerekçesi yukarıda açıklanan nedenlerle;
+1-Davanın kabulü ile; 15.888,11-TL kalıcı maluliyet tazminatı ve 3.562,88-TL geçici iş göremez tazminatı olmak üzere toplam 19.450,99-TL'nin dava tarihinden itibaren işleyecek yasal faizi ile birlikte davalıdan tahsili ile miras payları oranında davacılara verilmesine,
+2-Alınması gereken 1.328,70-TL karar ve ilam harcından, peşin alınan 107,45-TL harcın mahsubu ile bakiye 1.221,25-TL harcın davalıdan alınarak hazineye gelir kaydına,
+3-Zorunlu Arabuluculuk sürecinde Adalet Bakanlığı bütçesinden karşılanan 1.096,27-TL arabulucu gideri 6325 sayılı Kanun'un 18/A maddesinin 13.fıkrasının son cümlesi gereğince yargılama gideri olarak kabul edilmiş olup, bu miktarın davalıdan alınarak Hazineye gelir kaydına,
+4-Davacının yaptığı karşıladığı harçlar dahil toplam 2.598,5‬-TL'nin davalıdan tahsili ile miras payları oranında davacılara verilmesine,
+5-Davalı tarafından yapılan yargılama gideri bulunmadığından bu konuda karar verilmesine yer olmadığına,
+6-Davacılar kendini vekille temsil ettirdiğinden karar tarihinde yürürlükte bulunan A.A.Ü.T. gereğince hesap edilen 4.080,00-TL maktu vekalet ücretinin davalıdan tahsili ile miras payları oranında davacılara verilmesin,
+7-Karar kesinleştiğinde artan gider avansının ilgili tarafa iadesine,
+Dair; davacı vekilinin yüzüne karşı, davalı yanın yokluğunda gerekçeli kararın tebliğinden itibaren 2 hafta içinde mahkememize ya da mahkememize gönderilmek üzere başka yer emsal mahkemeye verilecek bir dilekçe veya tutanağa bağlanacak beyan ile Gaziantep Bölge Adli Mahkemesi'nde istinaf yolu açık olmak üzere karar verildi, okundu, anlatıldı. 16/07/2021

@@ -1,0 +1,51 @@
+SIRA NO: 290 (ÇEKİRDEK)
+DOKÜMAN ID: 515976300
+DERECE: İlk Derece Mahkemesi
+DAİRE / MAHKEME: İstanbul 14. Asliye Ticaret Mahkemesi
+ESAS NO: 2015/155
+KARAR NO: 2019/510
+KARAR TARİHİ: 21.05.2019 (Yıl: 2019)
+ARAMA KELİMESİ: trafik kazası aktüer bilirkişi raporu net tutar
+SAYFA NO: 11
+İNDİRME ZAMANI: 2026-10-25 00:40:38
+HESAP DOĞRULAMA ADAYI: False
+İÇERİK HASH (MD5): d52e69b2b8b1b875883f53a478642ad1
+================================================================================
+
+T.C.
+İSTANBUL
+14. ASLİYE TİCARET MAHKEMESİ
+ESAS NO: 2015/155 Esas
+KARAR NO: 2019/510 Karar
+DAVA : Tazminat (Ölüm Ve Cismani Zarar Sebebiyle Açılan Tazminat)
+DAVA TARİHİ: 09/02/2015
+KARAR TARİHİ: 21/05/2019
+Mahkememizde görülmekte olan Tazminat (Ölüm Ve Cismani Zarar Sebebiyle Açılan Tazminat) davasının yapılan açık yargılaması sonunda,
+GEREĞİ DÜŞÜNÜLDÜ:
+Davacı vekilinin vermiş olduğu 09.02.2015 tarihli dilekçesinde özetle; "Yurtdışında kayıtlı olan ... plakalı aracın, 01.09.2009 tarihinde, sürücü ... sevk ve idaresinde, ... şehir merkezinden ... istikametine seyir halinde iken müvekkili ... sevk ve idaresindeki ... plakalı araca çarpması sonucu çift taraflı, yaralanmak trafik kazası meydana geldiğini, kaza neticesinde müvekkilinin yaralanarak sürekli sakat kaldığını, kusur durumlarının ve oranlarının tespiti açısından huzurdaki davada kusur yönünden inceleme yapılmasını talep ettiklerini, müvekkilinin geçirdiği kaza neticesinde sürekli sakat kaldığını, maluliyet oranının tespit edilerek, aktüerya hesap bilirkişisi tarafından hesap yapılmasını talep etmiş, dilekçesinde açıklamalarda bulunarak sonuç olarak; fazlaya ilişkin talep ve dava hakları saklı kalmak kaydıyla şimdilik müvekkili için 3.000,00-TL sürekli sakatlık tazminatının olay tarihinden itibaren işleyecek avans faiziyle birlikte davalı kurumdan tahsiline, yargılama giderleri ve ücreti vekaletin davalı tarafa yükletilmesine karar verilmesini talep etmiştir.
+Davalı vekilinin vermiş olduğu 05.03.2015 tarihli davaya cevap dilekçesinde özetle; dava konusu kaza ile ilgili Ezine Cumhuriyet Başsavcılığının ... numaralı soruşturmanın ve açılmış ceza dosyasının neticesinin bekletici mesele yapılması gerektiğini, dava konusu kaza konucu maluliyet maluliyet oranının, iyileşme sürecinin ve illiyet bağının Adli Tıp kurumu tarafından belirlenmesine, maluliyet söz konusu ise aktüer bilirkişi tarafından hesap yapılmasına karar verilmesini talep etmiş, dilekçesinde açıklamalarda bulunarak sonuç olarak davanın reddine, yargılama gideri ve vekalet ücretinin davacı tarafa yükletilmesine karar verilmesini talep ve dava etmiştir.
+Yanların tüm delilleri toplandıktan sonra dosya iddia, savunma ve yanların tüm delilleri ile ticari defter ve belgeleri üzerinde inceleme yapılarak davacının oluşan bu trafik kazası nedeniyle yaralanmasında maluliyet oranlarının saptanılması istenilmiştir.
+Adli Tıp Kurumu... İhtisas Dairesinin düzenlediği 01.07.2016 tarihli 2 sayfadan ibaret raporunda özetle; "Meslekte kazanma gücünden azalma oranının E cetveline göre % 20,2 olduğu, Geçici işgöremez ve %100 malul sayılan sürenin (9) ay olduğu belirtilmektedir.
+Adli Tıp Kurumu Trafik ihtisas dairesinden oluşan bu kazada sürücülerin Kusur oranlarının saptanması için gönderilmiştir.
+Adli Tıp Kurumu Trafik ihtisas dairesinin düzenlediği 30.03.2018 tarihli 2 sayfadan ibaret raporunda özetle; "... plakalı aracın dava dışı sürücüsünün %100 oranında kusurlu olduğu, Davacı sürücü ...’ in kusursuz olduğu" belirlenmiştir.
+Bu iki kusur ve maluliyet raporlarının alınmasından sonra dosya Aktüer bilirkişisine verilerek tazminat hesaplaması yapılması istenilmiştir.
+Aktüer Bilirkişisinin düzenlediği 24.09.2018 tarihli 6 sayfadan ibaret raporunda özetle; "Davacının nihai ve gerçek geçici işgöremezlik maddi zararının 5.068,77- TL olduğu, Davacının nihai ve gerçek sürekli işgöremezlik maddi zararının 159.755,26-TL olduğu, Temerrüt başlangıcının 09.02.2015 dava tarihi olduğu, işleyecek faizin yasal faiz olduğu" kanaati ile raporunu sunmuştur.
+Dosyaya getirtilen yanlara ait tüm deliller, getirtilen hasar dosyası, davacının Adli Tıp Kurumundan aldırılan mağluliyet ve kusur Raporları ile Aktüer bilirkişisince defter ve belgeleri üzerinde yapılan bilirkişi incelemesi sonucunda düzenlenen rapor ve tüm dosya kapsamından anlaşıldığı üzere;
+Huzurdaki davada Yurtdışında kayıtlı olan ... plakalı aracın, 01.09.2009 tarihinde, sürücü... sevk ve idaresinde, Ezine şehir merkezinden Çanakkale istikametine seyir halinde iken davacı ... sevk ve idaresindeki ... plakalı araca çarpması sonucu çift taraflı, yaralanmak trafik kazası meydana geldiği anlaşılmaktadır.
+Oluşan bu kazada kazaya karışan araç sürücülerinin Adli Tıp Trafik Şubesince ... plakalı aracın dava dışı sürücüsünün % 100 oranında kusurlu olduğu, Davacı sürücü ...’ in kusursuz olduğu belirlenmiştir.
+Ayrıca davacı sürücü ...’ in yine Adli Tıp Kurumu... İhtisas dairesinden alınan raporunda Meslekte kazanma gücünden azalma oranının E cetveline göre % 20,2 olduğu, Geçici işgöremez ve %100 malul sayılan sürenin (9) ay olduğu belirlenmiştir.
+Mahkememizce davacının kaza nedeniyle kaldığı mağluliyet oranı, kazadaki sürücülerin kusur oranları dikkate alınarak Aktüer hesaplaması yapılmak üzere dosya bilirkişiye verilmiş olup, bilirkişice mahkememizcede hüküm vermeye yeterli rapor düzenlenerek dosyamıza sunulmuştur. Bu hesaplamalara göre davacının geçici işgöremezlik maddi zararının 5.068,77-TL, işgöremezlik maddi zararının 159.755,26-TL olduğu belirlenmiştir.
+Davacı tarafta bilirkişice saptanan miktarları kabul ederek bu miktarlar üzerinden davasını ıslah ederek davalıya tabliğ ettirdiği anlaşılmaktadır.
+Davalı Sigorta şirketi tacir olduğundan ilişkilerinde faiz esas olup, önceden kararlaştırılmasa bile faiz istenebilir. Bir alacağa faiz istenebilmesi için, ödeneceği tarihin net olarak belli olması veya belli değilse alacaklı tarafından çekilerek bir ihtar veya ihbar ile borçlunun temerrüde düşürülmesi veya icra takibine başvurulması gerekir. Dosyamızda davalının temerrüdüne dair bir belge ve iddia yoktur. Bu nedenle temerrüt dava ile oluşmuştur. Bu durumda temerrüt başlangıcının 09.02.2015 dava tarihi olduğu kanaatine varılmıştır.
+Tüm bu açıklamalardan belirlendiği üzere asıl ve ıslahla açılan davanın kabulü ile geçici işgörmezlik tazminatı olarak 5.068,77-TL, sürekli işgörmezlik tazminatı olarak 159.755,26-TL olmak üzere toplam 164.824,26-TL nin 09.02.2015 dava tarihinden itibaren işleyecek yasal faizi ile birlikte davalıdan tahsili ile davacılara verilmesine karar vermek gerekmiştir.
+Bu nedenle aşağıdaki hüküm kurulmuştur.
+HÜKÜM: Gerekçesi yukarıda açıklandığı üzere:
+1-İş bu asıl ve ıslahla açılan davanın kabulü ile geçici işgörmezlik tazminatı olarak 5.068,77-TL, sürekli işgörmezlik tazminatı olarak 159.755,26-Tl olmak üzere toplam 164.824,26-TL nin 09.02.2015 dava tarihinden itibaren işleyecek yasal faizi ile birlikte davalıdan tahsili ile davacıya verilmesine,
+2- Karar ve ilam harcı 11.259,15-TL nin ıslahla alınan 552,71-TL den düşümü ile kalan 10.706,44-TL-TL bakiye ilam harcının davalıdan alınarak Hazineye gelir kaydına,
+3-Davacı tarafından yatırılan 584,51-TL başvuru ve ıslah harcının davalıdan alınarak davacıya verilmesine,
+4-Davacı tarafından yapılan 684,60-TL yargılama giderinin davalıdan alınarak davacıya verilmesine,
+5- Davacı taraf kendisini dava ve duruşmalarda vekili ile temsil ettirdiği anlaşılmakla AAÜT gereğince 15.839,46-TL vekalet ücretinin davalıdan alınarak davacıya verilmesine,
+6-Davacının gider avansından artan bakiyesinin karar kesinleştiğinde ve talep halinde davacıya iadesine,
+Dair davacı ve davalı vekilinin yüzünde ilamın tebliğinden itibaren iki hafta içerisinde Mahkememize verilecek bir dilekçe ile veya başka bir yer Mahkemesi aracılığı ile gönderilecek bir dilekçe ile İstinaf yolu açık olmak üzere verilen karar açıkça okunup usulen anlatıldı.
+Katip ...
+Hakim ...

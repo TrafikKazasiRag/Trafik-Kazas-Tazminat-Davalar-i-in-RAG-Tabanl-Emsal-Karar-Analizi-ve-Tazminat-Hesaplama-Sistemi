@@ -1,0 +1,47 @@
+SIRA NO: 64 (DIŞLANAN - MALULIYET_ISGOREMEZLIK_YOK)
+DOKÜMAN ID: 493315400
+DERECE: İlk Derece Mahkemesi
+DAİRE / MAHKEME: İstanbul 9. Asliye Ticaret Mahkemesi
+ESAS NO: 2016/1066
+KARAR NO: 2019/555
+KARAR TARİHİ: 11.04.2019 (Yıl: 2019)
+ARAMA KELİMESİ: trafik kazası maddi manevi tazminat kusur (v3)
+SAYFA NO: 1
+İNDİRME ZAMANI: 2026-10-25 00:16:44
+HESAP DOĞRULAMA ADAYI: False
+İÇERİK HASH (MD5): 1aa225956bbee574400927d020385fb6
+================================================================================
+
+T.C.
+İSTANBUL
+9. ASLİYE TİCARET MAHKEMESİ
+ESAS NO : 2016/1066 Esas
+KARAR NO : 2019/555
+DAVA : Maddi ve Manevi Tazminat
+DAVA TARİHİ: 27/10/2016
+KARAR TARİHİ: 11/04/2019
+Mahkememize açılan Maddi ve Manevi Tazminat davasının yapılan açık yargılaması
+sonucunda;
+GEREĞİ DÜŞÜNÜLDÜ:
+Davacılar vekili Mahkememize verdiği dava dilekçesi ile; Davacıların murisleri müteveffa ...'in sürücüsü olduğu ... plakalı araçla seyri sırasında 23.04.2016 tarihinde meydana gelen tek taraflı trafik kazası sonucunda vefat ettiğini, davacıların müteveffanın ölümü ile desteğinden yoksun kaldıklarını, davacıların mirasçı olarak değil destekten yoksun kalan 3.kişi sıfatı ile başvuru yaptıklarını, doğan zararın desteğe ait olmadığını, miras yoluyla geçmediğini, bu sebeple kusurun hak sahibi davacılara karşı ileri sürülemeyeceğini, ayrıca manevi tazminat taleplerinin olduğunu, sigorta şirketinin... numaralı poliçe dolayısıyla maddi tazminattan sorumlu olduğunu, 25.07.2016 tarihinde ... A.Ş.'ne başvuru yapıldığını ancak talebin reddedildiğini belirterek fazlaya ilişkin hakları saklı kalmak kaydıyla 1.000 TL destekten yoksun kalma tazminatının davalılardan ortaklaşa ve zincirleme tahsiline, eş için 150.000 TL, küçükler için 75.000'er TL olmak üzere 300.000 TL manevi tazminatın davalı işletenden tahsiline karar verilmesini talep ve dava etmişlerdir.
+Davalı ... A.Ş. vekili Mahkememize verdiği cevap dilekçesi ile; ...plakalı aracın 09.04.2016-2017 vadeli... numaralı Trafik Poliçesi ile sigortalı olduğunu, davaya konu talep sebebiyle şirketin sorumluluğu bulunmadığını, Trafik Poliçesi genel şartları A.6.D maddesi gereğince talebin teminat dışında kaldığını, davacılara destekten yoksun kalma tazminatı ödenmesi durumunda sürücünün ağır kusuru nedeniyle genel şartların B.4.a maddesi gereğince davacılara rücu davası açılacağını, alacaklı-borçlu birleşmesinin söz konusu olacağını, kusur durumunun Adli Tıp Kurumundan alınmasını, SGK' dan herhangi bir ödeme alınıp alınmadığının araştırılması gerektiğini belirterek davanın reddini talep etmiştir.
+Diğer davalı şirket davaya cevap vermemiştir.
+Dava trafik kazasından kaynaklı destekten yoksun kalma sebebiyle açılmış maddi ve manevi tazminat davasıdır.
+Mahkememizce taraf delilleri toplanmış, hasar dosyası celbedilmiş, SGK'dan rücuya tabi ödeme yapılıp yapılmadığı sorulmuş ve olayın meydana gelmesinde tarafların kusur durumunun araştırılması ve talep edilebilecek tazminat tutarının belirlenmesi için bilirkişi incelemesi yaptırılmıştır.
+HMK'nın 115/1. maddesi gereğince Mahkemeler dava şartının mevcut olup olmadığını davanın her aşamasında kendiliğinden araştırır. Görev kuralları kamu düzenine ilişkin olup, mahkemece kendiliğinden (re'sen) dikkate alınması zorunludur. 05.12.1977 tarih, 4/4 sayılı Yargıtay İçtihadı Birleştirme Kararında belirtildiği gibi mahkemelerin görevi kamu düzeni ile ilgili olup kıyas veya yorum yolu ile genişletilmesi veya değiştirilmesi mümkün değildir. İş Mahkemeleri özel kanunla kurulmuş olup görevleri istisnai nitelik taşıdığından 5521 sayılı Yasada sınırlı olarak sayılmış dava ve uyuşmazlıklar ile diğer yasaların İş Mahkemelerini görevlendirdiği dava ve işler dışındaki dava ve işlere İş Mahkemelerinde bakılamaz.
+İş kazasında, işveren dışında başka sorumlular varsa, işveren ile birlikte bu kişiler aleyhine de dava açılması durumunda dava yine İş Mahkemelerinde görülür.
+İş kazasında, yalnızca işveren ve vekili dışındaki kişiler dava edilirse İş Mahkemeleri görevli değildir. Yargıtay 17. Hukuk Dairesi'nin 2015/13523 E. 2018/7384 K. sayılı ve Yargıtay 21. Hukuk Dairesi'nin 2015/10453 E. 2016/4135 K. sayılı içtihatları da bu yöndedir.
+Somut olayda, davacıların murisi olan müteveffanın davalı Sabırlar Nakliye Vinç Metal İnşaat Taahhüt Sanayi ve Ticaret Limited Şirketinin işçisi olup kazanın, iş kazası olarak meydana geldiği dosya kapsamından anlaşılmaktadır. Meydana gelen trafik kazası, davacılar yönünden bir iş kazası olup uyuşmazlık iş hukukundan kaynaklanması nedeniyle mahkememizin davaya bakmakta görevli olmadığı, görevli Mahkemenin İstanbul İş Mahkemeleri olduğu sonuç ve kanaatine varılarak görevsizlik kararı verilmiştir.
+HÜKÜM : Yukarıda açıklanan nedenlerle;
+1-Davanın Mahkememizin görevsizliği nedeniyle HMK.nun 114/1-c ve 115/2 maddeleri gereğince usulden REDDİNE, Karar kesinleştiğinde ve kesinleşme tarihinden itibaren 2 hafta içerisinde talep edilmesi halinde dosyanın görevli İSTANBUL İŞ MAHKEMESİ'ne gönderilmesine,
+2-Kararın kesinleşmesinden itibaren 2 hafta içerisinde dava dosyasının görevli mahkemeye gönderilmesi talep edilmediği taktirde, talep halinde HMK nun 20.maddesi gereğince davanın açılmamış sayılmasına ve aynı yasanan 331/2.maddesi gereğince yargılama giderleri hakkında karar verilmesine,
+Davacı vekilinin ve davalı ... A.Ş. vekilinin yüzüne karşı; diğer davalının yokluğunda gerekçeli kararın tebliğ tarihinden itibaren 2 hafta içinde Mahkememize sunulacak veya gönderilecek dilekçe ile istinaf yolu açık olmak üzere oybirliğiyle verilen karar açıkça okunup usulen anlatıldı.
+Başkan
+¸e-imzalıdır
+Üye
+¸e-imzalıdır
+Üye
+¸e-imzalıdır
+Katip
+¸e-imzalıdır
+¸Bu belge 5070 sayılı Kanun Kapsamında Elektronik İmza İle İmzalanmıştır.

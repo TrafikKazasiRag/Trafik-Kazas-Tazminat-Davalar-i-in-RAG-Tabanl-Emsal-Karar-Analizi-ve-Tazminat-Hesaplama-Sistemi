@@ -1,0 +1,39 @@
+SIRA NO: 333 (ÇEKİRDEK)
+DOKÜMAN ID: 1202105600
+DERECE: BAM (İstinaf)
+DAİRE / MAHKEME: İstanbul Bölge Adliye Mahkemesi 9. Hukuk Dairesi
+ESAS NO: 2023/769
+KARAR NO: 2026/536
+KARAR TARİHİ: 05.03.2026 (Yıl: 2026)
+ARAMA KELİMESİ: sürekli iş göremezlik yıllık ücret bilinen gelir
+SAYFA NO: 2
+İNDİRME ZAMANI: 2026-10-25 00:56:04
+HESAP DOĞRULAMA ADAYI: True
+İÇERİK HASH (MD5): 433dc526ad2dc770d659b36a8f405e0f
+================================================================================
+
+T.C.
+İSTANBUL
+BÖLGE ADLİYE MAHKEMESİ
+9.HUKUK DAİRESİ
+T Ü R K M İ L L E T İ A D I N A
+K A R A R
+ESAS NO: 2023/769
+KARAR NO: 2026/536
+İNCELENEN DOSYANIN
+MAHKEMESİ : İstanbul Anadolu 7. Asliye Ticaret Mahkemesi
+KARAR TARİHİ: 23/11/2022
+NUMARASI: 2021/246 Esas - 2022/795 Karar
+DAVA : Ölüm Ve Cismani Zarar Sebebiyle Açılan Tazminat
+KARAR TARİHİ: 05/03/2026
+Yukarıda yazılı İlk Derece Mahkemesi kararına karşı istinaf yasa yoluna başvurulması üzerine, Dairemiz Heyetince yapılan müzakere sonucunda;
+GEREĞİ DÜŞÜNÜLDÜ :
+Davacı vekili dava dilekçesinde özetle; 25/06/2020 tarihinde davalıya sigortalı ... plakalı aracın yaya konumunda bulunan davacıya çarpması sonucu davacının ağır şekilde yaralandığını ve malul kaldığını, kaza nedeniyle Kütahya Cumhuriyet Başsavcılığınca soruşturma başlatıldığını, davalı sigortalı araç sürücüsünün kaza tespit tutağına göre yaya geçidinde yayalara ilk geçiş hakkını verme kuralını ihlal ederek kazayı gerçekleştirdiğini, bu sebeple tam kusurlu olduğunu beyanla şimdilik 100,00 TL geçici, 100,00 TL sürekli iş göremezlik,100,00 TL bakıcı tazminatını 24/09/2020 tarihinden itibaren işleyecek yasal faizi ile birlikte davalıdan tahsiline karar verilmesini talep etmiştir.Davalı vekili cevap dilekçesinde özetle; davacı tarafından müvekkili şirkete usulüne uygun bir başvuru yapılmadığını, müvekkili şirketin belirlenecek olan gerçek zarardan sigortalısının kusuru oranına isabet eden oranda ve poliçe limiti ile sınırlı olarak sorumlu olduğunu, davacının talep ettiği bakıcı ve geçici iş göremezlik zarardan sorumluluğunun bulunmadığını, 2918 sayılı kanun ve karayolları motorlu araçlar zorunlu mali sorumluluk sigortası genel şartları uyarınca sorumluluğun ...ya ait olduğunu belirterek davanın reddini talep etmiştir. Mahkemece yapılan yargılama sonucunda, "Davanın kabulüne, 12.623,88 TL geçici iş göremezlik, 54.868,99 TL sürekli iş göremezlik, 2.943,00 TL bakıcı giderinin 24/09/2020 tarihinden itibaren işleyecek yasal faizi ile birlikte davalıdan alınarak davacıya verilmesine" karar verilmiştir. Bu karara karşı davacı vekili istinaf başvurusunda bulunmuştur.Davacı vekili istinaf başvuru dilekçesinde özetle;14/02/2023 tarihli ve 32104 sayılı Resmi Gazete'de yayımlanan Anayasa Mahkemesinin 29/12/2022 tarihli ve 2021/82 Esas, 2022/167 Karar sayılı kararı ile 09/06/2021 tarihli ve 7327 sayılı İİK ile Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun'un 18. maddesiyle 13/10/1983 tarihli ve 2918 sayılı KTK'nın 90. maddesinin 1. fıkrasına eklenen ikinci cümlenin ve yine Aynı Kanun ve aynı maddenin 2. fıkrasının tamamının iptaline karar verilmiş olup kök ve ek hesap raporlarında 26/06/2022 ile 30/06/2022 arasındaki işlemiş dönem sürekli iş göremezlik zararı hesaplanmadığından davacı aleyhine olacak şekilde eksik hesaplama yapıldığını, bilirkişi raporunda, davacının bakiye ömrünün 34,43 yıl olduğu belirtildikten sonra bunun yuvarlama ile 34 yıl olarak kabulü üzerinden hesaplama yapılması hatalı olduğunu, ek bilirkişi raporunda 01/07/2022'den itibaren birer yıllık dönemlerle(örneğin 1. yıl 01/07/2022-30/06/2023, 2. yıl 01/07/2023-30/06/2024 vb) işleyecek dönem gelirleri progressif rant formülüyle 32 yıl süre için, 01/07/2022 ile 30/06/2054 tarihleri arası için hesaplanmış ancak davacı 30/11/2054 tarihinde öleceğinden 01/07/2054 ile 30/11/2054 arasındaki işleyecek dönem sürekli iş göremezlik zararı davacı aleyhine olacak şekilde hesaplama dışı bırakıldığını, kaldırma kararı sonrası yeniden yargılama yapılacağından işlemiş dönem değişikliği nedeniyle ek hesap raporu alınması gerektiğini, aradan geçen sürede 2023 yılı asgari ücret verileri belli olduğundan işlemiş dönemin 31/12/2023 tarihine kadar uzatılması, işleyecek dönemin 01/01/2024'ten başlatılması ve değişen ücret verilerine göre yeniden hesaplama yapılması gerektiğini belirterek istinaf yasa yoluna başvurmuştur.Dava, yaralamalı trafik kazası nedeniyle maddi tazminat istemine ilişkin olup istinaf açısından uyuşmazlık konusu HMK'nın 355. maddesine göre kamu düzeni ve istinaf nedenleri ile sınırlı olmak üzere İlk Derece Mahkemesince verilen kararın usul, yasa ve dosya içeriğine uygun olup olmadığıdır.Somut olayda mahkemenin gerekçeli kararında; "... alınan hesap raporuna göre davacının kaza nedeniyle 12.623,88 TL geçici iş göremezlik, 65.039,41 TL sürekli iş göremezlik, 2.943,00 TL bakıcı gideri zararı mevcuttur. Hesap raporu hukuka uygun ve denetime elverişli olması nedeniyle hükme esas alınmıştır. Davacı sürekli iş göremezlik 54.868,99 TL talep etmiştir bu nedenle taleple bağlı kalınarak geçici iş göremezlik olarak bu miktara hükmedilmiştir." şeklinde açıklamıştır.Mahkemenin kabulüne göre hükme esas kök ve ek aktüerya raporunda; TRH 2010 Kadın yaşam tablosuna göre, 45 yaşındaki davacının bakiye ömür süresinin 34,43 (34) yıl olarak hesaplanmasında isabetsizlik bulunmamaktadır. Ancak raporda asgari ücretin yıl sonuna kadar hesaplanmamış olması ile işleyecek dönemin hangi tarihe kadar hesaplandığı anlaşılamadığından denetime açık ve hüküm kurmaya elverişli olmayan raporun hükme esas alınması doğru olmamıştır. O halde mahkemece yapılması gereken başka bir aktüerya bilirkişisinden hükme esas alınan aktüer hesap raporu tarihi itibariyle asgari ücret verileri 31/12/2022 tarihine kadar bilinebileceğinden 31/12/2022 işlemiş (bilinen) dönem sonu kabul edilerek bu tarihe kadar her bir dönemde ilgili dönemlerin ücretleri üzerinden iskontoya tabi tutulmadan ayrı ayrı hesaplama yapılması, 01/01/2023 ve sonrası ise işleyecek (bilinmeyen) dönem kabul edilerek bu dönemde hesap tarihi ücret verileri (işlemiş/bilinen dönemde bilinen son ücret verileri) üzerinden Kn, 1/Kn formülü üzerinden her yıl önce %10 artırılıp sonra %10 iskontoya tabi tutularak (progressif rant formülüne göre) hesaplama yapılması için rapor alınarak sonucuna göre karar vermek olmalıdır.Açıklanan nedenlerle, davacı vekilinin istinaf başvurusunun kabulü ile HMK'nın 353/1-a/6. maddesi uyarınca İlk Derece Mahkemesi kararının kaldırılmasına, dosyanın yukarıda belirtilen şekilde işlem yapılmak üzere mahkemesine gönderilmesine karar verilmiştir.
+KARAR: Gerekçesi yukarıda açıklandığı üzere :
+1-Davacı vekilinin istinaf başvurusunun KABULÜ ile yukarıda esas ve karar numarası belirtilen İlk Derece Mahkemesi kararının HMK'nın 353/1-a/6. maddesi uyarınca KALDIRILMASINA,
+2-Davanın yeniden görülmesi için dosyanın Mahkemesine GÖNDERİLMESİNE,
+3-İstinaf karar harcının istek halinde İlk Derece Mahkemesince yatırana iadesine,
+4-Duruşma yapılmadığından, vekalet ücreti hükmedilmesine yer olmadığına,
+5-Davacı tarafından yapılan istinaf yargılama giderinin İlk Derece Mahkemesince yeniden verilecek kararda dikkate alınmasına,
+6-İstinaf aşaması için yatırılan gider avansından artan kısmın yatıran tarafa iadesine,
+Dosya üzerinde yapılan inceleme sonucunda HMK'nın 353/1-a maddesi uyarınca kesin olmak üzere oy birliği ile karar verildi.05/03/2026

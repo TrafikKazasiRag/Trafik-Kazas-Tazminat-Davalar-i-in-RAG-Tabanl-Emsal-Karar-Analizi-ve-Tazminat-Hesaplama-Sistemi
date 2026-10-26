@@ -1,0 +1,64 @@
+SIRA NO: 234 (ÇEKİRDEK)
+DOKÜMAN ID: 720552100
+DERECE: İlk Derece Mahkemesi
+DAİRE / MAHKEME: Ankara 5. Asliye Ticaret Mahkemesi
+ESAS NO: 2018/518
+KARAR NO: 2021/874
+KARAR TARİHİ: 22.12.2021 (Yıl: 2021)
+ARAMA KELİMESİ: trafik kazası aktüer bilirkişi raporu net tutar
+SAYFA NO: 3
+İNDİRME ZAMANI: 2026-10-25 00:21:59
+HESAP DOĞRULAMA ADAYI: False
+İÇERİK HASH (MD5): 3260322f7655a1c8d92dd3c9a6355637
+================================================================================
+
+T.C. ANKARA ... TİCARET MAHKEMESİ Esas-Karar No: ... Esas - 2021/874
+Türk Milleti Adına Yargılama Yapmaya ve Hüküm Vermeye Yetkili
+ANKARA ... TİCARET MAHKEMESİ
+GEREKÇELİ KARAR
+ESAS NO : ... Esas
+KARAR NO : 2021/874
+DAVA : Tazminat (Ölüm Ve Cismani Zarar Sebebiyle Açılan Tazminat)
+DAVA TARİHİ : 13/09/2021
+KARAR TARİHİ : 22/12/2021
+GEREKÇELİ KARARIN
+YAZILDIĞI TARİH : 21/01/2022
+Mahkememizde görülmekte olan Tazminat (Ölüm Ve Cismani Zarar Sebebiyle Açılan Tazminat) davasının yapılan açık yargılaması sonunda,
+GEREĞİ DÜŞÜNÜLDÜ:
+Asıl davada davacı vekili dava dilekçesinde özetle; Davalı ... Sigorta AŞ'ye karayolları Zorunlu Mali Mesuliyet Sigortası kapsamında sigortalı olan, ...'nın sevk ve idaresindeki ... plaka sayılı yolcu otobüsünün tek taraflı olarak neden olduğu, 29.11.2016 günü meydana gelen trafik kazasında, müvekkilinin ağır derecede yaralandığını ve malul kaldığını, kazadan sonra düzenlenen trafik kazası tespit tutanağına göre davalı şirket sigortalısı araç sürücüsünün tam kusurlu bulunduğunu, açılan kamu davasının, Denizli...Ağır Ceza Mahkemesi'nin ..... sayılı kararı ile sonuçlandığını ve davalı şirket sigortalısı araç sürücüsünün mahkum olduğunu, müvekkilinin araç içinde yolcu konumunda olduğunu, kazanın meydana gelmesinde müterafik bir kusuru bulunmamakta olduğunu belirterek fazlaya ilişkin talep ve dava hakları saklı kalmak koşulu ile 1.000 TL sürekli iş göremezlik ve geçici iş göremezlik tazminatının 29.11.2016 tarihinden itibaren işleyecek avans faiziyle birlikte davalıdan tahsiline, yargılama giderleriyle, avukatlık ücretinin davalıya yükletilmesine karar verilmesini talep ve dava etmiştir.
+Birleşen Ankara ... Ticaret Mahkemesi ... E. Sayılı Dosyası Yönünden davacı vekili dava dilekçesinde özetle; Davacının, davalı şirketçe Zorunlu Mali Mesuliyet Sigortası kapsamında sigortalı olan, ... plakalı yolcu otobüsünün 29/11/2016 tarihinde neden olduğu kazada ağır derecede yaralandığını, davacının zararının tazmini için davalı şirkete başvurulduğunu, ödeme yapılmadığından Ankara ... Ticaret Mahkemesinin ... Esas sayılı dosyasının açıldığını, ilgili dosyada alınan bilirkişi raporuyla zararın belirlendiğini, davayı ıslah ettiklerini, ıslah dilekçesini takiben bilirkişiden ek rapor alındığını, rapor neticesinde sürekli iş göremezlik zararının 64.314,01 TL arttığını, sürekli iş göremezlik zararı karşılanmadığı için arabuluculuğa başvurulduğunu, davalı ile herhangi bir anlaşma sağlanamadığını belirterek, 64.314,01 TL sürekli iş göremezlik tazminatı alacağının olay tarihinden itibaren işleyecek avans faizi ile birlikte tahsilini, yargılama ve vekalet ücretinin davalıya yükletilmesini, Mahkememiz dosyasının Ankara ... Ticaret Mahkemesi ... Esas sayılı dosyası ile birleştirilmesini talep ve dava etmiştir.
+Asıl ve
+Birleşen davada davalı vekili tarafından cevap dilekçesi sunulmamıştır.
+DELİLLER:
+-Kaza tespit tutanağı, hasar dosyası ve poliçe
+-Bilirkişi raporları;
+-Maluliyet hesabı yönünden Hacettepe Üniversitesi Adli Tıp Anabilim dalına gönderilmiş, ATK'ya sevk olunmuş ATK raporunda; 29/11/2016 tarihinde gerçekleşen trafik kazasına bağlı hastada meydana gelen sol skapula kırığı, multipl kot kırığı, nazal kemik kırığı, T12 vertebra kırığı ve diğer yaralanmaları dikkate alınarak, 30 Mart 2013 tarih ve 28603 sayılı mükerrer Resmi Gazete'de yayımlanan “Özürlülük Ölçütü, Sınıflandırması ve Özürlülere Verilecek Sağlık Kurulu Raporları Hakkındaki Yönetmelik” ve ekindeki cetveller esas alınmak kaydıyla bedensel özür oranı hesaplandığında, 29/11/2016 tarihli trafik kazasına bağlı kişinin bedensel özür oranının %35 olduğu ve sekel mahiyetini aldığı, Tıbbi iyileşme süresinin 9 aya kadar uzayabileceği kanaatine varılmıştır.
+-Dosya kusur ve aktüer incelemesi yönünden alınan bilirkişi raporunda; Davalı şirkete sigortalı aracın sürücüsü ...'nın; meydana gelen olayda %100 oranında kusurlu olduğu, hesaplamanın 100 kusur esasına göre yapıldığı, davacı ...'nın, 29.11.2016 tarihinde meydana gelen trafik kazası nedeniyle, %35 oranında meslekte kazanma gücünden kaybetmiş sayılacağı ve geçici iş göremezlik süresinin kaza tarihinden itibaren 9 ay olduğunun 03.07.2019 tarihli raporla tespit edildiği, davacı ...'nın, yaralanması nedeniyle uğradığı net gerçek maddi zararının 11.340,66.-TL. Geçici İş Göremezlik zararı ve 89.557,29.-TL. maluliyet zararı olmak üzere toplam 100.897,95.-TL. olarak hesap edildiği görüş ve kanaate varılmıştır.
+-Dosya tekrar aktüer bilirkişiye tevdi olunmuş aktüer bilirkişi ek raporunda; Hesaplamanın %100 kusur esasına göre yapıldığı, davacı ...'nın, 29.11.2016 tarihinde meydana gelen trafik kazası nedeniyle, %35 oranında meslekte kazanma gücünden kaybetmiş sayılacağı ve geçici iş göremezlik süresinin kaza tarihinden itibaren 9 ay olduğunun 03.07.2019 tarihli raporla tespit edildiği, davacı ...'nın, yaralanması nedeniyle uğradığı net gerçek maddi zararının TRH - 2010 bakiye yaşam tablosu yanında % 1,8 teknik faiz kullanılarak yapılan hesaplamalara göre 11.340,66.-TL. geçici iş göremezlik zararı ve 129.612,55-TL maluliyet zararı olmak üzere toplam 140.953,21 TL olarak hesaplandığı görüş ve kanaatine varılmıştır.
+Dosyanın bilirkişiye tekrar tevdi ile TRH 2010 tablosu kullanılıp 1.8 teknik faiz uygulanmadan hesaplama yapılması istenilmiş bilirkişi raporunda; Hesaplamanın %100 kusur esasına göre yapıldığı, davacı ...'nın, 29.11.2016 tarihinde meydana gelen trafik kazası nedeniyle, %35 oranında meslekte kazanma gücünden kaybetmiş sayılacağı ve geçici iş göremezlik süresinin kaza tarihinden itibaren 9 ay olduğunun 03.07.2019 tarihli raporla tespit edildiği, davacı ...'nın, yaralanması nedeniyle uğradığı net gerçek maddi zararının TRH - 2010 bakiye yaşam tablosu ve progresif rant yöntemi (%0 faiz) kullanılarak yapılan hesaplamaya göre, 11.340,66.-TL. geçici iş göremezlik zararı ve 153.871,30.-TL. Sürekli iş göremezlik zararı olmak üzere toplam 165.211,96.-TL, olarak hesap edildiği görüş ve kanaatine varılmıştır.
+DELİLLERİN DEĞERLENDİRİLMESİ VE GEREKÇE
+Asıl ve birleşen dava trafik kazası nedeniyle uğranılan geçici ve sürekli iş gücü kaybı zararının tazmini talebine ilişkindir.
+Tüm dosya kapsamı, toplanan deliller, alınan bilirkişi raporlarına göre;
+29.11.2016 tarihinde dava dışı sürücü ... sevk ve idaresindeki ... plakalı aracın, dönemece hızlı girmek suretiyle aracın yan yatarak sürüklenmesi şeklinde meydana gelen kazada ... plakalı araçta yolcu olarak bulunan davacının yaralandığı ve vücut genel çalışma gücünden ise %35 oranında kaybettiğinin ve 9 ay geçici iş göremezliğe maruz kaldığının Adli Tıp Kurumu raporu ile tespit edildiği, davalı ZMMS sigorta şirketinin davacının oluşan bu zararını gidermekle yükümlü olduğu anlaşılmıştır.
+Davacının meydana gelen kazada yolcu konumunda bulunduğu ve atfı kabil bir kusuru olmadığı anlaşılmıştır. Güncel Yargıtay ve Ankara Bölge Adliye Mahkemesi sigorta daireleri içtihatları doğrultusunda kaza tarihinde yürürlükte bulunan maluliyet yönetmeliği hükümlerine göre maluliyet raporu alınmış ve TRH-2010 yaşam tablosu ile progresif rant yöntemine göre aktüer rapor tanzimi sağlanmıştır. Aktüer bilirkişi davacı ...'nın, yaralanması nedeniyle uğradığı net gerçek maddi zararının TRH-2010 bakiye yaşam tablosu ve progresif rant yöntemi (%0 faiz) kullanılarak yapılan hesaplamaya göre, 11.340,66.-TL geçici iş göremezlik zararı ve 153.871,30.-TL sürekli iş göremezlik zararı olmak üzere toplam 165.211,96.-TL olduğunu hesaplamıştır. Davacı asıl davada davasını 23/10/2019 tarihli dilekçesi ile ıslah etmiş ve 11.340,66-TL geçici iş göremezlik, 89.557,29-TL kalıcı iş göremezlik tazminatı talep etmiştir.
+Birleşen Ankara ... Ticaret Mahkemesi'nin ... E. Sayılı dosyasında ek rapor sonrası tespit edilen tazminat miktarının ıslah talebini aşan kısmı için ek dava açmak suretiyle birleştirilmesini talep etmiştir. Birleşen dosya yönünden de 64.314,01 TL sürekli iş göremezlik tazminatı talep edilmiştir.
+Davacının meydana gelen kaza nedeniyle cismani zarara uğradığı, asıl ve birleşen davalarda yer alan taleplerinin hukuka uygun ve dosya kapsamıyla ispatlanmış olduğundan asıl ve birleşen davanın kabulüne, temerrüt tarihi olan 13/04/2018 tarihinden itibaren aracın ticari araç olması da göz önünde bulundurularak avans faiziyle davalıdan tahsiliyle davacıya ödenmesine ilişkin aşağıdaki hüküm kurulmuştur.
+HÜKÜM: Ayrıntısı yukarıda açıklandığı üzere;
+1-Asıl davanın Kabulüne,
+-11.340,66-TL geçici iş göremezlik tazminatının 13/04/2018 tarihinden itibaren işleyecek ticari faiziyle davalıdan tahsili ile davacıya ödenmesine,
+-89.557,29 TL sürekli iş göremezlik tazminatının 13/04/2018 tarihinden itibaren işleyecek ticari faiziyle davalıdan tahsili ile davacıya ödenmesine,
+1-a-492 Sayılı Harçlar Kanunu gereğince hesaplanan 6.892,34-TL
+karar harcından, davacı tarafından peşin yatırılan 35,90-TL ve ıslah için yatırılan 350,00-TL harcın mahsubu ile bakiye 6.506,44-TL karar harcının davalıdan tahsili ile hazineye irat kaydına
+1-b-Davacı vekille temsil olunduğundan karar tarihinde yürürlükte bulunan Avukatlık Asgari Ücret Tarifesi uyarınca takdir olunan 13.535,31-TL vekalet ücretinin davalıdan tahsili ile davacıya verilmesine
+1-c-Davacı tarafından yatırılan 421,00-TL harç bedeli, 1.400,00 TL bilirkişi ücreti, 227,90-TL posta ve tebligat gideri olmak üzere toplam 2.048,90-TL yargılama giderinin davalıdan tahsili ile davacıya verilmesine
+1-d-HMK'nın 333.maddesi gereğince, kararın kesinleşmesinden sonra yatırılan gider ve delil avansının kullanılmayan kısmının davacıya iadesine,
+2-Birleşen dava yönünden davanın kabulüne,
+-64.314,01 TL sürekli iş göremezlik tazminatının 13/04/2018 tarihinden itibaren işleyecek ticari faiziyle davalıdan tahsili ile davacıya ödenmesine,
+2-a-492 Sayılı Harçlar Kanunu gereğince hesaplanan 4.393,29-TL
+karar harcından, davacı tarafından peşin yatırılan 219,67-TL
+harcın mahsubu ile bakiye 4.173,62-TL karar harcının davalıdan tahsili ile hazineye irat kaydına
+2-b-Davacı vekille temsil olunduğundan karar tarihinde yürürlükte bulunan Avukatlık Asgari Ücret Tarifesi uyarınca takdir olunan 9.160,82-TL vekalet ücretinin davalıdan tahsili ile davacıya verilmesine
+2-c-Davacı tarafından yatırılan başka yargılama gideri bulunmaması nedeniyle, 278,97-TL harç bedelinin davalıdan tahsili ile davacıya verilmesine,
+2-d-HMK'nın 333.maddesi gereğince, kararın kesinleşmesinden sonra yatırılan gider ve delil avansının kullanılmayan kısmının davacıya iadesine,
+Dair, davacı vekilin yüzüne karşı, davalı tarafın yokluğunda kararın tebliğden itibaren 2 hafta içerisinde Ankara Bölge Adliye Mahkemeleri'nde İstinaf yolu açık olmak üzere verilen karar açıkça okunup usulen anlatıldı. 22/12/2021
+....

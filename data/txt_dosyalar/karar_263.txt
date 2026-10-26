@@ -1,0 +1,41 @@
+SIRA NO: 263 (ÇEKİRDEK)
+DOKÜMAN ID: 534985000
+DERECE: İlk Derece Mahkemesi
+DAİRE / MAHKEME: İstanbul Anadolu 4. Asliye Ticaret Mahkemesi
+ESAS NO: 2018/1093
+KARAR NO: 2019/867
+KARAR TARİHİ: 19.09.2019 (Yıl: 2019)
+ARAMA KELİMESİ: trafik kazası aktüer bilirkişi raporu net tutar
+SAYFA NO: 6
+İNDİRME ZAMANI: 2026-10-25 00:31:18
+HESAP DOĞRULAMA ADAYI: True
+İÇERİK HASH (MD5): 1f044bfd36b4c0fce6074a883cfc14e2
+================================================================================
+
+T.C. İstanbul Anadolu 4. ASLİYE TİCARET MAHKEMESİ
+GEREKÇELİ KARAR
+ESAS NO : 2018/1093
+KARAR NO : 2019/867
+DAVA TARİHİ : 19/02/2018
+KARAR TARİHİ : 19/09/2019
+KARAR YAZIM TARİHİ : 19/10/2019
+Mahkememizde görülmekte olan Tazminat davasının yapılan açık yargılaması sonunda,
+GEREĞİ DÜŞÜNÜLDÜ:
+Davacı vekili dava dilekçesi ile; 01/10/2017 tarihinde dava dışı sürücünü sevk ve idaresindeki ----- plakalı aracın seyir halinde iken direksiyon hakimiyetini kaybetmesi sonucunda meydana gelen trafik kazasında, araçta yolcu olarak bulunan --- yaralandığını, bu nedenlerle sürekli iş göremezlik dolayısıyla 100 TL geçici iş göremezlik dolayısıyla 100 TL olmak üzere toplam 200 TL maddi tazminatın davalıdan tahsiline karar verilmesini talep ve dava etmiştir.
+Davalı vekili cevap dilekçesinde; Davanın görülmesinde müvekkilinin merkezi mahkemesi olan İstanbul Anadolu Asliye Ticaret Mahkemesi olduğunu bu nedenle yetkisizlik kararı verilmesini, Davalının usulüne uygun şekilde 2918 Sayılı Yasanın 97. maddesi gereğince başvurmadığını, eksik belge ile müracaat ettiğinden davanın usulden reddine karar verilmesi talep ettiklerini, esas yönden ise;Davacının kusur ve zararını kanıtlaması gerektiğini, Ayrıca hesaplananın sigorta genel şartlarındaki yöntemle yapılması gerektiğini ayrıca müvekkilinin faizden dava tarihinden itibaren sorumlu olacağını ve sorumluluklarının sigorta limiti ile sınırlı olduğunu ayrıca davacının kaza nedeniyle elde ettiği kazançlar var ise indirilmesi gerektiğini, davacının emniyet kemerinin takılı olmaması nedeniyle %25 oranında müterafik kusur nedeniyle indirim yapılması gerektiğini belirterek öncelikle davanın yetki yönünden reddine, aksi durumda esastan reddine karar verilmesini istemiştir.
+Geçici İs Göremezlik Ve Sürekli Maluliyet Oranlarının Tespiti; a) ------- tarafından düzenlenen ---- tarih ve ---- sayılı --- Raporunda; 15.09.1998 Doğumlu---------- tarihinde gerçekleşen trafik kazası nedeni ile; ---- tarih ve 28603 Sayılı Resmi Gazete 'de yayımlanan "Özürlülük Ölçütü Sınıflandırılması ve Özürlülere Verilecek Sağlık Kurulu Raporları Hakkındaki Yönetmenlik" ve ekindeki cetveller esas alınmak kaydıyla bedensel özürlülük oranı hesaplandığında; -01.10.2017 tarihli trafik kazasına bağlı kişinin bedensel özür oranının %6 (yüzdealtı) olduğu, -Kaza nedeni ile mağdurun tedavisine başlamasından itibaren mağdurun sürekli sakatlık raporu alana kadar tedavi süresince ortaya çıkabilecek bakıcı ihtiyaç süresinin 2 (iki) ay olduğu, -Tıbbi iyileşme süresinin 4 (dört) aya kadar uzayabileceği kanaatinde olduğu bildirilmiştir.
+Kazanç Durumu: Yüksek Yargıtay ------. Hukuk Dairelerinin bu konudaki yerleşmiş içtihatlarında belirtildiği üzere Maddi Tazminatlar, kazalı davacının gerek kaza tarihindeki gerekse kaza tarihinden itibaren günümüze ve bilinen dönem sonuna kadar gerçekleşen her türlü ücret artışları ve emsal ücretlere göre tespit ve hesaplanması gerekmektedir.
+Davacının kaza sebebiyle uğradığı maluliyete rağmen yaşının da müsait olması sebebiyle kendisi ile birlikte tüm aile fertlerinin zorunlu ihtiyaçlarını karşılayabilmesi için ya bir işverene ait işyerinde Hizmet akdi ile, ya da diğer değişik işlerde çalışmasını devam ettireceği ve elde etmesi gerek kazançlarının da Yasal Asgari ücretlerinin Net tutarının altında olamayacağından kaza tarihinden itibaren günümüze kadar geçen dönem içinde ülkemizde uygulanan yasal asgari ücretlere göre değerlendirme yapılacaktır.
+Davacı vekilinin 22.03.2019 tarihli dilekçesinde; hesabın asgari ücret üzerinden yapılmasına muvaffakta ettiklerini beyan etmektedir. ---------tarafından gönderilen 07.02.2019 tarihli cevap ekinde yer alan davacıya ait ----- hizmet cetvelinde davacının prime esas kazancının asgari ücret düzeyinde olduğu görülmüştür.
+-----cevabı:----- tarafından 07.02.2019 tarihli müzekkere cevabında; davacı -----kaza tarihi olan ---- tarihinde ve yazının tarihinde sigortalı çalışmasına, kazanın iş kazası olup olmadığı yönünde Kurumca yapılan her hangi bir denetime, maluliyet raporuna ve bağlanan bir gelirine rastlanmadığı bilgisi verildiği görülmüştür.
+Poliçe ve sorumluluk: ----- adına tescilli ve sigorta ettiren sıfatı ile,-------- plakalı, kamyonet ----- poliçe numarası davalı ------- tarafından, Karayolları Trafik Zorunlu Mali Mesuliyet Sigorta Poliçesini tanzim edildiği ve sigorta poliçesinde davalı sigorta şirketi tarafından verilen üst limitin kişi başı ölüm ve sürekli sakatlık teminatı olarak 330.000,00 TL olduğu görülmektedir.
+Maddi zararın hesaplanması: Aktüer bilirkişi --------tarafından tanzim edilen 24/06/2019 tarihli rapora göre; Davacı---- 01.10.2017 tarihinde geçirmiş olduğu trafik kazası sonrası 4 ay iyileşme süresi için 5.915,44 TL olduğu ve %6 oranında maluliyet- sürekli iş göremezlik dönemi 47.772,91 TL olmak üzere toplam maddi zararının 53.688,35 TL olacağı hesaplanmıştır.
+Dava, trafik kazası nedeniyle iş göremezlikten dolayı maddi tazminat istemine ilişkindir.
+Kaza tespit tutanağı, ----- soruşturma sayılı dosyası, trafik tescil kayıtları, sigorta poliçesi, sigorta şirketine yazılan müzekkere cevapları, hasar dosyası,-------------- tarafından düzenlenen rapor, aktüer raporu ve tüm dosya kapsamı birlikte değerlendirildiğinde; 01/10/2017 tarihinde, davalı sigorta şirketine ZMMS poliçesi ile sigortalı-------- sevk ve idaresindeki, davacının babasının işleteni olduğu ----- plaka sayılı aracın tek taraflı olarak yapmış olduğu kaza neticesinde, araçta yolcu olarak bulunan davacının; ---- tarafından düzenlenen 21/02/2019 tarihli rapora göre meslekte kazanma gücünü % 6 oranında kaybettiği ve geçirdiği kaza nedeniyle 4 aya kadar geçici iş göremez hale geldiği, Aktüer bilirkişi ----tarafından tanzim edilen 24/06/2019 tarihli bilirkişi raporuna göre davacının 5915,44 TL geçici iş göremezlikten, 47772,91 TL kalıcı iş göremezlikten kaynaklı olmak üzere toplam 53688,35 TL maddi tazminata hak kazandığı, davacının kaza sırasında araçta yolcu olarak bulunduğu, kazanın oluşumunda bir kusurunun bulunmadığı, aracın davacının babasının adına kayıtlı olduğu, dolayısıyla hatır taşıması koşullarının gerçekleşmediği, davacının kaza sırasında emniyet kemerini takıp takmadığı ile ilgili bir tespit bulunmadığı, kaza tespit tutanağında da bununla ilgili kısmın boş bırakıldığı, bu hususunda ispat yükünün davalı tarafta olduğu halde bu yönde bir delil ibraz edilmediği, dolayısıyla olayda hatır taşımasının koşulları oluşmadığı gibi davacının zararın artmasında müterafik kusurunun da tespit edilemediği, davacı vekili tarafından sigorta şirketini başvuru yapıldığı ve başvuru dilekçesinin 20.11.2017 tarihinde davalı sigorta şirketine tebliğ edildiği, başvuru dilekçesinin tebliğ edildiği 20.11.2017 tarihten sonraki 8 iş günü olan 30.11.2017 tarihin temerrüt tarihi olduğu anlaşıldığından davanın kabulüne karar vermek gerekmiş ve aşağıdaki şekilde hüküm tesis edilmiştir.
+H Ü K Ü M : Yukarıda Açıklanan Nedenlerle;
+1-Davanın kabulü ile, 53.688,35 TL maddi tazminatın 30/11/2017 tarihinden itibaren işleyecek yasal faizi ile birlikte davalıdan alınarak davacıya ödenmesine,
+2-Alınması gerekli 3667,45 TL harçtan peşin alınan 35,90 TL + 183,00 TL ıslah harcının mahsubu ile bakiye 3448,55 TL'nin davalılardan tahsili ile HAZİNEYE GELİR KAYDINA, Davacı tarafından yatırılan 218,90 TL harcın davalıdan alınarak DAVACIYA ÖDENMESİNE,
+3-Davacı tarafça sarf edilmiş, 35,90 TL başvuru harcı, 5,20 TL vekalet pulu, 1366,25 TL yargılama gideri olmak üzere toplam 1407,35 TLnin davalılardan alınarak DAVACI TARAFA VERİLMESİNE,
+4-Davacı taraf kendisini vekil ile temsil ettirdiğinden ----- uyarınca 6255,72 TL vekalet ücretinin davalılardan alınarak DAVACI TARAFA VERİLMESİNE,
+5-Bakiye gider avansının karar kesinleştiğinde ve talep halinde yatırana İADESİNE,
+Dair tebliğden itibaren 2 hafta içinde istinaf yolu açık olmak üzere davacı vekilinin huzurunda verilen karar açıkça okundu, usulen anlatıldı.

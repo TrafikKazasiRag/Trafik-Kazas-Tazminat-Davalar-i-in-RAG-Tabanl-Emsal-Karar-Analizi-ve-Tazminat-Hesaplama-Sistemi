@@ -1,0 +1,62 @@
+SIRA NO: 236 (ÇEKİRDEK)
+DOKÜMAN ID: 619282900
+DERECE: İlk Derece Mahkemesi
+DAİRE / MAHKEME: İstanbul 14. Asliye Ticaret Mahkemesi
+ESAS NO: 2014/637
+KARAR NO: 2020/882
+KARAR TARİHİ: 22.12.2020 (Yıl: 2020)
+ARAMA KELİMESİ: trafik kazası aktüer bilirkişi raporu net tutar
+SAYFA NO: 3
+İNDİRME ZAMANI: 2026-10-25 00:22:06
+HESAP DOĞRULAMA ADAYI: True
+İÇERİK HASH (MD5): 4a758ac3a4984291c2b106f51c00994d
+================================================================================
+
+T.C.
+İSTANBUL
+14. ASLİYE TİCARET MAHKEMESİ
+ESAS NO : 2014/637 ESAS
+KARAR NO : 2020/882 KARAR
+DAVA : Tazminat (Ölüm Ve Cismani Zarar Sebebiyle Açılan Tazminat)
+DAVA TARİHİ : 16/09/2014
+KARAR TARİHİ : 22/12/2020
+Mahkememizde görülmekte olan Tazminat (Ölüm Ve Cismani Zarar Sebebiyle Açılan Tazminat) davasının yapılan açık yargılaması sonunda,
+GEREĞİ DÜŞÜNÜLDÜ:
+Davacı vekilinin mahkemeye sunmuş olduğu dava dilekçesinde özetle; 17/06/2014 tarihinde dava dışı ...''ın sevk ve idaresinde olan ... plaka sayılı aracı ile seyir halindeyken direksiyon hakimiyetini kaybetmesi sonucu aracın yolun sağ kısmında toprak yola kaptırınca araç yolun sağında bulunan tepeliğe çıkarak araç içerisinde yolcu olarak bulunan davacı müvekkili ..., ... ve ...'nın yaralandığını, 12/10/2013 tarihli kaza sonucu yaralanan müvekkili için şimdilik 3.000,00-TL maddi tazminatın kaza talihinden itibaren işleyecek reeskont faiziyle birlikte müvekkiline ödenmesini, sulh olma ihtimaline binaen hazırlık aşamasında dosyanın hesap bilirkişisine tevdi edilmesini, yargılama giderleri ve vekalet ücretinin karşı tarafa yükletilmesine karar verilmesini talep etmiştir.
+Davalı ... vekilinin mahkemeye sunmuş olduğu cevap dilekçesinde özetle; Trafik kazasına karıştığı bildirilen ... plakalı aracın trafik poliçesi ile müvekkili sigorta şirketine sigortalı olduğunu, somut olayda hatır taşımacılığının olabileceğini, trafik kazasından doğan tedavi masraflarının tazminatın ile ilgili müvekkili şirketin yükümlülüğü sona erdiğinden, huzurdaki davanın tedavi giderleri bakımından reddini karar verilmesi gerektiğini, davacı, müvekkili şirkete başvuruda bulunmadığını, bu nedenle temerrüde düşmediklerini, tüm delillerin toplanmasını takiben Adli Tıp Kurumu Trafik İhtisas Dairesi tarafından kusur tespitinin yapılmasından sonra müvekkili şirkete sigortalı aracın kusurlu bulunması durumunda; yine Aktüer sıfatına sahip bir bilirkişi kanalı ile maluliyet tazminatının hesaplanmasını, somut olayda hatır taşımacılığı söz konusu olabileceğinden yukarıdaki ilkelere göre tespit edilecek tazminattan BK. md. 61 gereği uygun bir indirim yapılmasını, 6111 sayılı yasa kapsamında müvekkili şirketin sorumluluğu kalmadığından davacının tedavi gideri, geçici İş göremezlik tazminatı ile yol giderine ilişkin taleplerin reddini, manevi tazminat talebinin Trafik sigortası kapsamı dışında kaldığından reddini, kaza tarihi olan 12.10.2013 ’ten itibaren reeskont faiz taleplerinin reddi ile, dava tarihinden itibaren yasal faize hükmedilmesini, müvekkil şirket dava açılmasına sebebiyet vermediğinden ötürü masraf ve vekâlet ücretinin karşı tarafa yükletilmesine karar verilmesini talep etmiştir.
+Dosyanın tüm deliller toplandıktan sonra davacıların maluliyeti oranının belirlenmesi için Adli Tıp Kurumu ... İhtisas Dairesine gönderilmiştir.
+Adli Tıp Kurumu ... İhtisas Kurulunun davacı ... için düzenlediği 17.05.2019 tarihli raporunda özetle; “davacıda sürekli malûliyet tayinine mahal olmadığı, davacının geçici iş göremezlik süresinin 2 (iki) aya kadar uluyabileceği belirtilmiştir.
+Adli Tıp Kurumu ... İhtisas Kurulunun davacı ... için düzenlediği 17.05.2019 tarihli raporunda özetle; “davacının geçirmiş olduğu trafik kazası nedeniyle; Meslekte kazanma gücünden azalma oranının meslekte kazanma gücünü %16 kaybetmiş olup, İş görmezlik süresinin (4) ay olduğu belirtilmiştir.
+Yanların tüm delilleri toplandıktan sonra dosya iddia, savunma ve yanların tüm delilleri, hasar dosyası ile Adli Tıp ... İhtisas Kurulunun raporu ve belgeleri üzerinde inceleme yapılarak kaza tarihi itibarıyla davacının davalıdan alacağı varsa saptanması için kusur ve aktüer bilirkişisine verilmiştir.
+Kusur bilirkişinin aktüer bilirkişisi ile birlikte düzenlediği 02.12.2020 tarihli 6 sayfadan ibaret raporunda özetle; “Davalı ...Ş tarafından ZMMS poliçeli aracın sürücüsü ... olayda %100 (yüzde yüz) oranı da kusurlu olduğu, davacıların araçta yolcu olarak bulunduklarından olayda kusurların görülmediği,“ belirlenmiştir.
+Aktüer bilirkişinin Kusur bilirkişisi ile birlikte düzenlediği 02.12.2020 tarihli 6 sayfadan ibaret raporunda özetle; 31/07/2015 tarihinde meydana gelen trafik kazası sonucu %16 oranında malul kalan davacı ...'ın, 4 aylık geçici işgöremezlik dönemi de Nihai ve Gerçek maddi zararının (2.970,66) den ibaret bulunduğu, 33 yıl 8 aylık sürekli iş göremezlik döneminde Nihai ve Gerçek maddi zararının (112.070,66) TL den ibaret bulunduğu, ” görüş ve kanaati ile raporunu sunmuştur.
+Dosyaya getirtilen yanlara ait tüm deliller, getirtilen hasar dosyası, Adli Tıp Kurumu Adli Tıp ... İhtisas Kurulunun raporu, Kusur ve Aktüer bilirkişilerinin birlikte düzenledikleri rapor ve tüm dosya kapsamından anlaşıldığı üzere;
+Huzurdaki dava 12/10/2013 tarihinde dava dışı ...'ın sevk ve idaresinde olan ... plaka sayılı aracı ile seyir halindeyken direksiyon hâkimiyetini kaybetmesi sonucu aracın yolun sağ kısmında toprak yola kaptırınca araç yolun sağında bulunan tepeliğe çıkarak yaralanmalı trafik kazası meydana geldiği anlaşılmaktadır. Davacının bu kaza neticesinde yaralandığı anlaşılmaktadır.
+Dosya içinde trafik kaza raporu ve olay yeri krokisi mevcut olup krokide yolun virajlı olduğu gösterilmiş, trafik kaza raporunda araç sürücüsünün hızını yol şartlarına göre ayarlamamış olması nedeni ile olayda kusurlu olduğu belirtilmiştir.
+Davacı ... ifadesinde, abisinin kullanmakta olduğu araç ile seyretmeleri sırasında olay yerine geldiklerinde aracın tekerleğinin yol kenarında toprak kısma çıkması nedeni ile kontrolü kaybettiklerini ve yolun sağ tarafında bulunan tepelik alana çıktığını beyan etmiştir. Araçla bulunan diğer tanık ... 'da benzer şekilde ifade vermiştir. Mevcut delillerde, dava konusu aracın bir başka aracın etkisi ile yoldan çıkmamış olduğu, sürücünün kaplama dışına çıkıp toprak alana tekerleklerin çıkması ile kontrolün kaybolduğu anlaşılmaktadır.
+Karayolları trafik kanununun 52. maddesinde; sürücülerin "kavşaklara yaklaşırken, dönemeçlere girerken, tepe üstlerine yaklaşırken, dönemeçti yollarda ilerlerken, yaya geçitlerine, hemzemin geçitlere, tünellere, dar köprü ve menfezlere yaklaşırken, yapım ve onarım alanlarına girerken, hızlarını azaltmak”, bendinde, "hızların kullandıkları aracın yük ve teknik özelliğine, görüş, yol, hava ve trafik durumunun gerektirdiği şartlara uymak ", zorunda oldukları belirlenmiştir.
+Davalı şirket tarafından ZMMS poliçeli aracın sürücüsü ... belirtilen kurallara uymadan seyrederek dikkatsizliği neticesinde tekerleklerin yol dışına çıkıp toprak alana girmesine ve böylece aracın kontrolünü kaybetmesine neden olduğundan olayda tamamen kusurlu görülmüştür.
+13.09.1979 Doğumlu olan davacı ... 12.10.2013 kaza tarihi itibariyle (34 yıl (01) aylık olup, (34) yaşında olduğu kabul edilerek P.M.f.1931 işaretli yaşama tablosuna göre muhtemel bakiye Ömrü (34) yıl ve muhtemelen (68) yaşına kadar yaşayacak, davacının yaptığı iş ve kazanç durumuyla ilgili bilgi ve belge mevcut olmadığından davacının Ev Hanımı olduğu kabulü ile buna göre değerlendirme yapılacaktır.
+Yüksek Yargıtay'ın bu konudaki yerleşmiş içtihatlarında ev hanımlarının yaşamları boyunca kendi evi hizmetlerinde çalışacakları kabul edilerek değerlendirme yapılması gerektiği belirtilmektedir. Bu duruma göre;
+Davacının sürekli iş göremezlik dönemi Geçici Göremezlik döneminin sona erdiği 12.02.2014 tarihinden itibaren başlatılarak anılan tarihten itibaren %16 oranındaki Maluliyete göre davacının Maddi zararı tespit ve hesaplanacaktır.
+Yargıtay bu konudaki yerleşmiş içtihatlarında ev hanımlarının yaşamları boyunca kendi evi hizmetlerinde çalışacakları kabul edilerek değerlendirme yapılması gerektiği belirtilmektedir. Bu duruma göre,
+Davacı bu olay sebebiyle uğradığı maluliyete rağmen kendi evi hizmetlerinde çalışmasını devam ettirecek ve kendi evi hizmetlerinde çalışması karşılığı sarf etmesi gereken mesainin parasal değerleri Yasal Asgari ücretlerin net tutarının altında olmayacağından kaza tarihinden itibaren günümüze kadar geçen dönem içinde memleketimizde uygulanan Yasal Asgari ücretlere göre değerlendirme yapılacaktır. Bu duruma göre; Yasal Asgari ücret (2.558,40) TL olarak tespit ve belirlenmiş olup kamu düzenine ilişkin olan anılan yasal asgari ücretlerin netleştirerek hesaba esas alınması yerleşmiş Yargıtay İçtihatları gereğidir.
+Davacının işleyecek Aktif devre başındaki Net Aylık ücreti (1,829,02) TL , 1 Yıllık Net kazancı (1.829,02 TL x 12 Ay = 21,944,24 TL Net olup, buna göre değerlendirme yapılmıştır.
+Davacının ...'ın sürekli iş göremezlik dönemi maddi zararı 112.070,66-TL, olarak belirlenmiştir.
+01.01.2011 doğumlu davacı ... 12.10.2013 kaza tarihi itibariyle (12) yıl (09) (11) günlük olup, (13) yaşında olduğu kabul edilerek P.M.f.1931 işaretli yaşama tablosuna göre muhtemel bakiye ömrü (51) yıl ve muhtemelen (64) yaşına kadar yaşayacaktır.
+Her ne kadar anılan Adli Tıp Kurumu raporunda davacı ... Geçici İş göremezlik dönemi (2) ay olarak tesbit edilmiş de, davacı çocuk olay tarihi itibariyle (13) yaşında ve Orta öğrenim çağında olup çalışmadığı ve kazanç sağlamadığından Yüksük Yargıtay 17 Hukuk Dairesinin bu konudaki yerleşmiş içtihatları dikkate alınarak çalışmayan ve kazanç sağlamayan davacı çocuk için 2 aylık geçici iş göremezlik dönemi için kazanç kaybı bulunmamaktadır.
+Davacı vekilinin davasının bilirkişi raporunda belirlendiği miktar üzerinden ıslah ederek davalıya göndermiştir.
+Tüm bu nedenlerle iş bu davacı ... yönünden asıl ve ıslahla açılan davanın kabulü ile geçici iş görmezlik tazminatı için 2.970,66 TL ile sürekli iş görmezlik tazminatı için 112.070,66 TL olmak üzere toplam 115.041,32 TL nin dava tarihinden itibaren yasal faizi ile birlikte davalıdan alınıp davacıya verilmesine, diğer davacılar için açılan davanın reddine karar vermek gerekmiştir.
+Bu nedenle aşağıdaki hüküm kurulmuştur.
+HÜKÜM:Gerekçesi yukarıda açıklandığı üzere:
+1- iş bu davacı ... yönünden asıl ve ıslahla açılan davanın kabulü ile geçici iş görmezlik tazminatı için 2.970,66 Tl ile sürekli iş görmezlik tazminatı için 112.070,66 Tl olmak üzere toplam 115.041,32 Tl nin dava tarihinden itibaren yasal faizi ile birlikte davalıdan alınıp davacıya verilmesine, diğer davacılar için açılan davanın reddine,
+2-Karar ve ilam harcı 7.858,47-TL nin peşin ve ıslah ile alınan 415,20-TL den düşümü ile kalan 7.443,27-TL bakiye ilam harcının davalıdan alınarak Hazineye gelir kaydına,
+3-Davacılar tarafından yatırılan 440,40-TL peşin, başvuru ve ıslah harcının davalıdan alınarak davacıya verilmesine,
+4-Davacılar tarafından yapılan 1.506,00-TL yargılama giderinin davalıdan alınarak davacıya verilmesine,
+5- Davacılar kendilerini dava ve duruşmalarda vekili ile temsil ettirdiği anlaşılmakla AAÜT gereğince 14.878,93-TL vekalet ücretinin davalıdan alınarak davacılara verilmesine,
+6-Davacıların gider avansından artan bakiyesinin karar kesinleştiğinde ve talep halinde davacıya iadesine,
+Dair davacı vekilinin yüzünde ilamın tebliğinden itibaren iki hafta içerisinde Mahkememize verilecek bir dilekçe ile veya başka bir yer Mahkemesi aracılığı ile gönderilecek bir dilekçe ile İstinaf yolu açık olmak üzere verilen karar açıkça okunup usulen anlatıldı. 22/12/2020
+Katip ...
+¸e-imzalıdır
+Hakim ...
+¸e-imzalıdır

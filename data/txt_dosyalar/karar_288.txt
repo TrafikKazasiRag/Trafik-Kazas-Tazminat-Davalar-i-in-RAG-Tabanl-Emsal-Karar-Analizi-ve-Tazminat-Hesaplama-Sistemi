@@ -1,0 +1,66 @@
+SIRA NO: 288 (ÇEKİRDEK)
+DOKÜMAN ID: 1059540800
+DERECE: İlk Derece Mahkemesi
+DAİRE / MAHKEME: Bursa 2. Asliye Ticaret Mahkemesi
+ESAS NO: 2022/163
+KARAR NO: 2022/1158
+KARAR TARİHİ: 25.10.2022 (Yıl: 2022)
+ARAMA KELİMESİ: trafik kazası aktüer bilirkişi raporu net tutar
+SAYFA NO: 11
+İNDİRME ZAMANI: 2026-10-25 00:40:32
+HESAP DOĞRULAMA ADAYI: False
+İÇERİK HASH (MD5): dae1a2fb7fd007d0b31b97eaa4eb374e
+================================================================================
+
+TÜRK MİLLETİ ADINA
+T.C.
+BURSA
+2. ASLİYE TİCARET MAHKEMESİ
+GEREKÇELİ KARAR
+ESAS NO : 2022/
+KARAR NO : 2022/
+HAKİM :
+KATİP :
+DAVACI :
+VEKİLİ : Av.
+DAVALI :
+VEKİLİ :Av.
+DAVA : Tazminat (Ölüm Ve Cismani Zarar Sebebiyle Açılan Tazminat)
+DAVA TARİHİ : 28/02/2018
+KARAR TARİHİ : 25/10/2022
+KARAR YAZIM TARİHİ : 03/11/2022
+Mahkememizde görülmekte olan Tazminat (Ölüm Ve Cismani Zarar Sebebiyle Açılan Tazminat) davasının yapılan açık yargılaması sonunda,
+Davacı vekili dava dilekçesi ile; 04.02.2017 tarihinde davalı sigorta şirketine .. Nolu Trafik Sigorta Poliçesi (KZMM Sigorta Poliçesi) ile sigortalı olan ... plaka sayılı araç dava dışı sürücüsü ... sevk ve idaresinde iken yaya konumunda olan davacı müvekkiline çarpması neticesinde yaralanmalı trafik kazası meydana gelmiş olduğunu, müvekkilin oluşan cismani zarara ilişkin 100,00 TL sürekli sakatlık tazminatının (fazlaya ilişkin dava ve talep hakları saklı tutarak şimdilik) (davalı sigorta şirketi azami poliçe limiti ile sorumlu olmak kaydıyla) kaza tarihinden itibaren işleyecek avans faiziyle birlikte davalıdan tahsilini talep etmiştir.
+CEVAP:
+Davalı vekili cevap dilekçesi ile; davacı yanın müvekkili sigorta şirketine başvurusu üzerine şirket nezdinde 2017 ... nolu hasar dosyası açıldığını, dosya kapsamında alanında uzman aktüerlerden TRH-2010 yaşam tablosuna göre alınan rapor sonucunda davacı yana 18.07.2017 tarihinde 57.294,07-TL tazminat ödemesi yapılmış olduğunu, açılan davanın reddine, yargılama harç ve giderleri ile vekâlet ücretinin davacıya tahmiline karar verilmesini talep etmiştir.
+KANITLAR:
+Sigorta poliçesi, hasar dosyası, ceza dosyası, tedavi evrakları, Kaza tespit tutanağı, ATK raporu, bilirkişi raporu, vs.
+KANITLARIN DEĞERLENDİRMESİ VE HUKUKİ NİTELENDİRME :
+Dava, trafik kazasından kaynaklanan maddi tazminat talebine ilişkindir.
+Mahkememizce; kazanın meydana gelişindeki tarafların kusurunun tespiti yönünden dosya üzerinde trafik uzmanı-makine mühendisi tarafından bilirkişi incelemesi yaptırılmış alınan 05/11/2018 tarihli bilirkişi raporunda; bu olayda dava dışı sürücü ... sevk ve idaresindeki minibüs ile geri geri park etmek isterken manevraları düzenleyen kırallara riayet etmediğinden % 70 oranında kusurlu olduğu, davacı yaya minibüs garajı içerisinde görme engelli olduğu halde K.T.K. Ve K.T.Y. Yer alan Rehber veya Beyaz Baston veya benzeri uyarıcılar taşımadığından, yalnız başına kontrolsüz bir şekilde araçların arka tarafında yürüyerek hem kendisini, hem de garaj içerisindeki trafiği tehlikeye attığından % 30 oranında kusurlu olduğu kanaatine varıldığı, bildirilmiştir.
+Mahkememizce, dosyanın ... ATK Trafik İhtisas Kuruluna gönderilerek itirazlar ve dosya kapsamı değerlendirilmek suretiyle rapor düzenlenmesinin istenilmesine karar verilmiştir.
+Alınan 29/05/... tarihli ATK Trafik İhtisas Dairesi raporunda; sürücü ...'nun %70 (yüzde yetmiş) oranında kusurlu olduğu, yaya ...'nın %30 (yüzde otuz) oranında kusurlu olduğu kanaatine varıldığı bildirilmiştir.
+Mahkememizce; davacının maluliyet oranının tespiti için ... Üniversitesi Adli Tıp Anabilimdalı Başkanlığı'na sevkinin sağlanması için ... Asliye Hukuk Mahkemesine talimat yazılmasına karar verilmiştir.
+Alınan 16/01/... tarihli ... Üniversitesi Adli Tıp Anabilimdalı Başkanlığı'nın raporunda; davacının 04/02/2017 tarihli trafik kazasına bağlı gelişen sürekli sakatlık oranının % 19 olarak değerlendirildiği, tıbbi iyileşme süresinin 6 ay olarak kabulünün uygun olacağı kanaatine varıldığı bildirilmiştir.
+Mahkememizce, davacı vekilinin maluliyet raporuna karşı itirazları değerlendirilmek ve maluliyet hususunda rapor aldırılmak üzere dosyanın ... Üniversitesi Adli Tıp Anabilim Dalı Başkanlığı'na gönderilerek "Özürlülük Ölçütü Sınıflandırılması ve Özürlülere verilecek Sağlık Kurulu Raporları Hakkındaki Yönetmelik Hükümleri" değerlendirilmek suretiyle karar verilmiştir.Alınan 07/11/... tarihli ... Üniversitesi Adli Tıp Anabilim Dalı Başkanlığı raporunda; 04/02/2017 tarihinde meydana gelen trafik kazası sonrası şahısta mevcut total kalça replasmanı durumunun 30/03/2013 tarih ve 28603 sayılı resmi gazetede yayınlanan Özürlülük Ölçütü Sınıflandırılması ve Özürlülere verilecek Sağlık Kurulu Raporları Hakkındaki Yönetmelik kapsamında değerlendirilmesinde, tablo 3.31 kalça replasmanı sonrasında özürlülükle ilişkili puanlama, iyi sonuç ( 85-100) olarak değerlendirilip olayla illiyetli kişi özür oranının % 19 olduğu, tıbbi iyileşme süresinin olay tarihinden itibaren 9 aya kadar uzayabileceğini, bu süre zarfında mesleğini icra edemeyeceği kanaatine varıldığı bildirilmiştir.
+Aldırılan iki rapor birbirini doğruladığından,davacı vekilinin yeniden rapor aldırılması talebi yerinde görülmemiş, davacının %19 oranında malül kaldığı kabul edilmiştir.
+Dava konusu kaza nedeniyle davacının talep edebileceği tazminat miktarının tespiti ve talep olunan tazminatın sigorta poliçesi kapsamında kalıp kalmadığının tespiti yönünden dosya üzerinde bilirkişi incelemesi yapılmasına karar verilmiştir.
+Alınan 24/01/2020 tarihli aktüer raporunda;... ... Üniversitesi A.TA.B.D Başkanlığının, 07.11.... Tarihli, 11.13....-... Sayılı Raporunda, mağdurun %19 oranında özürlü olduğunun, iyileşme süresinin 9 aya kadar uzayabileceğinin belirtilmesi nedeniyle, 04.02.2017-04.11.2017 tarihleri arasında %100 malul sayılacak, takip eden dönemde ise, varsayımsal gelire 19% oranı uygulanacağı, bu kabulle yapılan hesaplamada davacının net zararının 50.315,77 TL olacağı hesaplandığı, net zarardan %30 müterafik kusur payı tenzil edildiğinde, davacının talep tavanının 35.221,04 TL olacağı hesaplandığı, diğer yandan davacının dava dilekçesinde "3-MüvekkiI de Oluşan Cismani Zarara İlişkin 100,00 TL Sürekli Sakatlık Tazminatının (Fazlaya İlişkin Dava ve Talep Haklarımızı Saklı Tutarak Şimdilik) (Davalı Sigorta Şirketi Azami Poliçe Limiti İle Sorumlu Olmak Kaydıyla) Kaza Tarihinden İtibaren İşleyecek Avans Faiziyle Birlikte Davalıdan Tahsiline," yönünde talepte bulunduğu, iyileşme dönemi zararının talep konusu edilmediği, bu tespit dikkate alındığında davacının net zararının 39.166,71 TL olacağı, net zarardan %30 müterafîk kusur payı tenzil edildiğinde, davacının talep tavanının 27.416,70 TL olacağı, her durumda; davalı sigorta şirketinin, 18.07.2017 tarihinde, davacı yana 57.294,07 TL'lik ödeme yaptığı görülmekle davacının talep edilebilecek bir karşılanmamış zararının kalmamış olduğu hesaplandığı, bildirilmiştir.
+Mahkememizce; dosyanın önceki bilirkişiye tevdii ile davacı vekilinin itirazları doğrultusunda ek rapor aldırılmasına karar verilmiştir.
+Alınan 20/04/2020 tarihli ek bilirkişi raporunda; kök raporunda herhangi bir değişiklik yapılmasını gerektirir bir husus bulunmadığı bildirilmiştir.
+Mahkememiz 2018/... E.sayılı dosyası ... Bam 13.HD'nin 22/12/2021 tarih, 2021/... E. 2021/... K.sayılı ilamı ile bozularak mahkememize gönderilmekle, mahkememiz yukarıda esası belirtilen sırasına kaydı yapıldı.
+Mahkememizce dosyanın bozmadan önceki raporu sunan Aktüerya bilirkişiye tevdi ile ... BAM 13. HD'nin 2021/... E.- 2021/... K. Sayılı kararı doğrultusunda ek rapor düzenlenmesinin istenilmesine karar verilmiştir.
+Alınan 01/04/2022 tarihli bilirkişi ek raporunda; ... ... Üniversitesi A.T.A.B.D. Başkanlığının, 07/11/... tarihli, 11/13/...-... Sayılı raporunda, mağdurun %19 oranında özürlü olduğunun, iyileşme süresinin 9 aya kadar uzayabileceğinin belirtilmesi nedeniyle, 04/02/2017- 04/11/2017 tarihleri arasında %100 malul sayılacak, takip eden dönemde ise, varsayımsal gelire %19 oranının uygulanacağı, bu kabulle yapılan hesaplamada davacının net zararının 66.651,29 TL olacağının hesaplandığı, net zarardan %30 Müterafik kusur payı tenzil edildiğinde, davacının talep tavanının 46.655,90 TL olacağının hesaplandığı, davalı sigorta şirketince, 18/07/2017 tarihinde, davacı yana 57.294,07 TL'lik ödeme yapıldığı görülmekle, davacının talep edilebilecek karşılanmamış bir zararının kalmamış olduğunun hesaplandığı bildirilmiştir.
+Mahkememizce dosyanın Aktüerya uzmanı bilirkişiye tevdi ile itirazlar doğrultusunda ek rapor düzenlenmesinin istenilmesine karar verilmiştir.
+Alınan 04/07/2022 tarihli bilirkişi ek raporunda; ... ... Üniversitesi A.T.A.B.D. Başkanlığının, 07/11/... tarihli, 11/13/...-... Sayılı raporunda, mağdurun %19 oranında özürlü olduğunun, iyileşme süresinin 9 aya kadar uzayabileceğinin belirtilmesi nedeniyle, 04/02/2017- 04/11/2017 tarihleri arasında %100 malul sayılacak, takip eden dönemde ise, varsayımsal gelire %19 oranının uygulanacağı, bu kabulle yapılan hesaplamada davacının net zararının 68.894,17 TL olacağının hesaplandığı, net zarardan %30 kusur payı tenzil edildiğinde, davacının talep tavanının 48.225,92 TL olacağının hesaplandığı, davalı sigorta şirketince, 18/07/2017 tarihinde, davacı yana 57.294,07 TL'lik ödeme yapıldığı görülmekle, davacının talep edilebilecek karşılanmamış bir zararının kalmadığının hesaplandığı bildirilmiştir.
+Yapılan yargılama sonunda toplanan tüm delillerden, meydana gelen trafik kazasında yaralanan davacının %19 oranında çalışma güç kaybına uğradığı, iyileşme süresinin 9 aya kadar uzayabileceği, bilirkişi raporunda 05/11/2017-31/12/2017 tarihleri arası 1 ay 26 bulunmasına rağmen 1 ay 5 gün bulunduğu yazılarak hesaplama yapılmışsa da 1 ay 26 günlük hesaplamanın sonucu değiştirmeyeceği, kazada %30 oranında kusurlu olması nedeniyle tenzilat yapıldıktan sonra 48.225,92 TL tazminat talep edebileceği anlaşılmış olup, davalı sigorta şirketi tarafından dava tarihinden önce davacıya 57.294,07 TL ödeme yapıldığından dava tarihi itibarıyla davacının davalıdan talep edebileceği bir tazminat olmadığından davanın reddine karar verilmiştir.
+H Ü K Ü M : Yukarıda açıklanan nedenlere,
+1-Davanın reddine,
+2-Harçlar Kanunu gereğince alınması gereken 80,70 TL nispi karar ve ilam harcından peşin alınan 35,90 TL'nin düşümü ile eksik 44,80 TL harcın davacıdan alınarak hazineye irat kaydına,
+3-Kararın niteliği gereği davacı tarafından yapılan yargılama giderinin üzerinde bırakılmasına,
+4-Davalı yararına ölçümlenen 100,00-TL vekalet ücretinin davacıdan alınarak davalıya verilmesine,
+Dair, davacı vekilinin yüzüne karşı, davalının yokluğunda kararın tebliğinden itibaren 2 hafta içerisinde İstinaf yolu açık olmak üzere karar verildi.25/10/2022
+Katip
+¸e-imzalıdır.
+Hakim
+¸e-imzalıdır.

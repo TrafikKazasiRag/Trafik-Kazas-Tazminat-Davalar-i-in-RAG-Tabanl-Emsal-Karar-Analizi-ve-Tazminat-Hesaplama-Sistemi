@@ -1,0 +1,59 @@
+SIRA NO: 32 (DIŞLANAN - MALULIYET_ISGOREMEZLIK_YOK)
+DOKÜMAN ID: 859691300
+DERECE: BAM (İstinaf)
+DAİRE / MAHKEME: Antalya Bölge Adliye Mahkemesi 4. Hukuk Dairesi
+ESAS NO: 2020/1249
+KARAR NO: 2023/123
+KARAR TARİHİ: 31.01.2023 (Yıl: 2023)
+ARAMA KELİMESİ: trafik kazası maddi manevi tazminat kusur (v3)
+SAYFA NO: 1
+İNDİRME ZAMANI: 2026-10-25 00:16:44
+HESAP DOĞRULAMA ADAYI: False
+İÇERİK HASH (MD5): 49600a8efa52902e33255929fdb79d41
+================================================================================
+
+T.C.
+ANTALYA
+BÖLGE ADLİYE MAHKEMESİ TÜRK MİLLETİ ADINA
+DÖRDÜNCÜ HUKUK DAİRESİ İSTİNAF KARARI
+İNCELENEN DOSYANIN
+MAHKEMESİ : ANTALYA 4. ASLİYE TİCARET MAHKEMESİ
+TARİHİ : 16/10/2019
+DAVA : Maddi ve Manevi Tazminat
+KARAR TARİHİ : 31/01/2023
+KARAR YAZIM TARİHİ : 01/02/2023
+Taraflar arasındaki davanın yapılan yargılaması sonunda ilk derece mahkemesince verilen, yukarıda tarih ve numarası gösterilen kararına karşı davacılar vekili tarafından istinaf başvurusunda bulunulmakla, dosyada duruşma yapılmasını gerektiren eksiklik görülmediğinden Hukuk Muhakameleri Kanunu'nun 353/1-6 maddesi uyarınca istinaf incelemesinin duruşmasız yapılmasına karar verilerek, dosya incelendi;
+GEREĞİ DÜŞÜNÜLDÜ
+DAVACI İSTEMİNİN ÖZETİ:
+Davacılar vekili dava dilekçesinde özetle; davalı ...'ın sürücüsü, davalı sigorta şirketinin trafik sigortacısı olduğu ... plaka sayılı aracın 21/11/2013 tarihinde yaya geçidinde davacıların murisi ...'a çarparak ağır yaralanmasına sebebiyet verdiği, murisin olaydan sonra bir yıl içinde vefat ettiği, ceza mahkemesince davalı sürücünün taksirle yaralamaya sebebiyet verme suçundan mahkumiyet kararı verdiği, ceza mahkemesince murise asli kusur verilmiş ise de, bu kusurun kabulü mümkün olmadığı, meydana gelen trafik kazası nedeniyle ... Hastanesine 3.909,84 TL tedavi gideri ödendiği, bu olay nedeniyle gerek ulaşım giderleri ve gerekse yan giderleri için makbuz toplanamadığı, murisin trafik kazasından sonra düzenli aralıklarla tedavi görmeye devam ettiği, akıl sağlığını kaybettiği ve 26/10/2014 tarihinde tedavi gördüğü hastanede vefat ettiğinden bahisle fazlaya ilişkin hakları saklı kalmak kaydıyla 3.000,00 TL maddi tazminat ile her bir davacı için 10.000,00'er TL manevi tazminatın olay tarihinden itibaren işleyecek yasal faizi ile birlikte davalılardan tahsiline karar verilmesini talep etmiştir.
+DAVALI CEVABININ ÖZETİ:
+Davalı ... vekili davaya cevap dilekçesinde özetle; ceza mahkemesince yapılan yargılama sonucunda müvekkilinin tali, karşı tarafın ise asli kusurlu olduğu kanaatine varıldığı, ancak müvekkilinin kusursuz olduğu, trafik kazası sonucu ...'ın yaralandığı, tedavi sonrasında sağlığına kavuştuğu, kazadan 13 ay sonra trafik kazasına bağlı olmayan bir nedenden dolayı yaşamını yitirdiği, Adli Tıp Kurumu 1. İhtisas Kurulu'nun raporuyla da ölüm ile trafik kazası arasında illiyet bağının olmadığının tespiti yapıldığı, yaralanan ve daha sonra yaşamını yitiren kişi için TMK'nın 25/4 maddesi gereğince mirasçılarının manevi tazminat talep edemeyeceğini beyanla davanın reddini istemiştir.
+Davalı ... Sigorta A.Ş. vekili davaya cevap dilekçesinde özetle; müvekkili sigorta şirketi sorumluluğunun işletenin kusuru, poliçe limiti ve kapsamı ile sınırlı olduğu, davacıların yakınının ölümünün iddia olunan trafik kazasından kaynaklanmadığının Adli Tıp Kurumun raporuyla da belirlendiği, tedavi gideri kapsamındaki tazminat sorumluluğunun Sosyal Güvenlik Kurumu'nda bulunduğu, trafik sigortası ile manevi tazminatın poliçe kapsamına dahil olmadığını beyanla davanın reddini istemiştir.
+DELİLLER :
+... ın tedavisine esas tıbbi belgeler, ceza mahkemesi kararı, tanık beyanı, tüm dosya kapsamı.
+İDM KARARININ ÖZETİ :
+İlk Derece Mahkemesince verilen kararda özetle; Adli Tıp Kurumu 1. İhtisas Kurulu'nun ... tarihli ... karar numaralı raporunda kaza ile ölüm arasında illiyet bağının olmadığının belirtilmesi, bu raporu teyit eden Antalya 24. Asliye Ceza Mahkemesinin ... esas sayılı dosyasında ATK tarafından düzenlenen kaza ile ölüm arasında illiyet bağının olmadığını belirten 23/12/2015 tarihli raporu, davacının tazminat talebine dayanak hususların murisin vefatı olması, vefat nedeni ile tazminat talep etmesi hususları göz önüne alınarak ispatlanamayan davanın reddine karar verilmiştir.
+İSTİNAF NEDENLERİ :
+Davacılar vekili istinaf dilekçesinde özetle; taleplerinin ölümden kaynaklanan tazminat olmadığı, murislerin yaralanması nedeniyle tazminat talep ettikleri, ilk derece mahkemesince yanlış ve hatalı değerlendirme yapıldığını beyanla ilk derece mahkemesi kararının kaldırılmasını istemiştir.
+İSTİNAFA CEVAP :
+Davalı ... vekili istinafa cevap dilekçesinde özetle; davacılar murisinin trafik kazasının gerçekleşmesinde asli kusurlu olduğu, davacıların murisinin trafik kazası sonrasında iyileşerek sağlığına kavuştuğu, kazadan 13 ay sonra başka bir sebepten dolayı ölüm nedeniyle davanın açılmasının dürüstlük kuralına aykırı olduğu, kaza ile ölüm arasında illiyet bağı bulunmadığını beyanla istinaf talebinin reddini istemiştir.
+Davalı ... Sigorta A.Ş. vekili istinafa cevap vermemiştir.
+G E R E K Ç E
+Uyuşmazlık, trafik kazasına bağlı yaralanmadan kaynaklanan haksız fiil nedeni ile maddi ve manevi tazminat isteğine ilişkindir.
+Türk Borçlar Kanunu'nun 49. maddesi gereğince kasten veya taksirle başkasına zarar veren bu zararı gidermekle yükümlüdür. Bedensel zarara uğrayanların aynı kanunun 54. maddesi gereğince maddi tazminat ve aynı kanunun 56/1 maddesi gereğince manevi tazminat isteme hakları bulunmaktadır. Yine aynı kanunun 56/2 maddesi gereğince ağır bedensel zarar halinde zarar görenin yakınları da manevi tazminat isteyebilirler. 2918 Sayılı Karayolları Trafik Kanunu'nun 85. maddesi gereği motorlu araç işleteni doğan zararlardan sürücü ile birlikte müştereken ve müteselsilen sorumludur. 2918 Sayılı Karayolları Trafik Kanunu'nun 91, 97 ve 99. maddeleri gereği trafik kazasına ve zarara sebebiyet veren motorlu aracın zorunlu mali sorumluluk sigortacısı, yasa ve genel sigorta şartları kapsamına dahil maddi zararlardan işletenle birlikte müştereken ve müteselsilen sorumludur.
+21/11/2013 tarihinde davalı ...'ın sürücüsü ve maliki bulunduğu araçla davacıların yakın olan ...'a çarparak yaralanmasına sebebiyet vermiş ve ... 26/10/2014 tarihinde vefat etmiştir. Davacılar bu trafik kazası nedeniyle maddi ve manevi zararlarının tahsilini talep etmiş, ilk derece mahkemesince yapılan yargılama sonucunda davacıların yakınının ölümüyle trafik kazası arasında illiyet bağı bulunmadığı gerekçesiyle davanın reddine karar verilmiş, bu karara karşı davacılar vekili tarafından istinaf yasa yoluna başvurulmuştur.
+6100 Sayılı HMK.'nun 355. maddesi gereğince istinaf dilekçesinde gösterilen istinaf sebepleri ile sınırlı yapılan istinaf incelemesi sonucunda;
+Antalya 24. Asliye Ceza Mahkemesinin 17/05/2016 gün ve ... esas,.... sayılı kararı ile davalı ...'ın, davacıların yakını olan ...'ı taksirle yaralaması suçundan TCK.'nun 89/1, 89/2-b-e, 62 ve 52. maddeleri gereğince 13.650,00 TL adli para cezası ile cezalandırılmasına karar verilmiştir. Bu karar Yargıtay 12. Ceza Dairesinin 09/11/2021 gün ve ... esas, ... karar sayılı ilamı ile basit yargılama usulü hükümlerinin uygulanması gerekçesiyle bozulmuştur. İlk derece ceza mahkemesince Yargıtay bozma kararı sonrasında yeniden verilen mahkumiyet kararına karşı temyiz yasa yoluna başvurulduğundan kararın kesinleşmediği anlaşılmaktadır.
+İlk derece mahkemesince davacıların yakını ...ın ölümüne trafik kazasına bağlı yaralanmasının sebebiyet vermediği gerekçesiyle dava reddedilmiştir.
+Dava dilekçesinde ... 'ın tedavisi için masraflar yapıldığını beyanla maddi ve manevi tazminat talep edilmiştir. Dava dilekçesinde açıkça ölümüne bağlı bir talep bulunmamaktadır. Yine davacılar tarafından sigorta şirketine gönderilen yazıda da ölüme bağlı bir talep yoktur. Kaldı ki davacılar vekili 19/12/2018 tarihli duruşmada ölümün kaza nedeniyle gerçekleştiği iddiasında bulunmadıklarını, sadece kazadan sonraki tedavi sürecine ilişkin olarak dava açtıklarını beyan etmiştir. Davacı tarafın dilekçeleri ve duruşmada alınan sözlü beyanları dikkate alındığında davacıların açtıkları maddi ve manevi tazminat davasının ...'ın ölümüne değil, yaralanmasına bağlı olarak açıldığı, davacıların ...'ın mirasçıları olmalarından dolayı külli halefi olarak TBK'nın 54. maddesi gereğince bedensel zararlara bağlı maddi tazminat, tedavi gideri ile aynı yasanın 56/2 maddelerine dayalı olarak manevi tazminat isteyebilecekleri açıktır. Bu durumda ilk derece mahkemesince ölen ...'ın yaralanması nedeniyle davacıların maddi ve manevi tazminat talep edebilme koşullarının oluşup oluşmadığı tartışılarak sonucuna göre karar verilmesi gerekirken, davacıların ölümü nedeniyle tazminat talep ettikleri şeklinde hatalı değerlendirme sonucu davanın reddine karar verilmesi doğru görülmemiştir.
+Bilindiği üzere, 7251 Sayılı Kanunun 35. maddesi ile değişik 6100 Sayılı HMK'nun 353/1. fıkra a-6 ıncı bendinde; "Mahkemece, uyuşmazlığın çözümünde etkili olabilecek ölçüde önemli delillerin toplanmamış veya değerlendirilmemiş olması ya da talebin önemli bir kısmı hakkında karar verilmemiş” olması halinde kararın esasının incelenmeden kararın kaldırılmasına karar verileceği hüküm altına alınmıştır.
+Hal böyle olunca açıklanan nedenler ve tüm dosya içeriğine göre; davacılar vekilinin istinaf isteminin kabulü ile 6100 Sayılı HMK.'nun 353/1 inci fıkrasının (a-6) bendi gereğince ilk derece mahkemesi kararının esası incelenmeden kaldırılmasına, davanın yeniden görülmesi için dosyanın kararı veren ilk derece mahkemesine gönderilmesine karar verilmesi gerekmiştir.
+HÜKÜM: Gerekçesi yukarıda açıklandığı üzere;
+1-Davacılar vekilinin istinaf isteminin KABULÜNE,
+2-Antalya 4. Asliye Ticaret Mahkemesinin ... Esas - ... Karar sayılı, 16/10/2019 tarihli kararının 6100 Sayılı HMK'nun 353/1 fıkra (a-6) bendi gereğince ESASI İNCELENMEDEN KALDIRILMASINA,
+3-Davanın yeniden görülmesi için dosyanın kararı veren Antalya 4. Asliye Ticaret Mahkemesine gönderilmesine,
+4-Davacıların peşin yatırdığı 54,40 TL istinaf karar harcının istekleri halinde iadesine, 148,60 TL istinaf yoluna başvuru harcının mahsubu ile Hazineye gelir kaydına,
+5--İİK.'nın 36/5 maddesi gereğince davacılar tarafından Antalya Genel İcra Dairesinin ... takip sayılı dosyasına icranın geri bırakılması kararı için yatırılan teminatın iadesine,
+6-Kesin olan işbu kararın taraflara tebliği, harç tahsil/iade işlemlerinin ilk derece mahkemesince yerine getirilmesine,
+İlişkin dosya üzerinden yapılan inceleme sonucunda 31/01/2023 tarihinde, 6100 sayılı HMK'nun 353. maddesi (1-a) bendi gereğince KESİN olarak oy birliği ile karar verildi.
+....

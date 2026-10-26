@@ -1,0 +1,67 @@
+SIRA NO: 294 (ÇEKİRDEK)
+DOKÜMAN ID: 1072251400
+DERECE: İlk Derece Mahkemesi
+DAİRE / MAHKEME: Ankara 13. Asliye Ticaret Mahkemesi
+ESAS NO: 2023/582
+KARAR NO: 2024/669
+KARAR TARİHİ: 01.10.2024 (Yıl: 2024)
+ARAMA KELİMESİ: trafik kazası aktüer bilirkişi raporu net tutar
+SAYFA NO: 11
+İNDİRME ZAMANI: 2026-10-25 00:42:12
+HESAP DOĞRULAMA ADAYI: False
+İÇERİK HASH (MD5): 6b7cd1b851a5c07b0269240bb0d23f94
+================================================================================
+
+T.C. ANKARA 13. ASLİYE TİCARET MAHKEMESİ
+TÜRK MİLLETİ ADINA
+T.C.
+ANKARA
+13. ASLİYE TİCARET MAHKEMESİ
+GEREKÇELİ KARAR
+ESAS NO : 2023/582 Esas
+KARAR NO : 2024/669
+HAKİM : ... ...
+KATİP : ... ...
+DAVACI : ... - ... ...
+VEKİLİ : Av. ... -....
+DAVALI : ... - ... ...
+VEKİLLERİ : Av. ... -....
+DAVA : Tazminat (Ölüm Ve Cismani Zarar Sebebiyle Açılan Tazminat)
+DAVA TARİHİ : 18/08/2023
+KARAR TARİHİ : 01/10/2024
+GEREKÇELİ KARARIN
+YAZILDIĞI TARİH : 03/10/2024
+Mahkememizde görülmekte olan Tazminat (Ölüm Ve Cismani Zarar Sebebiyle Açılan Tazminat) davasının yapılan açık yargılaması sonunda,
+GEREĞİ DÜŞÜNÜLDÜ:
+DAVA: Davacı vekili dava dilekçesinde özetle; 08/03/2022 tarihinde müvekkili ... sevk ve idaresindeki ... plaka sayılı aracın davalı tarafından sigortalı ... sevk ve idaresindeki ... plaka sayılı araç ile çarpışması sonucu meydana gelen kazada müvekkilinin yaralandığını, kazada müvekkilinin kusurunun bulunmadığını belirterek, fazlaya ilişkin hakları saklı kalmak kaydıyla, 100,00-TL geçici iş görmezlik tazminatı, 100,00-TL sürekli iş görmezlik tazminatı, 100,00-TL bakıcı gideri tazminatı olmak üzere 300,00-TL maddi tazminatın kaza tarihinden itibaren işleyecek avans faizi ile birlikte davalıdan tahsili ile davacıya ödenmesini talep ve dava edilmiştir.
+CEVAP: Davalı vekili cevap dilekçesinde özetle; kaza tarihi ile poliçe tarihinin aynı tarih olduğunu, bu nedenle kazanın poliçenin tanziminden önce mi yoksa sonra mı olduğunun tespitinin gerektiğini, yasanın aradığı şekilde başvuru yapılmadığını, hatır taşıması ve müterafik kusur durumunun değerlendirilmesi gerektiğini, müvekkili sigorta şirketinin geçici iş göremezlik tazminatından, bakıcı giderinden sorumluluğunun bulunmadığını, her durumda sorumluluğun kusur ve teminat limiti ile sınırlı olduğunu, ATK nezdinde maluliyet durumunun değerlendirilmesi gerektiğini, ceza soruşturması kapsamında uzlaştırma olup olmadığının araştırılması gerektiğini belirterek davanın reddi talep edilmiştir.
+DELİLLERİN DEĞERLENDİRİLMESİ VE GEREKÇE: Deliller toplanmış, poliçe ve hasar dosyası, ... kayıtları, trafik kazası tespit tutanakları, ilgili hastanelerden celbedilmiş tedavi evrakları dosya kapsamına alınmış, .... Esas sayılı ceza dosyası celp edilmiş, davacının maluliyet durumuna yönelik olarak .... Bşk.'dan rapor alınmış, adli trafik uzmanı bilirkişi eliyle kusur durumuna, aktüer hesap uzmanı bilirkişi eliyle de tazminatın hesaplanmasına yönelik bilirkişi incelemesi yaptırılmıştır.
+Davacının maluliyetinin bulunup bulunmadığı ve var ise geçici ve daimi iş göremez kalınan sürenin ve bakıcı ihtiyacının bulunup bulunmadığının tespitine dair .... tarafından düzenlenen 15/11/2023 tarihli raporda özetle; "...Erişkinler için Engellilik Değerlendirilmesi Hakkında Yönetmelik hükümlerine göre kişinin engel oranının %6 (yüzdealtı) olduğu, 6 (altı) ay süre ile iş göremezlik halinde kaldığı, 1 (bir) ay süresince başkasının yardımına ihtiyaç duyduğu..." yönünde kanaat belirtilmiştir. Raporda, kaza tarihinde yürürlükte olan yönetmelik hükümleri esas alınarak davacının maluliyet durumunun belirlendiği, yapılan tespitlere göre kaza ile maluliyet durumu arasında illiyet bağının kurulabildiği ve raporun gerekçeli ve denetime elverişli olduğu görülmekle alınan maluliyet raporunun hükme esas alınmasına karar verilmiştir.
+Trafik kazası nedeniyle tarafların kusurlarının varlığı ile oranı bakımından; adli trafik uzmanı bilirkişi tarafından sunulan 23/05/2024 tarihli bilirkişi raporunda özetle; "...dava dışı sürücü ...'ın, olay tarihinde davalı ... Sigortalı ... plakalı ... aracı ile kendi beyanına göre olay mahalli olan 3 şeritli hızlı ve akıcı trafiğe sahip devlet karayolunda havanın yağmurlu olmasına bağlı ıslak ve kaygan zeminli yolda aracından indiği sırada motor kaputunu açmadan önce aracının bagaj kapağını açarak aracında bulunması gereken yansıtıcılı
+üçgen reflektörünü aracının en az 100-150 m gerisine koyarak ve aracının park lambaları ile sarı
+yanıp sönen dörtlü ikaz flaşör lambalarını yakmak suretiyle gerisinden aynı istikametten gelen araç sürücülerini uyararak olacak olan kazaları önleyerek önlem aldıktan sonra motor kapağını açarak
+arızayı gidermeye çalışması gerekerek kurallara uymaması sonucu arkasından seyirle gelen davacı
+sürücü ... yönetimindeki ... plakalı motosikletin ön kısmı ile kendi duran
+aracının arkasından çarpılarak davacının dosya kapsamına göre 4- ağır kemik kırığı derecesi ile
+yaralandığı trafik kazasının oluşumunda 2918 sayılı Karayolları Trafik Kanunu'nun 47/1-d, 84/k, 30/a ve Yönetmeliğin 135 maddelerine riayetsizliği nedeniyle kaza tespit tutanağında da belirtildiği gibi asli kusurlu olduğu, davacı sürücü ...'in, sevk ve idaresindeki ... marka ... plakalı
+motosikletiyle seyrine devamı sırasında havanın yağmur yağışlı olmasına bağlı seyrine açık olan devlet
+karayolundaki zemin yüzeyinin kaygan ve ıslak zeminli olmasına bağlı mevcut seyir hızını 2918 sayılı
+Karayolları Trafik Kanunu'nun 52/1-a, Yönetmeliğin 101/a maddelerine riayetle ve önündeki seyir alanını daha dikkatli ve tedbirli kontrolle seyrine devam etmesi gerekirken önünde arıza nedeniyle hiçbir ışıklı ve ışıksız önlem almadan duran davalıya sigortalı ... plakalı aracı geç fark ederek motosikletinin ön kısmı ile bu aracın arka kısmına çarptığı ... dava konusu trafik kazasının oluşumunda aynı Kanun'un 84/d maddesine riayetsizliği nedeniyle kaza tespit tutanağında da belirtildiği gibi tali
+kusurlu olup ... ... plakalı ... marka motosikletin davacı sürücüsü ...'in dava konusu ... trafik kazasının oluşumunda % 30 (yüzdeotuz)
+oranında kusurlu olduğu,
+olay tarihinde davalıya zorunlu mali mesuliyet sigortalı bulunan ... plakalı aracın dava dışı sürücüsü ...'ın dava konusu ... trafik kazasının
+oluşumunda % 70 (yüzdeyetmiş) oranında kusurlu olduğu..." yönünde görüş ve kanaat bildirildiği görülmüştür. 6098 sayılı TBK'nın 74. maddesinde haksız eylemin “kusur” öğesi konusunda hukuk hakimine tanınan yetkiler iki bölüm olup, birincisi “kusur bulunup bulunmadığına”, öteki “kusurun derecesini ve zararın tutarını belirlemeye” ilişkindir. Maddenin ilk cümlesine göre “kusurun varlığını” araştırmada yetkileri sınırlı olan hukuk hakimi, maddenin ikinci cümlesine göre “kusurun derecesini ve zarar tutarını belirlemede” tam bağımsız kılınmıştır. Esasen, 6100 sayılı HMK 266 madde hükmüne göre kusur oranlarının belirlenmesi teknik değil hukuki bir konu olup eldeki teknik bulgulara göre hakim, kusur oranını kendisi belirleyebilir (Emsal: .... .'nin 15/02/2021 tarih ve .... sayılı ilamı). Bu açıklamalar ışığında tüm dosya kapsamı, ceza dosyası, kaza tespit tutanağı ile mahkememizce alınan 23/05/2024 tarihli bilirkişi raporunda yapılan tespitler kapsamında dosyaya mübrez teknik bulgular, olayın örgüsü ile birlikte bir bütün halinde değerlendirildiğinde; davalıya sigortalı ... plakalı araç sürücüsünün %70, davacının ise %30 oranında kusurlu olduğuna yönelik tespitin mahkememizce de benimsenmesine ve hükme esas alınmasına karar verilmiştir.
+Tazminat hesabı yönünden dosyanın tevdi edildiği aktüer hesap bilirkişisi tarafından düzenlenen 20/03/2024 tarihli bilirkişi raporunda özetle; "... geçici iş göremezlik zararının 19.523,45-TL, sürekli iş göremezlik zararının 340.761,38-TL, geçici bakıcı giderinin 3.502,80-TL olarak hesaplandığı, hesaplanan tazminatın poliçe teminat limiti dahilinde kaldığı..." yönünde kanaat bildirilmiştir. Aktüer bilirkişi tarafından TRH 2010 yaşam tablosu ile progresif rant sistemi esas alınarak yapılan hesaplamanın Yargıtay içtihatlarında öngörülen kriterlere uygun olduğu ve bilirkişi raporunun gerekçeli ve denetime elverişli olduğu anlaşılmakla aktüer bilirkişi tarafından yapılan hesaplamanın hükme esas alınmasına karar verilmiştir.
+Dava; davalı ... şirketine Zorunlu Mali Mesuliyet Sigorta poliçesi kapsamında sigortalı olan araç ile davacının sevk ve idaresindeki aracın karıştığı çift taraflı trafik kazası neticesinde davacının yaralanması nedeniyle oluşan sürekli iş göremezlik, geçici iş göremezlik ve bakıcı giderinden oluşan maddi zararının tazmini istemine ilişkindir.
+Tüm dosya kapsamı, kayıt ve belgeler ile alınan bilirkişi raporları birlikte değerlendirildiğinde; 08/03/2022 tarihinde meydana gelen trafik kazası neticesinde davacının yaralandığı, zarara neden olarak davalıya sigortalı araç sürücüsünün %70 oranında kusurlu olduğu, denetime elverişli ve hükme esas alınabilir olduğu kabul edilen 15/11/2023 tarihli maluliyet, 20/03/2024 tarihli aktüer bilirkişi raporu nazara alınarak geçici iş göremezlik dolayısıyla 31.511,96-TL, sürekli iş göremezlik nedeniyle 440.659,28-TL, geçici bakıcı gideri dolayısıyla 3.502,80-TL kadar maddi zararının söz konusu olduğu, poliçe teminat limitinin ise kaza tarihinde 500.000,00-TL olmakla zararın poliçe teminat limiti içerisinde kaldığı görülmüş, davacının 29/07/2024 tarihli talep artırım dilekçesi de nazara alınarak 440.659,28-TL sürekli iş göremezlik, 31.511,96-TL geçici iş göremezlik, 3.502,80-TL bakıcı gideri olmak üzere toplam 475.674,04-TL maddi tazminat yönünden davanın kabulüne karar verilmesi gerekmiştir. Davacı tarafından zamanaşımı defi ileri sürülmüş ise de kazanın 08/03/2022 tarihinde meydana geldiği, davanın ise 18/08/2023 tarihinde ikame edildiği sabit olmakla dava tarihi itibariyle KTK'nın 109. maddesinde öngörülen zamanaşımı süresinin dolmadığı anlaşıldığından davalının zamanaşımı defininin kabulüne olanak bulunmamıştır. Temerrüt tarihi bakımından ise KTK'nın 99. maddesi uyarınca davalı ... şirketine başvuru tarihine göre 26/06/2023 tarihi temerrüt tarihi olarak belirlenmiş, davacının bu tarihten itibaren avans faizi talep edebileceği kabul edilmiş, son tahlilde aşağıdaki şekilde hüküm kurulmuştur.
+HÜKÜM: Yukarıda açıklanan gerekçelerle;
+1-DAVANIN KABULÜ İLE; 440.659,28-TL sürekli iş göremezlik, 31.511,96-TL geçici iş göremezlik, 3.502,80-TL bakıcı gideri olmak üzere toplam 475.674,04-TL maddi tazminatın 26/06/2023 temerrüt tarihinden itibaren işletilecek avans faizi ile birlikte davalıdan tahsili ile davacıya ödenmesine,
+2-Alınması gereken 32.493,29-TL harçtan peşin alınan 342,24-TL ve 1.283,00-TL ıslah harcının mahsubu ile bakiye 30.868,05-TL harcın davalıdan alınarak hazineye gelir kaydına,
+3-6325 sayılı yasanın 18/A maddesi ve Arabuluculuk Asgari Ücret Tarifesi gereğince belirlenen 3.120,00-TL arabuluculuk ücretinin davalıdan alınarak hazineye gelir kaydına,
+4-Davacı kendisini vekil ile temsil ettirdiğinden karar tarihindeki AAÜT'ne göre hesaplanan 72.594,37-TL vekalet ücretinin davalıdan alınarak davacıya verilmesine,
+5-Davacı tarafça yatırılan 269,85-TL başvuru harcı, 342,24-TL peşin harç, 1.283,00-TL ıslah harcı, 247,00‬-TL tebligat, 20,25-TL müzekkere gideri, 7.000,00-TL bilirkişi ücreti, 1.700,00-TL adli tıp rapor ücreti olmak üzere toplam 10.862,34-TL yargılama giderinin davalıdan alınarak davacıya verilmesine,
+6-Davalı tarafından sarfedilen yargılama gideri bulunmadığından bu hususta karar verilmesine yer olmadığına,
+7-Sarfedilmeyen gider avansının karar kesinleştiğinde taraflara iadesine,
+Dair davacı vekilinin yüzüne karşı, gerekçeli kararın tebliğ tarihinden itibaren yasal 2 haftalık sürede mahkememize müracaat ile .... Bölge Adliye Mahkemesi nezdinde istinaf başvuru yolu açık olmak üzere verilen karar açıkca okunup usulen anlatıldı. 01/10/2024
+Katip ... Hakim ...
+E-imzalı E-imzalı

@@ -1,0 +1,44 @@
+SIRA NO: 253 (ÇEKİRDEK)
+DOKÜMAN ID: 738925100
+DERECE: İlk Derece Mahkemesi
+DAİRE / MAHKEME: İstanbul Anadolu 4. Asliye Ticaret Mahkemesi
+ESAS NO: 2017/221
+KARAR NO: 2022/28
+KARAR TARİHİ: 18.01.2022 (Yıl: 2022)
+ARAMA KELİMESİ: trafik kazası aktüer bilirkişi raporu net tutar
+SAYFA NO: 5
+İNDİRME ZAMANI: 2026-10-25 00:28:11
+HESAP DOĞRULAMA ADAYI: True
+İÇERİK HASH (MD5): f2954e6921289f40f811650c787838fe
+================================================================================
+
+T.C. İstanbul Anadolu 4. ASLİYE TİCARET MAHKEMESİ
+ESAS NO: 2017/221 Esas
+KARAR NO: 2022/28
+DAVA: Tazminat (Ölüm Ve Cismani Zarar Sebebiyle Açılan Tazminat)
+DAVA TARİHİ: 21/02/2017
+KARAR TARİHİ: 18/01/2022
+Mahkememizde görülmekte olan Tazminat (Ölüm Ve Cismani Zarar Sebebiyle Açılan Tazminat) davasının yapılan açık yargılaması sonunda,
+GEREĞİ DÜŞÜNÜLDÜ:
+İDDİA: Davacı vekili dava dilekçesinde özetle; ----- istikametine seyir halinde iken bahse konu yerde kendi aracının ön-sol kısmı ile yaya ----orta şerit çizgisine yakın bir mesafede çarpması sonucunda yaralanmalı trafik kazası meydana geldiğini,----tarafından hazırlanan Bilirkişi Raporu gereğince ----olduğu kanaatine varıldığı, kaza neticesinde ---- Numaralı dosya için soruşturma başlatıldığını, ----verikdiğini, davacı müvekkilinin söz konusu kaza dolayısıyla yaratandığını, kazaya sebebiyet vere----kaza tarihinde sigortalı bulunduğunu, doğrudan doğruya davalı ---- tarihinde yazılı olarak başvurulduğunu, ödeme yapılması için tüm evrakların davalı kuruma teslim edildiğini, dilekçeye davalı ----günlük cevap süresi içerisinde verilen cevabın taleplerini karşılamadığını, söz konusu kaza ---- tarihinde gerçekleşmiş olduğundan müvekkilinin maluliyetine ilişkin engelli sağlık kurulu raporunun temin edilebilmesi için gerekli olan bir yıllık sürenin ---tarihinde dolacağını, dolayısıyla engelli sağlık kurulu raporunu alabilmek için gereken sürenin henüz dolmadığını, müvekkilinin --- doğumlu olup kaza tarihi itibariyle --- yaşında olduğunu, işçi olarak çalıştığını beyan ile, fazlaya dair haklar saklı kalmak kaydıyla, davacıya ödenmesi gereken İşgücü kaybından doğan toplam ---daimi maluliyet (sakatlık) tazminatının davalı ---- tarihinden itibaren işleyecek yasal faizi ile birlikte davalıdan tahsifini, yargılama giderlerinin ve vekalet ücretinin davalıya yükletilmesine karar verilmesini talep etmiştir.
+SAVUNMA: Davalı vekili cevap dilekçesinde özetle; Müvekkili şirket nezdinde --------hasar dosyası açıldığını, şirket aleyhine açılan bu davanın dava şartlarının gerçekleşmediğini, tazminatın ödenememesinin nedeninin eksik evrakın şirkete gönderilmemesinden kaynaklandığını, tememüt tarihinden itibaren işleyecek faiz isteminin haksız olduğunu beyan ile, davacı vekilinin haksız talebinin reddini, yargılama masraflarının davacıya tahmiline karar verilmesini talep etmiştir.
+TALEP ARTIRIM DİLEKÇESİ: Davacı Vekili, ---- tarihli dilekçesi ile , HMK M.107 uyarınca anılan bilirkişi raporu doğrultusunda,, dava değerinin artırımı yoluna gidilerek Dava dilekçesinde --- tutarındaki tazminat tutarını ve geçici işgöremezlik tazminatı olarak talep edilen --- tazminat talebi kısmının ; sürekli sakatlık (maluliyet) tazminat miktarını ---, geçici işgöremezlik tazminat miktarını ------ olarak kabul edilmesini talep etmiştir.
+DELİLLERİN İNCELENMESİ VE GEREKÇE;
+Dava, trafik kazası sonucu meydana gelen cismani zararın tazminine ilişkindir.
+Davacı vekili, ----- tarihinde meydana gelen trafik kazası sonucunda müvekkilinin geçici ve daimi işgöremezlik zararının oluştuğunu, davalının meydana gelen zarardan sorumlu olduğunu iddia etmekte, davalı vekili ise davanın reddini savunmaktadır.
+Mahkememizce davacının trafik kazası nedeniyle maluliyet oranının tespiti için dosyanın ----- tevdi edilmesine karar verilmiştir.
+---- tarihinde maruz kaldığı trafik kazasına bağlı gelişen arızaları sebebiyle ----- ölçüt kapsamında maluliyet derecesinin %23 olduğu; tıbbi iyileşme süresinin ise --- kadar uzayabileceği, belirtilmiştir.
+Meydana gelen trafik kazasında tarafların kusur oranlarının tespiti için mahkememizce kusur raporu alınmıştır.
+Mahkememizce alınan ------teknik bilirkişi raporuna göre davaya konu --- meydana gelmesinde: Davalı --- olduğu tespit edilen ---plakalı araç sürücüsü dava dışı---- %30 oranında kusurlu olduğu, Davacı yaya ---- %70 oranında kusurlu olduğu, tespit edilmiştir.
+Trafik kazası sonucu oluşan maluliyet durumunun ve tarafların kusur oranları dikkate alınarak tazminat hesaplaması yapılması için mahkememizce dosyanın bir aktüer bilirkişisine tevdi edilmesine karar verilmiştir.
+Tanzim edilen bilirkişi raporu ile; Davacı ------olduğu tespit edilmiştir.
+Bu kapsamda mahkememizce alınan maluliyet, kusur ve aktüer raporları denetime açık ve hüküm kurmaya elverişli görülerek hükme esas alınmış ve davacının--- geçici işgöremezlik ve--- sürekli işgöremezlik olmak üzere toplam ---- maddi tazminat talep edebileceği anlaşılmakla davacı vekilinin talep artırım dilekçesi de dikkate alınarak davanın kabulüne dair aşağıdaki şekilde hüküm kurmak gerekmiştir.
+HÜKÜM : Yukarıda Açıklanan Nedenlerle;
+1-DAVANIN KABULÜNE,
+---daimi işgöremezlik, ---geçici işgöremezlik tazminatı olmak üzere toplam -----tarihinden itibaren işleyecek yasal faizi ile birlikte davalıdan alınarak davacıya verilmesine,
+2-Harçlar Kanununa göre alınması gerekli 5.011,06 TL harcın, davacı tarafından yatırılan 31,40 TL peşin harç ve 402,00 TL tamamlama harcından mahsubu ile bakiye 4.577,66‬TL'nin davalıdan tahsili ile HAZİNEYE GELİR KAYDINA,
+3-Davacı tarafından yatırılan 433,4‬0 TL harcın davalıdan alınarak DAVACIYA VERİLMESİNE,
+4-Davacı tarafından tebligat, posta, müzekkere, bilirkişi reddiyatı ve Adli Tıp Kurumu fatura gideri olarak sarf edilen 3.971,2‬0 TL yargılama giderinin davalıdan alınarak DAVACIYA VERİLMESİNE,
+6- Kabul edilen dava yönünden Avukatlık Asgari Ücret tarifesine göre davacı lehine takdir olunan 10.336,49 TL vekalet ücretinin davalıdan alınarak DAVACIYA VERİLMESİNE,
+7-Dosyada mevcut gider avansının karar kesinleştiğinde ve talep halinde yatıran tarafa iadesine,
+Dair, davalı tarafın yokluğunda davacı vekilinin yüzüne karşı kararın tebliğinden itibaren 2 haftalık süre içinde ----------Adliye Mahkemesi nezdinde İstinaf kanun yolu açık olmak üzere verilen karar açıkça okunup usulen anlatıldı.18/01/2022

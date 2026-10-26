@@ -1,0 +1,72 @@
+SIRA NO: 243 (ÇEKİRDEK)
+DOKÜMAN ID: 1226458500
+DERECE: İlk Derece Mahkemesi
+DAİRE / MAHKEME: Ankara 4. Asliye Ticaret Mahkemesi
+ESAS NO: 2024/821
+KARAR NO: 2026/351
+KARAR TARİHİ: 21.05.2026 (Yıl: 2026)
+ARAMA KELİMESİ: trafik kazası aktüer bilirkişi raporu net tutar
+SAYFA NO: 4
+İNDİRME ZAMANI: 2026-10-25 00:25:03
+HESAP DOĞRULAMA ADAYI: False
+İÇERİK HASH (MD5): fdbf20a471cbd35a1abe3b986bb29785
+================================================================================
+
+T.C. ... 4. ASLİYE TİCARET MAHKEMESİ Esas-Karar No: 2024/821 Esas - 2026/351
+TÜRK MİLLETİ ADINA
+T.C.
+...
+4. ASLİYE TİCARET MAHKEMESİ
+GEREKÇELİ KARAR
+ESAS NO : 2024/821 Esas
+KARAR NO : 2026/351
+HAKİM : ....
+KATİP : ...
+DAVACI : ...
+VEKİLİ : Av. .....
+DAVALI : 1- ...
+VEKİLİ : Av. ....
+DAVALI : 2-...
+DAVA : Tazminat (Ölüm Ve Cismani Zarar Sebebiyle Açılan Tazminat)
+DAVA TARİHİ : 03/12/2024
+KARAR TARİHİ : 21/05/2026
+GEREKÇELİ KARARIN
+YAZILDIĞI TARİH : 19/06/2026
+Mahkememizde görülmekte olan Tazminat (Ölüm Ve Cismani Zarar Sebebiyle Açılan Tazminat) davasının yapılan açık yargılaması sonunda,
+Dosya incelendi.
+GEREĞİ DÜŞÜNÜLDÜ:
+DAVA :
+Davacı vekili dilekçesinde özetle; 21.07.2023 tarihinde davalı sürücü... plakalı aracın kaza tarihi itibariyle davalı ... Sigorta A.Ş. nezdinde Zorunlu Mali Sorumluluk Sigorta Poliçesi ile teminat altında olduğunu, müvekkilinin cismani zarar nedeniyle 100,00 TL sürekli iş görmezlik, 100,00 TL geçici iş görmezlik ve 100,00 TL geçici bakıcı zararı olmak üzere şimdilik toplam 300,00 TL maddi tazminatın davalı .... yönünden 21.07.2023 kaza tarihinden, davalı sigorta şirketi yönünden 13.09.2024 temerrüt tarihinden itibaren işleyecek avans faizi ile davalılardan müştereken ve müteselsilen tahsilini talep ve dava etmiştir.
+Davacı vekili 28/04/2026 tarihli bedel arttırım dilekçesi ile geçici iş göremezlik tazminatı talebini 34.206,96-TL'ye, bakıcı gideri talebini 13.414,50-TL'ye yükseltmiştir.
+CEVAP :
+Davalı sigorta şirketi vekili cevap dilekçesinde özetle; usule ilişkin itirazlarının yanı sıra esas yönünden ZMMS'nın meblağ sigortası olmayıp bir zarar sigortası olduğunu, davacı tarafın uğramış olduğu zararı ispat etmesi gerektiğini, kabul anlamına gelmemek üzere müvekkili şirketin sorumluluğunun poliçe limitleri ve sigortalının kusuru ile sınırlı bulunduğunu, geçici iş görmezlik ve geçici bakıcı gideri yönünden müvekkili şirketin bir sorumluluğu bulunmadığını, bu hususta sorumluluğun SGK'na ait olduğunu, müterafik kusur önünden gerekli araştırmanın yapılmasını talep ettiklerini, faiz talebini kabul etmediklerini savunarak, davanın reddini istemiştir.
+DELİLLER :
+1-) Davalı sigorta şirketi tarafından açılan hasar dosyası ve ZMMM poliçesi örneği.
+2-) Kazazede davacıya ait tedavi belgeleri.
+3-)SGK cevabı yazısı
+3-) ... 38. Asliye Ceza Mahkemesi'nin 2024/306 ceza dava dosyası
+4-) Kusur, maluliyet ve aktüer hesap bilirkişisi raporları.
+DELİLLERİN DEĞERLENDİRİLMESİ VE GEREKÇE:
+Dava, çift taraflı trafik kazası nedeni ile davacının cismani zarara uğradığı iddiasına dayalı karşı araç sürücüsü ve işleteni davalı gerçek kişi ile karşı araç ZMMS sigortacısı aleyhinde açılan sürekli iş göremezlik, geçici iş göremezlik ve bakıcı gideri tazminatı istemlerine ilişkindir.
+Trafik Kazası Tespit Tutanağı ve dosya kapsamına göre; "Olay mahalli yol platform genişliği 10 m ve üzeri olan asfalt kaplama 2 şeritli bölünmüş yol, üç yönlü T kavşak, düşeyde eğimsiz, yatayda düz, yol yüzeyi kuru, hava durumu açık, vakit gündüz, 50 km/s azami hız limiti bulunan cadde olup meskun mahal içidir. Kaza noktasına 10 m mesafede “yol ver " levhası mevcuttur. Kask tespiti mevcut değildir." şeklinde tespitte bulunulduğu anlaşıldı.
+... 38. Asliye Ceza Mahkemesi'nin 2024/306 Esas, 2024/477 karar sayılı ilamında "Sanığın kullandığı araçla müştekiye ait motorun çarpması sonucu meydana gelen kazada müştekiyi 2. Derece kırık oluşacak şekilde taksirli yaraladığı iddiasıyla açılan kamu davasında sanık savunması müşteki beyanı adli rapor davaya konu suç tutanağı bilirkişi raporu uzlaşma raporu ve tüm dosya kapsamına göre sanığın üzerine atılı 2. Derece kırık oluşacak şekilde müştekiyi iddianamede anlatıldığı şekilde asli tam kusurlu olarak yaraladığı kabul edilerek cezalandırılmasına karşı tarafın zararı giderilmediği için hükmün açıklanmasının geri bırakılması uygulanmasına yer olmadığına ve sanık basit yargılama usulü kararına itiraz ettiği için basit yargılama usulü indirimi uygulanmaksızın cezalandırılmasına " dair karar verildiği kararın 16/09/2024 tarihinde kesin olarak verilmekle aynı tarihte kesinleştiği anlaşılmıştır.
+19/12/2024 tarihli SGK cevabi yazısında; ".... T.C. kımlık numaralı .. .. 21.07.2023 tarıhlı kazasına ilişkin bu güne kadar İş kazası/Meslek hastalığı sigorta kolundan Merkezimizce sürekli işgöremezlik geliri ödenmediği anlaşıldığından, rücuya tabi herhangi bir gelir/aylık ödemesi bulunmayıp, dolayısıyla hesaplanabilecek peşin sermaye değeri bulunmadığı" şeklinde bilgi verildiği anlaşılmıştır.
+... Trafik İhtisas Dairesinin 11/08/2026 tarihli raporunda; "Davalı Sürücü ....'ın kusursuz olduğu" şeklinde rapor düzenlenmiştir. Ceza yargılamasına konu dosyada savcılık tarafından alınan kusur raporu görüşü ile de aynı doğrultuda görüş bildirildiği anlaşılmıştır.
+28/01/2026 tarihli Hacettepe Üniversitesi Adli Tıp kurulu raporunda; " 21/07/2023 tarihinde gerçekleşen trafik kazasına bağlı olarak davacıda meydana gelen yaralanmalar dikkate alınarak 1) 20/02/2019 tarih 30692 sayılı RG'de yayınlanan Engellilik Değerlendirmesi hakkında yönetmelik ve ekinde cetveller esas alınmak kaydıyla yönetmelik kapsamında değerlendirilecek sekel mahiyetinde bir arızası tespit edilmediğinden 21/07/2023 tarihinde trafik kazasına bağlı maluliyet oranı tayinine mahal olmadığı, 2) Kaza nedeniyle kişinin tedavisine başlanmasından itabaren tedavi süresince ortaya çıkan bakıcı ihtiyaç süresinin bir ay olduğu, tıbbi iyileşme süresinin 3 aya kadar uzayabileceği " şeklinde görüş bildirildiği anlaşılmıştır.
+28.02.2026 tarihli aktüer bilirkişi raporunda özetle; " T.C. .... Adli Tıp Kurumu ... Adli Tıp Grup Başkanlığı tarafından düzenlenen 11.08.2025 tarih ve... 2025/26521/7653 sayılı rapor ile dava konusu kazanın meydana gelmesinde davalı sürücü.... Tıp Fakültesi Dekanlığı Dahili Tıp Bilimleri Bölüm Başkanlığı Adli Tıp Ana Bilim Dalı Başkanlığı tarafından düzenlenen 23.01.2026 tarih ve... 4721639 sayılı rapor ile davacı ... .... uyuşmazlık konusu olay sonrası sekel mahiyetinde bir arızası tespit edilemediğinden maluliyet oranı tayinine mahal olmadığı, kaza nedeniyle tedavisine başlanmasından itibaren tedavi süresince ortaya çıkan bakıcı ihtiyaç süresinin 1 AY olduğu, tıbbi iyileşme süresinin 3 AY'a kadar uzayabileceğinin tespit edildiği,Davacı .. ... gerçek net maddi zararının geçici iş görmezlik kaleminden kaynaklı 34.206,96 TL, Bakıcı giderinden kaynaklı gerçek net maddi zararının 13.414,50 TL olarak hesaplandığı; Hesaplanan toplam 47.621,46 TL zararın poliçe teminat limiti dahilinde kaldığı, geçici iş görmezlik zararının poliçenin ölüm/sakatlanma teminatından, bakıcı zararının ise tedavi/sağlık gideri teminatından karşılanması gerektiği, Hükmedilecek tazminata davalı ... .... yönünden kaza tarihi olan 21.07.2023, davalı sigorta şirketi yönünden arabuluculuk son tutanak tarihinden itibaren, kusuru ile kazaya neden olan 06 AAR 591 plakalı aracın ruhsat belgesinde ticari nitelikte olduğu tespit edilmekle, talep gibi avans faizi yürütülmesi gerektiği," şeklinde rapor düzenlenmiştir.
+Tüm dosya kapsamı, tarafların iddia ve savunmaları alınan bilirkişi raporları ve toplanan delilere göre somut olay ele alınmakla; 21.07.2023 günü sürücü... yönetimindeki 10TK 430 plakalı motosiklet ile çarpması sonucu yaralanmalı trafik kazası meydana geldiği, bilirkişi marifetiyle yapılan tespit çerçevesinde sürücü ... Bulvarını takiben gelip sola dönüşle Oruç Reis Caddesi istikametine seyretmek istediğinde seyir yönüne hitabeden “yol ver” levhasına dikkat etmediği bölünmüş yol üzerinde düz seyreden sürücülere ilk geçiş hakkını bırakacak şekilde yola girmemiş olup sağından .... yönetimindeki .... plakalı motosikleti ile bölünmüş yol üzerinde düz seyri sırasında meydana gelen kazaya etken kural ihlali bulunmadığı kanaatine varılmakla; çift taraflı kaza neticesinde davacının kusurlu olmadığı davalı gerçek kişi sürücüsünün ise tam kusurlu olduğunun kabulü gerekmiştir. Davacının maddi tazminat talebine konu kalemler yönünden davacının maluliyet durumu bulunup bulunmadığı uğradığı cismani zarar nedeniyle geçici iş göremezlik zararı ve bakıcı zararı bulunup bulunmadığı yönünden öncelikle maluliyet raporu alınma yoluna gidilmiş olup mahkememizce alınan maluliyet raporunda RG'de yayınlanan Engellilik Değerlendirmesi hakkında yönetmelik ve ekinde cetveller esas alınmak kaydıyla yönetmelik kapsamında değerlendirilecek sekel mahiyetinde bir arızası tespit edilmediği, 21/07/2023 tarihinde trafik kazasına bağlı maluliyet oranı tayinine mahal olmadığı, Kaza nedeniyle kişinin tedavisine başlanmasından itibaren tedavi süresince ortaya çıkan bakıcı ihtiyaç süresinin bir ay olduğ ve tıbbi iyileşme süresinin 3 aya kadar uzayabileceği " tespiti çerçevesinde aktüer bilirkişiden rapor alınmış olup, davacı .. .... gerçek net maddi zararının geçici iş görmezlik kaleminden kaynaklı 34.206,96 TL, Bakıcı giderinden kaynaklı gerçek net maddi zararının 13.414,50 TL olarak hesaplandığı; mahkememizce davacının sürekli iş göremezlik zararının bulunmadığı anlaşılmış olup bilirkişi marifetiyle geçici iş göremezlik ve bakıcı gideri yönünden hesaplanan toplam 47.621,46 TL zararın ZMMS poliçesi teminat limiti dahilinde kaldığı, geçici iş görmezlik zararının poliçenin ölüm/sakatlanma teminatından, bakıcı zararının ise tedavi/sağlık gideri teminatından karşılanabileceği gözetilerek, söz konusu zarardan davalı gerçek kişinin haksız fiil hukuksal sebebine dayalı olarak davalı sigorta şirketinin ise yasal hükümler çerçevesinde karşı araç ZMMS poliçesi akidi olarak sorumluluğu bulunduğu kanaatine varılmakla; söz konusu tazminat tutarlarına davalı ... yönünden kaza tarihi olan 21.07.2023, davalı sigorta şirketi yönünden ise temerrüt tarihi olan 13/09/2024 tarihinden itibaren karşı aracın ticari araç olduğu gözetilerek işleyecek avans faizi ile birlikte tahsilde mükererrerlik olmamak üzere davalılardan alınarak davacıya verilmesine dair aşağıdaki şekilde hüküm tesis edilmiştir.
+HÜKÜM; Gerekçesi yukarıda açıklandığı üzere;
+1-Davanın KISMEN KABULÜNE
+Davacının 100,00 TL tutarındaki sürekli iş göremezlik isteminin reddine,
+Geçici iş göremezlik talebi bakımından ise 34.206,96 TL'nin davalı.... yönünden kaza tarihi olan 21/07/2023 tarihinden itibaren işleyecek avans faizi ile davalı sigorta şirketi yönünden ise 13/09/2024 tarihinden itibaren işleyecek avans faizi ile birlikte tahsili ile tahsilde mükerrerlik olmamak üzere davalılardan alınarak davacıya verilmesine,
+Bakıcı gideri yönünden ise 13.414,50 TL'nin davalı ... ... yönünden kaza tarihi olan 21/07/2023 tarihinden itibaren işleyecek avans faizi ile davalı sigorta şirketi yönünden ise 13/09/2024 tarihinden itibaren işleyecek avans faizi ile birlikte tahsili ile tahsilde mükerrerlik olmamak üzere davalılardan alınarak davacıya verilmesine,
+3-Alınması gerekli 3.253,02 TL harçtan peşin alınan 427,60 TL harcın mahsubu ile bakiye 2.825,42 TL harcın davalılardan alınarak hazineye irat kaydına,
+4-Davacı kendisini vekil ile temsil ettirdiğinden karar tarihinde yürürlükte bulunan AAÜT uyarınca hesaplanıp takdir edilen 45.000,00 TL vekalet ücretinin davalılardan alınarak davacıya verilmesine,
+5-Davacı tarafından yapılan yargılama gideri olarak 1.560,00 -TL tebligat ve posta gideri, 3.900,00 TL ATK gideri, 900,00 ATK gideri, 5.000,00 TL bilirkişi ücreti, 60,80 TL vekalet harcı, 427,60 -TL başvurma harcı ile 427,60-TL peşin harç olmak üzere toplam 12.276,00 TL yargılama giderinin davalılardan alınarak davacıya verilmesine,
+6-6102 sayılı Türk Ticaret Kanununun 5/A ve 6325 sayılı Hukuk Uyuşmazlıklarında Arabuluculuk Kanununun 18/A-13. maddesi uyarınca alınması gereken 3.600,00 TL arabuluculuk ücretinin davalılardan alınarak hazineye irat kaydına,
+7-Kullanılmayan gider avansının hükmün kesinleşmesinden sonra yatırana iadesine,
+Dair; taraf vekillerinin ve davalı asilin yüzlerine karşı, gerekçeli kararın tebliğinden itibaren 2 hafta içerisinde verilecek dilekçe ile ... Bölge Adliye Mahkemesine İstinaf yolu açık olmak üzere verilen karar açıkça okunup usulen anlatıldı. 21/05/2026
+Katip ...
+¸e-imzalıdır
+Hakim ...
+¸e-imzalıdır

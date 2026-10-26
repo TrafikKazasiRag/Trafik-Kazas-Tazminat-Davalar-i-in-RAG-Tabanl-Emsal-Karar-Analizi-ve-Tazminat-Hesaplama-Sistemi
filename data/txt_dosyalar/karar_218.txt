@@ -1,0 +1,52 @@
+SIRA NO: 218 (ÇEKİRDEK)
+DOKÜMAN ID: 960330700
+DERECE: İlk Derece Mahkemesi
+DAİRE / MAHKEME: İstanbul 9. Asliye Ticaret Mahkemesi
+ESAS NO: 2021/592
+KARAR NO: 2023/812
+KARAR TARİHİ: 08.11.2023 (Yıl: 2023)
+ARAMA KELİMESİ: trafik kazası aktüer bilirkişi raporu net tutar
+SAYFA NO: 1
+İNDİRME ZAMANI: 2026-10-25 00:17:03
+HESAP DOĞRULAMA ADAYI: True
+İÇERİK HASH (MD5): f4e3a6420d5dc4ed10a9d1b421118593
+================================================================================
+
+T.C.
+İSTANBUL
+9. ASLİYE TİCARET MAHKEMESİ
+GEREKÇELİ KARAR
+ESAS NO:2021/592 Esas
+KARAR NO :2023/812
+DAVA:Tazminat
+DAVA TARİHİ:23/09/2021
+KARAR TARİHİ:08/11/2023
+Mahkememizde görülmekte olan Sigorta davasının yapılan açık yargılamasının sonunda;
+GEREĞİ DÜŞÜNÜLDÜ:
+TALEP: Davacı vekili mahkememize verdiği dava dilekçesinde özetle; davalı sigorta şirketine ... numaralı ZMMS poliçesi ile teminat altında olan dava dışı davacının işvereni ... İnş. Taah. San. ve Tic. Ltd. Şti. adına kayıtlı ... plakalı araçta müvekkilinin yolcu konumunda iken meydana gelen trafik kazasında ağır yaralandığını ve malul kaldığını, sağ kolunda fonksiyon kaybı oluştuğunu, davalı sigorta şirketine dava öncesi yazılı başvuru yapıldığını ancak tazminat ödenmediğini, müvekkilinin kaza tarihindeki geliri ile ilgili belgenin işyerinden müzekkere ile alınmasını talep ettiklerini belirterek, 15.12.2020 tarihinde meydana gelen trafik kazası nedeniyle yaralanan ve malul kalan davacı için fazlaya dair haklar saklı kalmak kaydıyla, tedavi giderleri, ekonomik geleceğinin sarsılmasından doğan kayıplar, iş göremezlikten doğan maddi zararlar için şimdilik 10.000 TL maddi tazminatın davalı sigorta şirketinden olay tarihinden itibaren işleyecek faizi ile birlikte tahsiline, yargılama giderleri ile vekalet ücretlerinin davalı tarafa tahmiline karar verilmesini talep ve dava etmiştir
+CEVAP: Davalı vekili mahkememize verdiği cevap dilekçesinde özetle; davaya konu kazaya karışan ... plakalı aracın müvekkil sigorta şirketi nezdinde 02.10.2020/2021 vadeli ... numaralı ZMMS poliçesi ile teminat altında olduğu, sorumluluklarının sigortalı araç sürücüsünün kusuru oranında ve azami poliçe limitleri ile sınırlı olduğunu, kazanın oluşumunda sigortalı araç sürücüsünün kusurlu olup olmadığının ATK tarafından düzenlenecek raporla tespit edilmesini ayrıca davacının maluliyetinin Erişkinler için yönetmeliğine göre değerlendirilmesi ve ATK tarafından kaza ile illiyedi de irdelenerek belirlenmesi gerektiğini, dva dilekçesinde talebin açık ve net olarak belirtilmesi gerektiğini, aksi halde mahkemece ne olduğunun açıklattırılmasının gerektiğini, davacının; geçici iş göremezlik, bakıcı giderleri, tedavi giderleri yönünde talebi mevcut ise bu tazminatların 6111 sayılı yasa gereği SGK ‘ nın sorumluluğunda olduğunu, kabul anlamına gelmemek kaydıyla davacının gelirini ispatlar belge sunulmaması durumunda asgari ücret üzerinden hesaplama yapılmasını, Genel şartlar gereği TRH 2010 yaşam tablolarına göre aktüeryal formülle hesaplanmasını, SGK tarafından davacıya bağlanan aylık/ gelir bulunması ve rücuya tabi ödeme yapılmış olması durumunda, bu tutarların hesaplanacak tazminattan tenzilinin gerektiğini ve dava tarihinden itibaren yasal faiz talep edilebileceğini belirterek, davanın reddine karar verilmiştir.
+DELİLLERİN DEĞERLENDİRİLMESİ VE GEREKÇE: Eldeki dava, trafik kazasından kaynaklı maddi tazminat davasıdır.
+22/02/2023 tarihli ATK maluliyet raporuna göre; ... oğlu 1966 doğumlu ...'ın 15.12.2020 tarihinde geçirdiği trafik kazasına bağlı yaralanması sebebiyle 20/02/2019 tarihli 30692 sayılı Resmi Gazetede Yayınlanan Erişkinler için Engellilik Değerlendirmesi Hakkındaki Yönetmeliği,
+Kas İskelet Sistemi: Üst Ekstremite Şekil 2.10: %KF: %5, Şekil 2.11 %KABD: %6, Şekil 2.12 %KİR: %4, %KER: %1, Tablo 2.3: %10 olduğuna göre;
+1.Kişinin tüm vücut engellilik oranının %10 (yüzdeon) olduğu,
+2.İyileşme (iş göremezlik) süresinin olay tarihinden itibaren 4 (dört) aya kadar uzayabileceği,
+3.Kişinin sürekli ya da geçici süreyle başka birisinin bakımına muhtaç durumda olmadığı mütalaa edilmiştir.
+28/03/2022 tarihli ATK kusur raporuna göre; Sürücü ...'un %100 (yüzde yüz) oranında kusurlu olduğu mütalaa edilmiştir.
+Aktüer Bilirkişi tarafından düzenlenen 02/05/2023 tarihli bilirkişi raporuna göre; Maddi Zararın Rapor tarihi itibarıyla; Davacının 15.12.2020 tarihinde geçirmiş olduğun trafik İŞ KAZASI sonrası 4 ay süre ile geçici iş göremezlik zararının 11.036,30 TL olduğu, SGK tarafından davacıya ödenen 5.339,04 TL geçici iş göremezlik ödemesinin tenzili ile davalı sigorta şirketinden 5.697,26 TL talep edilebileceğini, % 10 maluliyet oranı dahilinde sürekli maluliyet zararının 181.830,76 TL olduğunu, ancak kazanın bir trafik iş kazası olduğu ve davacıya dava konusu trafik kazası nedeni ile 01.03.2021 tarihinden itibaren 4/a statüsünden sürekli malul aylığı bağlandığı dikkate alındığında; bağlanan aylıkların/gelirin İLK PEŞİN SERMAYE DEĞERİ’nin SGK'dan öğrenilmesi ve gelecek bilgi dahilinde İLK PSD değerinin ½ oranındaki tutarının (davalı sigorta şirketinin 3. şahıs olması sebebi ile ½ ‘si) işbu hesaplanan sürekli maluliyet zararından tenzilinin gerektiği görülmüş olup, dava tarihinden itibaren işleyecek avans faizi ile birlikte (sigortalı araç ticaridir) talep edilebileceğinin hukuki takdirinin mahkememizde olduğunu mütalaa etmiştir.
+Aktüer Bilirkişi tarafından düzenlenen 08/07/2023 tarihli bilirkişi ek raporuna göre; maddi Zararın rapor tarihi itibarıyla davacının 15.12.2020 tarihinde geçirmiş olduğun trafik İŞ KAZASI sonrası 4 ay süre ile geçici iş göremezlik zararının 11.036,30 TL olduğu, SGK tarafından davacıya ödenen 5.339,04 TL geçici iş göremezlik ödemesinin tenzili ile davalı sigorta şirketinden 5.697,26 TL talep edilebileceğini, % 10 maluliyet oranı dahilinde sürekli maluliyet zararının 239.127,36 TL olduğu, ancak kazanın bir trafik iş kazası olduğu ve davacıya dava konusu trafik kazası nedeni ile 01.03.2021 tarihinden itibaren 4/a statüsünden sürekli malul aylığı bağlandığı dikkate alındığında; bağlanan aylıkların / gelirin İLK PEŞİN SERMAYE DEĞERİ 44.692,71 TL‘nin ½ oranındaki tutarının (davalı sigorta şirketinin 3. Şahıs olması sebebi ile ½‘si) 22.346,36 TL‘nin işbu hesaplanan sürekli maluliyet zararından tenzili ile TALEP EDEBİLECEĞİ sürekli maluliyet zararının 216.781,00 TL olduğu görülmüş olup, dava tarihinden itibaren işleyecek avans faizi ile birlikte (sigortalı araç ticaridir) talep edilebileceğinin hukuki takdirinin mahkememizde olduğunu mütalaa etmiştir.
+Tüm dosya kapsamı birlikte değerlendirildiğinde, davacının tek taraflı trafik kazasından kaynaklı maddi zararının tazmini için eldeki davayı açtığı, ATK Trafik İhtisas Dairesinden alınan 28/03/2022 tarihli raporda sürücü ...'un %100 oranında kusurlu olduğunun tespit edildiği, ATK 2.İhtisas Kurulundan alınan raporla davacının tüm vücut engellilik oranının %10 olduğunun ve iş göremezlik süresinin kaza tarihinden itibaren 4 aya kadar uzayabileceğinin tespit edildiği, aktüer bilirkişiden alınan 08/07/2023 tarihli ek rapor ile davacının davalıdan talep edebileceği geçici iş göremezlik tazminatı tutarının 5.697,26 TL, sürekli iş göremezlik tazminatı tutarının 216.781 TL olduğunun tespit edildiği, geçirdiği kaza sonrası geçici ve sürekli iş göremezliği oluşan davacının davalıdan hükümde gösterilen tutarlarda maddi tazminat talep edebileceği gözetilerek açılan davanın kabulüne karar verilmiş, davalı cevap dilekçesinde müterafik kusur indirimi yapılmasını talep etmişse de davacının müterafik kusurlu olduğunu ispatlayamadığı gözetilerek tazminattan müterafik kusur indirimi yapılmamış ve aşağıdaki şekilde hüküm kurulmuştur.
+KARAR : Gerekçesi yukarıda açıklandığı üzere;
+1-Davanın kabulü ile 5.697,26 TL geçici iş göremezlik tazminatı ile 216.781 TL sürekli iş göremezlik tazminatının toplamı olan 222.478,26 TL’nin dava tarihinden itibaren işleyecek yasal faizi ile birlikte davalıdan alınarak davacıya verilmesine,
+2-Alınması gereken 15.197,48 TL harçtan peşin harç ve tamamlama harcının mahsubu ile bakiye 11.397,70 TL harcın davalıdan tahsili ile hazineye irat kaydına,
+3-Davacı tarafından başlangıçta yatırılan 59,30 TL başvurma harcı, 170,78 TL peşin harç ve 3.629‬ TL ıslah harcı toplamı olan ‭3.859,08‬ TL'nin davalıdan alınarak davacıya verilmesine,
+4-Karar tarihinde yürürlükte bulunan Avukatlık Asgari Ücret Tarifesine göre hesaplanan 35.371,74 TL. vekalet ücretinin davalıdan alınarak davacıya verilmesine,
+5-Davacı tarafından yapılan ve ATK fatura bedelleri dahil hesaplanan 5.078,65‬ TL yargılama giderinin davalıdan alınarak davacıya verilmesine,
+6-6325 Sayılı Hukuk Uyuşmazlıklarında Arabuluculuk Kanununun 18/A-(11)-(13) maddesi ve Arabuluculuk Kanunu Yönetmeliği tarife hükümleri uyarınca Adalet Bakanlığı bütçesinden ödenen 1.320 TL arabuluculuk ücretinin tamamının davalıdan tahsiliyle hazineye irat kaydına,
+7-Artan avansın ilgilisine iadesine,
+Davacı vekilinin yüzüne karşı; gerekçeli kararın tebliğ tarihinden itibaren 2 hafta içinde Mahkememize sunulacak veya gönderilecek dilekçe ile İstinaf yolu açık olmak üzere verilen karar açıkça okunup usulen anlatıldı.
+08/11/2023
+Katip ...
+e-imzalıdır
+Hakim ...
+e-imzalıdır
+* Bu evrak 5070 Sayılı Elektronik İmza Kanunu hükümlerine uygun olarak elektronik imza ile imzalanmıştır.

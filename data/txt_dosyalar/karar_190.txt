@@ -1,0 +1,53 @@
+SIRA NO: 190 (ÇEKİRDEK)
+DOKÜMAN ID: 975142500
+DERECE: BAM (İstinaf)
+DAİRE / MAHKEME: Erzurum Bölge Adliye Mahkemesi 3. Hukuk Dairesi
+ESAS NO: 2022/93
+KARAR NO: 2023/2068
+KARAR TARİHİ: 14.12.2023 (Yıl: 2023)
+ARAMA KELİMESİ: trafik kazası maddi manevi tazminat kusur (v3)
+SAYFA NO: 1
+İNDİRME ZAMANI: 2026-10-25 00:16:44
+HESAP DOĞRULAMA ADAYI: True
+İÇERİK HASH (MD5): 1c4428ae8ca39bc380353b7dca451828
+================================================================================
+
+T.C.
+ERZURUM
+BÖLGE ADLİYE MAHKEMESİ
+3. HUKUK DAİRESİ
+DOSYA NO : 2022/93
+KARAR NO : 2023/2068
+T Ü R K M İ L L E T İ A D I N A
+İ S T İ N A F K A R A R I
+İNCELENEN KARARIN
+MAHKEMESİ : ERZURUM ASLİYE TİCARET MAHKEMESİ
+TARİHİ : 16/06/2021 (Karar)
+NUMARASI : 2019/381 Esas, 2021/238 Karar
+DAVA : Tazminat
+Taraflar arasında görülen trafik kazası nedeniyle maddi ve manevi tazminat davasına ilişkin olarak yapılan açık yargılama sonucunda verilen karara karşı, yasal süresi içerisinde istinaf kanun yoluna başvurulması üzerine HMK 353. madde uyarınca dosya üzerinden inceleme yapıldı.
+GEREĞİ DÜŞÜNÜLDÜ:
+DAVA:
+Davacı vekili dava dilekçesinde özetle; 05/08/2018 tarihinde davalı gerçek kişinin sahibi ve sürücüsü olduğu ... plaka numaralı aracın yaya sıfatı ile hareket eden müvekkiline çarparak ağır bir şekilde yaralanmasına sebep olduğunu, mevzu bahis kaza nedeni ile müvekkilinin vücudunda ağır derecede kemik kırığı meydana geldiğini, kaza ile ilgili olarak Erzurum .... Asliye Ceza Mahkemesinin 2018/... Esas sayılı dosya kapsamında yargılamanın devam ettiğini, kazaya karışan ... plaka numaralı aracın kaza tarihi itibari ile zorunlu mali mesuliyet sigortasının davalı sigorta şirketince yapıldığını, 17/08/2018 tarihinde güvence hesabına başvuru yapıldığını, ancak anlaşma sağlanamadığını, ilgili sigorta şirketinin ve davalının sorumluluğunun TBK 54. madde uyarınca devam ettiğini, müvekkilinin bu kaza nedeniyle büyük travma geçirdiğini ve mağdur olduğunu, bu nedenlerle fazlaya ilişkin hakların saklı kalması kaydıyla şimdilik 1.000,00 TL tutarında maddi tazminatın kaza tarihinden itibaren işleyecek yasal faizi ile birlikte davalılardan müştereken ve müteselsilen tahsiline, kaza kaynaklı müvekkilinin içinde bulunduğu elem ve ızdırap dikkate alınmak suretiyle davalı ......'dan 20.000,00 TL manevi tazminatın kaza tarihinden itibaren işleyecek yasal faizi ile birlikte kabulü ile yargılama gider ve ücretlerinin davalılar üzerine barıklmasına karar verilmesini talep ve dava etmiştir.
+CEVAP
+Davalı vekili cevap dilekçesinde özetle; davanın yetkili mahkemede açılmadığını, yetkili mahkemenin İstanbul Anadolu Mahkemeleri olduğunu, müvekkil şirkete davacı tarafından gerekli belgeler ibraz edilmeden işbu davanın açıldığını, esas hakkında inceleme yapılmasına gerek omadan davanın usulden reddi gerektiğini, davacı tarafın sigortalının kusurunun ve zararını usulen ispat etmesi gerektiğini, müvekkil şirketin kusur oranında sorumlu olacağını, davacının maluliyeti ile kaza arasında illiyet bağının tespit edilmesi gerektiğini, bu nedenlerle haksız açılan davanın reddine karar verilmesini talep etmiştir.
+Diğer davalı ......'nın usulüne uygun tebligata rağmen davaya cevap vermediği görülmüştür.
+İLK DERECE MAHKEMESİ KARARI:
+Mahkemece yapılan yargılama sonucunda; "Tüm deliller birlikte değerlendirildiğinde; dava trafik kazasından kaynaklana maddi ve manevi tazminat davası olduğundan adli kurumu tarafından düzenlenen maluliyet ve kusur raporları ile aktüerya raporu hükme esas alınarak, kaza tarihinde davacının 18 yaşını doldurmamış olması nedeniyle maddi kazancının olamayacağı değerlendirilerek maddi tazminat davasının reddine,
+Davacının yaşı meydana gelen kazadaki kusur durumu, oluşan geçici iş göremezlik süresi, tarafların sosyal ve ekonomik durumu, davacının meydana gelen kaza nedeniyle çektiği acı ve duymuş olduğu üzüntünün boyutu, hakkaniyet ve manevi tazminat miktarının bir taraf için zenginleşme aracı, diğer taraf için de yıkım olmaması ilkesi ve davacının uğradığı manevi zarar göz önüne alınarak ve hakkaniyet ölçüsünde oranlama yapılarak " gerekçesiyle "Davacının maddi tazminat davasının reddine,2-Davacının manevi tazminat davasını kısmen kabulü ile,2.000,00 TL manevi tazminatın 05.08.2018 itibaren işleyecek yasal faizi ile birlikte davalı ......'dan alınarak davacıya verilmesine, fazla istemin reddine" şeklinde karar verilmiştir.
+İSTİNAF NEDENLERİ:
+Davacılar vekili istinaf dilekçesinde özetle; Maddi tazminat talebinin kaza tarihinde çocuk olan müvekkilinin 18 yaş altında olması ve maddi kazancının olmaması nedeni ile reddedildiğini, kabul anlamında olmamak kaydı ile müvekkilinin maluliyetini tespit amacı ile alınan ATK raporunda 90 gün süreli geçici iş göremezlik tespit edildiğini, en azından bu süre ve asgari ücret baz alınarak bir hesap yapılması gerektiğini, kaza nedeni ile yaralanan müvekkilinin gündelik hayatını idame ettirmekte zorlandığı, başkasının bakımına muhtaç olduğunu, geçici iş göremezlik zararı için tazminata hükmedilmesi gerektiği, hükmedilen manevi tazminat miktarının düşük olduğunu belirterek kararın kaldırılması istemiyle istinaf kanunu yoluna başvurulmuştur.
+DELİLLERİN TARTIŞILMASI, HUKUKİ SEBEP VE GEREKÇE:
+Dava; trafik kazası nedeniyle maddi ve manevi tazminat istemine ilişkindir.
+İstinaf kanun yolu başvurusuna konu edilen karar hakkında; 6100 sayılı HMK'nın 355. maddesindeki düzenleme gereğince, istinaf dilekçesinde belirtilen nedenler ve kamu düzenine aykırılık bulunup bulunmadığı hususlarıyla sınırlı olarak inceleme yapılmıştır.
+05/08/2018 tarihinde sürücüsü davalı ...... olan davalı sigorta şirketi nezdinde Zorunlu Mali Mesuliyet Sigorta Poliçesi bulunan ... plaka sayılı araç ile davacıların çocuğunun karıştığı trafik kazası sebebiyle açılan maddi ve manevi tazminat istemine ilişkin davanın ilk derece mahkemesince yapılan yargılama neticesinde; davanın kısmen kabulüne karar verildiği, karara karşı davacılar vekili tarafından " geçici iş göremezlik zararı için tazminata hükmedilmesi gerektiği, hükmedilen manevi tazminat miktarının düşük olduğu " ifade edilerek kararın kaldırılması istemi ile istinaf yasa yoluna başvurulmuştur.
+Tüm dosya kapsamı birlikte değerlendirildiğinde; ilk derece mahkemesince alınan kusur raporuna göre davalı sürücü ...... 'nın % 20 oranında kusurunun bulunduğu, davacı yaya..... 'nin ise % 80 oranında kusurlu olduğu, Atatürk Üniversitesi Tıp Fakültesi Adli Tıp Ana Bilim Dalı Başkanlığından alınan maluliyet raporuna göre ise, yayanın sürekli iş göremezlik zararının bulunmadığı ancak 90 gün süre ile geçici iş göremezlik zararının bulunduğunun belirtildiği, dosya kapsamında alınan aktüeryal hesap raporuna göre sürekli iş göremezlik zararının bulunmaması sebebiyle sürekli iş göremezlik tazminatının hesaplanmadığı, geçici iş göremezlik zararı ise yayanın 18 yaşından küçük olduğu dönem için geçici iş göremezlik tazminatı hesaplanmadığı belirtilmiş ve tüm bu raporlara göre ilk derece mahkemesince davacıların maddi tazminat talebinin reddi yönünde karar verilmiştir. Dosya kapsamında yer alan denetime ve hüküm vermeye elverişli bilirkişi raporları kapsamında maddi tazminat talebinin reddi yönündeki ilk derece mahkemesi kararının usul ve yasaya uygun olduğu bu yönden davacılar vekili tarafından yapılan istinaf başvurusunun 6100 Sayılı HMK 'nun 353/1-b-1 maddesi uyarınca esastan reddine karar vermek gerekmiştir.
+Her ne kadar davacılar vekili dava dilekçesi ile 20.000,00-TL manevi tazminat talebinde bulunmuş ve ilk derece mahkemesince 2.000,00-TL manevi tazminata hükmedilmesi sebebiyle manevi tazminatın düşük olduğunu ifade etmişler ise de; dosya kapsamında alınan kusur v maluliyete ilişkin bilirkişi raporları, tarafların sosyal ve ekonomik durumları, manevi tazminata hakim olan ilkeler dikkate alındığında, hükmedilen manevi tazminat tutarının usul ve yasaya uygun olduğu da anlaşıldığından davacılar vekilinin istinaf başvurusunun 6100 Sayılı HMK'nın 353-1-b-1. maddesi gereğince esastan reddi gerekmiş ve aşağıda yazılı şekilde hüküm kurulmuştur.
+HÜKÜM: Yukarıda açıklanan nedenlerle;
+1-Davacılar vekilinin istinaf kanun yolu başvurusunun 6100 sayılı HMK'nın 353/(1)-b-1. maddesi uyarınca ESASTAN REDDİNE,
+2-İstinaf başvurusu sırasında alınması gereken 269,85-TL harçtan başlangıçta alınan 59,30-TL harcın mahsubu ile bakiye 210,55-TL harcın davacılardan alınarak hazineye irat kaydına ,
+3-İstinaf kanun yolu başvurusunda bulunan davacılar tarafından bu aşamada yapılan yargılama giderlerinin kendi üzerinde bırakılmasına,
+4-İstinaf incelemesi duruşmasız yapıldığından vekalet ücretine hükmedilmesine yer olmadığına,
+5-Gerekçeli kararın taraflara tebliği ile harç tahsil müzekkeresi işlemlerinin Dairemizce yerine getirilmesine,
+6-Kararın kesinleştirme ve gider avansı ikmali/iadesi işlemlerinin yerel mahkemece yerine getirilmesine,
+Dosya üzerinden yapılan inceleme neticesinde HMK'nın 361. ve 362. maddeleri uyarınca gerekçeli kararın tebliğ tarihinden itibaren iki haftalık yasal süresi zarfında Yargıtay’a temyiz yolu açık olmak üzere ....... tarihinde oy birliği ile karar verildi.

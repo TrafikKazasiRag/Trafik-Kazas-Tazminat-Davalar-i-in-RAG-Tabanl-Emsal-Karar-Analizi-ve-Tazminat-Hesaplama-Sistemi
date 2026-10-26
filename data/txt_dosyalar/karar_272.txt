@@ -1,0 +1,73 @@
+SIRA NO: 272 (ÇEKİRDEK)
+DOKÜMAN ID: 1226357600
+DERECE: İlk Derece Mahkemesi
+DAİRE / MAHKEME: Ankara 4. Asliye Ticaret Mahkemesi
+ESAS NO: 2025/952
+KARAR NO: 2026/221
+KARAR TARİHİ: 02.04.2026 (Yıl: 2026)
+ARAMA KELİMESİ: trafik kazası aktüer bilirkişi raporu net tutar
+SAYFA NO: 7
+İNDİRME ZAMANI: 2026-10-25 00:34:10
+HESAP DOĞRULAMA ADAYI: True
+İÇERİK HASH (MD5): 4b933bfa8ab5ee7ee1c5f233f6391c95
+================================================================================
+
+T.C. ... 4. ASLİYE TİCARET MAHKEMESİ Esas-Karar No: 2025/952 Esas - 2026/221
+TÜRK MİLLETİ ADINA
+T.C.
+...
+4. ASLİYE TİCARET MAHKEMESİ
+GEREKÇELİ KARAR
+ESAS NO : 2025/952 Esas
+KARAR NO : 2026/221
+HAKİM : ...
+KATİP : .....
+DAVACI : ....
+VEKİLLERİ : Av...
+Av. ....
+Av...
+Av...
+DAVALI :.....
+VEKİLLERİ : Av......
+Av.....
+DAVA : Tazminat (Ölüm Ve Cismani Zarar Sebebiyle Açılan Tazminat)
+DAVA TARİHİ : 22/07/2023
+KARAR TARİHİ : 02/04/2026
+GEREKÇELİ KARARIN
+YAZILDIĞI TARİH : 30/04/2026
+Mahkememizde görülmekte olan Tazminat (Ölüm Ve Cismani Zarar Sebebiyle Açılan Tazminat) davasının yapılan açık yargılaması sonunda,
+GEREĞİ DÜŞÜNÜLDÜ:
+DAVA :
+Davacı vekili dilekçesinde özetle; 07.03.2017 tarihinde davacının içinde yolcu olarak bulunduğu, dava dışı sürücü .... araç ile seyri sırasında ... nolu aydınlatma direği önüne geldiğinde aynı istikametten gelerek seyreden dava dışı sürücü ... plaka sayılı aracın, kaza tarihi itibariyle geçerli ZMM (Trafik) Sigorta Poliçesi uyarınca sigortacısı olduğunu belirterek, belirsiz alacak davası niteliğinde kalıcı iş göremezlik bedeli olarak şimdilik 50.000,-TL, geçici iş göremezlik bedeli olarak şimdilik 100,00-TL, bakıcı gideri tazminatı olarak şimdilik 100,00-TL olmak üzere TOPLAM 50.200,00-TL maddi tazminatın kaza tarihi olan 07.03.2017 tarihinden itibaren işleyecek değişen oranlarda avans faizi ile birlikte davalıdan (teminat limiti ile sorumlu olmak üzere) tahsili ile davacıya ödenmesini talep etmiş, ıslah dilekçesi ile dava değerini sürekli işgöremezlik tazminatı talebini 330.000-TL, geçici işgöremezlik tazminatı talebini 1.906,12-TL, geçici bakıcı gideri tazminatı talebini 306,62-TL olarak artırmıştır.
+CEVAP:
+Davalı vekili dilekçesinde özetle; yetkisiz mahkemede dava açıldığını, zamanaşımı itirazlarının bulunduğunu, sigortalının kusuru oranında 330.000-TL limit ile sınırlı sorumlu olduklarını, kusurun tespiti gerektiğini, rücuya tabi ödemenin belirlenmesi gerektiğini, faize itiraz ettiklerini beyan ederek davanın reddine karar verilmesini talep etmiştir.
+DELİLLER :
+1-) Davalı sigorta şirketi tarafından açılan hasar dosyası ve ZMMM poliçesi örneği.
+2-) Kazazede davacıya ait tedavi belgeleri.
+3-) Kusur, maluliyet ve aktüer hesap bilirkişisi raporları.
+DELİLLERİN DEĞERLENDİRİLMESİ VE GEREKÇE:
+Dava, trafik kazasından kaynaklanan geçici iş göremezlik, sürekli iş göremezlik tazminatı ile geçici bakıcı gideri tazminat istemlerine ilişkindir.
+Davalı vekili cevap dilekçesi ile yetki itirazında bulunmuş ise de; davalı sigorta şirketinin ...’da Bölge Müdürlüğünün bulunuyor olması nedeniyle yetki itirazının reddine karar verilmiş yargılamaya devam olunmuştur.
+Davalı vekili zamanaşımı itirazında bulunmuş ise de ceza kanunu ile belirlenen 8 yıllık zamanaşımı süresi henüz dolmadığı anlaşıldığından zamanaşımı itirazının reddine karar verilmiş olup yargılamaya devam olunmuştur.
+Mahkemece hastane kayıtları, hasar dosyası, ekonomik sosyal durum araştırması, SGK yazı cevabı, dosyaya celp edilerek incelenmiştir.
+SGK tarafından 08.08.2023 tarihli yazı ile, davacıya maaş bağlanmadığı, davacıya iş kazası sigorta kolundan iş göremezlik gelir bağlanmadığı belirtilmiştir.
+Dosyamız arasına celp edilen .... plakalı araca ait ZMMS poliçesi ve sigorta hasar dosyasının incelenmesinden; dava konusu trafik kazasına karışan .... plakalı aracın kaza tarihini de kapsar şekilde 27/09/2016-27/09/2017 tarihleri arasında davalı sigorta şirketine sigortalı olduğu, ölüm ve sakatlanma sigorta limitinin 330.000-TL, sağlık gideri teminat limitinin ise 330.000-TL olduğu anlaşılmıştır.
+Dosyamızda aldırılan ve Mahkememiz’ce de benimsenen 18.10.2023 tarihli ATK kusur bilirkişi raporunda; davalı sigorta şirketinin sigortalısı olduğu dava dışı araç sürücüsü....’in % 75 oranında kusurlu olduğu, davacının yolcusu olduğu dava dışı araç sürücüsü olan ....’ın ise %25 oranında kusurlu olduğu mütalaa olunmuştur.
+Trafik kazası nedeniyle yaralanan davacının sürekli ve geçici iş göremezlik oranının ve bakıma muhtaç olup olmadığının tespiti bakımından Erciyes Üniversitesi Tıp Fakültesi Anabilim Dalı Başkanlığı'ndan rapor alınmıştır.
+Erciyes Üniversitesi Tıp Fakültesi’nden alınan adli tıp raporunda engel oranının %10 olduğu, tıbbi iyileşme süresinin 2 aya kadar uzayabileceği ve bakıcıya ihtiyaç süresinin 1 hafta olduğu tespit olunmuştur.
+Mahkememizce aktüer bilirkişiden alınan rapor çerçevesinde 06/06/2024 tarih 2023/513 esas 2024/410 karar sayılı ilam ile " davanın kısmen kabulüne, 1.906,12-TL geçici iş göremezlik tazminatı, 306,62-TL geçici bakıcı gideri ile 328.093,88-TL sürekli iş göremezlik tazminatı olmak üzere toplam 330.306,62-TL maddi tazminatın 14/04/2023 tarihinden itibaren işleyecek yasal faizi ile birlikte davalıdan tahsili ile davacıya verilmesine, fazlaya ilişkin sürekli iş göremezlik tazminat talebinin reddine" dair karar verilmiştir. Kararın davalı tarafça istinaf edilmesi üzerine; mahkememiz kararı kaldırılmıştır. Mahkememizce kaldırma ilamı doğrultusunda aktüer bilirkişiden yeniden rapor alma yoluna gidilmiştir.
+13.02.2026 tarihli bilirkişi raporunda özetle; "1. Davacı vekilince; davacı ... lehine, 50.000,00-TL sürekli iş göremezlik, 100,00-TL geçici iş göremezlik, 100,00-TL bakıcı gideri olmak üzere toplam 50.200,00-TL maddi tazminat talebinde bulunulduğu, 2. Davacı ...'ın yolcu konumunda olduğunun tespiti sonucu, hesaplanan maddi zarardan TBK 52 inci maddesi kapsamında kusur indirimi yapılmadığı, Davalı sigorta şirketine ZMMS poliçesi ile sigortalı 38 UK 128 plakalı araç sürücüsünün 9» 75 kusurlu olduğu tespit edilmiş olup, Sayın Mahkemece davalının kusura göre sorumlu olduğunun kabulüne göre (zarar miktarının 96 75'inin hesaplandığı) 3. Davacı ...'ın 07.03.2017 tarihinde geçirmiş olduğu trafik kazası sonucu yaralanması nedeniyle, engel oranının 9610 olduğu, iş göremezlik süresinin 2 aya olduğu ve ortaya çıkan bakıcı ihtiyaç süresinin 1 hafta olduğunun tespit edildiği, 4. Davacı lehine (araç sürücüsünün 96 75 kusuruna göre) 1.906.12 TL geçici iş göremezlik tazminatı ve 306.62 TL geçici bakıcı gideri tazminatı hesaplandığı, 5. 2022 yılından itibaren pasif dönem tazminat hesabında esas alınacak net asgari ücretin tespitinde oluşan farklılık nedeniyle sürekli iş göremezlik tazminatı yönünden alternatifli hesaplama yapıldığı, 6. Tarafımızca yapılan teknik inceleme sonucunda, AGİ'nin kaldırılmasıyla birlikte 01.01.2022 tarihinden itibaren getirilen yeni uygulamayla getirilen vergi istisnasından “sadece çalışanların” yararlanabileceği tespit edilmiş olup, bu doğrultuda Sayın Mahkemece pasif dönem hesabının 23.613,48 TL net asgari ücret üzerinden hesaplanması gerektiğinin kabulü halinde, davacı lehine 994.790,79 TL sürekli iş göremezlik tazminatı hesaplandığı, 7. Sayın Mahkemece aktif-pasif dönem ayırımı yapılmadan davacının bakiye ömür sonuna kadar gelir vergisi istisnasından yararlanacağı-vergi iadesi alacağı göz önüne alınarak, pasif dönem hesabının da 28.075,50 TL vergi iadesi dahil net asgari ücret üzerinden hesaplama yapılması gerektiğinin kabulü halinde, davacı lehine 1.181.276,58 TL sürekli iş göremezlik tazminatı hesaplandığı, 8. 07.03.2017 kaza tarihi itibariyle ZMMS poliçesi teminat limitinin, sakatlık teminatı ve tedavi gideri teminatları için ayrı ayrı 330.000,00 TL olduğu, Buna göre davacının, Neova sigorta şirketinden, Sakatlanma ve Öl Teminatından toplam 330.000,00 TL sürekli iş göremezlik tazminatı ile Tedavi (Sağlık) Giderleri Teminatından 1.906.12 TL geçici iş göremezlik tazminatı ve 306.62 TL geçici bakıcı gideri tazminatı talep edebileceğinin hesaplandığı, 9. Davacı tarafça, davalı Neova sigorta şirketlerine yapılan başvurunun, 03.04.2023 tarihinde e-posta ile gönderildiğinin e-posta belgesinden tespit edildiği, Sayın Mahkemece temerrüd koşullarının gerçekleştiğinin kabulü halinde, tebliğ tarihinden itibaren 8 iş günü sonrasına gelen 17.04.2023 tarihinde davalı sigorta şirketinin temerrüde düşeceğinin hesaplandığı, 10. Dava konusu kazaya karışan 38 UK 128 plakalı aracın kullanım amacının hususi-otomobil olduğunun ZMMS poliçesinden tespit edildiği, 11. Davalı vekilince, “davacının zararından müterafik kusur indirimi yapılması gerektiği” şeklinde görüş bildirilmiştir.
+Yapılan yargılama ve tüm dosya kapsamı, toplanan deliller ve alınan bilirkişi raporları ile istinaf kaldırma ilamı doğrultusunda somut uyuşmazlık ele alınmakla; Somut olayda kaza tespit tutanağı uyarınca, 07.03.2017 günü sürücü ...’in sevk ve idaresindeki araçla sağ şeritte seyri sırasında geldiği yol bölümünde, sağ şeritten sola doğru doğrultu değiştirmesi sırasında, aynı yönde arkadan sol şeridi takiben gelen sürücü ....’ın yönetimindeki otomobilin sağ ön köşe taraflarıyla, diğer aracın sol arka çamurluk taraflarıyla sol şeritte çarpışması ile meydana gelen kazada (tutanakta yolcunun emniyet kemeri belirsiz olarak işaretlenmiştir) sürücü....’nın ise KTK'nın 52/1-a maddesindeki kural ihlali ile kusurlu olduğunun belirtildiği, mahkememizce alınan 18.10.2023 tarihli ATK kusur bilirkişi raporunda, kazanın meydana gelmesinde davalı sigorta şirketinin sigortalısı olduğu dava dışı araç sürücüsü İsmail Çelik’in %75 oranında, davacının yolcusu olduğu dava dışı araç sürücüsü olan ....’ın ise %25 oranında kusurlu olduğunun belirlendiği, Kayseri CBS’nin 2017/10866 Soruşturma nolu dosyasında alınan kusur raporunda, kazanın meydana gelmesinde sürücü....’ın tali kusurlu olduğunun belirlendiği, dava konusu trafik kazasına karışan .... plakalı aracın kaza tarihini de kapsar şekilde 27/09/2016-27/09/2017 tarihleri arasında davalı sigorta şirketine sigortalı olduğu, ölüm ve sakatlanma sigorta limitinin 330.000-TL, sağlık gideri teminat limitinin ise 330.000-TL olduğu, mahkemece E.Ü.Erciyes Üniversitesi Tıp Fakültesi’nden alınan adli tıp raporunda, kaza sonucu yaralanan davacının maluliyet oranının %10 olduğu, tıbbi iyileşme süresinin 2 aya kadar uzayabileceği ve bakıcıya ihtiyaç süresinin 1 hafta olduğunun belirlendiği, mahkememizce 13/02/2026 tarihli aktüer bilirkişi tarafından yapılan hesaplama çerçevesinde ve istinaf kaldırma ilamında da belirtildiği şekilde " ZMMS poliçesinde sağlık giderleri için ve sağlık giderleri dışındaki tazminat talepleri için olmak üzere çift limit düzenlendiği, geçici iş görmezlik ve geçici bakıcı gideri zararının TBK'nın 54 ve KTK'nın 91. maddesi gereğince ZMMS poliçesindeki sağlık giderleri limiti kapsamında bulunduğu tartışmasız olmakla birlikte mahkemece yanılgılı gerekçe ile dosyaya sunulan aktüer bilirkişi raporu doğrultusunda, geçici iş göremezlik tazminatı ile sürekli iş göremezlik tazminatının sakatlanma teminatı kapsamında olduğu " değerlendirilerek ve davalı yönünden davacı istinaf talebinde bulunmadığından usuli kazanılmış haklar gözetilerek ve davacının talebi ile bağlı kalınarak davanın kabulü ile 330.000,00 TL sürekli iş göremezlik tazminatı, 1.906,12 TL geçici iş göremezlik tazminatı, 306,62 TL geçici bakıcı gideri tazminatı talebinin davalı sigorta şirketinin usulü kazanılmış hakkı gözetilerek 330.000,00 TL tutarında poliçe limiti ile sınırlı olmak üzere davalıdan 17/04/2023 tarihinden itibaren işleyecek yasal faizi ile birlikte davalıdan alınarak davacıya verilmesine, fazlaya ilişkin istemlerin reddine dair aşağıdaki şekilde hüküm tesis edilmiştir.
+HÜKÜM: Gerekçesi yukarıda açıklanacağı üzere;
+1-Davanın KABULÜNE,
+330.000,00 TL sürekli iş göremezlik tazminatı, 1.906,12 TL geçici iş göremezlik tazminatı, 306,62 TL geçici bakıcı gideri tazminatı talebinin davalı sigorta şirketinin usulü kazanılmış hakkı gözetilerek 330.000,00 TL tutarında poliçe limiti ile sınırlı olmak üzere davalıdan 17/04/2023 tarihinden itibaren işleyecek yasal faizi ile birlikte davalıdan alınarak davacıya verilmesine, fazlaya ilişkin istemlerin reddine,
+2-Alınması gerekli karar ve ilam harcı nispi 22.693,45-TL olup davacı tarafından peşin yatırılan 269,85-TL harç ile 964,00 TL ıslah harcının mahsubu ile bakiye 21.459,60 -TL harcın davalıdan alınarak Maliye Hazinesine gelir kaydına,
+3- Davacı tarafından peşin yatırılan 269,85-TL harç ile 269,85-TL başvurma harcı, 38,40 TL vekalet harcı, 964,00 TL ıslah harcı olmak üzere toplam 1.002,40 -TL harcın davalıdan alınarak davacıya verilmesine,
+4-Davacı kendisini vekil ile temsil ettirdiğinden karar tarihinde yürürlükteki AAÜT gereğince nispi 53.154,04 -TL vekalet ücretinin davalıdan alınarak davacıya verilmesine,
+5-Bu dava kapsamında davacı tarafından yatırılan gider avansından karşılanan 510,75 TL posta, davetiye gideri ile bilirkişi ücreti olarak ödenen 6.000,00 TL olmak üzere toplam 6.510,75-TL yargılama giderinin HMK 326/2.m. gereğince davalıdan alınarak davacıya verilmesine,
+6-Arabuluculuk aşamasında harcanan 3.120,00-TL giderin davalıdan tahsili ile hazineye gelir kaydına,
+Dair; davacı vekilinin yüzüne karşı, davalının yokluğunda gerekçeli kararın tebliğinden itibaren 2 hafta içerisinde verilecek dilekçe ile ... Bölge Adliye Mahkemesine İstinaf yolu açık olmak üzere verilen karar açıkça okunup usulen anlatıldı. 02/04/2026
+Katip ....
+¸
+Hakim ...
+¸

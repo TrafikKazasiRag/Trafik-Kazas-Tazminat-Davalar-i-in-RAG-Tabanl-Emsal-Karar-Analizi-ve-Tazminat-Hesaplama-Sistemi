@@ -1,0 +1,69 @@
+SIRA NO: 378 (ÇEKİRDEK)
+DOKÜMAN ID: 784339700
+DERECE: BAM (İstinaf)
+DAİRE / MAHKEME: Ankara Bölge Adliye Mahkemesi 26. Hukuk Dairesi
+ESAS NO: 2020/302
+KARAR NO: 2022/1478
+KARAR TARİHİ: 02.06.2022 (Yıl: 2022)
+ARAMA KELİMESİ: sürekli iş göremezlik yıllık ücret bilinen gelir
+SAYFA NO: 8
+İNDİRME ZAMANI: 2026-10-25 01:09:38
+HESAP DOĞRULAMA ADAYI: False
+İÇERİK HASH (MD5): 8cb5685fd4bfc144cb9051c99a0467fb
+================================================================================
+
+T.C. ANKARA BÖLGE ADLİYE MAHKEMESİ
+26. HUKUK DAİRESİ Esas-Karar No: ...
+T.C.
+ANKARA
+BÖLGE ADLİYE MAHKEMESİ
+26. HUKUK DAİRESİ
+....
+T Ü R K M İ L L E T İ A D I N A
+K A R A R
+....
+İNCELENEN KARARIN
+MAHKEMESİ : ANKARA 5. ASLİYE TİCARET MAHKEMESİ
+TARİHİ : 20/11/2019
+NUMARASI : .....
+DAVANIN KONUSU : Tazminat (Cismani Zarar Sebebiyle Açılan Tazminat)
+KARAR TARİHİ : 02/06/2022
+GEREKÇELİ KARAR
+YAZILMA TARİHİ : 03/07/2022
+Mahalli mahkemesince verilen karara karşı davalı ... ... A.Ş. vekili tarafından süresi içinde istinaf kanun yoluna başvurulmuş olup, başvuru şartlarının yerine getirildiği dosya üzerinde yapılan ön inceleme ile anlaşılmakla yapılan istinaf incelemesi sonunda;
+TARAFLARIN İDDİA VE SAVUNMALARI
+Davacı vekili dava dilekçesinde;13/05/2017 tarihinde, davalı ...’ın işleteni davalı ... ...'nın şöförü olduğu, davalı ... şirketi tarafından ZMMS ile sigortalı ticari otobüsün, müvekkilinin içerisinde yolcu olarak bulunduğu, dava dışı sürücü ... sevk ve idaresindeki araca direksiyon hakimiyetini kaybederek çarpması neticesinde meydana gelen kazada müvekkili ...'nun yaralandığını, müvekkilinin maddi ve manevi zarara uğradığını, zararlarından davalıların sorumlu olduğunu ileri sürerek; söz konusu kaza nedeniyle fazlaya ilişkin hakları saklı kalmak kaydıyla 1.000,00-TL geçici ve 1.000,00-TL sürekli iş göremezlik olmak üzere toplam 2.000,00-TL tazminatın, şahıslar açısından kaza, ... açısından temerrüt tarihinden (12.06.2017) itibaren işleyecek ticari faiziyle birlikte tüm davalılardan, 15.000.00-TL manevi tazminatı ise, kaza tarihinden itibaren işleyecek yasal faiziyle birlikte davalı şahıslardan alınarak müvekkiline verilmesine karar verilmesini istemiştir.
+Davacı vekili 04/02/2019 tarihli dilekçesi ile; geçici iş göremezlik tazminatını 16.461,27 TL, sürekli iş göremezlik tazminatını ise 25.785,45-TL olarak belirleyerek toplam 42.246,72 TL'nin davalılardan tahsilini istemiştir.
+Davalı ... Şirketi vekili davaya cevap dilekçesinde; davacı tarafından müvekkiline yapılan başvurunun KTK’nın 97. maddesinde uygun olmadığını, davanın bu nedenle usulden reddine karar verilmesi gerektiğini, esas yönden ise sağlık giderlerinin SGK sorumluğunda olduğunu, geçici iş göremezlik halinde sorumluluklarının bulunmadığını, kusur yönünden rapor alınması gerektiğini, hatır taşıması söz konusu olduğunu bu nedenle yapılacak hesaplamada tazminattan gerekli indirim yapılması gerektiğini, ticari faiz talebinin de yerinde olmadığını yasal faiz talep edilebileceğini savunarak, davanın reddine karar verilmesini istemiştir.
+Davalı ... ... cevap dilekçesinde; kendisinin şoför olarak çalıştığını, sürücüsü olduğu otobüs ile seyir halinde iken sağından gelen davacının içerisinde yolcu olarak bulunduğu aracın dikkatsiz ve tedbirsiz şekilde ilerlerken kendisini sollama yaptığı anda panikle direksiyon hakimiyetini kaybettiğini, bariyerlere vurması ile maddi hasarlı trafik kazasının meydana gelmesine sebebiyet verdiğini, olayda hiçbir kusurunun bulunmadığını savunarak, davanın reddine karar verilmesini istemiştir.
+Davalı ...; usulüne uygun dava dilekçesi tebliğine rağmen davaya cevap vermemiştir.
+İLK DERECE MAHKEMESİ KARARI
+Mahkemece; davanın trafik kazasından kaynaklanan geçici ve sürekli iş göremezlik tazminatı ve manevi tazminat istemine ilişkin olduğu; kusur bilirkişisinden alınan raporda, kazanın meydana gelmesinde davalı araç sürücüsünün %100 kusurlu olduğu, davacının yolcu konumunda olduğu araç sürücüsünün ise kazada kusurunun olmadığının tespit ediliği; ... Tıp Fakültesi Adli Tıp Anabilim Dalı Başkanlığından alınan maluliyet raporunda davacının kazadan kaynaklı geçici maluliyet süresinin 9 ay, sürekli maluliyet oranının % 8 olduğunun belirlendiği, aktüer hesap bilirkişisi tarafından tanzim edilen raporda davacının geçici iş göremezlik zararının 16.461,27-TL, sürekli iş göremezlik zararının 25.785,45-TL hesaplandığı, kaza nedeniyle herhangi bir ödeme yapılmadığı ve rapor doğrultusunda davanın ıslah edildiği, davacının bilirkişi tarafından hesaplanan maddi zararlarını davalılardan talep edebileceği, davacının manevi tazminat talebi yönünden ise 10.000,00-TL manevi tazminatın uygun olduğu gerekçesi ile; davanın kısmen kabulü ile, 16.461,27-TL geçici, 25.785,45-TL sürekli iş göremezlik tazminatı olmak üzere toplam 42.246,72-TL maddi tazminatın davalı ... şirketinden temerrüt tarihi olan 23/06/2017 tarihinden, davalılar ... ... ile ... ... kaza tarihinden avans faizi ile müştereken ve müteselsilen tahsili ile davacıya ödenmesine; 10.000,00-TL manevi tazminatın kaza tarihi olan 13/05/2017 tarihinden itibaren işleyecek yasal faizi ile birlikte davalılar ... ve ... müştereken ve müteselsilen alınarak davacıya ödenmesine, fazlaya dair manevi tazminat talebinin reddine, karar verilmiş hüküm davalı ... ... A.Ş. vekili tarafından istinaf edilmiştir.
+İLERİ SÜRÜLEN İSTİNAF SEBEPLERİ
+Davalı ... ... A.Ş. vekili istinaf başvuru dilekçesinde; geçici iş göremezlik zararlarının ... teminatı kapsamında olmadığını, bu nedenle kabulüne karar verilmesinin hatalı olduğunu, kusur oranını da kabul etmediklerini, araç sürücüsünün dava dilekçesinde sol şeritte ilerlerken davalının yolcu olduğu otomobilin kendisini geçmek istemesi ve bu sırada panikleyip direksiyon hakimiyetini kaybetmesi sonucunda kazanın meydana meydana geldiğini, ifade ettiğini, buna göre kazanın meydana gelmesinde karşı araç sürücüsünün tam kusurlu olduğunu; hesap raporunun da hatalı olduğunu, hesaplamada tüm dönemler için 2019 yılı net asgari ücretinin alındığını, yapılan hesaplamanın uygun olmadığı, maluliyet raporunun karar vermeye elverişli olmadığını, yönetmeliğe uygun şekilde oluşan kuruldan alınmadığını, hatır taşmasına ilişkin itirazlarının değerlendirilmediğini, yargılama gideri, vekalet ücreti ve harcın hatalı hesaplandığını, belirterek kararın kaldırılmasını istemiştir.
+DELİLLERİN DEĞERLENDİRİLMESİ VE GEREKÇE
+Mahkemece verilen kararda kamu düzenine aykırılık görülmediğinden, HMK'nın 355. maddesi gereğince istinaf edenin sıfatına göre ve istinaf sebepleri ile sınırlı olarak yapılan inceleme sonucunda;
+Dava trafik kazasından kaynaklanan cismani zarar nedeniyle maddi ve manevi tazminat istemidir.
+Kaza tespit tutanağına göre; olay tarihinde, davacının oğlunun sürücüsü ve işleteni olduğu araçta yolcu olarak seyir halinde iken, davalı tarafından ZMMS ile sigortalı araç sürücüsünün, sol arka tampon kısmına çarpması sonrasında, davacının içerisindeki aracın direksiyon hakimiyetini kaybetmesi neticesinde meydana gelen kazada davacının yaralandığı tespit edilmiştir.
+Mahkemece, hükme esas alınan kusur raporunda, kazanın kaza tespit tutanağında belirtilen şekilde meydana geldiği kabul edilerek, davalının sürücüsü olduğu aracın %100 oranında kusurlu olduğu, davacının yolcu olduğu araç sürücüsünün ise kusurunun bulunmadığı belirtilmiştir.
+... Fakültesi Adli Tıp Anabilim Dalı Başkanlığından alınan maluliyet raporunda davacının meyana gelen yaralanması nedeniyle %8 oranında engelinin meydana geldiği ve iyileşme süresinin 9 ayı bulacağının belirtildiği görülmüştür.
+Mahkemece aktüer bilirkişiden alınan 17/01/2019 tarihli raporda; davacının rapor tarihindeki AGİ'siz asgari ücrete göre geçici iş göremezlik zararının 16.461,27 TL, işlemiş dönem sürekli iş görmezlik zararının, rapor tarihindeki AGİ'siz asgari ücrete göre 3.292,25-TL, TRH2010 Yaşam Tablosu ve "Devre Başı Ödemeli Belirli Süreli Rant Yöntemi" uygulanarak rapor tarihindeki AGİ'siz asgari ücret üzerinden hesaplanan bilinmeyen dönem pasif zararının ise 22.943,20-TL olduğu hesaplanmış, mahkemece alınan raporlar çerçevesinde maddi tazminata yönelik karar verildiği görülmüştür.
+1-Davalı vekilinin, kazanın meydana gelmesindeki kusur durumuna ilişkin istinaf sebeplerinin incelenmesinde; davacı vekili, kazanın davalının sürücüsü olduğu aracın arkadan çarpması neticesinde meydana geldiğini iddia etmiş, dava dilekçesinde de ceza soruşturmasını delil olarak bildirmiştir.
+Davalılar tarafından, kazanın kaza tespit tutanağında belirtilen şekilde meydana gelmediği ileri sürülmüş olup, kazanın oluş şeklinde taraflar arasında uyuşmazlık bulunmaktadır. Bu durumda delil olarak da bildirilen soruşturma dosyası, dava açılmış ise ceza mahkemesi dosyası, dosya içerisine kazandırılarak kazanın oluş şekli değerlendirilerek, gerektiğinde kusur bilirkişisinden ek rapor alınarak sonucuna göre karar verilmesi gerekirken eksik inceleme ile karar verilmiş olması doğru görülmemiştir.
+2-Davalının hesaplanan tazminata yönelik istinaf talebi yönünden ise; haksız fiilden kaynaklanan cismani zarar nedeniyle, davacı "gerçek zararını", zarar sorumlusundan talep edebilir. Gerçek zarar hesaplanırken yapılacak tazminat hesabında, bilinen dönem zararı rapor tarihindeki verilere göre değil, zararın meydana geldiği bilinen dönemdeki gelirine göre hesaplanmalıdır.
+Somut olayda, 13/05/2017 tarihinde meydana gelen kaza nedeniyle 17/01/2019 tarihli aktüer hesap raporunda, davacının bilinen döneme içerisinde kalan geçici iş göremezlik tazminatı ve bilinen dönem içerisine kalan sürekli iş göremezlik tazminatı hesabı, zararın meydana geldiği, 2017, 2018 ve 2019 yıllarına ait bilinen dönem AGİ'siz asgari ücreti yerine, bilinen döneme ait tüm zarar 2019 yılı AGİ'siz asgari ücreti üzerinden hesaplama yapılmak suretiyle tespit edilmiş olup, aktüer hesap raporu bu açıdan karar vermeye elverişli değildir.
+Bu nedenle yukarıda açıklanan nedenlerle; davalı ... ... A.Ş. vekilinin istinaf sebeplerinin kabulü ile; mahkemece uyuşmazlığın çözümünde etkili deliller toplanılmadan ve değerlendirilmeden karar verilmiş olması nedeniyle ilk derece mahkemesi kararının HMK'nın 353/1-a-6. maddesi gereğince kaldırılmasına, davanın yeniden görülerek, kazaya ilişkin savcılık soruşturma dosyası, dava açılmış ise ceza dosyası dosya içerisine kazandırılarak, kazanın oluş şekli değerlendirilerek, gerektiğinde kusur bilirkişisinden ek rapor alınarak kusur durumu belirlendikten sonra, önceki aktüer bilirkişiden ek rapor yahut yeni bir bilirkişiden davacının talep edebileceği tazminat miktarının hesaplandığı rapor alınarak, kararın sadece davalı ... ... A.Ş. tarafından istinaf edilmiş olması nedeniyle, usulü kazanılmış haklar da korunarak sonucuna göre karar verilmesi için dosyanın ilk derece mahkemesine gönderilmesine, kaldırma sebebine göre davalı vekilinin sair istinaf sebeplerinin incelenmesine yer olmadığına karar vermek gerekmiştir.
+HÜKÜM : Gerekçesi yukarıda izah edildiği üzere;
+1-Davalı ... ... A.Ş. vekilinin istinaf başvurusunun KABULÜ ile, Ankara 5. Asliye Ticaret Mahkemesi tarafından verilen 20/11/2019 tarihli 2017/492 Esas 2019/1076 Karar sayılı kararın, HMK’nın 353/1-a-6. maddesi gereğince KALDIRILMASINA,
+Kararın kaldırılma sebebine göre, davalı vekilinin sair istinaf taleplerinin İNCELENMESİNE YER OLMADIĞINA,
+2-Dosyanın, davanın yeniden görülmesi için mahkemesine GÖNDERİLMESİNE,
+3-İstinaf eden davalı tarafından İstinaf peşin harcı olarak yatırılan 722,00-TL istinaf karar harcının istek halinde istinaf eden davalıya iadesine,
+4-Ankara 1. İcra Müdürlüğü'nün 2020/661 Esas sayılı dosyasına depo edilen 91.000,00-TL bedelli teminat mektubunun İİK'nın 36/5 maddesi gereğince yatırana iadesine,
+5-İstinaf yargılama giderlerinin ilk derece mahkemesinde değerlendirilmesine,
+6-Karar tebliği, kesinleştirme, harç ve gider avansı iadesi işlemlerinin ilk derece mahkemesince yapılmasına,
+Dair, dosya üzerinde yapılan inceleme sonunda, HMK.nın 353/1-a maddesi uyarınca KESİN olmak üzere 02/06/2022 tarihinde oy birliği ile karar verildi.
+Başkan
+Üye
+Üye
+Katip
+* Bu belge, 5070 sayılı Kanun hükümleri gereğince elektronik imza ile imzalanmıştır.

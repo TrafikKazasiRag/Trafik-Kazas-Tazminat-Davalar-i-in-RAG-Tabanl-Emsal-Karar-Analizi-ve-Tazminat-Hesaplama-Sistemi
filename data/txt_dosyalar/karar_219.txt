@@ -1,0 +1,148 @@
+SIRA NO: 219 (ÇEKİRDEK)
+DOKÜMAN ID: 1225995600
+DERECE: İlk Derece Mahkemesi
+DAİRE / MAHKEME: Ankara 4. Asliye Ticaret Mahkemesi
+ESAS NO: 2023/340
+KARAR NO: 2026/269
+KARAR TARİHİ: 17.04.2026 (Yıl: 2026)
+ARAMA KELİMESİ: trafik kazası aktüer bilirkişi raporu net tutar
+SAYFA NO: 1
+İNDİRME ZAMANI: 2026-10-25 00:17:05
+HESAP DOĞRULAMA ADAYI: True
+İÇERİK HASH (MD5): c9d54738403b2a3dca4ebe680fd567cb
+================================================================================
+
+T.C. ... 4. ASLİYE TİCARET MAHKEMESİ Esas-Karar No: 2023/340 Esas - 2026/269
+T.C.
+...
+4. ASLİYE TİCARET MAHKEMESİ
+GEREKÇELİ KARAR
+ESAS NO : 2023/340 Esas
+KARAR NO : 2026/269
+HAKİM : ....
+KATİP :....
+DAVACILAR : 1- ... ...
+2- ... .....
+3- ... ....
+VEKİLİ : Av....
+DAVALI : 1- ... ....
+VEKİLİ : Av.....
+DAVALI : 2- ... .....
+DAVA : Tazminat (Ölüm Ve Cismani Zarar Sebebiyle Açılan Tazminat)
+DAVA TARİHİ : 11/05/2023
+KARAR TARİHİ : 17/04/2026
+GEREKÇELİ KARARIN YAZILDIĞI TARİH : 29/04/2026
+Mahkememizde görülmekte olan Tazminat (Ölüm Ve Cismani Zarar Sebebiyle Açılan Tazminat) davasının yapılan açık yargılaması sonunda,
+DAVA:
+Davacı vekili dava dilekçesinde özetle; Dosyaya sunulmuş olan dava dilekçesi ve trafik görevlilerince tutulmuş trafik kazası
+tespit tutanağındaki bilgilere göre; 03.3.2019 tarihi saat 17:45 sularında, davalı ....
+Sigorta A.Ş. ile ZMM Sigortalı, sürücü ... ... yönetimindeki ...
+plakalı araç, ... İli, Keçiören ilçesi, 19 Mayıs Mahallesi’nde, Baharlı Sokaktan
+Özgürlük Caddesi yönüne seyir halindeyken, olay yeri 4-6 No’lu binanın önüne
+geldiğinde, bu yol üzerinde oynamakta olan çocuklardan Davacı yaya ...
+...’e fren tedbirsiz halde arıcının ön sağ kısmı ile çarpması sonucu, tek araçlı
+yaya çarpmalı, yaralanmalı bir trafik kazası meydana gelmiştir.
+Davacı tarafından, yaya ... ...‘in söz konusu trafik kazası sonucunda ağır
+şekilde yaralandığı ve vücudunun çeşitli yerlerinde kırıklar ve yaralanmalar
+meydana geldiği, bu nedenle sürekli iş görmezliğe maruz kaldığı ve bakıma muhtaç
+hale geldiği, dava konusu trafik kazasında kazaya neden olan .... plakalı
+aracın ZMM Sigorta şirketi davalı ... Sigorta A.Ş. ye 07.02.2020 tarihinde yapılan
+başvuruya istinaden sigorta şirketi tarafından 08.12.2020 tarihinde 20.000 TL maddi
+tazminat ödemesi yapıldığı, ancak bu ödemenin yetersiz bulunduğunu talep ve dava etmiştir.
+CEVAP:
+Davalı Sigorta vekili cevap dilekçesinde özetle; Müvekkili
+şirketin, başvuru sahibinin başvurusu üzerine aktüer hesabına göre ödemede bulunarak poliçeden
+kaynaklanan tüm sorumluluğunu yerine getirdiğini, başkaca bir sorumluluğunun bulunmadığını,
+geçici bakıcı giderinin poliçe teminat dışında olduğunu, davacı yanın avans faizi talebinin hukuka
+aykırı olduğunu belirterek açıklanan nedenlerle davanın reddine karar verilmesini talep etmiştir.
+DELİLLER VE GEREKÇE:
+Dava "Davacının 03/03/2019 tarihinde meydana gelen trafik kazası nedeni ile sürücüsünün kusurlu olduğunu ileri sürdüğü aracın ZMMS ile sigortalayan davalı sigorta şirketine ve davalı araç sürücüsü aleyhine açtığı şimdilik 50,00 TL sürekli iş göremezlik ve 50,00 TL bakıcı gideri olmak üzere şimdilik toplam 100,00 TL tutarında maddi tazminat " istemine ilişkindir.
+Talep, cevap, araç tescil kayıtları, davacının ve davalı ... ...'ın sosyo-ekonomik durum araştırmaları, davacının tedavi evrakı, SGK yazı cevabı, ... 30. Asliye Ceza Mahkemesi'nin 2019/1199 Esas-2020/841 Karar sayılı ilamı, kusur durumuna ilişkin temin edilen makine mühendisi bilirkişinin 21/02/2025 tarihli raporu, Hacettepe Üniversitesi Tıp Fakültesi Dahili Tıp Bilimleri Adli Tıp Ana bilim dalı Başkanlığı'nın raporu, makine mühendisi bilirkişinin 20/05/2024 tarihli ek raporu, aktüer bilirkişinin 18/11/2024 tarihli raporu, 22/01/2025 tarihli ek raporu ve 02/01/2026 tarihli 2. Ek raporu ile tüm dosya kapsamı birlikte değerlendirildiğinde;
+Makine mühendisi bilirkişinin 21/02/2024 tarihli raporunda;"5.1. Davalı ... Sigorta A.Ş. ile ZMM Sigortalı, Erdal ARAS’ın maliki olduğu,
+... plakalı Toyota marka özel aracın olay anındaki davalı sürücüsü
+... ...’ın, 2918 sayılı Karayolları Trafik Kanunu’nun 52/b Yönetmeliğin
+101/b maddelerini ihlal etmesi yanında, dikkat ve özen gösterme yükümlülüğüne
+aykırı tedbirsiz sürüşü ve etkin bir fren tatbikinde bulunamaması nedeniyle,
+meydana gelen trafik kazasının oluşumunda % 25 (yüzde yirmibeş) oranında
+kusurlu olduğu; 5.2. 4 yaşındaki Yaya ... ..., bir araç yolunda bulunmanın, burada
+oyun oynamanın tehlike analizi yapamamış bu eylemine uyan 2918 sayılı
+Karayolları Trafik Kanunu’nun 68/b ve c maddelerini ihlal etmesi yanında
+dikkatsizliği ve tedbirsizliği de söz konusu olduğundan, kendisinin yaralanması
+ile sonuçlanan dava konusu trafik kazasının meydana gelmesinde % 75 (yüzde
+yetmişbeş) oranında kusurlu olduğu" şeklinde görüş ve kanaatte bulunulmuştur.
+Makine mühendisi bilirkişinin
+20/05/2024 tarihli bilirkişi ek raporunda; "
+5.2. 4 yaşındaki Yaya ... ..., bir araç yolunda bulunmanın, burada
+oyun oynamanın tehlike analizi yapamamış ancak 2918 sayılı Karayolları Trafik
+Kanunu’nun 68/b ve c maddelerinin ihlal edilerek dava konusu kazanın
+meydana gelmesinde ebeveynden kaynaklı etken olması ve buna göre kendisine
+atfedilen % 75 (yüzde yetmişbeş) oranındaki kusur değerlendirmesinde
+değişikliğe gidilmesine gerek görülmediği" şeklinde görüş ve kanaatte bulunulmuştur.
+Hacettepe Üniversitesi Tıp Fakültesi Dahili Tıp Bilimleri Adli Tıp Ana bilim dalı Başkanlığı'nın bila tarihli raporunda; " 03/03/2019 tarihli trafik kazasına bağlı kişinin toplam vücut engel oranının %10
+(yüzdeon)olduğu, sekel halini aldığı ve sürekli olduğu,
+Kaza nedeniyle kişinin tedavisine başlanmasından itibaren sürekli sakatlık raporu alana kadar tedavi
+süresince ortaya çıkan bakıcı ihtiyaç süresinin 2 (iki) ay olduğu,
+Tıbbi iyileşme süresinin 6 (altı) aya kadar uzayabileceği kanaatinde olduğumuzu bildirir Adli Tıp Kurulu
+raporudur.
+" şeklinde görüş ve kanaatte bulunulmuştur.
+Aktüer bilirkişinin 18/11/2024 tarihli raporunda;
+TRH 2010 yaşam tablosu ve progresif rant (%10 artırım %10 eksiltim) kullanılarak yapılan
+hesaplama sonucunda davacı ... ...’in;
+Geçici işgücü kaybından kaynaklanan tazminat tutarının bulunmadığı,
+2- Sürekli işgücü kaybından kaynaklanan bakiye tazminat alacağının 308.857,83 TL olduğu,
+(sigorta şirketi ödemesinin güncellenerek indiriminin sağlanmasından sonra)
+3-Geçici Bakıcı giderinden kaynaklanan tazminat tutarının ise 1.279,20 TL olduğu,
+4- Sayın Mahkeme tarafından davacı yanın sigorta şirketine başvurusunun geçerli olduğunun
+kabulü halinde; davacı tarafın sigorta şirketine başvuru tebliğ tarihinden 8 iş günü sonrası
+(başvuru/ihbar tebliğ tarihi dosyada mevcut olmadığından) temerrüde düşme tarihinden
+itibaren yasal faiz yürütülerek, diğer davalıdan kaza tarihinden itibaren yasal faiz
+yürütülerek tazminat talebinde bulunabileceği,
+5-Kaza tarihinde (2019 yılı) ölüm ve sakatlanma teminat limit tutarının 390.000,00 TL
+olduğu, hesaplanan tazminat tutarının bakiye poliçe teminat limit tutarını aşmadığı" şeklinde görüş ve kanaatte bulunulmuştur.
+Aktüer bilirkişinin 22/01/2025 tarihli raporunda;
+Taraf vekilleri tarafından yapılan itirazlar, Mamak Askerlik Şubesi Başkanlığının 18.12.2024
+tarihli yazısı dikkate alınarak, TRH 2010 yaşam tablosu ve progresif rant (%10 artırım %10
+eksiltim) kullanılarak yapılan hesaplama sonucunda davacı ... ...’in (2025 yılı
+güncel asgari ücrete göre hesaplama yapılmıştır);
+Geçici işgücü kaybından kaynaklanan tazminat tutarının bulunmadığı, Sürekli işgücü kaybından kaynaklanan tazminat tutarının toplam 430.505,78 TL olduğu,
+davalı zararının kaza tarihinde (03.03.2019) poliçe teminat limit tutarının (390.000,00 TL’nin)
+üzerinde olduğu, bu duruma göre; -Davalı Mapfre sigorta şirketinin ZMSS poliçesi kapsamında bakiye sorumluluğunun
+(yapılan ödemenin indirimi sonrası) 372.188,00 TL olduğu
+Diğer davalı ... ...’ın (sürücü) sorumluluğunun 32.488,92 TL olduğu,
+Geçici Bakıcı giderinden kaynaklanan tazminat tutarının ise 1.279,20 TL olduğu, Sayın Mahkeme tarafından davacı yanın sigorta şirketine başvurusunun geçerli olduğunun
+kabulü halinde; davacı tarafın sigorta şirketine başvuru tebliğ tarihinden 8 iş günü sonrası
+(başvuru/ihbar tebliğ tarihi dosyada mevcut olmadığından) temerrüde düşme tarihinden
+itibaren yasal faiz yürütülerek, diğer davalıdan kaza tarihinden itibaren yasal faiz
+yürütülerek tazminat talebinde bulunabileceği" şeklinde görüş ve kanaatte bulunulmuştur.
+Aktüer bilirkişinin 02/01/2026 tarihli raporunda;"Sayın Mahkeme tarafından yapılan görevlendirme dikkate alınarak 2026 yılı güncel asgari
+ücrete göre tekrar hesaplama yapılmış, ayrıca sigorta şirketinin bakiye sorumluluğu belirlenmiş ve
+ödemeler güncellenerek diğer davalı ... ...’ın (sürücü) sorumlulu olduğu kısım tekrar
+belirlenmiştir.
+Ayrıca önceki ek raporda taraf vekilleri tarafından yapılan itirazlar, Mamak Askerlik Şubesi
+Başkanlığının 18.12.2024 tarihli yazısı dikkate alınarak, TRH 2010 yaşam tablosu ve progresif rant
+(%10 artırım %10 eksiltim) kullanılarak yapılan hesaplama sonucunda davacı ...
+...’in (2026 yılı güncel asgari ücrete göre hesaplama yapılmıştır);
+Geçici işgücü kaybından kaynaklanan tazminat tutarının bulunmadığı,
+Sürekli işgücü kaybından kaynaklanan tazminat tutarının toplam 541.921,47 TL olduğu,
+ZMSS poliçesi limiti kapsamında talep edebileceği bakiye tazminat tutarının 342.188,00 TL
+(yapılan ödemenin indirimi sonrası) olduğu, diğer davalı ... ...’ın (sürücü)
+sorumluluğunun (541.921,47 TL - 29.737,74 TL- 342.188,00 TL) = 169.995,73 TL olduğu,
+Geçici Bakıcı giderinden kaynaklanan tazminat tutarının ise 1.279,20 TL olduğu, (ZMSS
+poliçesi tedavi giderleri klozu teminat limit tutarının kaza tarihinde 360.000,00 TL olduğu)
+Sayın Mahkeme tarafından davacı yanın sigorta şirketine başvurusunun geçerli olduğunun
+kabulü halinde; davacı tarafın sigorta şirketine başvuru tebliğ tarihinden 8 iş günü sonrası
+(başvuru/ihbar tebliğ tarihi dosyada mevcut olmadığından) temerrüde düşme tarihinden
+itibaren yasal faiz yürütülerek, diğer davalıdan kaza tarihinden itibaren yasal faiz
+yürütülerek tazminat talebinde bulunabileceği" şeklinde görüş ve kanaatte bulunulmuştur.
+Davacı vekili talep artırım dilekçesi sunarak, harcını ikmal etmiştir. Talep artırım dilekçesi davalılara/vekillerine tebliğ edilmiştir.
+Yukarıda içerikleri açıklanan hüküm kurmaya ve denetime elverişli oldukları anlaşılan kusur durumuna yönelik makine mühendisi bilirkişinin raporu ve kaza tarihi itibariyle yürürlükte bulunan yönetmelik hükümlerine göre hazırlanan maluliyet raporu dikkate alınarak hazırlanan aktüer bilirkişinin 02/01/2026 tarihli raporu dikkate alındığında; davanın kabulüne karar vermek gerekmiş ve aşağıdaki şekilde hüküm kurulmuştur.
+HÜKÜM: Gerekçesi yukarıda açıklandığı üzere;
+1- 1.279,20 -TL tutarındaki bakıcı gideri tazminatının davalı ... ... bakımından kaza tarihi olan 03/03/2019 tarihiden itibaren, davalı sigorta şirketi bakımından poliçe teminat limiti ile sınırlı olmak kaydıyla dava tarihi olan 11/05/2023 tarihinden itibaren işleyecek yasal faizi; 541.921,47 TL tutarındaki sürekli iş göremezlik tazminatının davalı sigorta şirketi bakımından poliçe teminat limiti ile sınırlı olmak kaydı ile dava tarihi olan 11/05/2023 tarihinden itibaren davalı ... ... bakımından kaza tarihi olan 03/03/2019 tarihinden itibaren işleyecek yasal faizi ile müştereken ve müteselsilen alınarak davacıya verilmesine,
+2-Alınması gerekli 37.106,03 -TL harçtan peşin alınan 179,90 TL peşin harcın ve 750,00 TL tamamlama harcının mahsubu ile bakiye 36.176,13 -TL harcın müştereken ve müteselsilen davalılardan alınarak hazineye irat kaydına,
+3-Bu dava kapsamında davacı tarafından yapılan 2.715,50-TL tebligat ve müzekkere gideri, 5.800,00-TL bilirkişi ücreti, 179,90- TL Peşin Harç, 179,90-TL Başvuru harcı ve 25,60-TL Vekalet harcı, 8.500,00-TL tamamlama harcı, 750,00-TL tamamlama harcı olmak üzere toplam 18.150,90-TL yargılama giderinin müştereken ve müteselsilen davalılardan alınarak davacıya ödenmesine,
+4-Davacı kendisini vekil ile temsil ettirdiğinden karar tarihinde yürürlükte bulunan AAÜT uyarınca hesaplanıp takdir edilen 86.912,11 TL vekalet ücretinin müştereken ve müteselsilen davalılardan alınarak davacıya verilmesine,
+5-6102 sayılı Türk Ticaret Kanununun 5/A ve 6325 sayılı Hukuk Uyuşmazlıklarında Arabuluculuk Kanununun 18/A-13. Maddesi uyarınca sarf kararı hazırlanmadığından bu konuda karar verilmesine yer olmadığına
+6-Kullanılmayan gider avansı var ise hükmün kesinleşmesinden sonra yatırana iadesine,
+Dair; davacı vekilinin yüzüne karşı, davalı sigorta şirketi vekilinin ve davalı ... ...'ın yokluğunda gerekçeli kararın tebliğinden itibaren 2 hafta içinde ... Bölge Adliye Mahkemelerinde İstinaf yolu açık olmak üzere verilen karar açıkça okunup usulen anlatıldı. 17/04/2026
+Katip .... Hakim ....
+E-imza E-imza

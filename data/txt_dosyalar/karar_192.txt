@@ -1,0 +1,48 @@
+SIRA NO: 192 (ÇEKİRDEK)
+DOKÜMAN ID: 405905100
+DERECE: İlk Derece Mahkemesi
+DAİRE / MAHKEME: İstanbul Anadolu 7. Asliye Ticaret Mahkemesi
+ESAS NO: 2015/580
+KARAR NO: 2018/295
+KARAR TARİHİ: 28.03.2018 (Yıl: 2018)
+ARAMA KELİMESİ: trafik kazası maddi manevi tazminat kusur (v3)
+SAYFA NO: 1
+İNDİRME ZAMANI: 2026-10-25 00:16:45
+HESAP DOĞRULAMA ADAYI: False
+İÇERİK HASH (MD5): de2a5ce6216057957d0f7b409baa7a92
+================================================================================
+
+T.C. İstanbul Anadolu 7. ASLİYE TİCARET MAHKEMESİ
+GEREKÇELİ KARAR
+ESAS NO : 2015/580 Esas
+KARAR NO : 2018/295
+DAVA : Tazminat (Ölüm Ve Cismani Zarar Sebebiyle Açılan Tazminat)
+KARAR TARİHİ : 28/03/2018
+Mahkememizde görülmekte bulunan Tazminat (Ölüm Ve Cismani Zarar Sebebiyle Açılan Tazminat) davasının yapılan yargılaması sonunda,
+GEREĞİ DÜŞÜNÜLDÜ:
+İDDİA : Davacı vekili dava dilekçesinde özetle, 18.02.2015 günü davalılardan .... sevk ve idaresindeki ........plakalı Gaziantep....... üzerine kayıtlı resmi yolcu taşıma otobüsü direksiyon kontrolünü kaybederek yol dışına çıkarak müvekkili ve diğer yolcularında yaralanması ile sonuçlanan maddi hasarlı trafik kazası meydana getirdiği, trafik kaza tespit tutanağına göre davalı sürücünün kullandığı, davalı üzerine kayıtlı davalı ....... tarafından Karayolu Motorlu Zorunlu Mali Mesuliyet Trafik Sigorta Poliçesi ile sigortalı aracın 2918 sayılı KTK 52 maddesine göre kusurlu olduğunu, müvekkilinin olayda yaralanmasından dolayı maluliyetinin meydana geldiğini beyanla yapılacak hesaplama sonucunda ortaya çıkacak maddi zararının tüm davalılardan müştereken ve müteselsilen tahsiline, 30.000,00 TL manevi tazminatın davalılar .......i ve ...... müştereken ve müteselsilen tahsiline karar verilmesini talep ve dava etmiştir.
+SAVUNMA: Davalı ...... vekili cevap dilekçesinde özetle; davanın zamanaşımı süreleri geçtikten sonra açıldığını, müvekkili şirketin sorumluluğunun poliçe limiri ile sınırlı ve sigortalı araç sürücüsünün kusuru oranında olduğunu, kusur oranının tespiti için Adli Tıp Kurumundan rapor alınması gerektiğini, davacı tarafça alınan maluliyet raporunun hüküm vermeye elverişli omadığını davacının maluliyetinin Adli Tıp Kurumunca belirlenmesi gerektiğini, müvekkili şirketin tedavi giderleri ve geçici iş göremezlik tazminatından sorumlu olmadığını beyanla davanın reddine karar verilmesini talep etmiştir.
+Davalı ...... vekili cevap dilekçesinde özetle; müvekkili idarenin tacir olmadığını, bu nedenle görevli mahkemenin genel görevli Asliye Hukuk Mahkemeleri olduğunu, davaın yetkisiz mahkemede açıldığını, müvekkili belediye bakımından davanın ayrılarak yetkisizlik kararı verilmesini ve davanın reddini talep etmiştir.
+İNCELEME VE GEREKÇE : Dava hukuki niteliği itibariyle trafik kazası sonucunda meydana gelen malulyet nedeniyle maddi ve mane vi tazminat talebine ilişkindir.
+Usulünce duruşma açılarak; tarafların aktif ve pasif dava ehliyetleri denetlenip ihtilaflı ve ihtilafsız konular ön inceleme duruşmasında resen belirlenerek uyuşmazlığın çözümü doğrultusunda tarafların tüm delilleri tahkikat duruşmalarında toplanıp bilirkişi incelemesi yapılmak suretiyle dava sonuçlandırılmıştır.
+Kazanın 18/02/2015 tarihinde meydana geldiği, olayın suç teşkil eden trafik kazası sonucu yaralamaya ilişkin 2 yıllık zaman aşımı süresi ve uzamış zamanaşımı süreleri de göz önünde bulundurulduğunda davalı sigorta şirektinin zamanaşımı itirazının reddine karar verilmiştir.
+Davalı ......yetkiye ve görevli mahkemenin Asliye Hukuk Mahkemesi olduğuna ilişkin itirazının, dava edilen sigorta şirketinin ikametgahının mahkememizin yetki çevresinde bulunduğu, sigorta şirketinin de dava edildiği, davacının yetkili mahkemelerinin herhangi birisinde vaa açmakta serbest olduğu hususları göz önünde bulundurularak davalının yetki ve göreve ilişkin itirazlarının reddine karar verilerek yargılamaya devam edilmiştir.
+Tarafların iddia ve savunmalarının değerlendirilmesi sonucunda; Davacının ...... plakalı belediye otobüsü içerisinde yolcu olarak seyir halindeyken geçirdiği trafik kazası sonucu 18/02/2015 tarihinde yaralandığı, davacı yanın sigorta şirketi, sürücü ve işletene yönelik maddi ve manevi tazminat talepli dava açtığı uyuşmazlık konusu olmayıp, uyuşmazlık tarafların kusuru meydana gelen zararın miktarı ve sorumluluğa ilişkindir.
+Tarafların delilleri toplanarak, tarafların iddia ve savunmaları, dosya kapsamı ile mahkememizce yapılan ön inceleme duruşmasında zapta geçen beyanlar ve uyuşmazlık tespiti dikkate alınarak kusur oranın tespiti için dosya üzerinde Trafik Kusur Uzmanı bilirkişiden inceleme yaptırılarak teknik ayrıntıları gösterilen dosyada mübrez 07/03/2017 tarihli bilirkişi raporu tanzim ettirilmiştir.
+Dosyada mübrez bilirkişi raporunda özetle; Davalı sürücü olay sırasında şehir içinde toplu yolcu taşıma yapan otobüs araç şoförü olup,2918 sayılı KTK S2/l-a,b,51,84/son fıkrası ve yönetmenliğin 100,101/a,b, 101/1,6,145/e,157/b maddelerinde belirtilen sürücülerin uyması gereken yasaklamalara, kısıtlamalara ve talimatlara aykırı,davalı üzerine kayıtlı davalı sigortaya sigortalı kendi sevk ve idaresinde kullandığı şehir içi toplu yolcu taşıma araçla havanın yoğun yağmurlu yer zemini kayganlık durum yeri şartları nazara alarak araç hızını mahal şartlarına göre ayarlaması gerekirken yolun viraj eğimli yol noktasına mevcut hız tahdit üzerinden araç kullanması neticesinden direksiyon hâkimiyetini sağlamayarak vasıtasını kaplama üzerinde tutma becerisini göstermeyerek yol dışına çıkarak çarpma olayı ile davacının yaralanma olayını oluşumuna sebep vermekten olayda (8/8) -%100 oranda kusurlu olduğu, davaının dava konusu kazada herhangi bir atfı kabil müteferrik kusurunun bulunmadığı tespit edilmiştir.
+.
+Davacı vekili 17/10/2017 tarihli dilekçesi ve 31/10/2017 tarihli duruşmadaki beyanında; davalı sigorta şirketi ile sulh olduklarını, sigorta şirketine karşı açtıklarını davadan feragat ettiklerini, davalı sigorta şirketinden yargılama gideri ve vekalet ücreti taleplerinin olmadığını, manevi tazminat talepleri yönünden taleplerinin devam ettiğini beyan etmiştir.
+Davacı vekilinin vekaletnamesinin incelenmesinde feragat yetkisinin olduğu anlaşılmıştır.
+Davacının davalı Sigorta şirketine karşı maddi tazminat ile ilgili olarak feragat etmesi nedeni ile müşterek borçlu ve mütesilsil sorumlulurdan birisi hakkındaki feragatin tüm borçluları da kapsaması nedeni ile davalılar hakkındaki maddi tazminat talebinin feragat nedeni ile reddine, manevi tazminat talebi ile ilgili olarak davacının L2 vertebra kırığının iyileşme süresinin 6 ay olduğu, davacının ikametgahının küçük bir yer olup davalılardan sürücü....... den evli olduğu 5 çocuk sahibi olduğu, yaralanmanın şekli süresi , tarafların sosyal ve ekonomik durumları birlikte değerlendirildiğinde takdiren 5.000, TL manevi tazminatın davalılar sürücü ve işletenden müştereken ve müteselsilen tahsiline karar vermek gerekmiş ve aşağıdaki şekilde hüküm kurulmuştur.
+HÜKÜM:Gerekçesi Yukarıda Açıklandığı Üzere
+Davacının maddi tazminat talebinin feragat nedeni ile reddine,
+Manevi tazminat talebinin kısmen kabülü ile rapor ve kusur durumu göz önünde bulundurularak takdiren 5.000 TL manevi tazminatın davalılar ....... müştereken ve müteselsilen tahsili ile davacıya ödenmesine,
+Fazlaya ilişkin istemin reddine,
+1-Harçlar kanunu uyarınca alınması gereken 341,55 TL harçtan, peşin alınan 109,29 TL harcın mahsubu ile bakiye 232,26 TL harcın davalılar ..........dan alınarak hazineye gelir kaydına,
+2-Davacı tarafından dava açılırken yatırılan başvurma ve peşin harç toplamı 136,99 TL' nin davalılar .......... alınarak davacı tarafa ödenmesine,
+3-Davacı tarafça yapılan 500,00 TL bilirkişi ücreti ve 273,40 TL posta gideri olmak üzere toplam 773,40 TL nin kabul ve red oranına göre; 128,90 TL nin davalılar ........alınarak davacı tarafa ödenmesine, bakiye 644,50 TL nin davacı üzerinde bırakılmasına,
+4-Davalı gideri olmadığından bu konuda karar verilmesine yer olmadığına,
+5-Davacı taraf yararına manevi tazminat talebi yönünden AAÜT uyarınca 2.180,00 TL vekalet ücretinin davalılar ......... alınarak davacı tarafa ödenmesine,
+6-Davalı ........i yararına, reddedilen manevi tazminat talebi yönünden AAÜT 2.180,00 TL vekalet ücretinin davacıdan alınarak davalı tarafa ödenmesine,
+7-Kullanılmayan gider avansı varsa karar kesinleştiğinde ilgili tarafa iadesine,
+Dair, kararın tebliğinden itibaren 2 haftalık süre içinde İstanbul Bölge Adliye Mahkemesi' ne istinaf yolu açık olmak üzere davacı vekilinin yüzüne karşı verilen karar açıkça okunup usulen anlatıldı.

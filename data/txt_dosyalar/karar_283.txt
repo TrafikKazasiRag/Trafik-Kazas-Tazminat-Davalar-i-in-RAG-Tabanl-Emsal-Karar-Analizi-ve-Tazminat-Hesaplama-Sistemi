@@ -1,0 +1,68 @@
+SIRA NO: 283 (ÇEKİRDEK)
+DOKÜMAN ID: 1034743700
+DERECE: İlk Derece Mahkemesi
+DAİRE / MAHKEME: Ankara 12. Asliye Ticaret Mahkemesi
+ESAS NO: 2022/206
+KARAR NO: 2023/866
+KARAR TARİHİ: 28.12.2023 (Yıl: 2023)
+ARAMA KELİMESİ: trafik kazası aktüer bilirkişi raporu net tutar
+SAYFA NO: 9
+İNDİRME ZAMANI: 2026-10-25 00:37:27
+HESAP DOĞRULAMA ADAYI: False
+İÇERİK HASH (MD5): 20675f84a2f9c3945d2422f7aaacd333
+================================================================================
+
+T.C. ... 12. ASLİYE TİCARET MAHKEMESİ
+T. C.
+A N K A R A
+12. ASLİYE TİCARET MAHKEMESİ
+TÜRK MİLLETİ ADINA
+YARGILAMA YETKİSİNİ KULLANAN MAHKEMEMİZCE VERİLEN KARAR
+ESAS NO : 2022/206
+KARAR NO : 2023/866
+HAKİM : Dr. ... ...
+KATİP : ... ...
+DAVA : Tazminat (Ölüm Ve Cismani Zarar Sebebiyle Açılan Tazminat)
+DAVA TARİHİ : 17/03/2022
+KARAR TARİHİ : 28/12/2023
+GEREKÇELİ KARARIN YAZIM TARİHİ : 04/01/2024
+Mahkememizde görülmekte olan Tazminat (Ölüm Ve Cismani Zarar Sebebiyle Açılan Tazminat) davasının yapılan açık yargılaması sonunda,
+GEREĞİ DÜŞÜNÜLDÜ:
+Davacı vekili dava dilekçesinde özetle; 20/07/2021 günü saat 10:10 sıralarında sürücü ..., sevk ve idaresindeki ... plakalı aracı ile 1010 cadde No:28/A önüne geldiği esnada yola çıkması sonucu müvekkilinin de yaralanmasına neden olan trafik kazası meydana geldiğini, kaza mahallinde görevli memurlarca tutulan kaza tespit tutanağına göre her ne kadar kazanın oluşumunda müvekkili ...'in asli ve tek kusurlu olduğu tespit edilmiş ise de bu kusur dağılımını kabul etmediklerini, özel olarak alınan kusur bilirkişi raporunda evler ile yol arasının çok yakın olduğu ve her an bir yayanın yola çıkmasının tamamen olağan olduğu bir yolda dikkatsiz ve tedbirsizce sonucu trafik güvenliği ve düzeni ile ilgili olan ve yönetmelikte gösterilen diğer kural, yasak, zorunluluk veya yükümlülüklere uymayan ... plakalı araç sürücüsü ...'ın %30 oranında kusurlu olduğunun tespit edildiğini belirterek sürekli iş göremezlik tazminatı olarak 14.000,00-TL, bakıcı gideri olarak şimdilik 500,00-TL, adli tıp masrafı ve muayene ücreti olarak şimdilik 1.298,00-TL masrafın davalıdan tahsili ile davacıya ödenmesine karar verilmesini dava ve talep etmiştir.
+Davalı vekili cevap dilekçesinde özetle; davacı tarafın, dava açmadan önce müvekkili şirkete usulüne uygun başvurmadığını, davacı tarafça dosyaya sunulu maluliyet raporunun geçersiz olduğunu, davanın öncelikle dava şartı noksanlığı yüzünden usulen reddi gerektiğini, 20.07.2021 tarihli trafik kazası sonucunda meydana gelen bedeni zararın, davacı tarafın iyileşme süreci içerisinde olması sebebi ile maluliyet oranı tespiti yapılamadığını, net oran tespiti için en erken Ağustos 2022 tarihinden sonra muayene edilmesi gerektiğini, başvurucunun sürekli sakatlık iddialarının araştırılması gerektiğini, müvekkili sigorta şirketinin, poliçe dahilinde başvuranın tedavi, bakım ve rapor ücreti gibi giderlerinden sorumlu olmadığını, bu giderlerden SGK'nın sorumlu olduğunu belirterek davanın reddini talep etmiştir.
+Ceylanpınar CBS'ye, Türkiye Noterler Birliğine, Kızıltepe SGK'ya, Axa Sigorta A.Ş.'ye, Ceylanpınar Devlet Hastanesine, Harran Üniversitesi Hastanesine, Hacettepe ATK'ya, ... Üniversitesi ATK'ya, Ceylanpınar Asliye Hukuk Mahkemesine, Kızıltepe İlçe Emniyet Müdürlüğüne müzekkere yazıldığı görüldü.
+Hacettepe Üniversitesi Adli Tıp Anabilim Dalı Başkanlığından alınan 18/01/2022 tarihli maluliyet raporu aldırılmıştır.
+... Adli Tıp Kurumu Trafik İhtisas Dairesinden 05/08/2022 tarihli kusur raporu aldırılmıştır.
+Bilirkişi Ömer Turan, Alper Şirinoğlu ve Muzaffer Öner'den 14/11/2022 tarihli bilirkişi raporu aldırılmıştır.
+... Üniversitesi Adli Tıp Anabilim Dalı Başkanlığından 13/02/2023 tarihli maluliyet raporu aldırılmıştır.
+İstanbul Adli Tıp Kurumu 2. İhtisas Dairesinden 04/09/2023 tarihli maluliyet raporu aldırılmıştır.
+Bilirkişi Duygu Tokcan'dan 21/11/2023 tarihli bilirkişi raporu aldırılmıştır.
+Davacı vekilinin 27/11/2023 tarihli talep arttırım dilekçesi gönderdiği, dilekçenin davalıya tebliğ edildiği görülmüştür.
+Dava, davalı tarafından sigortalanan aracın karıştığı trafik kazası nedeniyle davacının maluliyeti oluştuğundan davalıya karşı açılan maddi tazminat davasıdır.
+Ceylanpınar CBS'nin 2021/1867 sayılı soruşturma dosyası, trafik kazası tespit tutanağı, hastane cevapları, ZMMS poliçe örneği, kurum yazı cevapları, davacı hakkındaki sosyal ekonomik araştırma müzekkere cevabı, adli tıp raporu, bilirkişi raporları ve diğer belgeler dosyada mevcuttur.
+ZMMS poliçesinin incelenmesinde; kazaya karışan ... plakalı aracın davalı tarafından düzenlenen poliçe kaza tarihini de kapsar şekilde 24/11/2020-2021 tarihleri arasında sigortalı olduğu, kişi başına ölüm/sakatlık bedeli ve sağlık gideri teminatının ayrı ayrı 430.000,00-TL olarak belirlendiği anlaşılmıştır.
+Mahkememizce Hacettepe Üniversitesi Tıp Fakültesi Dahili Tıp Bilimleri Bölümü Anabilim Dalı Başkanlığı'ndan 18/01/2022 tarihinde aldırılan rapora göre özetle; davacının 20/07/2021 tarihinde yaralanması nedeniyle 20/07/2021 tarihli trafik kazasına bağlı kişinin bedensel engel oranının %5 (yüzde beş) olduğu, sürekli olduğu ve sekel halini aldığı, kaza nedeniyle mağdurun tedavisine başlanmasından itibaren 1 (bir) ay kadar bakıcı ihtiyacı olduğu, tıbbi iyileşme süresinin 3 (üç) aya kadar uzayabileceği rapor edilmiştir.
+Mahkememizce ... Üniversitesi Tıp Fakültesi Dahili Tıp Bilimleri Bölümü Anabilim Dalı Başkanlığı'ndan 13/02/2023 tarihinde aldırılan rapora göre özetle; davacının 20/07/2021 tarihinde yaralanması nedeniyle Özürlülük Ölçütü, Sınıflandırması ve Özürlülere Verilecek Sağlık Kurulu Raporları Hakkında Yönetmelik hükümlerine göre özür oranının %0(yüzdesifir) olduğu, Erişkin olması halinde 1(bir) ay süre ile iş göremezlik halinde kalacağı, 1(bir) hafta süresince başkasının yardımına ihtiyacı olduğu, Maluliyet Tespiti İşlemleri Yönetmeliği' nin 12. Maddesine (03.08.2013-28727 sayılı resmi gazete) göre devamlı surette başka birinin bakımına muhtaç olmadığını rapor etmişlerdir.
+Mahkememizce İstanbul Adli Tıp Kurumu 2. İhtisas Dairesinden aldırılan 04/09/2023 tarihli rapora göre; 20/07/2021 tarihinde yaralanması nedeniyle davacının tüm vücut engellilik oranının %11 (yüzdeonbir) olduğu, söz konusu engel oranı 20/02/2019 tarihli 30692 sayılı Resmi Gazetede Yayınlanan Çocuklar İçin Özel Gereksinim Değerlendirmesi Hakkında Yönetmeliğinin EK-3 kısmında bulunan ...’in mevzuatla uyumu arandığında kullanılacak tablo dikkate alındığında, küçüğün özel gereksiniminin olmadığı, iyileşme (iş göremezlik) süresinin olay tarihinden itibaren 3 (üç) aya kadar uzayabileceği, başka birisinin sürekli bakımına muhtaç durumda olmadığı, ancak iyileşme süresi içerisinde 1 (bir) ay boyunca başka birisinin yardımına ihtiyaç duyabileceğini rapor etmişlerdir.
+2918 sayılı KTK'da ZMMS (trafik) sigortası ile ilgili ayrıntılı düzenleme yapılmıştır. Yapılan düzenlemeler uyarınca; bir motorlu aracın işletilmesi bir kimsenin ölümüne veya yaralanmasına yahut bir şeyin zarara uğramasına sebep olursa, motorlu aracın bir teşebbüsün unvanı veya işletme adı altında veya bu teşebbüs tarafından kesilen biletle işletilmesi halinde, motorlu aracın işleteni ve bağlı olduğu teşebbüsün sahibi, doğan zarardan müştereken ve müteselsilen sorumlu olurlar(2918 sayılı KTK m. 85/1). Zorunlu mali sorumluluk sigortası genel şartları, teminat tutarları ile tarife ve talimatları Hazine Müsteşarlığının bağlı bulunduğu Bakanlıkça tespit edilir ve Resmi Gazetede yayımlanır (m. 93/1). Zarar gören, zorunlu mali sorumluluk sigortasında öngörülen sınırlar içinde doğrudan doğruya sigortacıya karşı talepte bulunabilecegi gibi dava da açabilir (m. 97).
+ZMMS sigorta poliçesinden kaynaklanan kaza sonucu meydana gelen zararlardan sigorta şirketi azami poliçe teminat limiti dahilinde, sigortalı araç sürücüsünün kusuru oranında, gerçek zararın tazmini ile sınırlıdır (bkz Y.11 H.D. 09/06/2003, 2003/269 E, 2003/6111 K,).
+Mahkememizce mevcut trafik kazası sebebiyle kazaya karışan tarafların kusur durumları ve buna göre tazminat hesabı yapılması için bilirkişi raporları aldırılmıştır.
+Kazaya karışan tarafların kusur durumun tespiti için ... Adli Tıp Kurumu Trafik İhtisas Dairesi Başkanlığından aldırılan rapora göre; 2012 doğumlu çocuk yaya/davacı ...'in davranış faktörlerinin olayın meydana gelmesinde % 85 (Yüzde seksenbeş) oranında etken olduğu, sürücü ...'ın % 15 (Yüzde onbeş) oranında kusurlu olduğunu rapor etmişlerdir.
+Kusur konusunda trafik kazası tespit tutanağı, davacı tarafından dosyaya sunulan uzman görüşü raporu ve adli tıp raporu arasındaki çelişkinin giderilmesi heyet bilirkişi raporu aldırılmış olup, rapora göre; Davacı/yaya ...’in olayda %85 (yüzde seksenbeş) oranında kusurlu olduğu, sürücü ...’ın olayda %15 (yüzde onbeş) oranında kusurlu olduğunu rapor etmişlerdir.
+Kusur ve maluliyet durumu dikkate alınarak aktüer bilirkişiden alınan rapora göre; sigorta poliçesinin kaza tarihini kapsadığı ve sakatlanma halinde şahıs başına azami teminat limitinin 430.000,00-TL olduğu davalı ... şirketinin 04.02.2022 tarihi itibarıyla temerrüdünün oluştuğu, davacı ...'in sürekli iş göremezlik nedeni ile oluşan maddi zararının 145.449,12-TL, bakıcı gideri nedeni ile oluşan maddi zararının 536,62-TL olduğunu rapor etmiştir.
+Deliller değerlendirilmiştir.
+Somut olayda;davalı ... tarafından zorunlu trafik sigortası yapılan aracın karıştığı trafik kazası sebebiyle davacının maluliyeti oluştuğundan bahisle eldeki tazminat davasının açıldığı, aldırılan adli tıp ve heyet bilirkişi raporuna göre 2012 doğumlu çocuk yaya ...'in olay mahallinde karşıdan karşıya geçmeden önce sol taraftan gelen araç trafiğini gerekli ve yeterli şekilde kontrol etmeden, solundan gelen araca rağmen, can güvenliğini tehlikeye atacak tarzda aniden kontrolsüz biçimde koşarak yola girerek seyir halindeki otomobilin kendisine çarptığı olayda davacının yaşı nedeniyle davranış faktörlerinin olayın meydana gelmesinde yüzde 85 oranında kusurlu olduğu, sürücü ...'ın sevk ve idaresindeki otomobil ile seyir halinde iken geldiği olay mahallinde seyir durumuna göre yolun sağından karşıdan karşıya geçmeye çalışan çocuk yayaya karşı etkin tedbir almadan çarptığı olayın oluşumunda yüzde 15 oranında kusurlu olduğu, belirtilen bu kusur oranları dikkate alınarak davalı ... şirketinin poliçe limitleri dahilinde meydana gelen maddi zarardan sorumlu olduğu anlaşılmıştır.
+Dosya içerisinde toplanan tüm deliller, kaza tutanağı, adli tıp raporu, sigorta poliçesi, bilirkişi kurulu raporu ve tüm dosya içeriğine göre; davalı ... şirketine ZMMS sigortası ile sigortalı aracın karıştığı trafik kazası sonucu mahkememizce itibar olunan ve dosyada mevcut adli tıp raporları arasındaki çelişkileri giderir İstanbul Adli Tıp Kurumu 2. İhtisas Dairesince düzenlenen rapora göre davacının yüzde 11 oranında sürekli işgöremezlik halinde bulunduğu, bakıcı ihtiyaç süresinin 1 (bir) ay olduğunun tespit edildiği, davacı kaza tarihinde reşit olmadığından asgari ücret düzeyinde kabul edilen geliri, SGK yazı cevabı, kaza tarihi itibarıyla geçerli maluliyete esas yönetmelik hükümlerine uygun alınan maluliyet raporu, TRH-2010 yaşam tablosuna göre aldırılan aktüer bilirkişi raporuna göre davacının davalıdan 145.449,12-TL sürekli iş göremezlik ile, 536,62-TL bakıcı giderinden kaynaklı toplam 145.985,74‬-TL maddi tazminat talep edebileceği, davacının bu tutar üzerinden dava değerini belirlediği, davalıya dava öncesi yapılan başvuru sonrası davalının 04/02/2022 tarihinde temerrüde düşmüş sayılacağı, kabul olunan bu tutara sigortalı aracın kullanım amacı ve cinsi dikkate alınarak temerrüt tarihinden itibaren yasal faiz işletileceği anlaşılmakla açılan davanın kabulüne dair aşağıdaki şekilde hüküm kurulması gerekmiştir.
+HÜKÜM:Gerekçesi Yukarıda Açıklandığı Üzere;
+1-Açılan davanın KABULÜ İLE, 145.449,12-TL sürekli iş göremezlik ile, 536,62-TL bakıcı giderinden kaynaklı toplam 145.985,74‬-TL maddi tazminatın 04/02/2022 tarihinden itibaren işletilecek yasal faizi ile birlikte (davalının sigorta teminat limiti ile sınırlı ve sorumlu olması kaydıyla) davalıdan tahsili ile davacıya ödenmesine,
+2-Alınması gereken 9.972,29-TL harçtan peşin alınan 80,70-TL ve 450,00-TL tamamlama harcının mahsubu ile bakiye 9.441,59-TL harcın davalıdan alınarak hazineye irad kaydına,
+3-Davacı kendisini vekille temsil ettirdiklerinden AÜT gereğince 23.357,72-TL vekalet ücretinin davalıdan alınarak davacıya ödenmesine,
+4-Davacı tarafından yapılan yargılama gideri olarak 80,70-TL başvuru harcı, 80,70-TL peşin harç, 11,50-TL vekalet harcı, 450,00-TL tamamlama harcı, posta masrafları toplamı 576,60-TL, bilirkişi ücreti 4.400,00-TL, adli tıp ve tedavi gideri 5.894,50-TL olmak üzere toplam 11.494‬,00‬-TL'nin davalıdan alınarak davacıya ödenmesine,
+5-6325 sayılı yasanın 18/A maddesi gereği Adalet Bakanlığı tarafından karşılanan ve yargılama giderinden sayılan Arabuluculuk Ücret Tarifesinde belirtilen iki saatlik ücret tutarı karşılığı ticari arabulucu ücreti olan 1.560,00-TL'nin davalıdan alınarak hazineye gelir kaydına,
+6-Davalı tarafından yapılan yargılama gideri olmadığından bu konuda karar verilmesine yer olmadığına,
+7-HMK'nın 333. maddesi gereğince yatırılan gider avansından kalanın karar kesinleştiğinde yatırana iadesine,
+Dair, taraf vekillerinin yüzlerine karşı verilen karar tebliğden itibaren iki haftalık süre içerisinde ... Bölge Adliye Mahkemesine istinaf kanun yolu açık olmak üzere açıkça okunup usulen anlatıldı. 28/12/2023
+Katip ...
+✍e-imzalıdır
+Hakim ...
+✍e-imzalıdır

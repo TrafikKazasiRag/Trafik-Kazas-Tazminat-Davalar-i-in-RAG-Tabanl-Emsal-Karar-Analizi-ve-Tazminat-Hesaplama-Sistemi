@@ -1,0 +1,67 @@
+SIRA NO: 339 (ÇEKİRDEK)
+DOKÜMAN ID: 1109897200
+DERECE: BAM (İstinaf)
+DAİRE / MAHKEME: Ankara Bölge Adliye Mahkemesi 35. Hukuk Dairesi
+ESAS NO: 2023/1110
+KARAR NO: 2025/20
+KARAR TARİHİ: 15.01.2025 (Yıl: 2025)
+ARAMA KELİMESİ: sürekli iş göremezlik yıllık ücret bilinen gelir
+SAYFA NO: 3
+İNDİRME ZAMANI: 2026-10-25 00:57:34
+HESAP DOĞRULAMA ADAYI: False
+İÇERİK HASH (MD5): a78c765591ebc57129e7c286c8a49a2a
+================================================================================
+
+T.C. ANKARA BÖLGE ADLİYE MAHKEMESİ
+35. HUKUK DAİRESİ Esas-Karar No: 2023/1187 - 2024/1704
+T.C.
+ANKARA
+BÖLGE ADLİYE MAHKEMESİ
+35. HUKUK DAİRESİ
+ESAS NO : 2023/1187
+KARAR NO : 2024/1704
+T Ü R K M İ L L E T İ A D I N A
+K A R A R
+İNCELENEN KARARIN
+MAHKEMESİ : ANKARA 8. ASLİYE TİCARET MAHKEMESİ
+TARİHİ : 15/06/2023
+NUMARASI : 2022/569 Esas - 2023/379 Karar
+DAVACI :
+VEKİLİ
+DAVALI :
+DAVANIN KONUSU : Tazminat
+KARAR TARİHİ : 26/12/2024
+GEREKÇELİ KARAR
+YAZILMA TARİHİ : 26/01/2025
+Mahalli mahkemesince verilen karara karşı davacı vekili ve davalı vekili tarafından süresi içinde istinaf kanun yoluna başvurulmuş olup, başvuru şartlarının yerine getirildiği dosya üzerinde yapılan ön inceleme ile anlaşılmakla yapılan istinaf incelemesi sonunda;
+TARAFLARIN İDDİA VE SAVUNMALARI
+Davacı vekili dava dilekçesinde; 14.05.2022 tarihinde davalı tarafından ZMMS ile sigortalı aracın, seyri sırasında, sol şeritten seyrederken Seyran Sokak kavşağına geldiğinde kontrolsüz bir şekilde sağ şeride geçtiği esnada, aracın sağ ön kapı çamurluk kısmı ile davacı ... sevk ve idaresindeki aynı yönde seyreden motosiklete çarparak iki araçlı, yaralanmalı ve maddi hasarlı trafik kazasına neden olduğu, davalı sigorta şirketinin davacının zararlarından sorumlu olduğunu belirterek, fazlaya ilişkin talep ve ek dava açma hakları saklı kalmak kaydı ile 100,00-TL (sürekli iş göremezlik zararı için 80,00-TL, geçici iş göremezlik zararı için 10,00-TL, bakıcı gideri zararı için 10,00-TL olmak üzere) maddi tazminat bedelinin temerrüt tarihi olan 18.06.2022 tarihinden itibaren işleyecek ticari temerrüt (avans) faizi ile birlikte davalıdan müşterek ve müteselsilen tahsiline karar verilmesini istemiştir.
+Davacı vekili talep artırım dilekçesi ile; sürekli iş göremezlik tazminatı talebini 175.667,12-TL, geçici iş göremezlik tazminatı talebini 17.013,60 TL, bakıcı gideri tazminatı talebini 5.004,00-TL olarak belirleyerek, toplam 197.684,72-TL maddi tazminatın temerrüt tarihi olan 18.06.2022 tarihinden itibaren işleyecek ticari temerrüt (avans) faizi ile birlikte tahsilini istemiştir.
+Davalı vekili cevap dilekçesinde; sorumluluklarının sigorta teminatı kapsamında zarar ve teminat limiti ile sınırlı olduğunu, davacının kusuru zararı ve maluliyeti kanıtlaması gerektiğini, geçici iş göremezlik, bakıcı giderleri taleplerinin poliçe kapsamında olmadığını, işbu taleplerin SGK'nın sorumluluğunda olduğunu, olayda, kask, dizlik ve benzeri koruyucu ekipmanlarını takmayan motosiklet sürücüsü davacının, gerçekleşen trafik kazasında müterafik kusuru olacağını, olayda uygulanması gereken faizin yasal faiz olduğunu bildirerek, davanın reddini istemiştir.
+İLK DERECE MAHKEMESİ KARARI
+Mahkemece; davanın, sürekli ve geçici iş göremezlik ve bakıcı gideri istemine ilişkin olduğu, Hacettepe Üniversitesi Adli Tıp Kurumundan alınan 05.04.2023 tarihli rapora göre dava konusu kaza nedeniyle davacıda meydana gelen özür oranının %4 olduğu, tıbbi iyileşme süresinin 4 aya kadar uzayabileceği ve 1 ay bakıcı ihtiyacının olacağının belirtildiği, kusur ve aktüer bilirkişiden alınan 16/05/2023 tarihli raporda, kazanın meydana gelmesinde davalı tarafından sigortalı araç sürücüsünün tam kusurlu olduğu, davalı araç sürücüsü ...'ın meydana gelen kazada kusursuz olduğu, dosya muhtevasında yer alan kaza tespit tutanağında göre davacı sürücü ...'ın kaza esnasında kask kullanımına ilişkin durumunun belirtilmediği, ancak dosya muhtevasında sürücünün kaza esnasında kask kullanmadığına dair herhangi bir bilgi ve belge olmadığı anlaşıldığından müterafik kusura ilişkin değerlendirmenin hakimin takdirine bırakıldığı, davacı ...'ın olay nedeniyle uğradığı gerçek net maddi zararının TRH2010 Yaşam Tablosuna göre yapılan hesaplamada, 197.684,72 TL olduğu, bu zararın davalı sigorta şirketinin poliçe teminatı limiti kapsamında kaldığının belirtildiği, raporun karar vermeye elverişli ve yeterli olduğu, tüm dosya kapsamı, dava, cevap, maluliyet raporu, kusur ve hesap raporu birlikte değerlendirildiğinde, alınan raporların karar vermeye elverişli olduğu, bu itibarla kalıcı ve geçici iş gücü ve bakıcı zararını karşı tarafın kusuru oranında davacının talep edebileceği, hesap raporuna itibar edilerek, davacının 175.667,12 TL sürekli iş göremezlik, 17.013,60 TL geçici iş göremezlik ve 5.004,00 TL bakıcı gideri olmak üzere 197.684,72 TL'yi 18/06/2022 tarihinden itibaren işleyecek yasal faizi ile birlikte poliçe limiti ile birlikte sınırlı olmak üzere davalıdan talep edebileceği gerekçesiyle; “Davacının davasının KABULÜ ile; 175.667,12 TL sürekli iş göremezlik, 17.013,60 TL geçici iş göremezlik ve 5.004,00 TL bakıcı gideri olmak üzere 197.684,72 TL'nin 18/06/2022 tarihinden itibaren işleyecek yasal faizi ile birlikte poliçe limiti ile birlikte sınırlı olmak üzere davalıdan alınarak davacıya verilmesine,” karar verilmiş, karar davacı vekili ve davalı vekili tarafından istinaf edilmiştir.
+İLERİ SÜRÜLEN İSTİNAF SEBEPLERİ
+Davacı vekili istinaf başvuru dilekçesinde; maluliyet raporunu kabul etmediklerini, engel oranının daha yüksek olduğunu, hükme esas alınan aktüer bilirkişi raporunu da kabul etmediklerini, 01/07/2022-13/09/2022 tarihleri arasında asgari ücretin 5.004.00 TL olması gerektiğini, bakıcı giderinin de tazminat hesabına eklenilmesi gerektiğini, raporda eklenmediğini, kararın kaldırılması halinde usuli kazanılmış haklarını ve ek dava haklarını saklı tutuklarını belirterek kararın kaldırılmasını istemiştir.
+Davalı Sigorta vekili vekili istinaf başvuru dilekçesinde; hükmün HMK’nın 297. maddesine uygun olmadığını, motosiklet sürücüsü davacının kask takmaması nedeniyle müterafik kusur indirimi yapılması gerektiğini, bu hususun kararda yeteri kadar değerlendirilmediği bir kaç cümle ile geçiştirildiğini, eksik inceleme ile karar verildiğini, maluliyet yönünden de, raporun Adli Tıp Kurumundan alınması gerektiğini, bu nedenle üniversiteden alınan raporun karar vermeye elverişli olmadığını, aktüer raporun da uygun olmadığını, hesaplamanın TRH2010 Yaşam Tablosu ve 1,8 teknik faiz uygulanmak suretiyle yapılması gerektiğini, geçici bakıcı giderinin brüt üzerinden değil net geliri üzerinden hesaplanması gerektiğini, geçici iş göremezlik ve geçici bakıcı giderinin SGK'nın sorumluluğunda olduğunu, faize de 18/06/2022 tarihinden itibaren hükmedildiğini, müvekkilinden dava tarihinden önce faiz talep edilemeyeceğini, zira eksik evrak ile müracaat olduğunu belirterek, kararın kaldırılmasını istemiştir.
+DELİLLERİN DEĞERLENDİRİLMESİ VE GEREKÇE
+Mahkemece verilen kararda kamu düzenine aykırılık görülmediğinden istinaf sebepleri ile sınırlı olarak yapılan inceleme neticesinde;
+Dava, trafik kazasından kaynaklanan cismani zarar nedeniyle, geçici iş göremezlik, süreklik iş göremezlik tazminatı ile geçici bakıcı gideri istemidir. Mahkemece davanın kabulüne karar verilmiş hüküm davacı vekili ve davalı vekili tarafından istinaf edilmiştir.
+Olay tarihinde, davacının sevk ve idaresindeki motosiklet ile sağ şeritten seyri sırasında, aynı yönde seyreden davalı tarafından ZMMS ile sigortalı aracın, yolun sağındaki sokağa yaklaştığında kontrolsüz olarak sağa yanaşması neticesinde, gerisinden gelen davacının, davalı tarafından sigortalı aracın sağ yan kısmına çarpması neticesinde direksiyon hakimiyeti kaybetmesi ile trafik kazasının meydana geldiği, davacının kaza neticesinde sol elinde ve sol el bileğinde kırık oluşturacak şekilde yaralandığı, Kaza Tespit Tutanağı, adli muayene raporları ve tüm dosya kapsamından anlaşılmıştır.
+İlk derece mahkemesi tarafından, alınan maluliyet raporu, kusur raporu ve aktüer raporuna göre davanın esası hakkında karar verildiği, davacı tarafından talep artırım dilekçesi verilmesine rağmen zararının daha fazla olduğunu ve hesap hatası olduğunu da belirterek rapora itiraz ettiği görülmüştür.
+1-Davacının hesap raporuna yönelik istinaf sebeplerinin incelenmesinde; cismani zarar nedeniyle sürekli iş göremezlik tazminatına yönelik olarak zarar görenin zararının belirlenmesinde, kaza tarihi itibariyle TRH2010 Yaşam Tablosuna göre muhtemel yaşam süresi belirlendikten sonra, kaza tarihinden rapor tarihine kadar olan hesaplamalar, bilinen dönem gelirleri esas alınarak, hesap tarihinden sonraki aktif döneme ilişkin hesaplamalar ise bilinen son geliri esas alınmak suretiyle, yine işleyecek (rapor tarihinden sonraki) pasif dönem zararları ise rapor tarihindeki asgari ücret üzerinden progresif rant yöntemi uygulanmak suretiyle hesaplanır. Yine geçici iş göremezlik süresi açısından da, zarar görenin %100 malul kaldığının kabul edildiği bu dönemde, geçici iş göremez kaldığı sürenin tamamı bilinen dönem içerisinde kalmış ise bilinen gelirine göre, hesap raporundan sonrasına sarkan kısmın olması halinde ise sarkan kısım için bilinen son gelirine göre progresif rant yöntemi ile hesaplanacaktır.
+İlk derece mahkemesi tarafından hükme esas alınan 16/05/2023 tarihli raporda da, hesaplama bu yöntem çerçevesinde düzenlenmiş olmakla birlikte, rapor tarihi itibariyle bilinen dönem hesabında kalan geçici iş görmezlik tazminatı ve sürekli iş göremezlik tazminatı hesaplaması sırasında 01/07/2022-31/12/2022 dönemi için davacının aylık geliri 4.253,40 TL kabul edilerek, hesaplama yapılmıştır. Söz konusu dönem için asgari ücret ise 5.500,35 TL olup, bilirkişi tarafından hesaplamada hata yapıldığı anlaşılmaktadır. Davacı vekili, aktüer hesap raporuna karşı beyan ve itirazlarında, bu hususu açıkça belirtmiş olmasına rağmen, itiraz değerlendirilmeksizin, davacının zararının daha fazla olduğunu ileri sürerek verdiği talep artırım dilekçesine göre karar verilmiş olması isabetli olmamıştır.
+Yukarıda açıklanan nedenlerle, davacı vekilinin istinaf talebinin kabulüne, uyuşmazlığın çözümünde etkili deliller toplanılmadan ve değerlendirmeden karar verilmiş olması nedeniyle ilk derece mahkemesi kararının HMK'nın 353/1-a-6. maddesi gereğince kaldırılmasına, davanın yeniden görülerek, davacının itirazlarını karşılar şekilde aktüer hesap bilirkişisinden rapor alınarak, sonucuna göre davanın esası hakkında karar verilmesi için dosyanın ilk derece mahkemesine gönderilmesine, kaldırma sebebine göre davacının sair, davalının tüm istinaf sebeplerinin şimdilik incelenmesine yer olmadığına karar vermek gerekmiştir.
+HÜKÜM : Gerekçesi yukarıda izah edildiği üzere;
+1-Davacı vekilinin istinaf başvurusunun KABULÜ ile Ankara 8. Asliye Ticaret Mahkemesi tarafından verilen 15/06/2023 tarihli, 2022/569 Esas - 2023/379 Karar sayılı kararın, HMK’nın 353/1-a-6. maddesi gereğince KALDIRILMASINA,
+Kararın kaldırılma sebebine göre, davacı vekilinin sair, davalının tüm istinaf sebeplerinin İNCELENMESİNE YER OLMADIĞINA,
+2-Dosyanın, davanın yeniden görülmesi için mahkemesine GÖNDERİLMESİNE,
+3-İstinaf edenler tarafından yatırılan istinaf karar harcının istek halinde istinaf edenlere iadesine,
+4-İİK'nın 36. maddesi gereğince, icranın geri bırakılması kararı gereğince, Ankara 7. Genel İcra Dairesi 2023/154704 Esas sayılı dosyasına depo edilen 325.000,00 TL bedelli teminat mektubunun yatırana iadesine,
+5-İstinaf yargılama giderlerinin ilk derece mahkemesinde değerlendirilmesine,
+6-Karar tebliği, kesinleştirme, harç ve gider avansı iadesi işlemlerinin ilk derece mahkemesince yapılmasına,
+Dair, dosya üzerinde yapılan inceleme sonunda, HMK.nın 353/1-a maddesi uyarınca KESİN olmak üzere 26/12/2024 tarihinde oy birliği ile karar verildi.
+Başkan
+Üye
+Üye
+Katip
+* Bu belge, 5070 sayılı Kanun hükümleri gereğince elektronik imza ile imzalanmıştır.

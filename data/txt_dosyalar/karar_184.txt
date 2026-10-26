@@ -1,0 +1,55 @@
+SIRA NO: 184 (ÇEKİRDEK)
+DOKÜMAN ID: 883217000
+DERECE: BAM (İstinaf)
+DAİRE / MAHKEME: Antalya Bölge Adliye Mahkemesi 4. Hukuk Dairesi
+ESAS NO: 2021/213
+KARAR NO: 2023/603
+KARAR TARİHİ: 18.04.2023 (Yıl: 2023)
+ARAMA KELİMESİ: trafik kazası maddi manevi tazminat kusur (v3)
+SAYFA NO: 1
+İNDİRME ZAMANI: 2026-10-25 00:16:44
+HESAP DOĞRULAMA ADAYI: False
+İÇERİK HASH (MD5): 8f96f65b81f862ebb733739e08d2f6f1
+================================================================================
+
+T.C.
+ANTALYA
+BÖLGE ADLİYE MAHKEMESİ TÜRK MİLLETİ ADINA
+DÖRDÜNCÜ HUKUK DAİRESİ İSTİNAF KARARI
+İNCELENEN DOSYANIN
+MAHKEMESİ: ANTALYA 1. ASLİYE TİCARET MAHKEMESİ
+DAVA: Maddi ve Manevi Tazminat
+KARAR TARİHİ: 18/04/2023
+KARAR YAZIM TARİHİ: 18/04/2023
+Taraflar arasındaki davanın yapılan yargılaması sonunda ilk derece mahkemesince verilen, yukarıda tarih ve numarası gösterilen kararına karşı davalılar .... ve .... vekili tarafından istinaf başvurusunda bulunulmakla, dosyada duruşma yapılmasını gerektiren eksiklik görülmediğinden Hukuk Muhakameleri Kanunu'nun 353/1-b-1 maddesi uyarınca istinaf incelemesinin duruşmasız yapılmasına karar verilerek, dosya incelendi;
+GEREĞİ DÜŞÜNÜLDÜ
+DAVACI İSTEMİNİN ÖZETİ:
+Davacı vekili dava dilekçesinde özetle; davalı ... in sürücüsü, davalı ....'in kayıtlı maliki, davalı .... A.Ş.'nin trafik sigortacısı olduğu .... plaka sayılı araçla, davacı müvekkilinin eşi dava dışı ...ın sürücüsü, davalı .... A.Ş.'nin trafik sigortacısı olduğu .... plaka sayılı motosiklet arasında meydana gelen trafik kazası sonucu motosiklette yolcu olarak bulunan davacı müvekkilinin yaralandığı, davalı ... A.Ş tarafından 19.955,60 TL, davalı .... A.Ş. tarafından 6.889,81 TL tazminat ödemesi yapıldıysa da bu ödemenin zararı karşılamadığından bahisle, belirsiz alacak davası şeklinde açılan davada 5.000,00 TL kalıcı işgörmezlik tazminatı, 3.000,00 TL tedavi giderinin davalı sigorta şirketleri yönünden 24/04/2015 temerrüt tarihinden itibaren, diğer davalılar yönünden 29/08/2013 olay tarihinden itibaren işleyecek en yüksek mevduat faiziyle birlikte davalılardan müştereken ve müteselsilen, 60.000,00 TL manevi tazminatın 29/08/2013 olay tarihinden itibaren işleyecek yasal faizi ile birlikte davalılar .... ve ... den müştereken ve müteselsilen tahsiline karar verilmesini talep etmiştir.
+DAVALI CEVABININ ÖZETİ:
+Davalılar .... ve .... vekili davaya cevap dilekçesinde özetle; motosikletin istiap haddi 1 kişi olmasına rağmen, motosikletle üç kişinin taşındığı, davacının çocuğunun motosiklet sürücüsünün görüşünü engelleyecek şekilde önde oturduğu, ağır kusurun karşı tarafta olduğu, müvekkillerinin davacı tarafa ellerinden geldiğince yardımcı olduğu, hastane masraflarının karşılandığı, davacı tarafın talebi üzerine bir motosiklet alınıp verildiği, talep edilen manevi tazminat miktarının fahiş olduğunu beyanla davanın reddini istemiştir.
+Davalı .... A.Ş. vekili davaya cevap dilekçesinde özetle; müvekkili şirket tarafından yapılan ödeme nedeniyle müvekkilinin sorumluluğu kalmadığı, maluliyetin ve zarar miktarının usulünce belirlenmesi gerektiği, tedavi giderinden sigorta şirketlerinin sorumluluğu bulunmadığını beyanla davanın reddini istemiştir.
+Davalı .... A.Ş. vekili davaya cevap dilekçesinde özetle; müvekkili şirket tarafından yapılan ödeme nedeniyle müvekkilinin sorumluluğu kalmadığı, davanın zamanaşımına uğradığı, müvekkili sigorta şirketi sorumluluğunun poliçe limiti ile sınırlı olduğunu beyanla davanın reddini istemiştir.
+DELİLLER :
+Antalya 10. Asliye Ceza Mahkemesinin .... esas, .... karar sayılı dosyası, davacının tedavisine esas tıbbi belgeler, kusur raporu, maluliyet raporları, tazminat bilirkişisi raporları, sosyal ve ekonomik araştırma tutanakları, tüm dosya kapsamı.
+İDM KARARININ ÖZETİ :
+İlk Derece Mahkemesince verilen kararda özetle; trafik kazasının meydana gelmesinde davalı araç sürücüsünün %80, davacının yolcu olarak bulunduğu motosiklet sürücüsünün %20 oranında kusurlu oldukları, davacının trafik kazası sonucu %4,1 oranında maluliyete uğrayacak, iyileşme süresi olay tarihinden itibaren 9 aya kadar uzayabilecek derecede yaralandığı, tazminat bilirkişi raporuna göre sigorta şirketleri tarafından yapılan ödemelerin davacının maddi zararlarını karşıladığı gerekçesiyle, davacının açtığı maddi tazminat davasının reddine, 15.000,00 TL manevi tazminatın 29/08/2013 olay tarihinden itibaren işleyecek yasal faiziyle birlikte davalılar .... ve ... den müştereken ve müteselsilen tahsiline karar verilmiştir.
+İSTİNAF NEDENLERİ :
+Davalılar ... ve .... vekili istinaf dilekçesinde özetle; açılan davada kazanç elde etme amacı güdüldüğü, müvekkillerinin davacı tarafla ilgilenerek her türlü hastane ve tedavi masraflarını karşıladığı, yeni bir motor aldıkları, mahallinde keşif yapılmadığı, tanıklarının dinlenmediği, hükmedilen manevi tazminatın fazla olduğunu beyanla ilk derece mahkemesi kararının kaldırılmasını istemiştir.
+Davacı vekili istinaf yasa yoluna başvurmamıştır.
+İSTİNAFA CEVAP :
+Davacı vekili istinafa cevap vermemiştir.
+G E R E K Ç E
+Uyuşmazlık, trafik kazasına bağlı yaralanma nedeniyle maddi ve manevi tazminat isteğine ilişkindir.
+Türk Borçlar Kanunu'nun 49. maddesi gereğince kasten veya taksirle başkasına zarar veren bu zararı gidermekle yükümlüdür. Bedensel zarara uğrayanların aynı kanunun 54. maddesi gereğince maddi tazminat ve aynı kanunun 56/1 maddesi gereğince manevi tazminat isteme hakları bulunmaktadır. 2918 Sayılı Karayolları Trafik Kanunu'nun 85. maddesi gereği motorlu araç işleteni doğan zararlardan sürücü ile birlikte müştereken ve müteselsilen sorumludur. 2918 Sayılı Karayolları Trafik Kanunu'nun 91, 97 ve 99. maddeleri gereği trafik kazasına ve zarara sebebiyet veren motorlu aracın zorunlu mali sorumluluk sigortacısı, yasa ve genel sigorta şartları kapsamına dahil maddi zararlardan işletenle birlikte müştereken ve müteselsilen sorumludur.
+Davacının yolcu olarak bulunduğu motosikletle, davalı ... in sürücücüsü, davalı ... in işleteni olduğu araç arasında meydana gelen trafik kazası sonucu davacı yaralanmış ve bu yaralanma nedeniyle uğradığı maddi ve manevi zararın tahsilini talep etmiş, ilk derece mahkemesince yapılan yargılama sonucunda maddi tazminat davasının reddine, manevi tazminat davasının kısmen kabulüne karar verilmiş, hükmedilen manevi tazminat kararına karşı davalılar ... ve .... vekili tarafından istinaf yasa yoluna başvurulmuştur.
+6100 Sayılı HMK.'nun 355. maddesi gereğince istinaf dilekçesinde gösterilen istinaf sebepleri ile sınırlı yapılan istinaf incelemesi sonucunda;
+Antalya 10. Asliye Ceza Mahkemesinin 05/06/2014 gün ve .... esas, .... sayılı kararı ile davalı ...in , asli kusurla birden fazla kişiye karşı işlediği taksirle yaralamaya sebebiyet vermek suçundan TCK'nın 89/4 ve 62. maddeleri gereğince 10 ay hapis cezası ile cezalandırılmasına ve hükmün açıklanmasının geri bırakılmasına karar verilmiştir.
+Kural olarak Türk Borçlar Kanunu'nun 74. maddesi gereğince ceza mahkemesince verilen kararlar hukuk hakimi bakımından bağlayıcı değildir. Ancak, hukuk hakiminin bu bağımsızlığı sınırsız değildir, ceza mahkemesince fiilin hukuka aykırılığına yönelik kesinleşen maddi olgular hukuk hakimi bakımından da bağlayıcı olup, taraflar yönünden de kesin delil niteliği taşımaktadır (Yargıtay Hukuk Genel Kurulunun 17/09/2008 tarih, 2008/4/564 esas, 2008/536 karar). Ancak, maddi olgunun belirlenmesi bakımından hükmün açıklanmasının geri bırakılması kararı (5271 Sayılı Ceza Muhakemesi Kanunu 231 inci maddesi) kesinleşmiş bir ceza hükmü olmadığından hukuk hakimi bakımından da bağlayıcı olmadığının kabulü gerekir. Ceza mahkemesince davalının eylemi nedeniyle verilen ceza hakkında hükmün açıklanmasının geri bırakılması kararı verildiğinden, ceza mahkemesinin maddi olayı kabulü hukuk hakimini bağlamayacaktır.
+Davalı araç sürücünün kontrolsüz dörtlü kavşakta sağından gelen motosiklet sürücüsüne ilk geçiş hakkını vermesi gerekirken mevcut hızıyla girdiği kavşak içerisinde sebebiyet verdiği trafik kazasında asli ve %80 oranında kusurlu olduğu, motosiklette üç kişinin taşınması suretiyle istiap haddinin aşılmasının başlı başına kazaya etkisinin bulunmadığı, kusurun belirlenmesi için mutlak surette mahallinde keşif yapılması gerekmediği gibi, somut olaya özgü olarak da keşif yapılmasının dosyaya bir katkısının bulunmadığı, davacının yaralanma derecesi, davalı tarafın kusur durumu, olay tarihi, tarafların sosyal ve ekonomik durumlarına göre hükmedilen 15.000,00 TL manevi tazminat miktarının hak ve nesafete uygun düştüğü gözetildiğinde, ilk derece mahkemesince taraflarca gösterilen delillerin toplanmasında, değerlendirilmesinde esas ve usul bakımından hukuka aykırılık bulunmadığı ve davalılar .... ve ...vekilinin tüm istinaf nedenleri yerinde görülmediğinden 6100 Sayılı HMK'nun 353/1. fıkrası (b-1) bendi uyarınca istinaf başvurusunun esastan reddine karar verilmesi gerekmiştir.
+HÜKÜM : Gerekçesi yukarıda açıklandığı üzere;
+1-Davalılar ... ve .... vekilinin tüm istinaf nedenleri yerinde görülmediğinden 6100 Sayılı HMK'nun 353/1. fıkrası (b-1) bendi uyarınca istinaf başvurusunun ESASTAN REDDİNE,
+2-Davalılar .... ve .... tarafından peşin yatırılan 148,60 TL istinaf kanun yoluna başvuru harcı ile 256,20 TL istinaf karar harcının Hazineye gelir kaydına, bakiye 768,45‬ TL istinaf karar harcının bu davalılardan müteselsilen alınarak Hazineye verilmesine,
+3-Yapılan istinaf yargılama giderlerinin davalılar ... ve ... üzerinde bırakılmasına,
+4-Artan istinaf gider avansının yatıranlara iadesine,
+5-Kesin olan işbu kararın taraflara tebliği, avans iade ve harç tahsil işlemlerinin ilk derece mahkemesince yerine getirilmesine,
+İlişkin dosya üzerinde yapılan inceleme sonunda 6100 Sayılı HMK'nun 362. maddesi (1-a) bendi uyarınca 18/04/2023 tarihinde KESİN olmak üzere oy birliği ile karar verildi.

@@ -1,0 +1,49 @@
+SIRA NO: 295 (ÇEKİRDEK)
+DOKÜMAN ID: 548282800
+DERECE: İlk Derece Mahkemesi
+DAİRE / MAHKEME: İstanbul 2. Asliye Ticaret Mahkemesi
+ESAS NO: 2016/302
+KARAR NO: 2019/860
+KARAR TARİHİ: 12.11.2019 (Yıl: 2019)
+ARAMA KELİMESİ: trafik kazası aktüer bilirkişi raporu net tutar
+SAYFA NO: 11
+İNDİRME ZAMANI: 2026-10-25 00:42:16
+HESAP DOĞRULAMA ADAYI: False
+İÇERİK HASH (MD5): b8e190c0c0c07d3bb10fd7d1ce44f730
+================================================================================
+
+T.C.
+İSTANBUL
+2. ASLİYE TİCARET MAHKEMESİ
+ESAS NO : 2016/302 Esas
+KARAR NO : 2019/860
+DAVA : Tazminat (Ölüm Ve Cismani Zarar Sebebiyle Açılan Tazminat)
+DAVA TARİHİ : 21/03/2016
+KARAR TARİHİ : 12/11/2019
+Mahkememizde görülmekte olan Tazminat (Ölüm Ve Cismani Zarar Sebebiyle Açılan Tazminat) davasının yapılan açık yargılaması sonunda,
+GEREĞİ DÜŞÜNÜLDÜ:
+Davacı vekili dava dilekçesinde özetle; 01/02/2016 tarihinde,müvekkilinin; ... ili, ... ilçesi, ... sokaktan ... caddesine doğru 36 nolu evin önünden geçerken arkasından gelen ve aynı yöne giden plakasını alamadığı gri renkli Doblo türü otomobilin müvekkiline çarptığını, söz konusu kaza dolayısıyla kusursuz olan müvekkilinin yaralandığını ve ... ile giderilemeyecek kemik kırıklıkları mevcut olması nedeniyle sürekli olarak kısıtlanma yaşadığını, kazaya ve yaralanmaya sebebiyet veren aracın plakasının müvekkili veya olay yerindeki herhangi bir 3.şahıs tarafından alınma durumu söz konusu olmadığından davayı ... Hesabına açmak zorunda kaldıklarını, kanun, ilgili yönetmelikler ve Yargıtay kararları doğrultusunda davalı ... Hesabının müvekkiline ait daimi sakatlık teminatını ödeme yükümlülüğünün bulunduğunu, bu nedenlerle trafik kazasında bedensel zarar sebebiyle 6100 sayılı yasanın 107.maddesi uyarınca davacıya ödenmesi gereken iş gücü kaybından doğan şimdilik 2.000,00 TL daimi sakatlık tazminatının davalıdan dava tarihinden itibaren işleyecek reeskont avans faizi ile birlikte alınarak davacıya ödenmesine karar verilmesini talep ve dava etmiştir.
+Davalı ... Hesabı vekili cevap dilekçesinde özetle; Kazanın beyan edilen şekilde gerçekleştiğinin kesin olarak ispatlanmasının gerektiğini, davacı tarafından dava öncesinde herhangi bir başvuru yapılmadığını, bu nedenle müvekkili kurumun davanın açılmasına sebebiyet vermiş sayılmaması gerektiğini, müvekkilinin zorunlu mali mesuliyet sigortası teminat limitleri ve plakası tespit edilemediği beyan edilen aracın kusur oranı ile sınırlı sorumlu olduğunu, geçici iş göremezlik döneminin tazminat hesabına dahil edilmemesi gerektiğini, davayı kabul anlamına gelmemek kaydıyla ancak dava tarihinden itibaren yasal temerrüt faizi işletilmesi gerektiğini, müvekkili kurumun sorumluluğunun yasaya dayandığını, ayrıca kazaya sebebiyet veren aracın hususi olduğunu ve davanın temelinin haksız fiil olduğunu, bu nedenlerle davanın reddine karar verilmesini talep etmiştir.
+... 2.Asliye Ticaret Mahkemesine yazılan talimat ile alınan ... Üniversitesi ... Tıp Fakültesi Hastanesi Başhekimliği tarafından sunulan 13/12/2017 havale tarihli bilirkişi raporu ile özetle; Davacının 01/02/2016 tarihinde uğradığı trafik kazası neticesinde yaralandığı, L1 veretebra korpusunda ½ oranında yükseklik kaybının olduğu, şahsın arızasının kalıcı sakatlık niteliğinde olduğu, yaşına göre %31,2 oranında kalıcı sakatlık (sürekli iş görmezlik) niteliğinde olduğu, tedavi giderlerinin SGK tarafından karşılandığı, fatura edilmiş tedavi masraflarının 1.048,02 TL olduğu, ancak bu tür bir yaralanmada fatura edilemeyen masrafların olacağını, bu harcamaların SGK ödeme kapsamı dışında olduğu ve giderlerin 3.000,00 TL olarak değerlendirildiğini, tedavi sırasında veya sonrasında yapılması zorunlu dolaylı harcamaların olduğu, mevcut arızasının iyileşme sürecinin 6 (altı) ayı bulacağını bu süre zarfında kişinin herhangi bir gelir getirecek işte çalışamayacağını, bu sürenin geçici iş görmezlik süresi olarak değerlendirilmesi gerektiğini, şahsın bu sürede bir başkasının bakımına ihtiyaç duyacağını ve bu sürede %100 malul sayılacağını, kişiye verilecek toplam tedavi masraflarının 4.548,02 TL olduğunu ve bu miktara 6 (altı) ay boyunca kazanç kaybının ve bakıcı giderlerinin de eklenmesinin uygun olacağını, hesaplanan giderlerin SGK tarafından karşılanmayacağını, giderlerin sigorta şirketi veya kusurlu tarafça kusur oranında paylaştırılmasının uygun olacağını mütalaa etmiştir.
+Adli Tıp Kurumu Başkanlığı Trafik İhtisas Dairesinin 18/05/2018 tarihli raporu ile özetle; Olay mahalli yolda yaya kaldırımının bulunması halinde davacı ...' un %15 oranında kusurlu olduğu, plakası ve sürücü kimliği bilinmeyen araç sürücüsünün %85 oranında kusurlu olduğu, olay mahalli yolda yaya kaldırımının bulunmaması halinde ise ...' un kusursuz olduğu, plakası ve sürücü kimliği bilinmeyen araç sürücüsünün %100 oranında kusurlu olduğu mütalaa edilmiştir.
+Aktüer bilirkişi Dr. ... tarafından mahkememize sunulan 24/09/2018 tarihli bilirkişi raporunda özetle; Rapor tanzim tarihi 24/09/2018 tarihi itibariyle Adli Tıp Kurumu Trafik İhtisas Dairesi' nin kusur durumunun tespitine ilişkin olarak; ikinci durum kanaatine göre sürücüsü ve plakası tespit edilemeyen araç sürücüsünün %100 oranında kusurlu olduğu ve davacı yaya ...' un kusursuz olduğu, bu durumda davacıya ödenebilir sürekli iş göremezlik tazminat tutarı toplamının 96.469,71 TL olduğu ve, birinci durum kanaatine göre sürücüsü ve plakası tespit edilemeyen araç sürücüsünün %85 oranında kusurlu olduğu ve davacı yaya ...' un %15 oranında kusurlu olduğu, bu durumda davacıya ödenebilir sürekli iş göremezlik tazminat tutarı toplamının 81.999,25 TL olduğu, kaza tarihinde Karayolları Motorlu Araçlar Zorunlu Mali Sorumluluk/ Trafik sigorta poliçesinin kişi başına sakatlanma ve tedavi teminatının ayrı ayrı 310.000,00 TL olduğu mütalaa edilmiştir.
+Davacı vekili mahkememize sunmuş olduğu 02/10/2018 tarihli ıslah dilekçesi ile özetle; Dava dilekçesinde talep edilen alacak tutarını bilirkişi raporu doğrultusunda 79.999,25 TL arttırarak dava değerini toplam 81.999,25 TL olarak neticelendirmiştir.
+Mahkememiz dosyasının 06/11/2018 tarihli celsesi 1 nolu ara kararı uyarınca;
+Dosyaya sunulan adli tıp raporunda tarafların kusur durumu ve kusur oranının net olarak belirlenemediği, olay mahallinde yaya kaldırımı bulunup bulunmamasına göre iki durumlu rapor düzenlendiği anlaşılmakla tarafların kusur durumunun ve kusur oranının tam ve net olarak belirlenebilmesi bakımından mahallinde keşif yapılması için ... Nöbetçi Asliye Ticaret Mahkemesine talimat yazılmasına karar verildiği anlaşılmıştır.
+... 3.Asliye Ticaret Mahkemesine yazılan talimat ile alınan hasar ve kusur bilirkişisi (makine mühendisi )... tarafından sunulan 21/01/2019 tarihli bilirkişi raporu ile özetle; Dava konusu olayda yaya ...' un alt derecede tali kusurlu olup, %15 oranında kusurlu olduğu, plakası ve sürücü kimliği bilinmeyen araç sürücüsünün asli kusurlu olup, %85 oranında kusurlu olduğu mütalaa edilmiştir.
+Tüm dosya kapsamı birlikte değerlendirildiğinde;
+Taraflar arasındaki uyuşmazlığın; Yaralamalı trafik kazası sonucu, tespit edilemeyen aracın davacıya vermiş olduğu bedensel zararlardan sorumlu tutulan ... Hesabından maddi zararların ( sürekli iş göremezlik ) tazminine ilişkin olduğu anlaşılmıştır.
+Tüm dosya kapsamındaki bilgi ve belgeler, taraf delilleri, hüküm kurmaya ve denetime elverişli ... 2.Asliye Ticaret Mahkemesine yazılan talimat ile alınan ... Üniversitesi ... Tıp Fakültesi Hastanesi Başhekimliği tarafından sunulan 13/12/2017 havale tarihli bilirkişi raporu, aktüer bilirkişi Dr. ... tarafından mahkememize sunulan 24/09/2018 tarihli bilirkişi raporu, ... 3.Asliye Ticaret Mahkemesine yazılan talimat ile alınan hasar ve kusur bilirkişisi (makine mühendisi )... tarafından sunulan 21/01/2019 tarihli bilirkişi raporu ile davacı vekilinin ıslah şeklindeki talep artırım dilekçesi doğrultusunda TBK madde 49 ila 55 arası hükümler, 2918 sayılı KTK ve ZMMS Genel Şartlar ile ... Hesabı Yönetmeliği doğrultusunda davalının zarardan sorumlu olduğu anlaşılmakla davanın kabulüne dair aşağıdaki şekilde hüküm kurulmuştur.
+H Ü K Ü M : Gerekçesi yukarıda açıklandığı üzere;
+1-Davanın KABULÜ ile,
+-81.999,25-TL sürekli iş göremezlik tazminatının dava tarihinden itibaren işileyecek yasal faizi ile birlikte davalıdan alınarak davacıya verilmesine,
+2-Alınması gerekli 5.601,36 TL harçtan peşin alınan 29,20 TL harç ile 274,00 TL ıslah harcının mahsubu ile bakiye 5.298,16 TL harcın davalıdan alınarak hazineye irat kaydına,
+3-Davacı tarafça yatırılan 29,20 TL peşin harç ve 274,00 TL ıslah harcı olmak üzere toplam 303,20 TL harcın davalıdan alınarak davacıya verilmesine,
+4-Davacı tarafça yapılan posta, tebligat ve talimat masrafı 596,40 TL, bilirkişi ücreti 1.150,00 TL, ATK rapor ücreti 314,50 TL olmak üzere toplam 2.060,90 TL yargılama giderinin davalıdan alınarak davacıya verilmesine,
+5-Davacı taraf vekille temsil olunduğundan Avukatlık Asgari Ücret Tarifesi uyarınca hesap ve taktir olunan 9.309,94 TL vekalet ücretinin davalıdan alınarak davacıya verilmesine,
+6-Fazla yatan avans var ise Adalet Bakanlığı HMK gider avansı tarifesinin 5. maddesine göre karar kesinleştikten sonra talep halinde elektronik ortamda hesap numarası var ise bu numara üzerinden yok ise PTT aracılığı ile adreste ödemeli gönderilmesine,
+Dair, davacı vekilinin yüzüne karşı, davalı tarafın yokluğunda, kararın tebliğ tarihinden itibaren 2 HAFTA içerisinde mahkememize ve bulunulan yer Asliye Ticaret mahkemesine dilekçe ile başvurmak koşuluyla istinaf yasa yolu açık olmak üzere verilen karar açıkça okunup anlatıldı. 12/11/2019
+Katip
+e-imzalıdır
+Hakim
+e-imzalıdır

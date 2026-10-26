@@ -1,0 +1,66 @@
+SIRA NO: 343 (ÇEKİRDEK)
+DOKÜMAN ID: 1104516600
+DERECE: İlk Derece Mahkemesi
+DAİRE / MAHKEME: Ankara 9. Asliye Ticaret Mahkemesi
+ESAS NO: 2022/34
+KARAR NO: 2024/119
+KARAR TARİHİ: 15.02.2024 (Yıl: 2024)
+ARAMA KELİMESİ: sürekli iş göremezlik yıllık ücret bilinen gelir
+SAYFA NO: 3
+İNDİRME ZAMANI: 2026-10-25 00:59:04
+HESAP DOĞRULAMA ADAYI: False
+İÇERİK HASH (MD5): 77feb14df869415683835dd9d1ab5bf5
+================================================================================
+
+T.C. ANKARA 9. ASLİYE TİCARET MAHKEMESİ
+TÜRK MİLLETİ ADINA
+Yargılama Yapmaya ve Hüküm Vermeye Yetkili
+ANKARA 9. ASLİYE TİCARET MAHKEMESİ
+GEREKÇELİ KARAR
+ESAS NO : 2022/415 Esas
+KARAR NO : 2024/169
+HAKİM : ... ...
+KATİP : ... ...
+DAVACI : ... - ...
+VEKİLİ : Av. ... - ...
+DAVALI : ... - ...
+VEKİLLERİ : Av. ... - ...
+Av. ... - ..
+DAVA : Tazminat (Ölüm Ve Cismani Zarar Sebebiyle Açılan Tazminat)
+DAVA TARİHİ : 05/05/2017
+KARAR TARİHİ : 29/02/2024
+YAZIM TARİHİ : 29/03/2024
+Mahkememizde görülmekte olan Tazminat (Ölüm Ve Cismani Zarar Sebebiyle Açılan Tazminat) davasının yapılan açık yargılaması sonunda,
+DAVA:
+Davacı vekili dava dilekçesinde özetle; 26.08.2016 tarihinde meydana gelen trafik kazasında yaralanan, davacı
+... vekili tarafından, 100,00 TL (geçici- daimi iş göremezlik)
+maddi tazminatın, temerrüd tarihinden itibaren işleyecek avans faizi ile birlikte davalı
+sigorta şirketinden tahsilini talep ve dava etmiştir.
+CEVAP:
+Davalı Sigorta şirketi davaya cevap vermemiştir.
+DELİLLER:
+-Kaza tespit tutanağı, hasar dosyası, ... cevabi yazısı, hastane kayıtları,
+-ATK maluliyet raporu,
+-Bilirkişi raporları: 18/08/2022 tarihli bilirkişi raporunda özetle; Davacı vekilince; davacı ... lehine 100,00 TL (geçici- daimi iş göremezlik) maddi tazminat talebinde bulunulduğu, Dava konusu olayın meydana gelmesinde davalıya ZMMS poliçesi ile sigortalı ... plakalı otomobil sürücüsü ...’in % 100 oranında kusurlu olduğu, davacı ...’ın kusursuz olduğu tespit edildiğinden, hesaplanan maddi zarardan TBK 52nci maddesi kapsamında kusur indirimi yapılmadığı, 3. Davacı ...’ın 05.11.2016 tarihinde geçirmiş olduğu trafik kazası sonucu yaralanması nedeniyle, Çalışma Gücü… Yönetmeliğine göre vücut genel çalışma gücünden % 7,2 kaybettiği, Özürlülük Ölçütü Sınıflandırması Ve Özürlülere Verilecek Sağlık Kurulu Raporları Hakkında Yönetmeliğine göre, özür oranının %4 olduğu, 4 aya süre ile iş göremezlik halinde kaldığı tespit edildiği, ...’ın son dönem içtihatları gereğince Özürlülük Ölçütü… Yönetmeliği ile tespit edilen % 4 maluliyet oranına göre sürekli iş göremezlik tazminatı hesaplandığı, Davacı lehine 5.302,76 TL geçici iş göremezlik tazminatı hesaplandığı, Mahkemenin 28.03.2019 tarihli kararının sadece davalı tarafça istinaf edildiği, davacı tarafından istinaf edilmediği anlaşılmış olup, Mahkemece hükme esas alınan 02.01.2019 tarihli bilirkişi raporu verilerine göre, 2019 yılı asgari ücret verilerine göre hesaplama yapıldığı, İşbu raporda,.... ve 28.04.2022 tarihli kaldırma kararı doğrultusunda, önce 1,8 teknik faiz kullanılarak 2019 yılı asgari ücret verilerine göre hesaplama yapıldığı, Mahkemece 1,8 teknik faiz kullanılarak 2019 yılı asgari ücret verilerine göre %4 maluliyet oranı esas alınarak hesaplama yapılması gerektiğinin kabulü halinde, davacı lehine 14.643,81 TL sürekli iş göremezlik tazminatı hesaplandığı ancak ... Dairesinin son dönem emsal kararları gereğince, TRH-2010 yaşam tablosu kullanılarak davacının bakiye ömrünün belirlendiği, tazminat hesabında 1,8 teknik faiz kullanılmadan progresif rant yöntemine göre sürekli iş göremezlik hesaplaması yapıldığı, Mahkemece progresif rant yöntemine göre, teknik faiz kullanılmadan hesaplama yapılması gerektiğinin kabulü halinde, davacı lehine 19.537,75 TL sürekli iş göremezlik tazminatı hesaplandığı, Mahkemenin 28.03.2019 tarihli kararında, hüküm altına alınan maddi tazminata 18.04.2017 temerrüd tarihinden itibaren avans faiz işletilmesine karar verildiğinin tespit edildiği belirtilmiştir.
+07/04/2023 tarihli bilirkişi ek raporunda özetle; Davacı vekilince; davacı ... lehine 100,00 TL (geçici- daimi iş göremezlik) maddi tazminat talebinde bulunulduğu, Dava konusu olayın meydana gelmesinde davalıya ZMMS poliçesi ile sigortalı ... plakalı otomobil sürücüsü ...’in % 100 oranında kusurlu olduğu, davacı ...’ın kusursuz olduğu tespit edildiğinden, hesaplanan maddi zarardan TBK 52 inci maddesi kapsamında kusur indirimi yapılmadığı, Davacı ...’ın 05.11.2016 tarihinde geçirmiş olduğu trafik kazası sonucu yaralanması nedeniyle, Çalışma Gücü… Yönetmeliğine göre vücut genel çalışma gücünden % 7,2 kaybettiği, Özürlülük Ölçütü Sınıflandırması Ve Özürlülere Verilecek Sağlık Kurulu Raporları Hakkında Yönetmeliğine göre, özür oranının % 4 olduğu, 4 aya süre ile iş göremezlik halinde kaldığı tespit edildiği, ...’ın son dönem içtihatları gereğince Özürlülük Ölçütü… Yönetmeliği ile tespit edilen % 4 maluliyet oranına göre sürekli iş göremezlik tazminatı hesaplandığı, Davacı lehine 5.302,76 TL geçici iş göremezlik tazminatı hesaplandığı, Mahkemenin 28.03.2019 tarihli kararının sadece davalı tarafça istinaf edildiği, davacı tarafından istinaf edilmediği anlaşılmış olup, kök raporda mahkemece hükme esas alınan 02.01.2019 tarihli bilirkişi raporu verilerine göre, 2019 yılı asgari ücret verilerine göre hesaplama yapıldığı, Kök raporumuzda, .... ve 28.04.2022 tarihli kaldırma kararı doğrultusunda, önce 1,8 teknik faiz kullanılarak 2019 yılı asgari ücret verilerine göre hesaplama yapıldığı, Mahkemece 1,8 teknik faiz kullanılarak 2019 yılı asgari ücret verilerine göre %4 maluliyet oranı esas alınarak hesaplama yapılması gerektiğinin kabulü halinde, kök raporda davacı lehine 14.643,81 TL sürekli iş göremezlik tazminatı hesaplandığı, Ancak, .... Dairesinin son dönem emsal kararları gereğince, TRH-2010 yaşam tablosu kullanılarak davacının bakiye ömrünün belirlendiği, tazminat hesabında 1,8 teknik faiz kullanılmadan progresif rant yöntemine göre sürekli iş göremezlik hesaplaması yapıldığı, Mahkemece progresif rant yöntemine göre, teknik faiz kullanılmadan hesaplama yapılması gerektiğinin kabulü halinde, 2019 asgari ücret verilerine göre davacı lehine 19.537,75 TL sürekli iş göremezlik tazminatı hesaplandığı, bu ek raporda, davacı vekilinin itirazlarının incelenmesi sonucunda kök raporda değişiklik yapılmasını gerektirecek bir husus tespit edilmediği, ancak Mahkemenin aksi kanaatte olması halinde, işbu rapor tarihi bilinen dönem sonu kabul edilerek, davacı vekilinin itirazları doğrultusunda 2023 yılı asgari ücret miktarlarına göre hesaplama yapıldığı, Mahkemece, davacı vekilinin itirazları doğrultusunda, 2023 yılı asgari ücret verilerine göre hesaplama yapılması gerektiğinin kabulü halinde, davacı lehine 63.440,21 TL sürekli iş göremezlik tazminatı hesaplandığı, Mahkemenin 28.03.2019 tarihli kararında, hüküm altına alınan maddi tazminata 18.04.2017 temerrüd tarihinden itibaren avans faiz işletilmesine karar verildiğinin tespit edildiği belirtilmiştir.
+DELİLLERİN DEĞERLENDİRİLMESİ, GEREKÇE VE KABUL:
+Dava, 26/08/2016 tarihinde meydana gelen trafik kazasına dayalı olarak sürekli ve geçici iş göremezlik tazminatı talebinden ibarettir.
+Mahkememizce verilen 28/03/2019 tarih ve ... ., sayılı gerekçeli karar, .... ., sayılı ilamı ile kaldırılmasına karar verilmiş olmakla; mahkememizin yukarıdaki esasına kaydı yapılıp, kaldırma kararı doğrultusunda eksiklikler giderilmiştir.
+... kaldırma kararının gerekçesinde: "Somut olayda hükme esas alınan aktüer raporunda, davacının 26/08/2016 kaza tarihinden itibaren 4 aylık geçici iş göremezlik zararının kaza tarihinde geçerli evli eşi çalışmayanlar için geçerli ... dahil net asgari ücret üzerinden, 27/12/2016 tarihinden, rapor tarihinde 2019 yılı asgari ücret yıl sonuna kadar belirlenebilir durumda olduğundan 31/12/2019 tarihine kadar ki bilinen dönem sürekli iş göremezlik zararına yönelik hesaplamanın ise bu dönemlere ilişkin evli eşi çalışmayanlar için geçerli ... dahil net asgari ücret tutarları üzerinden yapılması gerekirken rapor tarihindeki gelir esas alınarak hesaplanması hatalı olmuştur. Hal böyle olunca mahkemece, aktüer hesaplama yöntemine aykırı, yeterli ve denetime elverişli olmayan bu rapora göre eksik inceleme ile hüküm kurulduğu anlaşılmıştır. Eksik inceleme ile hüküm kurulamaz.
+Açıklanan nedenlerle HMK'nun 355. maddesi gereğince davalı vekilinin istinaf sebepleri sınırlı olarak ve kamu düzenine aykırılıklar resen gözetilerek yapılan inceleme neticesinde, davalı vekilinin istinaf talebinin belirtilen nedenlerle kabulüne, mahkemece usuli kazanılmış haklar korunmak üzere davacının 26/08/2016 kaza tarihinden itibaren 4 aylık geçici iş göremezlik zararının kaza tarihinde geçerli evli eşi çalışmayanlar için geçerli ... dahil net asgari ücret üzerinden, 27/12/2016 tarihinden 31/12/2019 tarihine kadar ki bilinen dönem sürekli iş göremezlik zararına yönelik hesaplamanın ise bu dönemlere ilişkin evli eşi çalışmayanlar için geçerli ... dahil net asgari ücret tutarları üzerinden, 01/01/2020 tarihinden davacının muhtemel ömür süresi sonuna kadar pasif dönem hesabının, davacının istinafı olmamakla ... uygulanmaksızın bilinen en son asgari ücretin rapordaki gibi 1,8 teknik faiz tatbiki suretiyle hesabının yapılması amacıyla aktüer bilirkişiden hüküm kurmaya ve denetime elverişli ek rapor alınması, ek raporun dosyaya sunulmasından sonra tüm deliller değerlendirilerek oluşacak sonuca göre karar verilmesi gerekirken yazılı olduğu şekilde eksik incelemeye dayalı hüküm tesisi isabetli görülmediğinden; yerel mahkeme kararının kaldırılması ve dosyanın belirtilen gerekçeyle yerel mahkemesine gönderilmesine, kaldırma ve gönderme sebebine göre davalı vekilinin sair istinaf sebeplerinin şimdilik incelenmesine yer olmadığına karar vermek gerekmiştir." denilmiş olmakla bilirkişiden bu hususta yeni bir rapor alınmıştır.
+Tüm dosya kapsamı ve deliller, davacıya ait tıbbi tedavi belgeleri, kazaya karışan araçların kusur durumu, davacıya ilişkin tespit edilen maluliyet oranları ve süresi, hesap bilirkişisi raporu kapsamı hep birlikte göz önünde bulundurulduğunda; 26/08/2016 tarihinde dava dışı sürücü ... yönetimindeki davalı ... ZMMS poliçesiyle sigortalı ... plakalı kamyonetle Kastamonu istikametinden ... istikametine seyri sırasında 44.km de durarak geri manevra yaptığı sırada arkasında bulunan yaya geçidinden yolun karşı tarafına geçmeye çalışan davacı yaya ...'a çarparak yaralanmasına sebebiyet verdiği, davacının yaralanması nedeniyle % 4 oranında sürekli ve 4 ay süreyle geçici iş göremezlik halinde kaldığı, meydana gelen olay nedeniyle davacının kusursuz olup davalı sigortanın sigortalısı araç sürücüsünün %100 oranında kusurlu bulunduğu anlaşılmakla 07/04/2023 tarihli hesap bilirkişisinin raporunda yer alan hesaplamalardan ... kaldırma kararı doğrultusunda usuli kazanılmış haklar göz önünde bulundurulmak suretiyle davacının iş bu dava ile 5.302,76 TL geçici iş göremezlik ve 15.011,44 TL sürekli iş göremezlik tazminatı talep edebileceği kabul edilmiş ve davanın kısmen kabulüne dair aşağıdaki şekilde hüküm kurmak gerekmiştir.
+HÜKÜM: Yukarıda açıklanan nedenlerle;
+Davanın KISMEN KABUL KISMEN REDDİNE,
+5.302,76 TL geçici iş göremezlik ve 15.011,44 TL sürekli iş göremezlik tazminat alacağının davalı sigorta şirketinden temerrüt tarihi olan 18/04/2017 tarihinden işleyecek avans faizi ile birlikte tahsili ile davacı tarafa verilmesine,
+Bu karar nedeniyle alınması gerekli 1.387,66 TL harçtan peşin alınan 31,40 TL harç ile 80,00 TL ıslah harcı toplamı 111,40 TL'nin mahsubu ile bakiye 1.276,26 TL harcın davalıdan alınarak hazineye gelir kaydına,
+Davacı iş bu davada kendisini vekil ile temsil ettirdiğinden AAÜT gereğince hesaplanan 17.900,00 TL vekalet ücretinin davalıdan alınarak davacıya verilmesine,
+Davalı iş bu davada kendisini vekil ile temsil ettirdiğinden AAÜT gereğince hesaplanan 2.934,40 TL vekalet ücretinin davacıdan alınarak davalıya verilmesine,
+Davacı tarafından yapılan 2.171,40 TL yargılama giderinden davanın kabul ve ret oranına göre takdiren 1.897,33 TL'si ile 31,40 TL başvurma, 31,40 TL peşin harç ve 80,00TL ıslah harcı toplamı 2.040,13 TL yargılama giderinin davalıdan alınarak davacıya verilmesine, artan kısmın davacı üzerinde bırakılmasına,
+Davacı tarafından yatırılan ve kullanılmayan gider avansının karar kesinleştiğinde davacıya İADESİNE,
+Davalı tarafından yapılan 136,60 TL yargılama giderinden davanın kabul ve ret oranına göre takdiren 17,24 TL'sinin davacıdan alınarak davalıya verilmesine,
+Davalı tarafından yatırılan ve kullanılmayan gider avansının karar kesinleştiğinde davacıya İADESİNE,
+Dair, Davacı Vekili Av. ...'ın yüzüne karşı kararın tebliğinden itibaren 2 haftalık süre içerisinde .... Bölge Adliye Mahkemesinde İstinaf yolu açık olmak üzere verilen karar açıkça okunup usulen anlatıldı.29/02/2024
+Katip ...
+¸e-imzalıdır.
+Hakim ...
+¸e-imzalıdır.

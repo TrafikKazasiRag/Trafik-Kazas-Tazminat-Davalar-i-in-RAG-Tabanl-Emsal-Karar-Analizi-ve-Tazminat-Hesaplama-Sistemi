@@ -1,0 +1,57 @@
+SIRA NO: 385 (ÇEKİRDEK)
+DOKÜMAN ID: 1156639300
+DERECE: BAM (İstinaf)
+DAİRE / MAHKEME: Ankara Bölge Adliye Mahkemesi 26. Hukuk Dairesi
+ESAS NO: 2023/566
+KARAR NO: 2025/783
+KARAR TARİHİ: 12.06.2025 (Yıl: 2025)
+ARAMA KELİMESİ: sürekli iş göremezlik yıllık ücret bilinen gelir
+SAYFA NO: 8
+İNDİRME ZAMANI: 2026-10-25 01:11:19
+HESAP DOĞRULAMA ADAYI: False
+İÇERİK HASH (MD5): 0dfaeff7982ca3eea0cef7a2278e8f41
+================================================================================
+
+T.C. ANKARA BÖLGE ADLİYE MAHKEMESİ
+26. HUKUK DAİRESİ Esas-Karar No: 2023/566 - 2025/783
+T.C.
+ANKARA
+BÖLGE ADLİYE MAHKEMESİ
+26. HUKUK DAİRESİ
+ESAS NO : 2023/566
+KARAR NO : 2025/783
+T Ü R K M İ L L E T İ A D I N A
+K A R A R
+İNCELENEN KARARIN
+MAHKEMESİ : ANKARA 6. ASLİYE TİCARET MAHKEMESİ
+TARİHİ : 31.01.2023
+NUMARASI : 2022/451 Esas 2023/69 Karar
+DAVANIN KONUSU : Trafik Kazası Nedeniyle Maddi Tazminat
+KARAR TARİHİ : 12.06.2025
+GEREKÇELİ KARAR
+YAZILMA TARİHİ : 08.07.2025
+İlk derece mahkemesince verilen karara karşı davacı vekili tarafından süresi içinde istinaf kanun yoluna başvurulmuş olup, başvuru şartlarının yerine getirildiği dosya üzerinde yapılan ön inceleme ile anlaşılmakla yapılan istinaf incelemesi sonunda;
+TARAFLARIN İDDİA VE SAVUNMALARI
+Davacı vekili, 06.09.2010 tarihinde dava dışı sürücünün idaresinde olup davalı sigorta şirketine zorunlu mali sorumluluk sigortası ile sigortalı ...plakalı aracın davacının idaresindeki motosiklete çarpması sonucunda davacının yaralandığını ve malul kaldığını, kazanın meydana gelmesinde sigortalı araç sürücüsünün % 100 oranında kusurlu olduğunu, davacının SRC belgesine ve Psikoteknik Yeterlilik Belgesine sahip E ve D sınıfı ehliyeti olan uzun yol ağır vasıta nakliye şoförlüğü yapmakta olup gelirinin asgari ücretin çok üzerinde olduğunu, kazada yaralanması nedeniyle davacı için sürekli ve geçici iş göremezlik tazminatının tahsili için dava açıldığını, sigorta şirketine başvurudan sonuç alınamadığını belirterek, fazlaya ilişkin hakları saklı kalmak kaydıyla 1.000,00 TL sürekli ve geçici iş göremezlik tazminatını davalı sigorta şirketinden temerrüt tarihinden itibaren faizi ile birlikte tahsiline karar verilmesini istemiş, yargılama sırasında talebini 168.631,38 TL olarak ıslah etmiştir.
+Davalı vekili, davacı tarafın davadan önce başvuru şartlarını yerine getirmediğini, davalı sigorta şirketinin sorumluluğunun sigortalısının kusuru ve poliçe limiti ile sınırlı olduğunu, kalıcı maluliyet tazminatı ve maluliyet oranı belirlenirken bilinen ücretin, belirlenebilir ücret yoksa asgari ücretin baz alınması gerektiğini, geçici iş göremezlik tazminatının poliçe kapsamında olmadığını belirterek davanın reddini savunmuştur.
+İLK DERECE MAHKEMESİ KARARI
+Mahkemece, 05.11.2019 tarihli ve 2017/241 Esas, 2019/712 Karar sayılı kararı ile davanın kabulüne ilişkin olarak verilen karara karşı davalı vekili ve katılma yoluyla davacı vekili tarafından istinaf başvurusunda bulunulması üzerine Dairenin 26.05.2022 tarihli ve 2020/150 Esas, 2022/1381 Karar sayılı kararı ile kararın kaldırılmasına karar verilmiş, kaldırma kararından sonra yapılan yargılama sonunda davanın trafik kazasından kaynaklanan yaralanma nedeniyle geçici iş göremezlik ve sürekli iş göremezlik tazminatı talebine ilişkin olduğu, Adli Tıp Kurumu Ankara Trafik İhtisas Dairesinden alınan 16.02.2018 tarihli raporda kazanın meydana gelmesinde sigortalı araç sürücüsünün % 100 oranında kusurlu olduğu, davacının kusursuz olduğunun belirtildiği, ... Üniversitesi Tıp Fakültesi Adli Sağlık Kurulu tarafından Çalışma Gücü ve Meslekte Kazanma Gücü Kaybı Oranı Tespit İşlemleri Yönetmeliği uyarınca düzenlenen 15.01.2018 tarihli raporda maluliyetin belirlendiği, aktüer bilirkişi tarafından ibraz edilen 07.12.2022 tarihli ek rapordaki tespit ve hesaplamalar esas alınarak davanın kısmen kabulü ile 739,35 TL geçici iş göremezlik, 103.399,70-TL sürekli iş göremezlik tazminatı olmak üzere toplam 104.139,05 TL maddi tazminatın 29.03.2017 tarihinden itibaren işleyecek yasal faizi ile birlikte davalıdan tahsili ile davacıya ödenmesine, fazlaya ilişkin istemin reddine karar verilmiş, hükme karşı davacı vekili tarafından istinaf başvurusunda bulunulmuştur.
+İLERİ SÜRÜLEN İSTİNAF SEBEPLERİ
+Davacı vekili istinaf dilekçesinde, mahkemece davacının tazminata esas ücretinin asgari ücret olarak belirlenmesinin usul ve yasaya aykırı olduğunu, davacının gelirinin asgari ücretin 2,69 katı olduğunu, davacının asgari ücret aldığının kabul edilemez olduğunu, davacının olay öncesinde ve olay sırasında ağır vasıta şoförü olduğunu, sürekli yurt dışına çıktığını, davacının gerçek ücretinin bordrolarda gösterilen ve SGK’ya bildirilen ücretinin üzerinde olduğunu, yargılama sırasında asgari ücrette artış meydana geldiğinden bu hususta ek rapor alınmadan geçmiş dönem verileri üzerinden hüküm kurulmasının hatalı olduğunu, hükme esas alınan aktüer raporunun 07.12.2022 tarihli olsa da 2019 yılı verileri esas alınarak hesaplama yapıldığını, önceki karara karşı istinaf başvurusunda bulunulduğunu, kaldırma kararında taraflarının da istinaf başvurusunun kabul edildiğinden asgari ücretteki artışlar da nazara alınarak hesap raporu alınması ve buna göre karar verilmesi gerektiğini, asgari ücretin kamu düzeninden olduğunu ve re’sen gözönüne alınması gerektiğini, davacının maluliyet oranının % 15,2 olduğunun gerekçede belirtildiğini, bu oran esas alınarak hesaplama yapılması gerektiğini, gerekçe ile hüküm arasındaki çelişkinin giderilmesi gerektiğini, ilk derece mahkemesi gerekçesinde tespit edilen % 15,2 maluliyet oranına yönelik davalı tarafın istinaf itirazı olmadığından gerekçeye dair bu tespit yönünden davacı lehine kazanılmış hak oluştuğunu, hesaplamanın bu oranı üzerinden yapılması gerektiğini belirterek istinaf başvurusunda bulunmuştur.
+DELİLLERİN DEĞERLENDİRİLMESİ ve GEREKÇE
+6100 sayılı HMK'nın 355. maddesi uyarınca ileri sürülen istinaf sebepleri ile sınırlı olarak dosya içindeki bilgi ve belgeler, Mahkeme kararının gerekçesi, dayanılan delillerin tartışılıp değerlendirilmesi ile yapılan inceleme sonucunda;
+Davacı vekili, 06.09.2010 tarihinde dava dışı sürücünün idaresinde olup davalı sigorta şirketine zorunlu mali sorumluluk sigortası ile sigortalı aracın davacının idaresindeki motosiklete çarpması sonucunda davacının ağır şekilde yaralandığını belirterek geçici iş göremezlik tazminatı ve sürekli iş göremezlik tazminatı talebinde bulunmuş, mahkemece Dairenin 26.05.2022 tarihli ve 2020/150 Esas, 2022/1381 Karar sayılı kaldırma kararı uyarınca yapılan yargılama sonunda davanın kısmen kabulüne karar verilmiş, karara karşı davacı vekili tarafından istinaf başvurusunda bulunulmuştur.
+Dosya içerisindeki bilgi ve belgelere, mahkeme kararının gerekçesinde dayanılan delillerin tartışılıp değerlendirilmesinde, 06.09.2010 tarihinde davalı sigorta şirketine zorunlu mali sorumluluk sigortası ile sigortalı aracın davacı idaresindeki motosiklete çarpması sonucunda davacının yaralandığı, geçici iş göremezlik tazminatı ve sürekli iş göremezlik tazminatı talebiyle dava açıldığı, davacı hakkında ... Üniversitesi Tıp Fakültesi Hastanesi Adli Sağlık Kurulu tarafından Çalışma Gücü ve Meslekte Kazanma Gücü Kaybı Oranı Tespit İşlemleri Yönetmeliği uyarınca düzenlenen 15.01.2018 tarihli raporda davacının olay tarihindeki yaşına göre % 14,1 oranında meslekte kazanma gücünü kaybettiğinin ve iyileşme süresinin 3 ay olduğunun belirlendiği, bu maluliyet oranı esas alınarak düzenlenen aktüer bilirkişinin 07.12.2022 tarihli ek raporunda davacının aylık kazancı asgari ücret kabul edilerek hesaplama yapıldığı anlaşılmıştır. Dairenin 26.05.2022 tarihli ve 2020/150 Esas, 2022/1381 Karar sayılı kaldırma kararı uyarınca yapılan araştırma ve incelemeye göre davacının olay tarihinden önce SGK'lı olarak çalıştığı, çalışmış olduğu işyerinden gelirine ilişkin belgeler getirtildiği, buna göre asgari ücretin üzerinde gelir elde ettiği iddiasının kanıtlanamadığı, öte yandan mahkemece verilen 05.11.2019 tarihli karar ile hüküm altına alınan maddi tazminatın miktarına ilişkin olarak davacı tarafça istinaf itirazı ileri sürülmediği de nazara alınmak suretiyle gerekçeli ve denetime elverişli aktüer bilirkişi ek raporundaki hesaplamalar esas alınarak karar verilmiş olmasında isabetsizlik görülmemiştir.
+6100 sayılı HMK'nın 355. maddesi uyarınca ileri sürülen istinaf nedenleri ile sınırlı olarak yapılan inceleme sonucunda davacı vekilinin açıklanan nedenlerle yerinde görülmeyen istinaf başvurusunun aynı Kanun'un 353/1-b-1. maddesi uyarınca esastan reddine karar vermek gerekmiştir.
+HÜKÜM : Gerekçesi yukarıda izah edildiği üzere;
+1-Davacı vekilinin istinaf başvurusunun Hukuk Muhakemeleri Kanunu'nun 353/1.b.1 maddesi gereğince ESASTAN REDDİNE,
+2-Harçlar Kanunu gereğince davacıdan alınması gereken 615,40 TL istinaf karar ve ilam harcından peşin alınan 179,90 TL'nin mahsubu ile kalan 435,50 TL harcın davacıdan tahsili ile Hazineye gelir olarak kaydedilmesine,
+3-Başvuran taraflarca yapılan istinaf yargılama giderlerinin üzerinde bırakılmasına,
+4-Taraflarca yatırılan delil ve gider avansından kullanılmayan kısmın HMK'nın 333.maddesi uyarınca karar kesinleştiğinde yatırana iadesine,
+5-Kararın taraflara tebliğine,
+Dosya üzerinden yapılan inceleme sonunda HMK'nın 361.maddesi gereğince gerekçeli kararın tebliğinden itibaren iki (2) haftalık süre içerisinde Yargıtay'da TEMYİZ YOLU AÇIK olmak üzere 12.06.2025 tarihinde oy birliği ile karar verildi.
+Başkan
+Üye
+Üye
+Katip
+* Bu belge, 5070 sayılı Kanun hükümleri gereğince elektronik imza ile imzalanmıştır.

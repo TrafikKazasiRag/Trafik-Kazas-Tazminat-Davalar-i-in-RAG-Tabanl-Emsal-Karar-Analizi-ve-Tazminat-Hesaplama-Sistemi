@@ -1,0 +1,65 @@
+SIRA NO: 286 (ÇEKİRDEK)
+DOKÜMAN ID: 916427800
+DERECE: İlk Derece Mahkemesi
+DAİRE / MAHKEME: İstanbul 11. Asliye Ticaret Mahkemesi
+ESAS NO: 2019/535
+KARAR NO: 2023/591
+KARAR TARİHİ: 17.07.2023 (Yıl: 2023)
+ARAMA KELİMESİ: trafik kazası aktüer bilirkişi raporu net tutar
+SAYFA NO: 10
+İNDİRME ZAMANI: 2026-10-25 00:39:06
+HESAP DOĞRULAMA ADAYI: True
+İÇERİK HASH (MD5): 77db3d08f639a19e32c8cedc38634379
+================================================================================
+
+T.C.
+İSTANBUL
+11. ASLİYE TİCARET MAHKEMESİ
+ESAS NO:2019/535 Esas
+KARAR NO:2023/591
+DAVA:Tazminat
+DAVA TARİHİ:29/08/2019
+KARAR TARİHİ:17/07/2023
+Mahkememizde görülmekte olan Tazminat (Haksız Fiilden Kaynaklanan) davasının yapılan açık yargılaması sonunda,
+GEREĞİ DÜŞÜNÜLDÜ:
+Davacı vekili dava dilekçesinde özetle; 30/01/2017 tarihinde İstanbul, ..., Merkez Mahallesi’nde, dava dışı sürücü ...'ın sevk ve idaresinde bulunan, davalı ... A.Ş.’ye Karayolları Motorlu Araçlar Zorunlu Mali Sorumluluk (Trafik) Sigortası poliçesi ile sigortalı, ... plaka numaralı, ... marka, beyaz renkli, 2010 model otomobil ile, ... cihetinden gelip, ... Caddesi’ni takiben Sütlüce istikametine seyretmekte iken, olay mahalli trafik ışıkları ile kontrollu yaya geçidini kullanarak, yolda karşıdan karşıya geçmekte olan, davacıya yaya olarak çarpmış olduğunu, kaza sonucunda, davacı yaya ..., Adli Tıp Kurumu, 2. Adli Tıp İhtisas Kurulu’nun ... Karar No.lu ve 10/05/2022 tarihli raporunda belirtildiği üzere, tüm vücut engellilik oranı % 4 olacak ve iyileşme (iş göremezlik) süresi, olay tarihinden itibaren 3 aya kadar uzayabilecek şekilde yaralanmış olduğunu, davacının, bu sebeple, davalı sigorta şirketinden tazminat talebinde bulunduğunu belirterek, fazlaya dair hakları saklı kalmak kaydıyla şimdilik 1.000,00-TL maddi tazminatın olay tarihi olan 30.01.2017 tarihinden itibaren işleyecek avans faizi ile birlikte tahsilini talep ve dava etmiştir.
+Davacı vekili mahkememize sunmuş olduğu 27.05.2023 tarihli ıslah dilekçesi ile; 1.000-TL olan davaya konu maddi tazminat talebimizi 97.237,88 TL arttırarak toplam 98.237,88 TL'nin olay tarihi olan 30/01/2017 'ten itibaren işleyecek faizi ile davalıdan tahsilini talep etmiş ve harcını da yatırmıştır.
+Davalı vekili cevap dilekçesinde özetle; 6704 sayılı torba yasa kapsamında, trafik kazası sonucu zarar gören kişilerin öncelikle zararlarının tazmini için sigorta şirketine başvurmaları mecburiyeti getirilmiş bulunmaktadır. dava açılmadan önce sigorta şirketine başvuru şartı yerine getirilmediğinden davanın öncelikle usulden reddi gerektiğini, huzurda görülmekte olan davanın öncelikli olarak, zamanaşımı nedeniyle reddine karar verilmesini, kazanın meydana gelmesinde yol ya da araç kusurunun (teknik arıza) bulunup bulunmadığının tespitinin yapılması ve tazminat hesabı yapılması halinde şartları var ise tazminat tutarından birlikte kusur indiriminin yapılması gerektiğini, davacının dava konusu kaza nedeniyle maluliyeti bulunup bulunmadığı hususu adli tıp kurumu 3. ihtisas dairesi tarafından erişkinler için engellilik değerlendirmesi hakkında yönetmelik doğrultusunda incelenmesi gerektiğini, dava konusu kaza nedeniyle tazminat hesabı yapılmasına karar verilmesi halinde maluliyet hesabının, sigorta aktüerleri yönetmeliği uyarınca hazine müsteşarlığınca yetkilendirilen aktüerler listesine kayıtlı, lisanslı aktüerler tarafından ve trh 2010 ulusal mortalite tablosunda yer alan verilere göre yapılması gerekmekte olduğunu, tedavi giderleri ve tedavi giderleri kapsamında sayılan geçici iş görmezliğe ilişkin tazminat, sigorta poliçesi teminatı dışında olup müvekkil şirketin bu kalemler yönünden sorumluluğu bulunmadığını, davacı tarafın dava konusu kaza nedeniyle elde ettiği gelir ve tazminatların mahsubu gerektiğini, her durumda, müvekkili şirketin sorumluluğu poliçede belirtilen limit ile sınırlı olduğunu, davayı kabul anlamına gelmemek kaydıyla, dava konusu tazminat “ancak dava tarihinden itibaren” işleyecek “yasal faiz” ile birlikte talep edilebileceğini belirterek, cevap dilekçesinde belirtilen nedenlerle davanın reddini talep etmiştir.
+DELİLLER:
+Davacı taraf delil olarak; adli tıp kurumu raporu, davalı sigorta şirketine başvuru evrağı, ... Asliye Ceza Mahkemesinin ... sayılı dosyası, tanık, keşif, bilirkişi incelemesi ve sair delillere dayanmıştır.
+Davalı taraf delil olarak; sigorta poliçesi, müvekkili şirket kayıtları, SGK kayıtları, adli tıp raporu, ... Asliye Ceza Mahkemesinin ... sayılı dosyası, bilirkişi incelemesi, keşif ve her türlü yasal delillere dayanmıştır.
+Bilirkişi raporu:
+Dosyanın teknik bilgi ve bilirkişi incelemesi gerektirmesi nedeniyle;
+Dosya kusur raporu alınmak üzere İstanbul Adli Tıp Kurumu Trafik İhtisas Dairesine gönderilmiş ve 13.04.2020 tarihli kusur raporunda; kazanın, davacı yaya ...'nın beyanında belirttiği üzere, yeşil ışığın davacı yaya istikametine hitaben yandığının kabulü halinde;
+A)-Sürücü ...'ın, %100 (yüzde yüz) oranında kusurlu,
+B)-Davacı yaya ...'nın, kusursuz,
+2.Durum;
+Kazanın, sürücü ... ifadesinde belirttiği üzere, yeşil ışığın sürücü istikametine hitaben yandığının kabulü halinde;
+A)-Sürücü ...'ın, kusursuz,
+B)-Davacı yaya ...'nın, %100 (yüzde yüz) oranında kusurlu olduğuna dair rapor sunulmuştur.
+Dosya maluliyet raporu alınmak üzere İstanbul Adli Tıp Kurumu 2. İhtisas Dairesine gönderilmiş ve 10.05.2022 tarihli kusur raporunda; Dosyada mevcut tıbbi belgelere göre; Salim oğlu 1976 doğumlu ...'nın 30.01.2017 tarihinde geçirdiği trafik kazasına bağlı yaralanması sebebiyle 0.03.2013 tarih ve 28603 sayılı Resmi Gazetede yayımlanan Özürlülük Ölçütü, Sınıflandırılması ve Özürlülere erilecek Sağlık Kurulu raporları hakkında yönetmeliğini, Kas İskelet Sistemi: Şekil 2.10 %KF:%3, Şekil 2.11 %KABD:%3, Şekil 2.12 %KADD:%1, Tablo 2.3 %4 olduğuna göre; kişinin tüm vücut engellilik oranının %4(yüzdedört) olduğunu, iyileşme (iş göremezlik) süresinin olay tarihinden itibaren 3 (üç) aya kadar uzayabileceğini, kişinin başka birisinin geçici ve sürekli bakımına muhtaç durumda olmadığına dair rapor sunulmuştur.
+Dosya kusur bilirkişisi ... ve aktüer uzmanı ...'ya tevdi edilmiş ve bilirkişiler sunmuş olduğu raporunda: Davacı ...’nın 30.01.2017 tarihinde geçirmiş olduğu trafik kazası sonrası; 3 ay Geçici İş göremezlik dönem gelirine Sürücünün % 50 kusur oranın yansıtılmasıyla zararının 4.183,20 TL, % 4 maluliyet oranına göre sürekli iş göremezlik / Efor kaybı dönemine sürücünün %50 kusur oranın yansıtılmasıyla zararının 94.054,68 TL olmak üzere toplam zararının 98.237,88 TL olabileceğini, ... plakalı otomobil, davalı ... A.Ş. Şirketi tarafından, Karayolları Trafik Zorunlu Mali Mesuliyet Sigorta Poliçesinin tanzim edildiği ve sigorta poliçesinde davalı sigorta şirketi tarafından verilen üst limitin kişi başı ölüm ve sürekli sakatlık 310.000,00 TL olduğu, sorumluluk, temerrüt tarihi ve faiz türü gibi hukuki olgular konusunda takdirin mahkemeye ait olduğuna dair rapor sunmuşlardır.
+DELİLLERİN DEĞERLENDİRİLMESİ ve GEREKÇE:
+Dava; yaralanmalı trafik kazasından kaynaklanan maddi tazminat istemine ilişkindir.
+Davacı, 30/01/2017 tarihinde meydana gelen trafik kazasında yaya olarak yolda bulunmaktadır.
+Davalı ise, 30/01/2017 tarihinde meydana gelen trafik kazasına karışan ... plakalı aracın zorunlu mali mesuliyet sigortasıdır.
+29/04/2022 tarihli ATK maluliyet raporuna göre; davacının maluliyet oranının % 4 olduğu, iyileşme süresinin 3 aya kadar uzayabileceği tespit edilmiştir.
+16/03/2023 tarihli aktüer ve kusur bilirkişi raporuna göre; tehlikeler eşit sayılarak davacının % 50, davalıya trafik sigortalı araç sürücüsünün % 50 oranında kusurlu olduğu, kusur oranları uygulandığında davacının davalıdan talep edebileceği sürekli iş göremezlik zararının 94.054,68 TL, geçici iş göremezlik zararının 4.183,20 TL olduğu tespit edilmiştir.
+Tarafların iddia ve savunmaları, ceza dosyası, yukarıda yer verilen kusur, maluliyet ve aktüer bilirkişi raporları ile dosyamızda bulunan tüm bilgi ve belgeler bir arada değerlendirildiğinde;
+Davalının zorunlu mali mesuliyet sigortası olduğu ... plakalı aracın, 30/01/2017 tarihinde, yolda yaya olarak bulunan davacıya çarpması neticesinde davacının yaralanması nedeniyle talep artırım neticesinde 94.054,68 TL sürekli iş göremezlik ve 4.183,20 TL geçici iş göremezlik olmak üzere toplam 98.237,88 TL maddi tazminatın davalıdan tahsili istemi ile eldeki davanın açıldığı,
+Kaza sırasında taraflardan hangisine yeşil, hangisine kırmızı ışık yandığının tespit edilememesi nedeniyle Yargıtay Hukuk Genel Kurulunun 2007/11-104 esas, 2007/180 karar sayılı içtihadı da nazara alınarak tarafların eşit kusurlu sayılmaları gerektiği,
+29/04/2022 tarihli ATK maluliyet raporu ile 16/03/2023 tarihli aktüer ve kusur bilirkişi raporunun alanında uzman bilirkişilerce, dosyamız kapsamı ile uyumlu, denetime elverişli ve yaygın içtihatlar ışığında hazırlanmış olmaları nedeniyle raporlara itibar edilmesi suretiyle;
+Davanın kabulü ile 94.054,68 TL sürekli iş göremezlik ve 4.183,20 TL geçici iş göremezlik olmak üzere toplam 98.237,88 TL maddi tazminatın, davacının davalıya başvuru tarihinin net olarak tespit edilememesi nedeniyle davalının eksik yazı bildirim tarihi olan 27/11/2017 tarihini izleyen 8 iş günü sonrası olan 08/12/2017 tarihinden itibaren işleyecek yasal faizi ile birlikte davalıdan alınarak davacıya verilmesine dair aşağıdaki şekilde hüküm tesis edilmiştir.
+HÜKÜM: Yukarıda açıklanan gerekçelere binaen;
+DAVANIN KABULÜ İLE;
+1-94.054,68 TL sürekli iş göremezlik ve 4.183,20 TL geçici iş göremezlik olmak üzere toplam 98.237,88 TL maddi tazminatın 08/12/2017 tarihinden itibaren işleyecek yasal faizi ile birlikte davalıdan alınarak davacıya verilmesine,
+2-Karar tarihinde yürürlükte bulunan Harçlar Tarifesi gereğince alınması gerekli olan 6.710,63-TL karar ve ilam harcının, başlangıçta yatırılan 44,40-TL peşin harç ve bilahare ikmal edilen 1.654,00-TL tamamlama harcından mahsubu ile eksik kalan 5.012,23-TL 'nin davalıdan tahsili ile Hazineye irat kaydına,
+3-Davacı tarafından yapılan 44,40-TL peşin harç, 44,40-TL başvuru harcı, 6,40-TL vekalet harcı ve 3.308,95-TL tebligat/posta/bilirkişi gideri olmak üzere toplam 5.058,15-TL yargılama giderinin davalıdan alınarak davacıya verilmesine,
+4-Davacı kendisini vekil ile temsil ettirdiğinden karar tarihinde yürürlükte bulunan Avukatlık Asgari Ücret Tarifesi gereğince hesap ve takdir olunan 15.718,06-TL vekalet ücretinin davalıdan alınıp davacıya verilmesine,
+5-6325 Sayılı Hukuk Uyuşmazlıklarında Arabuluculuk Kanunu ve Arabuluculuk Kanunu Yönetmeliği gereğince Adalet Bakanlığı bütçesinden ödenen 1.320,00-TL arabulucu ücretinin davalıdan alınarak maliyeye gelir kaydına,
+6-Davacı tarafça yatırılan ve harcanmayan gider avansından arta kalan kısmın karar kesinleştiğinde davacı tarafa iadesine,
+Dair, davacı vekilinin yüzüne karşı, davalının yokluğunda, gerekçeli kararın tebliğinden itibaren iki haftalık yasal süre içerisinde İstanbul Bölge Adliye Mahkemesi nezdinde istinaf yasa yolu açık olmak üzere verilen karar açıkça okunup ana hatları ile anlatıldı.17/07/2023
+Katip ...
+e-imzalı
+Hakim ...
+e-imzalı

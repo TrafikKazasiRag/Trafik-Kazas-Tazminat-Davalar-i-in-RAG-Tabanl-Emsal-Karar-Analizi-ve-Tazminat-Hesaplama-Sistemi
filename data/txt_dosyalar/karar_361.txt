@@ -1,0 +1,158 @@
+SIRA NO: 361 (ÇEKİRDEK)
+DOKÜMAN ID: 697160600
+DERECE: İlk Derece Mahkemesi
+DAİRE / MAHKEME: İstanbul 9. Asliye Ticaret Mahkemesi
+ESAS NO: 2018/111
+KARAR NO: 2021/673
+KARAR TARİHİ: 26.10.2021 (Yıl: 2021)
+ARAMA KELİMESİ: sürekli iş göremezlik yıllık ücret bilinen gelir
+SAYFA NO: 6
+İNDİRME ZAMANI: 2026-10-25 01:05:00
+HESAP DOĞRULAMA ADAYI: True
+İÇERİK HASH (MD5): 0f80cfa50823b168c54dd4e29c252b65
+================================================================================
+
+T.C.
+İSTANBUL
+9. ASLİYE TİCARET MAHKEMESİ
+ESAS NO:2018/111 Esas
+KARAR NO:2021/673
+DAVA:Tazminat (Ölüm Ve Cismani Zarar Sebebiyle Açılan Tazminat)
+DAVA TARİHİ:05/02/2018
+KARAR TARİHİ:26/10/2021
+Taraflar arasında görülen davanın mahkememizde yapılan açık yargılaması sonunda:
+GEREĞİ DÜŞÜNÜLDÜ:
+Davacı vekili dava dilekçesinde özetle; 18/12/2016 günü saat 12:15 sıralarında sürücü ...'in ...'e ait ... plakalı araç ile ... ... Mah. ... Caddesinde seyir halindeyken yaya halinde olan müvekkiline çarparak yaralanmalı trafik kazasına neden olduğunu, çarpmanın etkisi ile yere yığılan müvekkiline ilk müdahalenin olay yerine gelen sağlık ekiplerince yapıldığını, müvekkilinin ambulans ile ... Eğitim ve Araştırma Hastanesi'ne kaldırıldığını ve tedavisine başlanıldığında sağ bacağı ile sağ kalçasının kırıldığının anlaşıldığını, olaya ilişkin ... CBS tarafından .../... soruşturma sayılı dosyası ile soruşturma başlatıldığını, davalı sürücü ...'in dikkatsiz ve son derece hızlı bir şekilde araç kullanarak karşıdan karşıya geçen müvekkiline çarptığını ve müvekkilinin ağır olarak yaralandığını, aracın sürücüsü ile aracın sahibi ...'in ve aracın zorunlu mali mesuliyet sigortacısı olan ... A.Ş.'nin Karayolları Trafik Kanunu hükümleri gereğince sorumlu olduğunu, müvekkilinin kaza neticesinde yürüyemez hale geldiğini ve kişisel ihtiyaçlarını dahi gidermekte zorluk yaşamaya başladığını, müvekkilinin kazadan sonra uyku problemi yaşamaya başladığını, müvekkilinin kaza tarihinde mesleğinin taksi şoförlüğü olduğunu ve aylık ortalama gelirinin 4.000-TL olduğunu, müvekkilinin kaza nedeniyle çok uzun bir süre iş gücü kaybı yaşadığını, ekonomik geleceğinin sarsıldığını ve maddi zarara uğradığını, müvekkilinin bekar olup kaza nedeniyle kendi ihtiyaçlarını karşılayamadığı için müvekkilinin bakıcı giderlerinin karşılanmasının gerektiğini, müvekkilinin tedavi sürecinde tedavi yerlerine gidiş geliş yol masraflarının yapmış olduğu paramedikal giderlerinin de davalı tarafça karşılanması gerektiğini, çalışamıyor olmanın getirdiği ekonomik sıkıntılar ile müvekkilinin psikolojisinin alt üst olduğunu, yukarıda açıklanan nedenlerle; öncelikle kazaya neden olan ... plakalı araca teminatsız tedbir konulmasını, müvekkilinin geçici iş göremezlik zararı nedeniyle 200-TL, müvekkilinde oluşan kalıcı hasar, sürekli iş göremezlik ve ekonomik geleceğin sarsılması nedeniyle 300-TL, müvekkilinin bakıcı masrafı için 200-TL ve iyileşme sürecinde yapılan tüm tedavi, paramedikal giderler için 200-TL, muayene ve tedavi yerlerine gidiş geliş masrafları için 100-TL olmak üzere toplamda 1.000-TL maddi tazminatın olay tarihinden itibaren işleyecek ticari faiziyle birlikte bütün davalılardan müştereken ve müteselsilen tahsilini, müvekkilinin uğramış olduğu manevi zararın tazmini için 50.000-TL, manevi tazminatın olay tarihinden itibaren işleyecek yasal faiziyle birlikte 1 ve 2 numaralı davalıdan müştereken ve müteselsilen tahsiline karar verilmesini, yargılama giderleri ve vekalet ücretinin karşı tarafa yükletilmesi talebi ile dava ettikleri anlaşıldı.
+Davalı ... A.Ş. vekili cevap dilekçesinde özetle; müvekkili şirketin maddi tazminat talepleri açısından poliçe limitleri dahilinde ve sigortalı aracın sürücüsünün kusuru oranında davacının zararlarını gidermekle yükümlü olduğunu, trafik kazası tespit tutanağına göre kazanın davacının yüzde yüz kusurlu davranışı ile meydana geldiğini, bu sebeple davanın reddinin gerektiğini, davacının müvekkili şirkete yaptığı başvurunun müvekkili şirket sigortalısının kusurlu olmaması ve bu nedenle talep edilen tazminatın trafik sigortası genel şartlarına göre teminat dışı olması nedeniyle reddedildiğini, geçici iş göremezlik tazminatı ile ilgili davacının taraf gelir kaybının ispatının gerektiğini, davacının hangi dönemlerde çalıştığı ve çalışmadığı bilgisinin, davacının ne kadar maaş aldığı bilgisinin ve SGK'dan yardım alıp almadığı bilgilerinin yazılı delilleri ile ispatlanması gerektiğini, dava dilekçesinde davacının aylık ortalama gelirinin 4.000-TL olduğu iddia edilmiş ise de bu yönde herhangi bir delilin mevcut olmadığını, davacının tedavi giderleri talebinin reddedilmesi gerektiğini, tedavi süresince harcadığı yol masrafının sigorta teminatı kapsamında olduğunu kabul anlamına gelmemekle birlikte davacının bu masraflarını ispatlar nitelikte bir delil sunmadığını, bu nedenle davacının tedavi için sarf ettiğini iddia ettiği yol masraflarının tazmini talebinin reddinin gerektiğini, davacının bakıcı gideri talebinin sigorta teminatı dışında olduğunu, kaza nedeniyle oluştuğu iddia edilen maddi ve manevi zararların giderilmesi talebinin de zorunlu mali sorumluluk sigortası kapsamı dışında olduğundan reddi gerektiğini, belirsiz alacak davası açıldığı belirtilse de dava dilekçesi bir bütün olarak değerlendirildiğinde davacının kısmi dava açtığının anlaşıldığını, dava kısmi dava olduğundan kısmi dava hükümlerine göre karara bağlanması gerektiğini, dava dilekçesinde tazminata kaza tarihinden itibaren faiz işlemesinin talep edildiğini ancak müvekkili şirketin temerrüdünün başlangıcının KTK'nın 98 ve 99. Maddesine göre belirleneceğinden davacının bu talebinin hukuka aykırı olduğunu, yukarıda açıklanan nedenlerle; davanın reddine karar verilmesini, yargılama giderleri ve vekalet ücretinin karşı tarafa yükletilmesi talebi ile davanın reddini talep ettikleri anlaşıldı.
+Davalı ... vekili cevap dilekçesinde özetle; davacının davasında haksız ve kötüniyetli olduğunu, dava konusu trafik kazasında müvekkilinin kusurunun bulunmadığını, kusurun davacının üzerinde olduğunu, bu hususun kaza tespit tutanağı ve kamera kayıtlarında sabit olduğunu, davacının kırmızı ışıkta geçtiğini yukarıda açıklanan nedenlerle; davacının haksız ve kötüniyetli davasının reddine karar verilmesini, yargılama giderleri ve vekalet ücretinin karşı tarafa yükletilmesi talebi ile davanın reddini talep ettikleri anlaşıldı.
+DELİLLERİN DEĞERLENDİRİLMESİ VE GEREKÇE:
+Mahkememizce yapılan yargılama, taraf beyanları, toplanan deliller ve tüm dosya kapsamına göre; dava; trafik kazası nedeniyle 6098 sayılı TBK'nın 54.maddesinde düzenlenen bedensel zararların tazminine ilişkindir.
+Trafik kazalarından kaynaklanan sorumluluk davaları, 2918 sayılı KTK'nın 85 v.d. maddelerinde düzenlenen tehlike sorumluluğu ve 6098 sayılı TBK'nun 49 vd. maddelerinde düzenlenen haksız fiilden kaynaklı kusur sorumluluğudur. 2918 sayılı Karayolları Trafik Kanununun (KTK) 91/1'inci maddesinde, “İşletenlerin, bu Kanunun 85 inci maddesinin birinci fıkrasına göre olan sorumluluklarının karşılanmasını sağlamak üzere mali sorumluluk sigortası yaptırmaları zorunludur”. Aynı Kanunun 85/1'inci maddesinde; bir motorlu aracın işletilmesi bir kimsenin ölümüne veya yararlanmasına yahut bir şeyin zarara uğramasına sebep olursa, araç işletenin bu zarardan sorumlu olacağı belirtilmiş, anılan Kanununun 85'inci maddesinin son fıkrasında maddesinde ise,“ işleten ve araç işleticisi teşebbüsün sahibi, aracın sürücüsünün veya aracın kullanılmasına katılan yardımcı kişilerin kusurundan kendi kusuru gibi sorumludur. İşleten ile davalı sigortalının sorumluluğu paraleldir ve işleten ve teşebbüs sahibi sürücünün kusurundan kendi kusuru gibi sorumludur. 2918 sayılı yasanın işletenin veya araç işleticisinin bağlı olduğu teşebbüs sahibinin, sorumluluktan kurtulması veya sorumluluğun azaltılması başlıklı 86. maddesi ''İşleten veya araç işleticisinin bağlı olduğu teşebbüs sahibi, kendisinin veya eylemlerinden sorumlu tutulduğu kişilerin kusuru bulunmaksızın ve araçtaki bir bozukluk kazayı etkilemiş olmaksızın, kazanın bir mücbir sebepten veya zarar görenin veya bir üçüncü kişinin ağır kusurundan ileri geldiğini ispat ederse sorumluluktan kurtulur.'' hükmünü içerir. Bu nedenle zarara sebep kazanın mücbir sebepten veya zarar görenin veya bir üçüncü kişinin ağır kusurundan meydana geldiğini ispat yükü davalıda olmasına karşın, meydana gelen zararın miktarını ispat külfeti zarar görendedir. 2918 sayılı Karayolları Trafik Kanunu’na göre işletene düşen hukuki sorumluluğu, ZMMS zorunlu sigorta limitlerine kadar temin edecektir.
+TBK 50.maddesi ''Zarar gören, zararını ve zarar verenin kusurunu ispat yükü altındadır. Uğranılan zararın miktarı tam olarak ispat edilemiyorsa hâkim, olayların olağan akışını ve zarar görenin aldığı önlemleri göz önünde tutarak, zararın miktarını hakkaniyete uygun olarak belirler.'' hükmünü içermektedir.
+TBK54.maddesinde Bedensel zararlar özellikle, Tedavi giderleri. Kazanç kaybı. Çalışma gücünün azalmasından ya da yitirilmesinden doğan kayıplar ,Ekonomik geleceğin sarsılmasından doğan kayıplar olarak sayılmıştır.
+Bedensel zararlara ilişkin tazminat TBK 55. Maddesindeki; "Destekten yoksun kalma zararları ile bedensel zararlar, bu Kanun hükümlerine ve sorumluluk hukuku ilkelerine göre hesaplanır. Kısmen veya tamamen rücu edilemeyen sosyal güvenlik ödemeleri ile ifa amacını taşımayan ödemeler, bu tür zararların belirlenmesinde gözetilemez; zarar veya tazminattan indirilemez. Hesaplanan tazminat, miktar esas alınarak hakkaniyet düşüncesi ile artırılamaz veya azaltılamaz." şeklindeki düzenlemeye göre belirlenecektir.
+Dosyada mevcut ...Asliye Ceza Mahkemesinin ... Esas ve .../... Karar sayılı dosyası incelendiğinde katılanın davacı ... sanığın ise davalı ... olduğu, dava konusu kaza nedeniyle taksirle yaralamadan dolayı davalı ... ... adli para cezası ile cezalandırılmasına karar verildiği ve hükmün açıklanmasının geri bırakılmasına karar verildiği, bu dosyadan alınan ATK raporunda davalı ... ve davacı ...'in eşdeğer kusurlu olduğunun tespit edildiği görülmüştür.
+Dosyada mevcut ... Eğitim ve Araştırma Hastanesi Sağlık Kurulu Raporu İncelendiğinde, Hangi yönetmelik hükümlerine göre düzenlendiğinin belli olmadığı, yalnızca kazayla ilişkilendirilmediği, raporun 4 numaralı arka sayfasında genel durum başlığı altında ortopedik ve süreğen hastalık alanlarının işaretlendiği görülmüştür.
+Taraflar arasındaki ihtilaf tazminata esas kusur oranı, maluliyet oranı, tedavi ve yol giderleri ve iyileşme sürelerinin tespiti ve zararının tespiti noktalarında toplanmaktadır. Kusur oranı, maluliyet oranı ve iyileşme süresi ile zarar miktarının tespiti konuları hukuk dışında özel ve teknik bilgiyi hallerden olduğundan 6100 sayılı HMK m.266 gereği bilirkişi raporları alınmıştır.
+Mahkememizce alınan kusura ilişkin ATK raporunda sonuç olarak; "...Sabri oğlu 01.07.1955 doğumlu ...’in 18.12.2016 tarihinde geçirmiş olduğu trafik kazasına bağlı yaralanması sebebiyle 30.03.2013 tarih ve 28603 sayılı Resmi Gazetede yayımlanan Özürlülük Ölçütü, Sınıflandırılması ve Özürlülere Verilecek Sağlık Kurulu raporları hakkında yönetmeliğine göre, Ürogenital Sistem, Üretra, Sık tekrarlayan ve tedaviyle kür sağlanabilen üretra darlığı maddesine göre; 1. Kişinin tüm vücut engellilik oranının %20 (yüzdeyirmi) olduğu, 2. İyileşme (iş göremezlik) süresinin olay tarihinden itibaren 9 (dokuz) aya kadar uzayabileceği, 3. Tedavi süresince sürekli veya geçici olarak bakıcı ihtiyacı olmadığı..." belirtildiği görüldü.
+Mahkememizce alınan kusura ve hesaba ilişkin bilirkişi raporunda;
+''pasif devrede net kazançları aşağıda tablo halinde gösterilmiştir.
+Tarihler Brüt Asgari Üc.Net Asgari Üc. Ay Yıllık Net Kazanç
+18.12.2016-31.12.2016 1.647,00 1.177,46 x 0,4 550,66 TL
+01.01.2017-18.09.2017 1.777,50 TL 1.270,75 TL x 8,6 10.886,09 TL
+Davacının 9 Aylık Geçici işgöremezlik Zararı 9,0 11.436,75 TL
+ii) Davacının sürekli iş göremezlik süresinin başladığı 19.09.2017 tarihinden itibaren 19.09.2017-18.12.2021 tarihleri arası 4 yıl 3 ay işlemiş bilinen pasif devredeki net kazanç toplamı aşağıda tablo halinde gösterilmiştir.
+Tarihler Brüt Asgari Üc. Net Asgari Üc. Ay Yıllık Net Kazanç
+19.09.2017-31.12.2017 1.777,50 TL 1.270,75 TL 3,4 4.362,91 TL
+01.01.2018-31.12.2018 2.029,50 TL 1.450,91 TL x 12 17.410,92 TL
+01.01.2019-31.12.2019 2.558,40 TL 1.829,02 TL x 12 21.948,24 TL
+01.01.2020-31.12.2020 2.943,00 TL 2.103,97 TL x 12 25.247,64 TL
+01.01.2021-18.12.2021 3.577,50 TL 2.557,59 TL x 11,6 29.582,79 TL
+Davacının 4 yıl 3 aylık Dönemdeki Kazançlar Toplamı 51,0 98.552,50 TL
+b) İşleyecek Pasif Devre (Bilinmeyen Dönem) Kazançlarının Tespiti: Davacının 18.12.2016- 18.12.2021 yılları arası geçen 5 yıllık işlemiş pasif devredeki net kazancı yukarıdaki esaslara göre belirlenmiş olup, herhangi bir artışa tabi tutulmaksızın aynen alınacaktır.
+Ancak; 18.12.2021 tarihinden itibaren işleyecek bakiye pasif devre sonuna kadar geçecek süre içinde ekonomik konjonktür, iş hayatındaki toplu sözleşme ve pazarlık düzeni, sigortalının zamanla uzmanlaşma ve meslekte ilerleme olasılığı, işçi maaşlarının ücretlerinin henüz milletlerarası normların altında olması, ülke gerçekleri, milli gelirdeki artış ve bu artıştan çalışanlara ayrılabilen pay oranları gibi unsurlar ile uygulama ve yüksek Yargıtay’ca da benimsendiği üzere her yıl için ayrı ayrı %10 iskontolama esasına göre hesaplama yapılacaktır.
+01.01.2021’dan itibaren uygulanmaya başlanan (3.577,50) TL brüt asgari ücrete göre; kesintilerden sonra asgari geçim indirimine tabi tutulmayan net aylık tutarı 2.557,59 TL olup, 1 yıllık emeklilik geliri; 2.557,59 TL x 12 Ay = 30.691,08TL olmaktadır.
+9 Yıllık işleyecek pasif devrede peşin değer tutarı
+Yıllar %10 artışa tabi %10 iskonto kat sayısı Peşin değer tutarı
+yıllık kazanç tutarı
+1.Yılda = 33.760,19 TL x 0,9090909 = 30.691,08 TL
+2.Yılda = 37.136,21 TL x 0,8264463 = 30.691,08 TL
+3.Yılda = 40.849,83 TL x 0,7513148 = 30.691,08 TL
+4.Yılda = 44.934,81 TL x 0,6830135 = 30.691,08 TL
+5.Yılda = 49.428,29 TL x 0,6209213 = 30.691,08 TL
+6.Yılda = 54.371,12 TL x 0,5644739 = 30.691,08 TL
+7.Yılda = 59.808,23 TL x 0,5131581 = 30.691,08 TL
+8.Yılda = 65.789,06 TL x 0,4665074 = 30.691,08 TL
+9.Yılda = 72.367,96 TL x 0,4240976 = 30.691,08 TL
+Toplam = 276.219,72 TL
+c) Yukarıdaki tespitler ışığında, davacının %20 maluliyeti nedeniyle oluşan zarar kalemlerinin detayı aşağıda gösterilmiş olup, buna göre davacının 11.436,75 geçici iş görmezlik + 74.954,44 TL sürekli maluliyet olmak üzere toplam maddi zararı 86.391,19 TL olarak hesaplanmıştır.
+Açıklama Tutarı Maluliyet Toplam
+9 Aylık geçici iş göremezlik 11.436,75 TL 100% 11.436,75 TL
+dönemdeki maddi zararı (iskontosuz)
+Davacının geçici maluliyeti sebebiyle toplam maddi zararı 11.436,75 TL
+4 Yıl 3 Aylık işlemiş bilinen 98.552,50 TL 20,0% 19.710,50 TL
+dönem pasıf devrede zararı (iskontosuz)
+9 Yıllık işleyecek bilinmeyen 276.219,72 TL 20,0% 55.243,94 TL
+dönem pasif devrede zararı (iskontolo)
+Davacının sürekli maluliyeti sebebiyle toplam maddi zararı 74.954,44 TL
+B-İNDİRİM GEREKTİREN HUSUSLARIN DEĞERLENDİRİLMESİ
+1. Dava konusu kazanın meydana gelmesinde: ... plakalı aracın sürücüsü ...’ in 50% oranında kusurlu olduğu, Yaya ...’ in 50% oranında kusurlu olduğu tespit edildiğinden, hesaplanan tazminattan davacının %50 kusuru oranında kusur indirimi yapılacaktır.
+2. Dava dosyasında davalı sigorta şirketi tarafından davacıya maluliyeti sebebiyle ödeme yapıldığına ilişkin herhangi bilgi ve belge bulunmadığından, bu yönde indirim uygulanmayacaktır.
+g) Davacı ...’im Nihai ve Gerçek Zararı
+Açıklama Tutar %50 Kusur İndirimi Toplam Maddi Zararı
+Davacının geçici maluliyeti 11.436,75 TL 5.718,38 TL 5.718,38 TL
+sebebiyle maddi zararı
+Davacının sürekli 74.954,44 TL 37.477,22 TL 37.477,22 TL
+maluliyeti sebebiyle maddi zararı "... ... plakalı aracın sürücüsü ...’ in 50% oranında kusurlu olduğu, Yaya ...’ in 50% oranında kusurlu olduğu, Davacının geçici iş göremezlik nedeniyle nihai ve gerçek zararının 5.718,38-TL olduğu, davacının sürekli iş gücü kaybı nedeniyle maddi zararının 37.477,22 TL olduğu,
+iyileşme süresi içerisinde ve sonrasında başka birisinin sürekli bakımına muhtaç durumda olmayan davacının, bakıcı gideri nedeniyle maddi zararının
+bulunmadığı, davacının belgeli ya da belgesiz sağlık harcamaları ile ilgili hususların alanındauzman tıp hekimi bilirkişi tarafından değerlendirilmesi gerektiğinden, bu konuda değerlendirme yapılamadığı..." belirtildiği görüldü.Mahkememizce alınan kusura, hesaba ilişkin bilirkişi ek raporunda sonuç olarak;
+a- İşlemiş Pasif Devre (Bilinen Dönem) Kazançlarının Tespitii) Davacının 18.12.2016-18.09.2017 arasında %100 iş göremez olduğu 9 aylık işlemiş pasif devrede net kazançları aşağıda tablo halinde gösterilmiştir.
+Tarihler Brüt Asgari Üc. Net Asgari Üc. Ay Yıllık Net Kazanç
+18.12.2016-31.12.2016 1.647,00 1.177,46 x 0,4 550,66 TL
+01.01.2017-18.09.2017 1.777,50 TL 1.270,75 TL x 8,6 10.886,09 TL
+Davacının 9 Aylık Geçici
+işgöremezlik Zararı 9,0 11.436,75 TL
+ii) Davacının sürekli iş göremezlik süresinin başladığı 19.09.2017 tarihinden itibaren
+19.09.2017-18.12.2021 tarihleri arası 4 yıl 3 ay işlemiş bilinen pasif devredeki net kazanç toplamı aşağıda tablo halinde gösterilmiştir.
+Tarihler Brüt Asgari Üc. Net Asgari Üc. Ay Yıllık Net Kazanç
+19.09.2017-31.12.2017 1.777,50 TL 1.270,75 TL 3,4 4.362,91 TL
+01.01.2018-31.12.2018 2.029,50 TL 1.450,91 TL x 12 17.410,92 TL
+01.01.2019-31.12.2019 2.558,40 TL 1.829,02 TL x 12 21.948,24 TL
+01.01.2020-31.12.2020 2.943,00 TL 2.103,97 TL x 12 25.247,64 TL
+01.01.2021-18.12.2021 3.577,50 TL 2.557,59 TL x 11,6 29.582,79 TL
+Davacının 4 yıl 3 aylık Dönemdeki Kazançlar Toplamı 51,0 98.552,50 TL
+b) İşleyecek Pasif Devre (Bilinmeyen Dönem) Kazançlarının Tespiti: Davacının 18.12.2016-
+18.12.2021 yılları arası geçen 5 yıllık işlemiş pasif devredeki net kazancı yukarıdaki esaslara göre belirlenmiş olup, herhangi bir artışa tabi tutulmaksızın aynen alınacaktır.
+Ancak; 18.12.2021 tarihinden itibaren işleyecek bakiye pasif devre sonuna kadar geçecek süre içinde ekonomik konjonktür, iş hayatındaki toplu sözleşme ve pazarlık düzeni, sigortalının zamanla uzmanlaşma ve meslekte ilerleme olasılığı, işçi maaşlarının ücretlerinin henüz milletlerarası normların altında olması, ülke gerçekleri, milli gelirdeki artış ve bu artıştan çalışanlara ayrılabilen pay oranları gibi unsurlar ile uygulama ve yüksek Yargıtay’ca da benimsendiği üzere her yıl için ayrı ayrı %10 iskontolama esasına göre hesaplama yapılacaktır.
+01.01.2021’dan itibaren uygulanmaya başlanan (3.577,50) TL brüt asgari ücrete göre; kesintilerden sonra asgari geçim indirimine tabi tutulmayan net aylık tutarı 2.557,59 TL olup, 1 yıllık emeklilik geliri; 2.557,59 TL x 12 Ay = 30.691,08TL olmaktadır.
+%10 artışa tabi %10 iskonto Peşin değer tutarı
+yıllık kazanç tutarı kat sayısı
+1.Yılda = 33.760,19 TL x 0,9090909 = 30.691,08 TL
+2.Yılda = 37.136,21 TL x 0,8264463 = 30.691,08 TL
+3.Yılda = 40.849,83 TL x 0,7513148 = 30.691,08 TL
+4.Yılda = 44.934,81 TL x 0,6830135 = 30.691,08 TL
+5.Yılda = 49.428,29 TL x 0,6209213 = 30.691,08 TL
+6.Yılda = 54.371,12 TL x 0,5644739 = 30.691,08 TL
+7.Yılda = 59.808,23 TL x 0,5131581 = 30.691,08 TL
+8.Yılda = 65.789,06 TL x 0,4665074 = 30.691,08 TL
+9.Yılda = 72.367,96 TL x 0,4240976 = 30.691,08 TL
+10.Yılda = 79.604,76 TL x 0,3855433 = 30.691,08 TL
+11.Yılda = 87.565,23 TL x 0,3504939 = 30.691,08 TL
+12.Yılda = 96.321,76 TL x 0,3186308 = 30.691,08 TL
+= 368.292,96 TL
+c) Yukarıdaki tespitler ışığında, davacının %20 maluliyeti nedeniyle oluşan zarar kalemlerinin detayı aşağıda gösterilmiş olup, buna göre davacının 11.436,75 geçici iş görmezlik + 93.369,09 TL sürekli maluliyet olmak üzere toplam maddi zararı 104.805,84 TL olarak hesaplanmıştır.
+Açıklama Tutarı Maluliyet Toplam
+9 Aylık geçici iş 11.436,75 TL 100% 11.436,75 TL
+göremezlik dönemdeki maddi zararı (iskontosuz)
+Davacının geçici maluliyeti sebebiyle toplam maddi zararı 11.436,75 TL
+4 Yıl 3 Aylık işlemiş 98.552,50 TL 20,0% 19.710,50 TL
+bilinen dönem pasıf devrede zararı (iskontosuz)
+12 Yıllık işleyecek bilinmeyen 368.292,96 TL 20,0% 73.658,59 TL
+dönem pasif devrede zararı (iskontolo)
+Davacının sürekli maluliyeti sebebiyle toplam maddi zararı 93.369,09 TL
+B-İNDİRİM GEREKTİREN HUSUSLARIN DEĞERLENDİRİLMESİ
+1. Dava konusu kazanın meydana gelmesinde: ... plakalı aracın sürücüsü ...’ in 50% oranında kusurlu olduğu, Yaya ...’ in 50% oranında kusurlu olduğu tespit edildiğinden, hesaplanan tazminattan davacının %50 kusuru oranında kusur indirimi yapılacaktır.
+2. Dava dosyasında davalı sigorta şirketi tarafından davacıya maluliyeti sebebiyle ödeme yapıldığına ilişkin herhangi bilgi ve belge bulunmadığından, bu yönde indirim uygulanmayacaktır.
+C- DAVACI ...’İN NİHAİ VE GERÇEK ZARARI
+Açıklama Tutar %50 Kusur İndirimi Toplam Maddi Zararı
+Davacının geçici maluliyeti sebebiyle maddi zararı 11.436,75 TL 5.718,38 TL 5.718,38 TL
+Davacının sürekli maluliyeti sebebiyle maddi zararı 93.369,09 TL 46.684,55 TL 46.684,55 TL
+D- DAVALI SİGORTA ŞİRKETİNİN SORUMLULUK KAPSAMI
+18.12.2016 Kaza tarihinde yürürlükte olan tarifeye göre; kişi başı sakatlanma ve ölüm sigortalimiti 310.000,- TL, tedavi gideri de aynı şekilde 310.000,- TL’dir. "...... plakalı aracın sürücüsü ...’ in 50% oranında kusurlu olduğu, yaya ...’ in 50% oranında kusurlu olduğu, davacının geçici iş göremezlik nedeniyle nihai ve gerçek zararının 5.718,38 TL olduğu, davacının sürekli iş gücü kaybı nedeniyle maddi zararının 46.684,55-TL olduğu, iyileşme süresi içerisinde ve sonrasında başka birisinin sürekli bakımına muhtaç durumda olmayan davacının, bakıcı gideri nedeniyle maddi zararının bulunmadığı, kazanın meydana gelmesinde %50 oranında kusuru olduğundan 2.000-TL evde pansuman, bakım için gerekli tıbbi malzemeler ve ilaç giderleri için 2.000-TL hastanelere kontrollere gidiş-geliş esnasında ulaşım ve diğer sosyal giderleri için olmak üzere 4.000-TL tedavi giderinin %50 kısmı olan 2.000-TL kısmını talep edebileceği..." belirtildiği görüldü.
+Dosya kapsamı ve tüm deliller birlikte değerlendirildiğinde; Dava konusu maluliyete ilişkin davacının alacağının miktarını ve zararı tam olarak belirlemesi kendisinden beklenemeyeceğinden davanın kısmi dava olarak nitelendirilmesi yönündeki davalı itirazı yerinde görülmemiştir. İstanbul Adli Tıp Kurumunca düzenlenen tüm dosya kapsamındaki tetkik ve tedavi evraklar incelenmek ve muayene yapılmak suretiyle davacının sürekli iş göremezliğinin %20 olduğu geçici iş göremezliğinin ise olay tarihinden itibaren 9 aya kadar uzayabileceği, tedavi süresince sürek yada kalıcı bakıcı ihtiyacının olmadığı yönündeki raporun Yargıtay içtihatlarına uygun olarak 30.03.2013 tarih ve 28603 sayılı Resmi Gazetede yayımlanan Özürlülük Ölçütü, Sınıflandırılması ve Özürlülere Verilecek Sağlık Kurulu raporları hakkında yönetmeliğine göre göre düzenlendiği, her ne kadar davacı tarafın ... Eğitim Ve Araştırma Hastanesi Sağlık Kurulu Raporunda %55 oranında maluliyet verildiği yönünde itirazda bulunulmuş ise de işbu raporda hangi yönetmelik hükümlerinin esas alındığının belirtilmediği ve raporun kaza ile ilişkilendirilmediği ayrıca süreğen hastalıklarında değerlendirildiği anlaşılmakla davacının itirazı yerinde görülmeyerek ATK raporu hüküm kurmaya yeterli denetime elverişli görülmüştür. Davalı sürücü ... Sevk ve idaresindeki ... plakalı araçla 18.12.2016 tarihinde, saat 19:00 sıralarında ... İli, ... İlçesi, ... Caddesi ... Caddesi kavşağında 1235 sayılı trafik ışıklarından hareketle sağa ... Caddesine yönelmesi ile aracın seyir
+yönüne göre solundan, ... Caddesinden gelerek yolun karşısına geçmeye çalışan yaya davacı ...’ e çarpması şeklinde gerçekleştiği mahkememizce de kabul edilen olayda tarafların %50'şer kusurlu olduğu yönündeki bilirkişi ek ve kök raporu mahkememizce hüküm kurmaya yerli denetime elverişli görülmüştür. Bilirkişi kök raporuna itirazlar üzerine alınan Ek rapor ile Anayasa Mahkemesinin iptal kararı ve güncel Yargıtay kararları doğrultusunda TRH-2010/ Yaşam Tablosu kullanılarak, Progresif Rant Yöntemine göre yapılan hesaplama ve yine tedavi ve yol giderleri hesabı mahkememizce hüküm kurmaya yeterli denetime elverişli görülmüş, davacının bakıcı yardımına muhtaç olmadığı, davalı sigorta şirketinin teminat sınırlarını ( (310.000,00 TL) aşmadığı da anlaşıldığından davacının maddi tazminat talebinin kısmen kabulü ile; 46.684,55 TL sürekli iş göremezlik tazminatı, 5.718,38 TL geçici iş göremezlik tazminatı, ulaşım dahil tedavi giderleri için 2.000,00 TL olmak üzere toplam 54.402,93 TL maddi tazminatın davalılar ...’ten kaza tarihi olan 18.12.2016 tarihinden, davalı ... A.Ş. bakımından ise dava tarihi olan 05.02.2018 tarihinden itibaren yasal faizi ile birlikte davalılardan alınarak davacıya verilmesine, bakıcı gideri talebinin reddine, davacının manevi tazminat talebinin kısmen kabulü ile; 20.000,00 TL manevi tazminatın kaza tarihi olan 18.12.2016 tarihinden itibaren işleyecek yasal faizi ile birlikte davalılar ...’ten alınarak davacıya verilmesine, fazlaya ilişkin istemin reddine dair aşağıdaki şekilde hüküm kurulmuştur.
+H Ü K Ü M :Yukarıda açıklanan nedenlerle;
+1-Davacının maddi tazminat talebinin kısmen kabulü ile; 46.684,55 TL sürekli iş göremezlik tazminatı, 5.718,38 TL geçici iş göremezlik tazminatı, ulaşım dahil tedavi giderleri için 2.000,00 TL olmak üzere toplam 54.402,93 TL maddi tazminatın davalılar ...’ten kaza tarihi olan 18.12.2016 tarihinden, davalı ... A.Ş. bakımından ise dava tarihi olan 05.02.2018 tarihinden itibaren yasal faizi ile birlikte davalılardan alınarak davacıya verilmesine, bakıcı gideri talebinin reddine,
+2- Davacının manevi tazminat talebinin kısmen kabulü ile; 20.000,00 TL manevi tazminatın kaza tarihi olan 18.12.2016 tarihinden itibaren işleyecek yasal faizi ile birlikte davalılar ...’ten alınarak davacıya verilmesine, fazlaya ilişkin istemin reddine,
+3-492 Sayılı Yasa gereğince alınması gereken 5.082,46-TL harçtan peşin alınan 174,20-TL + 190-TL ıslah harcı olmak üzere toplam 364,20-TL harçtan mahsubu ile geriye kalan 4.718,26-TL harcın davalılardan tahsili ile Hazineye irad kaydına,
+4-Maddi tazminat yönünden davacı taraf vekille temsil olunduğundan, A.A.Ü.T gereğince taktir olunan 7.872,38-TL vekalet ücretinin, davalılardan alınarak davacı tarafa verilmesine,
+5-Maddi tazminat yönünden davalılar kendilerini vekil ile temsil ettirdiğinden A.A.Ü.T gereğince taktir olunan 30-TL vekalet ücretinin, davacıdan alınarak eşit bir şekilde davalılara verilmesine,
+6-Manevi tazminat yönünden davacı taraf vekille temsil olunduğundan, A.A.Ü.T gereğince taktir olunan 4.080-TL vekalet ücretinin, davalılar ...’ten alınarak davacı tarafa verilmesine,
+7-Manevi tazminat yönünden davalılar kendilerini vekil ile temsil ettirdiğinden A.A.Ü.T gereğince (manevi tazminat davasında davalıya verilen vekalet ücreti davacı tarafa verilen vekalet ücretini geçemeyeceğinden) taktir olunan 4.080-TL vekalet ücretinin, davacıdan alınarak eşit bir şekilde davalı ...’e verilmesine,
+8-Davacı tarafından yapılan yatırılan 174,20-TL peşin + 190-TL ıslah + 35,90-TL başvurma harcı olmak üzere toplam 400,10-TL'nin davalılardan alınarak davacıya verilmesine,
+9-Davacı tarafından yapılan 2.868,30-TL yargılama masrafının kabul ve ret oranına göre 2.040,19-TL'nin davalılardan alınarak davacıya verilmesine, geriye kalanın kendi üzerinde bırakılmasına,
+Dair, davacı ve davalı ... Vekilinin yüzüne karşı, diğer davalıların yokluğunda, gerekçeli kararın tebliğ tarihinden itibaren iki hafta içerisinde mahkememize verilecek veya başka mahkeme aracılığı ile mahkememize gönderilecek bir dilekçe ile İstinaf kanun yolu açık olmak üzere verilen karar açıkça okunup, usulen anlatıldı. 26/10/2021
+Katip ...
+e-imzalıdır
+Hakim ...
+e-imzalıdır

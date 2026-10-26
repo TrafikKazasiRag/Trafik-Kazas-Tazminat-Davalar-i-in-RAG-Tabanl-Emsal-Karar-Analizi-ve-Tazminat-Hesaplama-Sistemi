@@ -1,0 +1,50 @@
+SIRA NO: 229 (ÇEKİRDEK)
+DOKÜMAN ID: 578007300
+DERECE: İlk Derece Mahkemesi
+DAİRE / MAHKEME: İstanbul Anadolu 4. Asliye Ticaret Mahkemesi
+ESAS NO: 2014/2371
+KARAR NO: 2020/207
+KARAR TARİHİ: 10.03.2020 (Yıl: 2020)
+ARAMA KELİMESİ: trafik kazası aktüer bilirkişi raporu net tutar
+SAYFA NO: 2
+İNDİRME ZAMANI: 2026-10-25 00:20:21
+HESAP DOĞRULAMA ADAYI: True
+İÇERİK HASH (MD5): 124fbd9b3e210e04bf898dd304a9f16e
+================================================================================
+
+T.C. İstanbul Anadolu 4. ASLİYE TİCARET MAHKEMESİ
+GEREKÇELİ KARAR
+ESAS NO : 2014/2371 Esas
+KARAR NO : 2020/207
+DAVA : Tazminat (Ölüm Ve Cismani Zarar Sebebiyle Açılan Tazminat)
+DAVA TARİHİ : 25/12/2014
+KARAR TARİHİ : 10/03/2020
+Mahkememizde görülmekte olan Tazminat (Ölüm Ve Cismani Zarar Sebebiyle Açılan Tazminat) davasının yapılan açık yargılaması sonunda,
+GEREĞİ DÜŞÜNÜLDÜ:
+İDDİA: Davacı vekili dava dilekçesinde özetle;
+---------------------çıkışında çok araçlı trafik kazası meydana geldiğini, --------sevk ve idaresindeki --------- plaka sayılı araçta yolcu konumunda bulunan müvekkilimiz ... yaralanın yasam boyu beden gücü kaybına uğradığını, bu trafik kazası sonucunda sürücü -------------------- tam kusurlu bulunduğunu, bu durumun --------- Mahkemesi --------- Karar sayılı dosyasına ve Ankara ----- .Asliye Hukuk Mahkemesi nin --------------------- Talimat sayılı dosyasından alınmış olan bilirkişi raporuna göre sabit olduğunu, Kazaya karışan ------------ plaka sayılı araç, ------------------- tarafından --------- tarihleri arasında Zorunlu Mali Sorumluluk Sigortasıyla güvence kapsamında olduğunu, Davacının tedavisi tamamlandıktan sonra, ---------------- Kurulu'nun --------günlü raporunda ... 'in beden göçü kavın oranı % 3 olarak belirlendiğini, 01.03.1973 doğumlu davacı ..., kazadan önce asgari ücretle çalışmakta olduğunu, Trafik kazasında beden gücü kaybına uğrayan davacının, zararlarının 6100 sayılı Yasa'nın 107.nıaddesi uyarınca belirsiz alacak davası olarak toplanacak delillere göre belirlenmesine şimdilik 1.500,00 TL ve temerrüt tarihinden işletilecek taizi, yargılama giderleri ve avukatlık ücretiyle birlikte davalıya Ödetilmesine karar verilmesini, talep etmiştir.
+SAVUNMA: Davalı vekili cevap dilekçesinde özetle; Davaya konu ---------- plaka sayılı araç müvekkil şirket nezdinde ------------------ Poliçe Nolu Zorunlu Mali Sorumluluk Sigortası ile teminat altına alınmış olduğunu, davacı tarafından işbu dava ile; müvekkili şirkette sigorta teminatı altına alınmış aracın karıştığı kaza neticesinde sakat kalan ----------------- tarafından maddi tazminat talepli dava açıldığını, Davayı kabul manasında olmamak üzere, kusur oranlarının tespiti bakımından dosyanın Adli Tıp Trafik İhtisas Kurumuna sevk edilmesi gerektiğini, maluliyet oranının tespiti bakımından dosyanın Adli Tıp --------- İhtisas Kurumu*na sevk edilmesi gerektiğini, Davacının talebi içerisindeki geçici is görmezlik, tedavi giderleri, bakıcı giderleri hususunda talebinin bulunması durumunda 6111 Sayılı Yasa geregi teminat dışı olduğundan davanın reddi gerekeceğini, Söz konusu sigortalar çerçevesinde aktüeryal hesaplamayı gerektiren tazminat ödemelerinde hesaplamanın ---------- kayıtlı aktüerler ile Müsteşarlık nezdinde tutulan listeye kayıtlı yardımcı aktüerler tarafından yapılmasının esas olduğunu, Davayı kabul manasında olmamak üzere sözkonusu kaza is kazası olup olmadığının ve is kazası ise ------------ tarafından bağlanan peşin sermaye değerinin sorulup tenzil edilmesi gerektiğini, davacının ceza dosyasında şikayetçi olup olmadığı hususunun tespiti gerektiği, davacının şikayetçi olmaması durumunda dava açma hakkı ortadan kalkacağından davanın reddi gerekeceği, İşbu sebeple Ceza Mahkemesi dosyasının işbu dava dosyasına getirilmesini talep etme zarureti doğduğunu, Davayı kabul manasında olmamak üzere hesaplanacak tazminattan hatır taşımasının tenzili gerektiğini, gelirin asgari ücret üzerinden hesap edilmesi gerektiğini, Hazine Müsteşarlığı Genelgesi gereğince hesaplamanın ---------------- göre yapılması ve teknik faizin %3 olarak esas alınması gerektiğini, Müvekkil şirket söz konusu zarardan Poliçe Teminat limitleri dahilinde sorumludur. Kabul manasında olmamak işbu dava tarihine kadar müvekkil şirkete herhangi bir başvuru yapılmamıştır. İşbu nedenle faiz başlangıç tarihinin dava tarihi itibariyle yasal faiz olması gerektiğini belirterek, davanın esastan ve usulden reddine, yargılama masrafları ve vekalet ücretinin davalı tarafa yükletilmesini talep etmektedir.
+DELİLLERİN DEĞERLENDİRİLMESİ VE GEREKÇE
+Dava, trafik kazası sonucu meydana gelen maddi zararın tazminine ilişkindir.
+Davacı vekili, ---------------------------çıkışında çok araçlı trafik kazası meydana geldiğini, ----------- sevk ve idaresindeki ------ plaka sayılı araçta yolcu konumunda bulunan müvekkili ... yaralanın yasam boyu beden gücü kaybına uğradığını, davalı ... şirketinin meydana gelen bu zarardan sorumlu olduğunu iddia etmekte, davalı ise davanın reddini savunmaktadır.
+Ankara --------. Asliye Hukuk Mahkemesinin ------------ Talimat sayılı dosyasına sunulduğu anlaşılan---------- tarihli bilirkişi raporunda, meydana gelen hadisede dava dışı araç sürücüsü ---------------- %100 oranında kusurlu olduğu, diğer araç sürücülerinin ise kusursuz olduğu hususlarının mütalaa edilmiş olduğu görülmüştür.
+Dosya içerisinde mevcut -------------------- tarihli raporuna göre davacının 2008 yılında geçirmiş olduğu trafik kazası sonucu oluşan kafa travması ve kulak deformitesi sonucu engel yaşadığı ve bu engelinin %3 oranında olduğu yazılıdır.
+Mahkememizce Adli Tıp Kurumu ---------------. Adli Tıp ihtisas Kurulundan veya ---------- Fakültelerinden rapor alınmadan dosyanın aktüer bilirkişisine tevdi edilmesine karar verilmiş, aktüer bilirkişi tarafından tanzim edilen 04.01.2016 tarihli rapor ile davacının beden gücüne kaybı dayalı maddi zararları toplamının 13.640,90.-TL tutarında olduğu hesap edilmiştir.
+Aktüer raporunun tanziminden sonra davacı vekili talebini 12.040,90 TL artırarak 13.540,90 TL'ye çıkartmıştır.
+Ancak aktüer bilirkişisinin sonuca esas aldığı maluliyet raporunun -------- düzenlenmiş bir rapor olmadığı görülmekle, bu maluliyet raporu doğrultusunda Aktüre raporunun düzenlenemeyeceği aynı zamanda bu raporun hükme esas alınamayacağı değerlendirilmekle, tüm tedavi evraklarının dosya ile ------------------ gönderilmesi sureti ile maluliyet raporunun tanziminin istenmesine karar verilmiştir.
+Adli Tıp Kurumu tarafından tanzim edilen ----------------tarihli maluliyet raporu ile davacının E cetveline göre: %13.1 (yüzdeonüçnoktabir) oranında meslekte kazanma gücünden kaybetmiş sayılacağı,
+2. İyileşme (iş göremezlik) süresinin olay tarihinden itibaren 4 (dört) aya kadar uzayabileceği mütala edilmiştir.
+ATK ------------------------. İhtisas Kurulu tarafından maluliyet raporunun alınması üzerine yeniden hesaplama yapılması için dosyanın yeni bir aktüer bilirkişisine tevdi edilmesine karar verilmiş, aktüer bilirkişisi tarafından yapılan hesaplama ile ;
+Davacı ...'ın (4) Aylık Geçici İşgöremezlik Sebebiyle Nihai ve Gerçek Maddi Zarar Miktarı 2.066,06 TL
+Davacı ...'ın % 13,1 Oranındaki Sürekli İşgöremezlik Sebebiyle Nihai ve Gerçek Maddi Zararı 101.941,99 TL olmak üzere toplamda 104.008,05 TL maddi zararının doğduğu tespit edilmiştir.
+Her ne kadar 09/01/2020 tarihli aktüer raporundan sonra davacı vekili davasını ıslah etmek için süre istemiş ise de davacı vekili ilk aktüer raporu sonrasında Davacı Vekilinin ıslah dilekçesi ile davaya konu alacak miktarını artırarak davayı ıslah ettiği anlaşıldığından ve 6100 sayılı Hukuk Muhakemeleri Kanunu'nun 176 ve devamı maddelerinde tarafların her birinin yapmış olduğu usul işlemlerini kısmen veya tamamen ıslah edebileceği gerekçesiyle davacı vekilinin aynı davada ikinci kez ıslah yoluna başvurulması talebi reddedilmiş olup, fazlaya ilişkin hakları saklı tutularak ve davacı vekilinin ilk ıslah talebine bağlı kalınarak davanın kabulüne dair aşağıdaki şekilde hüküm kurmak gerekmiştir.
+HÜKÜM : Yukarıda Açıklanan Nedenlerle;
+1-DAVANIN KABULÜNE,
+-13.540,90 TL maddi tazminatın 25/12/2014 tarihinden itibaren işleyecek yasal faizi ile birlikte davalıdan alınarak davacıya verilmesine,
+2-Davacının fazlaya ilişkin taleplerinin saklı tutulmasına,
+3- - Harçlar Kanununa göre alınması gerekli 924,98 TL harcın, davacı tarafından yatırılan 66,30 TL peşin harçtan mahsubu ile bakiye 858,68 TL'nin davalıdan tahsili ile hazineye gelir kaydına,
+4- Davacı tarafından yatırılan 66.30 TL harcın davalıdan alınarak davacıya verilmesine
+5- Davacı tarafından tebligat, posta ve müzekkere gideri olarak sarf edilen 1.356,40 TL yargılma giderinin davalıdan alınarak davacıya verilmesine,
+6- Kabul edilen dava yönünden--------------------göre davacı lehine takdir olunan 3.400,00 TL vekalet ücretinin davalıdan alınarak davacıya verilmesine,
+7-Dosyada mevcut gider avansının karar kesinleştiğinde ve talep halinde yatıran tarafa iadesine,
+Dair karar, davacı vekilinin yüzüne karşı, davalı tarafın yokluğunda, karar gerekçesinin tebliğinden itibaren 2 hafta içinde İstanbul Bölge Adliye Mahkemesinde İstinaf yolu açık olarak verildi. Açıkça okunup, usulen tefhim olundu.

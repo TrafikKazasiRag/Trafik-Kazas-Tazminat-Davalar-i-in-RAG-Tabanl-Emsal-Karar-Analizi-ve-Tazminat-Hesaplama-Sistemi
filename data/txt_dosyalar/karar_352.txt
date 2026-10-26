@@ -1,0 +1,68 @@
+SIRA NO: 352 (ÇEKİRDEK)
+DOKÜMAN ID: 1231365100
+DERECE: BAM (İstinaf)
+DAİRE / MAHKEME: Gaziantep Bölge Adliye Mahkemesi 3. Hukuk Dairesi
+ESAS NO: 2025/240
+KARAR NO: 2026/1205
+KARAR TARİHİ: 29.09.2026 (Yıl: 2026)
+ARAMA KELİMESİ: sürekli iş göremezlik yıllık ücret bilinen gelir
+SAYFA NO: 5
+İNDİRME ZAMANI: 2026-10-25 01:02:09
+HESAP DOĞRULAMA ADAYI: True
+İÇERİK HASH (MD5): fbff92b7978349d6e20477d2a9b4bd36
+================================================================================
+
+T.C.
+G A Z İ A N T E P
+B Ö L G E A D L İ Y E M A H K E M E S İ
+3. H U K U K D A İ R E S İ
+T Ü R K M İ L L E T İ A D I N A
+İ S T İ N A F K A R A R I
+Esas No : ..
+Karar No :..
+İNCELENEN KARARIN
+MAHKEMESİ : Gaziantep 1. Asliye Ticaret Mahkemesi
+TARİHİ : ..
+NUMARASI : ..
+DAVACI : ..
+VEKİLİ : Av. ..
+DAVALI :..
+VEKİLİ : Av...
+DAVANIN KONUSU : Tazminat (Ölüm Ve Cismani Zarar Sebebiyle Açılan Tazminat)
+İSTİNAF KARARININ
+TARİHİ : ..
+YAZIM TARİHİ : ..
+Taraf vekilleri tarafından süresinde verilen dilekçeler ile yukarıda tarih ve sayısı gösterilen mahkeme kararının istinaf incelemesi yapılarak kaldırılması talep edildiğinden, istinaf başvuru şartları yönünden ön inceleme yapılıp, üye hakimin inceleme raporu ve açıklamaları dinlendikten sonra, HMK'nın 355. maddesi gereğince istinaf sebepleri ve kamu düzenine ilişkin hususlarla sınırlı olarak yapılan inceleme sonunda, gereği düşünüldü;
+I. DAVA
+Davacı vekili dava dilekçesinde özetle; .. tarihinde, sürücüsü ve plakası tespit edilemeyen servis aracının geri manevra yaptığı esnada yaya olan müvekkiline çarpması sonucu müvekkilinin yaralandığını, kazanın meydana gelmesinde müvekkilinin herhangi bir kusurunun bulunmadığını, davalı sigorta şirketine yapılan başvurunun sonuçsuz kaldığını, arabuluculuğa başvurduklarını, ancak tarafların anlaşamadıklarını, bu nedenlerle fazlaya ilişkin hakları saklı kalmak kaydıyla müvekkilinin sürekli iş göremezlik, geçici iş göremezlik ve bakıcı gideri tazminatı için şimdilik 50,00'şer TL olmak üzere toplam 150,00 TL'nin dava tarihinden itibaren işleyecek yasal faizi ile birlikte davalıdan alınarak müvekkiline ödenmesine karar verilmesini talep ve dava etmiş, yargılama aşamasında maddi tazminat talebini HMK'nın 107/2. maddesi gereğince toplam .. TL olarak arttırmıştır.
+II. CEVAP
+Davalı vekili cevap dilekçesinde özetle; davacı tarafın KTK'nın 97 maddesinde yer alan başvuru şartını eksiksiz olarak yerine getirmediğini, kazaya karışan aracın tespit edilmesi gerektiğini, aracın tespit edilmesi sonrasında aracın özelliklerinin geçmiş tescil kayıtlarının ve sigorta bilgilerinin tespit edilmesi gerektiğini, davacının davaya konu kazayı ispat yükümlülüğü bulunduğunu, kusur oranı tespitinin .. Trafik İhtisas Dairesi tarafından yapılması gerektiğini, somut olayda araç ve sürücüsünün tespit edilemediğinden soruşturma ve ceza dosyalarının bekletici mesele yapılması gerektiğini, maluliyet oranının... İhtisas Dairesi tarafından belirlenmesi gerektiğini, maddi tazminat tutarının hesaplanmasında zarar gördüğünü iddia edenin fiillen çalışıp çalışmadığının tespiti ve bunun somut belgelerle ispat edilmesi gerektiğini, gelirin asgari ücret üzerinden hesaplanması gerektiğini, davacının kaza sebebiyle elde ettiği gelir ve tazminatların mahsup edilmesi gerektiğini, müvekkili kurumun geçici iş görmezlik tedavi, bakıcı gideri gibi dolayla zararlardan kaynaklanan tazminattan sorumluluğunun bulunmadığını, davacının faiz talebinin yasa ve içtihatlara aykırı olduğunu, faizin maluliyet raporunun taraflarına tebliğ edilmesinden itibaren işletilmesi gerektiğini, bu nedenlerle davanın reddine karar verilmesini talep etmiştir.
+III. İLK DERECE MAHKEMESİ KARARI
+Mahkemece yapılan yargılama sonunda; "...davanın kabulü ile; .. TL sürekli maluliyet, .. TL geçici maluliyet ve .. TL bakıcı gideri tazminatı olmak üzere toplam .. TL maddi tazminatın dava tarihi olan.. tarihinden itibaren işleyecek yasal faizi ile birlikte davalıdan alınarak davacıya verilmesine..." karar verilmiştir.
+IV. İSTİNAF
+A.İstinaf Yoluna Başvuranlar
+İlk derece mahkemesinin yukarıda belirtilen kararına karşı taraf vekilleri süresi içerisinde istinaf yoluna başvurmuştur.
+B.İstinaf Sebepleri
+1. Davacı vekili istinaf dilekçesinde özetle; kazanın oluşumunda müvekkilinin kusurunun bulunmadığını, müvekkilinin maluliyet oranının %40'ın üzerinde olduğunu, müvekkilinin tazminatının düşük hesaplandığını, alınacak hesap raporunda işleyecek aktif ve pasif dönem tazminat hesaplamasında bilinen en son asgari ücret verileri ve yeniden aktüer raporu alındığı tarihteki bilinen en son asgari ücret verilerin göre hesaplanması gerektiğini, bu nedenlerle mahkemece verilen kararın kaldırılmasına karar verilmesini talep etmiştir.
+2. Davalı vekili istinaf dilekçesinde özetle; müvekkili kuruma başvuru şartının usule uygun gerçekleştirilmediğini, kusur raporunda eksik inceleme yapıldığını, davacının keşifte vermiş olduğu beyanlar doğrultusunda hazırlandığını, kazanın varlığı kabul edilse dahi kusura ilişkin net bir delil bulunmadığını, kusur raporunun heyet tarafından düzenlenmesi gerektiğini, kusur oranı tespitinin ATK Trafik İhtisas Dairesi tarafından yapılması gerektiğini, maluliyet raporunun kaza tarihinde yürürlükte bulunan yönetmeliğe göre düzenlenmediğini, davacının maluliyetinin yaşı ve iyileşme hızı göz önüne alındığında davacıda maluliyetin oluşmadığının görüleceğini, hesaplama yönteminin hatalı olup teknik faiz uygulanması gerektiğini, tazminat hesaplamasının kaza tarihinde yürürlükte bulunan genel şartlarda belirlenen usul ve esaslara uygun olarak yapılması gerektiğini, hesap raporunda sürekli iş göremezlik zararının geçici iş göremezlik süresinin bitiminden sonra yapılması gerektiğini, davacını talebine konu tedavi giderleri, geçici iş göremezlik tazminatı ve tedavi süresince ortaya çıkan bakıcı giderleri ve diğer tüm giderlerin tedavi teminatı kapsamında olduğundan müvekkili şirketin herhangi bir sorumluluğunun bulunmadığını, davacının müterafik kusuru hesaplanan tazminata yansımadığını, faizin maluliyet raporunun taraflarına tebliğ edildiği tarihten itibaren işletilmesi gerektiğini, bu nedenlerle mahkemece verilen kararın kaldırılmasına karar verilmesini talep etmiştir.
+C. Değerlendirme ve Sonuç
+1. Dava, plakası ve sürücüsü bilinmeyen aracın karıştığı trafik kazası sonucu yaralanıp malul kalan davacı yayanın sürekli iş göremezlik tazminatı, geçici iş göremezlik tazminatı ve bakıcı gideri talebine ilişkindir.
+2. Davacının, davadan önce davalı sigorta şirketine KTK'nın 97.maddesi gereğince tazminat hesabı için makul bir sürede hazırlanabilecek belgelerle yapılmış yazılı bir başvurusu bulunmakta olup, davalı tarafından Genel Şartlar Ek-6'da belirtilen eksik belgelerle ilgili davacıya bir bildirimde bulunulmadığından ve ilgili belge eksikliği dava aşamasında tamamlanabileceğinden, davanın dava şartı yokluğundan reddi gerektiğine ilişkin istinaf itirazı yerinde görülmemiştir.
+3. Davaya konu kazanın oluşumunda meçhul araç sürücüsünün %75, davacının ise %25 oranında kusurlu olduklarına dair Adli Tıp Kurumu tarafından tanzim edilen kusur raporunun hükme esas alınmasında bir isabetsizlik bulunmamıştır;
+4. Davacının bizzat muayenesi yapılarak kaza nedeniyle %4 oranında kalıcı, 4 ay geçici iş göremezliği ve 3 hafta bakıcı ihtiyacı olduğu konusunda .. Üniversitesi Tıp Fakültesi öğretim üyeleri tarafından hazırlanan maluliyet raporu, kaza tarihi itibarıyla geçerli "Erişkinler İçin Engellilik Değerlendirmesi Hakkında Yönetmeliğe uygun olarak hazırlanmış olup, mahkemece hükme esas alınmasında bir isabetsizlik görülmemiştir.
+5. TRH 2010 Yaşam Tablosu ve prograsif rant yöntemi ile hazırlan ve geçici iş göremezlik süresi sonundan itibaren sürekli iş göremezlik tazminatının hesaplandığı aktüerya raporunun mahkemece hükme esas alınmasında bir isabetsizlik yoktur.
+6. 1981 doğumlu olan davacının kaza tarihinde 38 yaşında ve aktif dönemde olması nedeniyle geçici iş göremezlik tazminatına hükmedilmesinde de bir isabetsizlik görülmemiş ve açıklanan nedenlerle taraf vekilleri tarafından yapılan istinaf başvurusunun HMK'nın 353/(1)-b,1. maddesi gereğince esastan reddine karar verilmesi gerekmiştir.
+V. KARAR
+Yukarıda açıklanan gerekçelerle;
+1. İncelenen kararın usul ve esas yönünden hukuka uygun olduğu anlaşıldığından davacı vekilinin ve davalı vekilinin istinaf başvurusunun HMK'nın 353/1-b,1.maddesi gereğince ayrı ayrı ESASTAN REDDİNE.
+2. Alınması gereken 732,00 TL istinaf karar harcından peşin alınan 615,40 TL' nin mahsubu ile eksik kalan 116,60 TL'nin davacıdan alınarak hazineye gelir kaydına,
+3. Alınması gereken 13.789,94 TL istinaf karar harcından peşin alınan 3.469,99 TL' nin mahsubu ile eksik kalan 10.319,95 TL'nin davalıdan alınarak hazineye gelir kaydına,
+4. İstinaf yargılama giderlerinin taraflar üzerinde bırakılmasına,
+5. Duruşma açılmadığından istinaf vekalet ücreti takdirine yer olmadığına,
+6. Gider avansından harcanmayan kısmın talep halinde yatırana iadesine dair,
+Dosya üzerinde yapılan inceleme sonucunda, Hukuk Muhakemeleri Kanununun 361. maddesi gereğince kararın tebliğinden itibaren iki hafta süre içinde Yargıtay nezdinde temyiz kanun yolu açık olmak üzere oy birliği ile karar verildi. 12/10/2026
+Başkan
+Üye
+Üye
+Katip
+Z.U.

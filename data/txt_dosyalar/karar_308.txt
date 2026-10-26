@@ -1,0 +1,63 @@
+SIRA NO: 308 (ÇEKİRDEK)
+DOKÜMAN ID: 621137900
+DERECE: İlk Derece Mahkemesi
+DAİRE / MAHKEME: İstanbul 14. Asliye Ticaret Mahkemesi
+ESAS NO: 2016/784
+KARAR NO: 2020/909
+KARAR TARİHİ: 29.12.2020 (Yıl: 2020)
+ARAMA KELİMESİ: trafik kazası aktüer bilirkişi raporu net tutar
+SAYFA NO: 13
+İNDİRME ZAMANI: 2026-10-25 00:46:46
+HESAP DOĞRULAMA ADAYI: True
+İÇERİK HASH (MD5): 40bac16af4590529e5a52c96c6b69f5d
+================================================================================
+
+T.C.
+İSTANBUL
+14. ASLİYE TİCARET MAHKEMESİ
+ESAS NO : 2016/622 Esas
+KARAR NO : 2020/907
+DAVA : Tazminat (Ölüm Ve Cismani Zarar Sebebiyle Açılan Tazminat)
+DAVA TARİHİ : 08/06/2016
+KARAR TARİHİ : 29/12/2020
+Mahkememizde görülmekte olan Tazminat (Ölüm Ve Cismani Zarar Sebebiyle Açılan Tazminat) davasının yapılan açık yargılaması sonunda,
+GEREĞİ DÜŞÜNÜLDÜ:
+Davacı vekilinin mahkemeye sunmuş olduğu dava dilekçesinde özetle; 24.04.2016 günü saat 19.40 sıralarında geçerli trafik sigorta poliçesi bulunmayan ... plaka sayılı motosikletin sürücüsü ... yönetimindeki araç ile Doğu gişelerinden ... Mezarlık istikametine doğru ters yönde seyrederken, karşı yönden gelen ... plakalı davacı ... yönetimindeki motosikletin ön kısımlarına çarpması sonucu çift yaralanmalı ve maddi hasarlı trafik kazası meydana geldiğini, ... plakalı motosiklet sürücüsü ...'un %100 kusurlu olduğunu, müvekkilinin uğradığı maddi zararlar için, fazlaya dair talep ve dava haklarının saklı kalmak kaydıyla, şimdilik, ... 'un sürekli iş göremezlik dolayısıyla, 500,00-TL maddi ve geçici iş göremezlikği dolayısıyla 500,00-TL maddi yani müvekkili için toplamda 1.000,00-TL madid tazminatın dava tarihinden itibaern işlemiş Yasla faiziyle birlikte davalı tarafından tazmin edilmesine, yargılama giderleri ve vekalet ücretinin davalı üzerine bırakılmasına karar verilmesini talep etmiştir.
+Davalı Sigorta vekilinin mahkemeye sunmuş olduğu 11.07.2016 tarihli cevap dilekçesinde özetle; ... plakalı motosikletin kaza tarihi itibariyle geçerli bir zorunlu trafik poliçesinin bulunup bulunmadığının sorulması gerektiğini, kaza tarihi itibariyle geçerli bir zorunlu trafik poliçesi yok ise, müvekkili kurumun sorumluluğu kaza tarihi itibariyle geçerli poliçe limiti olana 310.000,00-Tl ile sorumlu olduğunu, davacı tarafın dava öncesi müvekkili kuruma başvuru yapmadığını, müvekkili kurumun sorumluluğunun bedensel zararlarla sınırlı olduğunu, geçici iş göremezlik zararı bedensel zarar olmadığını, davacı tarafın işbu dava öncesi, müvekkili kurum'a başvuru yapmadığından davanın reddini, kusur ve maluliyet durumunun Adli tıp kurumu tarafından belirlenmesini, davanın reddini, yargılama giderleri ve vekalet ücretinin karşı tarafa yükletilmesine karar verilmesini talep etmiştir.
+Yanların tüm delilleri toplandıktan sonra davacının kaza nedeniyle yaralandığından maluliyet oranının saptanması için dosya Adli Tıp Kurumu ... İhtisas Kuruluna gönderilmiştir.
+Adli Tıp Kurumu ... İhtisas Kurulunun 29.03.2019/ ... Karar sayılı raporunda özetle; davacının; malüliyet tayinine mahal olmadığı, iş göremez sürenin ise (6) ay olduğu belirlenmiştir.
+Yanların tüm delilleri toplandıktan sonra dosya iddia, savunma ve yanların tüm delilleri, hasar dosyası ile Adli Tıp ... İhtisas Kurulunun raporu ve belgeleri üzerinde inceleme yapılarak kaza tarihi itibarıyla davacının davalıdan alacağı varsa saptanması için kusur ve aktüer bilirkişisine verilmiştir.
+Kusur bilirkişinin aktüer bilirkişisi ile birlikte düzenlediği 16.03.2020 tarihli 4 sayfadan ibaret raporunda özetle; “Geçerli ZMMS poliçesi olmayan motosikletin sürücüsü ...'un olayda %100( yüzde yüz) oranında kusurlu olduğu, davacı ...'un olayda kusursuz olduğu" belirlenmiştir.
+Aktüer bilirkişinin Kusur bilirkişisi ile birlikte düzenlediği 16.03.2020 tarihli 4 sayfadan ibaret raporunda özetle; “Davacının geçici iş göremezlik maddi zararının 7.805,94-TL olduğu, Temerrüt başlangıcının 08.06.2016 tarihi ve faizi nev'nin yasal faiz olduğu” Görüş ve kanaati ile raporunu sunmuştur.
+Dosyaya getirtilen yanlara ait tüm deliller, getirtilen hasar dosyası, Adli Tıp Kurumu Adli Tıp ... İhtisas Kurulunun 29.03.2019/6650 Karar sayılı raporu, Kusur ve Aktüer bilirkişilerinin birlikte düzenledikleri rapor ve tüm dosya kapsamından anlaşıldığı üzere;
+Huzurdaki davada 24.04.2016 günü saat 19.40 sıralarında geçerli trafik sigorta poliçesi bulunmayan ... plaka sayılı motosikletin sürücüsü ... yönetimindeki araç ile Doğu gişelerinden ... istikametine doğru ters yönde seyrederken, karşı yönden gelen ... plakalı davacı ... yönetimindeki motosikletin ön kısımlarına çarpması sonucu çift yaralanmalı ve maddi hasarlı trafik kazası meydana geldiği anlaşılmaktadır.
+Olay sırasında geçerli trafik poliçesi bulunmayan ... yönetimindeki motosiklette yolculuk yapmakta olan tanık ... , motoru ... 'ın kullanmakta olduğunu, kendisinin de arkasında oturduğunu, benzin az olması nedeni ile otobana ters yönde girip dörtlüleri yakarak ilerlediklerini karşıdan iki motorun birinin yolun sağında diğer solunda hızlı bir şekilde gelmekte olduklarını, ... a söylemesi ile birlikte kendileri ile aynı şeritte gelen motosiklet ile çarpıştıklarını söylemiştir. Tanık ... , kendisinin ... 'ın motosikleti arkasında diğer arkadaşının da davacı ...'un motosikleti arkasında gitmekte olduklarını, kendilerinin yolun sol şeridinde Serkan'ın sağ şeritte 90-100 km hızla seyrettiğini, ters yönden 5 motosikletin geldiğini, dördünün yanlarından geçmesinden sonra diğerinin sağ sol yaparak ...'ın motosikletine çarptığını açıklamıştır.
+Karayolları Trafik Kanununun 46.maddesinde; Karayolunda trafik sağdan akar, aksine bir işaret bulunmadıkça sürücüler,araçlarını, gidiş yönüne göre yolun sağından, çok şeritli yollarda ise hızının gerektirdiği şeritten sürmek, şerit değiştirmeden önce gireceği şeritte sürülen araçların emniyetle geçişini beklemek,trafiği aksatacak veya tehlikeye düşürecek şekilde şerit değiştirmemek, zorunda oldukları belirtilmiştir.
+Geçerli trafik sigorta poliçesi olmayan motosikletin sürücüsü ... belirtilen kurallara uymadan orta refüj ile ayrılmış yolda yolun sol platformunda ters yönde seyrederek karşıdan gelen araç ile çarpıştığından kazanın meydana gelmesinde tamamen kusurlu görülmüştür.
+Davacı ... olay sırasında yönetimindeki motosiklet ile kendi seyir şeridini takiben trafik kurallarına uygun olarak seyretmekte olduğundan olayda kusuru görülmemiştir.
+08.07.1996 doğumlu olan davacı 24.04.2016 kaza tarihi itibariyle (20) yaşındadır. Yüksek Yargıtay' ın konuya ilişkin yerleşik içtihatlarına göre kadın-erkek ayrımı yapılmaksızın aktif çalışma devresi sınırı 60 yaş kabul edildiğinden, kaza tarihi itibarıyla (20) yaşında olan davacı aktif çalışma devresindedir.
+ATK ... İhtisas Kurulunun 29.03.2019/... K. sayılı raporunda davacı yönünden sürekli maluliyet tayinine mahal olmadığını, Tıbbi iyileşme (%100 iş göremez sayılan süre) süresinin 24.04.2016 tarihinden itibaren (6) aya kadar uzayabileceği belirtilmektedir.
+Davacının elde ettiği kazançlara ilişkin belge bulunmamaktadır. Bu nedenle davacının hesaba esas ücreti bekar çalışanlar için uygulanan asgari ücrete eşit kabul edilecek ve buna göre değerlendirme yapılacaktır.
+Davacının 24.04.2016 - 24.10.2016 tarihleri arası geçeri (6) aylık geçici iş göremezlik döneminde işlemiş aktif devredeki net kazançları değişkenlik gösteren yasal asgari ücretlere göre tespit edilmiş ve başkaca bir artışa tabi tutulmaksızın aynen esas alınmıştır. Ayrıca; Yüksek Yargıtayın bu konudaki yerleşmiş içtihatlarına göre geçmiş (6) aylık işlemiş aktif devredeki maddi zararlar herhangi bir ıskontoya tabi tutulmayacaktır.
+Davacının (6) aylık geçici iş göremezlik dönemindeki % 100 nispetindeki maluliyetiyle orantılı olarak maddî zararı 7.805,94 TL dir.
+Olayın meydana gelmesinde sigortasız olan aracın dava dışı sürücüsü %100 oranında kusurlu olduğundan %100 kusura isabet eden maddi zarar tutarı davacı yaranna dikkate alınacak ve kusur indirimi yapılmayacaktır.
+SGK ... Sosyal Güvenlik İl Müdürlüğünün 04,05.2017 tarihli müzekkere cevabında davacıya herhangi bir geçici iş göremezlik ödemesi yapılmadığı ve gelir bağlanmadığı belirtildiğinden rücuya tabi ödemeler hususunda indirime yer bulunmamaktadır.
+Davalılar tarafından davacıya geçici iş göremezlik maddi zararı ödemesi yapılmadığı anlaşıldığından ödeme tenziline yer bulunmamaktadır.
+Davacının nihai ve gerçek geçici iş göremezlik maddi zararı 7.805,94 TL dır. 5684 sayılı Sigorta Kanununun 14/2/b maddesinde "Rizikonun meydana geldiği tarihte geçerli olan teminat tutarları dahilinde sigortasını yaptırmamış olanların neden olduğu bedensel zararlar için," ...na başvuru yapılacağı düzenlenmiştir.
+Kaza tarihi itibarı ile Hazine Müsteşarlığınca belirlenmiş olan ZMSS poliçe limitleri tedavi gideri yönünden 310.000,00 TL dır. Davacının geçici iş göremezlik nedeniyle nihai ve gerçek maddi zararı 7.805,94TL olup, 310.000,00 TL tutarındaki tedavi gideri teminat limitinin altında kalmaktadır.
+Dava dilekçesinde dava tarihinden itibaren yasal faiz nev'inden faiz talep edilmektedir. Bu durumda; temerrüt başlangıcı talep ile bağlı kalınarak 08.06.2016 dava tarihidir.
+Davacı vekili davasını bilirkişi raporu doğrultusunda, ıslah ederek davalıya tebliğ ettirmiştir.
+Tüm bu nedenlerle, İş bu asıl ve ıslahla açılan davanın kabulü ile 7.805,94-Tl nin dava tarihi olan 08.06.2016 tarihinden itibaren yasal faizi ile birlikte davalıdan alınıp davacıya verilmesine karar verilmek gerekmiştir.
+Bu nedenle aşağıdaki hüküm kurulmuştur.
+HÜKÜM:Gerekçesi yukarıda açıklandığı üzere:
+1-İş bu asıl ve ıslahla açılan davanın kabulü ile 7.805,94-Tl nin dava tarihi olan 08.06.2016 tarihinden itibaren yasal faizi ile birlikte davalıdan alınıp davacıya verilmesine,
+2-Karar ve ilam harcı 533,22-TL nin peşin ve ıslah ile alınan 54,20-TL den düşümü ile kalan 479,02-TL bakiye ilam harcının davalıdan alınarak Hazineye gelir kaydına,
+3-Davacı tarafından yatırılan 83,40-TL peşin, başvuru ve ıslah harcının davalıdan alınarak davacıya verilmesine,
+4-Davacı tarafından yapılan 1.897,45-TL yargılama giderinin davalıdan alınarak davacıya verilmesine,
+5- Davacı taraf kendisini dava ve duruşmalarda vekili ile temsil ettirdiği anlaşılmakla AAÜT gereğince 3.400,00-TL vekalet ücretinin davalıdan alınarak davacıya verilmesine,
+6-Davacının gider avansından artan bakiyesinin karar kesinleştiğinde ve talep halinde davacıya iadesine,
+Dair davacı vekilinin yüzünde ilamın tebliğinden itibaren iki hafta içerisinde Mahkememize verilecek bir dilekçe ile veya başka bir yer Mahkemesi aracılığı ile gönderilecek bir dilekçe ile İstinaf yolu açık olmak üzere verilen karar açıkça okunup usulen anlatıldı. 29/12/2020
+Katip ...
+e-imza
+Hakim ...
+e-imza

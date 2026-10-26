@@ -1,0 +1,46 @@
+SIRA NO: 293 (ÇEKİRDEK)
+DOKÜMAN ID: 442524500
+DERECE: İlk Derece Mahkemesi
+DAİRE / MAHKEME: İstanbul 11. Asliye Ticaret Mahkemesi
+ESAS NO: 2015/408
+KARAR NO: 2018/1000
+KARAR TARİHİ: 15.10.2018 (Yıl: 2018)
+ARAMA KELİMESİ: trafik kazası aktüer bilirkişi raporu net tutar
+SAYFA NO: 11
+İNDİRME ZAMANI: 2026-10-25 00:42:08
+HESAP DOĞRULAMA ADAYI: False
+İÇERİK HASH (MD5): f5cfb42ee129404b7a650865008a22a1
+================================================================================
+
+T.C.
+İSTANBUL
+11. ASLİYE TİCARET MAHKEMESİ
+ESAS NO : 2015/408 Esas
+KARAR NO : 2018/1000
+DAVA : Tazminat
+DAVA TARİHİ : 15/04/2015
+KARAR TARİHİ : 15/10/2018
+Yukarıda tarafları, konusu, esas ve karar numarası yazılı mahkememiz dosyasının yapıp bitirilen açık yargılaması sonunda;
+GEREĞİ DÜŞÜNÜLDÜ :
+TALEP : Davacı vekili sunmuş olduğu dava dilekçesi ile; 14/04/2013 tarihinde sürücüsü ...'ın sevk ve idaresinde bulunan, müvekkilinin yolcu olarak bulunduğu ... Plakalı araç ile...'nun kullandığı ...'in maliki olduğu ... Plakalı araç ile çarpışması sonucu trafik kazası meydana geldiğini belirterek, maddi tazminatlarının sigorta şirketi açısından poliçe limiti ile sınırlı olmak üzere dava tarihinden itibaren işleyecek kanuni faizi ile birlikte davalıdan tahsilini talep ve dava etmiştir.
+Davacı vekilinin mahkememize UYAP sisteminden göndermiş olduğu 12/02/2018 havale tarihli dilekçesi ile davasını ıslah etmiş ve 09/02/2018 tarih 467,17 TL bedelli ıslah harcını dosyaya sunmuş olduğu görülmüştür.
+CEVAP : Davalı vekili sunmuş olduğu cevap dilekçesi ile;... Plakalı ararcın müvekkiline sigortalı olduğunu, müvekkili sigorta şirketinin sorumluluğunun poliçe limiti ile sınırlı olduğunu, kabul anlamına gelmemek üzere davacının sürekli sakatlığının İstanbul Adli Tıp Kurumu ...İhtisas Dairesinden alınacak rapor ile ispatlanması gerektiğini, ayrıca aktüer bilirkişiden rapor alınması gerektiğini, davacnıın talep etmiş olduğu maddi tazminat talebinin açıklatılması gerektiğini ve ayrıca davacının müterafik kusurunun bulunup bulunmadığının tespiti gerektiğini belirterek, davanın reddine karar verilmesini talep etmiştir.
+DELİLLER VE GEREKÇE: Davacı taraf delil olarak; Sigorta poliçesi, kaza tespit tutanağı, araç trafik kaydı, Adli Tıp Raporu, hastane raporları, Maçka Asliye Ceza Mahkemesinin 2013/89 esas sayılı mahkeme dosyası, ifade tutanağı şahit beyanı ve ilgili her türlü yasal delillere dayanmıştır. Davalı taraf delil olarak; Poliçe, Trafik Sigortası Genel Şartları, Adli Tıp Raporları, savcılık ve ceza dosyası, aktüer raporu, trafik kazası tespit tutanağı, hasar dosyası ve her türlü yasal delillere dayanmıştır.
+Davanın Trafik kazasından kaynaklı, geçici iş görememezlikten kaynaklı tazminat ile kalıcı maluliyetten kaynaklı tazminat alacağı davası olduğu anlaşılmıştır.
+Taraflar arasındaki ihtilafın; kusur, maluliyet oranı, tazminatın hesaplama şekli, tazminat miktarı, müterafik kusur olup olmadığı ve temerrüt tarihine ilişkin olduğu görülmüştür.
+Dosya maluliyet raporu alınmak üzere İstanbul Adli Tıp Kurumu ... İhtisas Kuruluna gönderilmiş ve sunulan raporda; Gr1 II (1……….35) A %39, Gr1 XII (1......5) A %9, Balthazarda göre % 44,49 sayılacağını, E cetveline göre %52.0 (yüzdeelliikinoktasıfır) oranında meslekte kazanma gücünden kaybetmiş sayılacağını, iyileşme (geçici iş göremezlik) süresinin 12/04/2013 tarihinden itibaren 9 (dokuz) aya kadar uzayabilecegine dair rapor sunmuşlardır.
+Dosyanın teknik bilgi ve bilirkişi incelemesi gerektirmesi nedeniyle dosya aktüer bilirkişisi...'a tevdi edilmiş ve bilirkişi sunmuş olduğu raporunda; Trafik polis memurları ... vc ...tarafından hazırlanan 12/04/2013 tarihli "Kaza Tespit Tutanağına'' göre Kazanın oluşumunda ; kaza mahallinde bulunan çalışma alanını belirtilen dikey işaretlerin yağmur ve çamurdan deforme olmuş ve çalışma alanı aydınlatmadan yoksun olduğundan kazaya etken olduğunu, sürücü ...'ın 2918 sayılı K.T.K 52/1-b (Aracın hızını yol, hava durumuna göre ayarlamamak) maddesini ihlal edildiği,,.." şeklinde görüş ve kanaatine varılmış olduğunu, Maçka Asliye Ceza Mahkemesinin...Esas vc... sayılı Kararında; Ömer çolak'ın sevk ve idaresindeki... plaka sayılı aracı ile aynı yerde seyir halinde iken kaza yapan... plaka sayılı araca arkadan çarpması sonucu kendisinin vc aracında bulunan müşteki ... ve diğer şikayetçi olamayan müştekilerin tek taraflı kazada davacının kusursuz olduğunu, rapor tanzim tarihi 5.10.2017 tarihi itibariyle; davacı mağdur...'a ilişkin olarak, geçici İşgöremezlik zarar tutarı olarak 7,303,19 TL, sürekli işgöremezlik tazminat tutarı olarak toplam 119.965,34 TL, olmak üzere geçici ve sürekli işgöremezlik tazminatı olarak toplam 127,268,53 TL hesaplandığını, kaza tarihinde, Karayolları Motorlu Araçlar Zorunlu Mali Sorumluluk /TRAFİK sigorta poliçesinin kişi başına sakatlanma ve tedavi teminatı ayrı ayrı 250.000,00 TL olduğunu, davacı vekili tarafından toplam 1,000,00 TL Maddi Tazminat talep edildiğine dair rapor sunmuştur.
+Tüm dosya kapsamı beraber değerlendirildiğinde; ilgili poliçenin geçerli bir poliçe olduğu anlaşılmış, davacının sözkonusu olayda müterafik kusuru olduğu tespit edilmemiş, davacının %52 oranında meslekte kazanma gücünden kaybetmiş sayılacağı ve 12/04/2013 tarihinden itibaren dokuz aya kadar bu durumun uzayabileceği anlaşılmıştır. Bilirkişi tarafından gerekçeli, hükme elverişli ve usulüne uygun rapor düzenlenerek geçici ve sürekli iş görmezlik tazminatı hesaplanmıştır. Hesaplanan tazminatların kaza tarihinde geçerli Karayolları Motorlu Araçlar Zorunlu Mali Sorumluluk Sigorta poliçesi kişi başına sakatlanma ve tedavi teminatı dahilinde kaldığı anlaşılmıştır. Davacı yanın dava dilekçesi ile toplam 1.000,00 TL maddi tazminat talep ettiği daha sonra mahkememize UYAP sisteminden göndermiş olduğu 12/02/2018 havale tarihli dilekçesi ile davasını ıslah etmiş olduğu ve ıslah harcını dosyaya sunmuş olduğu görülmüştür. Dava dilekçesinde dava tarihinden itibaren faizi istenmiş olduğu anlaşılmıştır. Bu halde davanın kabulü ile, davacının geçici işgörmezlik zarar tutarı olarak 7.303,19 TL ve sürekli işgörmezlik tutarı olarak 119.965,34 TL'den toplam 127.268,53 TL tazminatın dava tarihinden itibaren işleyecek yasal faizi ile birlikte davalıdan alınarak davacıya verilmesine dair aşağıdaki şekilde hüküm kurulmuştur.
+HÜKÜM :Yukarıda açıklanan nedenlerle;
+Davanın kabulüne,
+-Davacının geçici ve kalıcı iş görmezlik tazminat talebinin kabulü ile geçici işgörmezlik zarar tutarı olarak 7.303,19 TL ve sürekli işgörmezlik tutarı olarak 119.965,34 TL'den toplam 127.268,53 TL tazminatın dava tarihinden itibaren işleyecek yasal faizi ile birlikte davalıdan alınarak davacıya verilmesine,
+-Alınması gerekli 8.693,71 TL harçtan davacı tarafça peşin yatırılan 27,70 TL harcın ve bilahare ikmal edilen 467,17 TL ıslah harcının mahsubu ile 8.198,84 TL harcın davalıdan alınarak Hazineye irat kaydedilmesine,
+-Davacı tarafça yapılan 27,70 TL başvuru harcı, 27,70 TL peşin harç, 467,17 TL ıslah harcı, 4,10 TL vekalet harcı, 6,50 TL vekalet pulu ve 736,30 TL tebligat/posta/bilirkişi gideri olmak üzere toplam 1.269,12 TL yargılama giderinin davalıdan alınarak davacıya verilmesine,
+-Davacı taraf kendisini vekil ile temsil ettirdiğinden yürürlükte bulunan AAÜT gereğince hesap olunan 12.931,48 TL vekalet ücretinin davalıdan alınarak davacıya verilmesine,
+-Davacı tarafça yatırılan ve harcanmayan gider avansından arta kalan kısmın karar kesinleştiğinde ve talep halinde davacıya iadesine,
+-Dair, HMK 345 maddesi uyarınca kararın taraflara tebliğ edildiği tarihten başlayarak iki hafta içinde HMK 342 maddesi gereğince düzenlenmiş dilekçe ile HMK 343 maddesi uyarınca mahkememize veya başka bir mahkemeye yapılacak başvuru ile HMK 341/1 maddesi uyarınca İstanbul Bölge Adliye Mahkemesi nezdinde istinaf yolu açık olarak davacı vekili ile davalı vekilinin yüzüne karşı verilen karar açıkça okunup anlatıldı.
+Katip
+¸e-imzalı
+Hakim
+¸e-imzalı
+Bu belge 5070 sayılı Yasa uyarınca güvenli E-İMZA ile imzalanmıştır.

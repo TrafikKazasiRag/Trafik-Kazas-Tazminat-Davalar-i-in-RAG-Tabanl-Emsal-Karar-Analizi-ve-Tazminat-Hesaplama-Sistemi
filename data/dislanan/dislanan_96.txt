@@ -1,0 +1,52 @@
+SIRA NO: 96 (DIŞLANAN - MALULIYET_ISGOREMEZLIK_YOK)
+DOKÜMAN ID: 507226200
+DERECE: İlk Derece Mahkemesi
+DAİRE / MAHKEME: İstanbul 11. Asliye Ticaret Mahkemesi
+ESAS NO: 2017/277
+KARAR NO: 2019/184
+KARAR TARİHİ: 11.03.2019 (Yıl: 2019)
+ARAMA KELİMESİ: trafik kazası aktüer bilirkişi raporu net tutar
+SAYFA NO: 15
+İNDİRME ZAMANI: 2026-10-25 00:51:22
+HESAP DOĞRULAMA ADAYI: False
+İÇERİK HASH (MD5): d63a38a6c03f356f491529e32c298aae
+================================================================================
+
+T.C.
+İSTANBUL
+11. ASLİYE TİCARET MAHKEMESİ
+ESAS NO : 2017/277 Esas
+KARAR NO : 2019/184
+DAVA : Tazminat (Ölüm Ve Cismani Zarar Sebebiyle Açılan Tazminat)
+DAVA TARİHİ: 19/03/2017
+KARAR TARİHİ: 11/03/2019
+Mahkememizde görülmekte olan Tazminat (Ölüm Ve Cismani Zarar Sebebiyle Açılan Tazminat) davasının yapılan açık yargılaması sonunda,
+GEREĞİ DÜŞÜNÜLDÜ:
+Davacılar vekili dava dilekçesinde; 28/08/2010 tarihinde ... ilçesinde meydana gelen trafik kazasında müvekkili ...'nin eşi ve diğer müvekkillerinin babası ...'in vefat ettiğini, ...'in kendi kullandığı ... plakalı traktörün orta refüje düşerek takla atması neticesinde altında kalarak öldüğünü, kazanın tek taraflı olarak meydana geldiğini, tüm kusurun ölen sürücü ...'e ait olduğunu, kazada vefat eden ...'in aylık gelirinin asgari ücret düzeyinde olduğunu, ölenin eşinin ev hanımı olduğunu, ölenin çocuklarının ise herhangi bir geliri bulunmadığını, ... plaka sayılı traktörün kaza anında her hangi bir trafik sigortasının bulunmadığını, bu sebeple ...Yönetmeliği'nin 9. maddesi gereğince zorunlu trafik sigortası bulunmayan araçların sebebiyet verdiği trafik kazalarında bedeni yani sakatlık ve ölüme bağlı tazminatlardan davalı ...’nın sorumlu olduğunu, dava konusu trafik kazası sebebiyle ölenin desteğini kaybeden müvekkilleri için toplam 175.000,00 TL. destekten yoksun kalma tazminatının dava tarihinden itibaren işleyecek yasal faizi ile birlikte davalı taraftan tahsiline karar verilmesini talep ve dava etmiştir.
+Davalı ...vekili cevap dilekçesinde; dilekçede açıklanan sebeplerle, 26/04/2016 tarihinde Karayolları Trafik Kanunu'nda değişiklik yapıldığını ve müvekkil kuruma dava açılmadan önce gerekli belgelerle başvuru yapılması şartının getirildiğini, gerekli belgelerle başvuru yapılmadığından, bu şart yerine getirilmeden ikame edilen işbu davanın usulden reddini, davadan önce başvuru yapılmadığı için müvekkili kurumun temerrüde düştüğünün söylenemeyeceğini, KTK’nda düzenlenen zamanaşımı süresi dava tarihi itibariyle dolduğundan davanın zamanaşımı nedeniyle de reddini, somut olayda müteveffanın kendi kusurlu hareketi ile vefatına sebebiyet verdiğini, 01.06.2015 tarihinde yürürlüğe giren ZMMS Genel Şartları’nın A.6-d maddesi uyarınca destek şahsın kendi kusuruna denk gelen tazminat talepleri teminat dışı olduğundan müvekkili davalı kurumun herhangi bir sorumluluğu bulunmadığını, somut olayda alacaklı ve borçlu sıfatlarının birleşmiş olduğunu, bu nedenle husumet itirazında bulunduklarını belirterek usul ve esasa ilişkin olarak sundukları gerekçelerle davanın reddine karar verilmesini talep etmiştir.
+DELİLLER VE GEREKÇE:
+Davacı taraf delil olarak; Nusaybin Cumhuriyet Başsavcılığı’nın ...Soruşturma nolu dosyasını, sigorta ve tramer kayıtlarına, trafik kazası tespit tutanağına, bilirkişi incelemesine ve iddiayı ispata yarayacak tüm yasal delillere dayanmıştır. Davalı taraf ise delil olarak; aktüer bilirkişi raporuna dayanmıştır.
+Dava, destekten yoksun kalma tazminatı istemine ilişkindir. Taraflar arasındaki ihtilafın; davacıların davalı Güvence Hesabı’ndan talep edebileceği destek tazminatı miktarı olup olmadığı, tazminatın miktarı, kusur durumu, tazminatın hesaplanma şekli ve faiz oranına ilişkin olduğu görülmüştür.
+Mahkememizce Nusaybin Cumhuriyet Başsavcılığı’nın ... Soruşturma nolu dosyası celbedilmiş, soruşturma dosyasının incelenmesinde; davacıların murisi sürücü ...’in 28.08.2010 tarihinde Nusaybin-Kızıltepe istikametinde ... plaka sayılı traktör ile seyir halinde iken aracın tekerleğini yolun sağındaki bankete düşürmesi ve aracın takla atması sonucu araç altında kalarak olay yerinde hayatını kaybettiği, kazanın tek taraflı olarak meydana geldiği, vefat eden sürücü ...’in olayda %100 kusurlu olduğu kanaatine varılmış; KTK nun 109/2 maddesindeki cezayı gerektiren fiil için uzamış zaman aşımı uygulanacağından 2010 yılında meydana gelen ölümlü trafik kazası için davanın açıldığı tarih itibariyle zamanaşımı süresinin dolmadığı kanaatine varılmıştır.
+Dava konusu trafik kazası 28.08.2010 tarihinde meydan gelmiştir. Davalı ...tarafından cevap dilekçesinde Karayolları Motorlu Araçlar Zorunlu Mali Sorumluluk Sigortası Genel Şartları gereğince kendi kusuru ile kendi ölümüne neden olan kişilerin geride kalanlarının tazminat talep edemeyecekleri, bu yöndeki taleplerin teminat dışında olduğu, dolayısıyla davacıların destek tazminatı taleplerinin de teminat dışında kaldığı iddia edilmiş ise de mahkememizce kaza tarihi olan 28.08.2010 itibariyle 01.06.2015 tarihinde yürürlüğe giren ZMMS Genel Şartları’nın A.6-d maddesinin dava konusu somut olayda uygulanması mümkün olmadığından davalının bu yöndeki savunmasına itibar edilmemiş; kazanın oluş tarihi ve yerleşik Yargıtay uygulamaları dikkate alınarak kazanın oluşumunda davacıların murisi tamamen kusurlu olsa dahi, davacıların destekten yoksun kalan 3. kişi konumunda oldukları, davacıların ölenin desteğinden yoksun kaldıkları ve bu nedenle de destekten yoksun kalma tazminatına hak kazanmaları gerektiği, davalı sigorta şirketinin de ZMMS poliçesi limiti ile bundan sorumlu olduğu, kaza tarihi itibariyle davacıların dava açmadan önce davalı kuruma başvuruda bulunma şartının mevcut olmadığı, 01.06.2015 tarihinde yürürlüğe giren ZMMS Genel Şartları’nın A.6-d maddesinin dava konusu somut olayda uygulanmasının mümkün bulunmadığı değerlendirilerek dosyada ayı ayrı alınan sigorta uzmanı ve aktüer bilirkişi raporlarına itibar edilmiştir.
+Mahkememizce taraf delilleri toplanmış, iddia, savunma, toplanan deliller üzerinde önce davacının dosya konusunda uzman sigortacı bilirkişiye tevdi edilerek yargısal denetime elverişli ve teknik değerlendirmeler içeren 20.02.2018 tarihli rapor alınmış, daha sonra aktüer bilirkişi marifetiyle bilirkişi incelemesi yaptırılmasına karar verilmiştir. Konusunda uzman aktüer bilirkişi tarafından hazırlanan 06.05.2018 tarihli bilirkişi raporunda davacı hak sahiplerinin nihai ve gerçek zararları detaylı olarak hesaplanmış, davalı kurumun 175.000,00 TL. tutarındaki teminat limiti ile sınırlı olarak sorumlu olduğu kabul edilerek davacıların nihai ve gerçek maddi zararları da hesaplanmıştır. Hesap raporunda tüm davacıların talep edebilecekleri toplam destekten yoksun kalma tazminatı miktarının 261.890,65 TL. olduğu, poliçe limiti yönünden Hazine Müsteşarlığı’nın sakatlanma ve ölüm için kişi başına belirlediği teminat limitinin 175.000,00 TL. olduğu, bu nedenle davalı ...nın poliçe limiti dahilinde tazminattan sorumlu olacağı ifade edilmiştir.
+Mahkememizce uzman aktüer bilirkişi ... tarafından hesap bilirkişi raporu incelenip denetlenmiş toplanan delillere, Yargıtay uygulamalarına ve dosya kapsamına uygun olduğu, denetime ve hüküm kurmaya elverişli nitelikte bulunduğu saptanarak mahkememizce de benimsenmiş, davacılar vekili 08/05/2018 tarihli ıslah dilekçesi sunmuş, dilekçesinde müvekkillerinin destekten yoksun kalma zararlarını, ... için 93.210,00 TL, ... için 9.000,00 TL, ... için 2.790,00 TL, ... için 10.000,00 TL,... için 10.000,00 TL, ... için 20.000,00 TL, ... için 15.000,0 TL, ... için 15.000,00 TL olarak ıslah etmiştir. İddia, savunma, toplanan deliller, takip dosyası kapsamı, dosyada alınan bilirkişilerin raporları birlikte değerlendirilerek ve dava tarihi faiz başlangıç tarihi kabul edilerek davanın kabulüne ilişkin aşağıdaki şekilde karar vermek gerektiği sonuç ve kanaatine varılmıştır.
+KARAR : Gerekçede açıklandığı üzere;
+1-Davanın kabulü ile;
+Davacı ... için 93.210,00-TL., davacı ... için 9.000,00-TL., davacı ... için 2.790,00-TL., davacı ... için 10.000,00-TL., davacı ... için 10.000,00-TL., davacı ... için 20.000,00-TL., davacı ...için 15.000,00-TL. ve davacı ... için 15.000,00-TL. destekten yoksun kalma tazminatının dava tarihinden itibaren değişen oranlarda işleyecek yasal faizi ile davalıdan alınarak davacılara verilmesine,
+2-Alınması gerekli 11.954,25-TL karar ve ilam harcından 605,48-TL peşin harç ve ıslah harcının mahsubu ile geriye kalan 11.348,77-TL harcın davalıdan alınarak Hazineye gelir kaydına,
+3-Davacı tarafından yapılan ve aşağıda dökümü yazılı olan 1.833,58 TL.yargılama giderinin davalıdan alınıp davacıya verilmesine,
+4-Davacılar vekille temsil olunduğundan Avukatlık Asgari Ücret Tarifesi uyarınca hesap ve taktir olunan 29.281,80-TL (davacı ... için 10.206,80 TL. Diğer davacılar için ayrı ayrı 2.725,00 TL) vekalet ücretinin davalıdan alınıp davacıya verilmesine,
+5-Gider avansının harcanmayan kısmının karar kesinleştiğinde ve istek halinde ilgili tarafa iadesine,
+Dair, HMK 345 maddesi uyarınca kararın taraflara tebliğ edildiği tarihten başlayarak iki hafta içinde HMK 342 maddesi gereğince düzenlenmiş dilekçe ile HMK 343 maddesi uyarınca mahkememize veya başka bir mahkemeye yapılacak başvuru ile HMK 341/1 maddesi uyarınca İstanbul Bölge Adliye Mahkemesi nezdinde istinaf yolu açık olarak davacılar vekilinin yüzüne karşı davalının yokluğunda verilen karar açıkça okunup, usulen anlatıldı.
+Katip
+¸e-imzalıdır
+Hakim
+¸e-imzalıdır
+Yargılama Gideri Dökümü:
+605,48 TL peşin harç + ıslah harcı
+4,60 TL vekalet harcı
+1.000,00 TL bilirkişi ücreti
+223,50 TL tebligat ve posta ücreti
++___________________________
+1.833,58 TL Toplam

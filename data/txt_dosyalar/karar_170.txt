@@ -1,0 +1,55 @@
+SIRA NO: 170 (ÇEKİRDEK)
+DOKÜMAN ID: 896857500
+DERECE: BAM (İstinaf)
+DAİRE / MAHKEME: Antalya Bölge Adliye Mahkemesi 4. Hukuk Dairesi
+ESAS NO: 2021/262
+KARAR NO: 2023/820
+KARAR TARİHİ: 23.05.2023 (Yıl: 2023)
+ARAMA KELİMESİ: trafik kazası maddi manevi tazminat kusur (v3)
+SAYFA NO: 1
+İNDİRME ZAMANI: 2026-10-25 00:16:44
+HESAP DOĞRULAMA ADAYI: False
+İÇERİK HASH (MD5): 10a2f407a5d12c991d1dace7152db15b
+================================================================================
+
+T.C.
+ANTALYA
+BÖLGE ADLİYE MAHKEMESİ TÜRK MİLLETİ ADINA
+DÖRDÜNCÜ HUKUK DAİRESİ İSTİNAF KARARI
+İNCELENEN DOSYANIN
+MAHKEMESİ : ANTALYA 3. ASLİYE TİCARET MAHKEMESİ
+TARİHİ: 28/09/2020
+DAVA : Maddi ve Manevi Tazminat
+KARAR TARİHİ: 23/05/2023
+KARAR YAZIM TARİHİ: 26/05/2023
+Taraflar arasındaki davanın yapılan yargılaması sonunda ilk derece mahkemesince verilen, yukarıda tarih ve numarası gösterilen kararına karşı davalı ... Sigorta A.Ş. vekili tarafından istinaf başvurusunda bulunulmakla, dosyada duruşma yapılmasını gerektiren eksiklik görülmediğinden Hukuk Muhakameleri Kanunu'nun 353/1-b-1 maddesi uyarınca istinaf incelemesinin duruşmasız yapılmasına karar verilerek, dosya incelendi;
+GEREĞİ DÜŞÜNÜLDÜ
+DAVACI İSTEMİNİN ÖZETİ:
+Davacı vekili dava dilekçesinde özetle; 13/02/2017 günü davacı müvekkilinin sürücüsü olduğu motosikletle, davalı ...in sürücüsü, davalı ... Sigorta A.Ş.'nin trafik sigortacısı olduğu otomobil arasında meydana gelen trafik kazası sonucu davacı müvekkilinin yaralandığından bahisle ıslahla artırılmış haliyle 90.822,86 TL maddi tazminatın dava tarihinden itibaren işleyecek yasal faiziyle birlikte her iki davalıdan müştereken ve müteselsilen, 30.000,00 TL manevi tazminatın olay tarihinden itibaren işleyecek yasal faizi ile birlikte davalı ...den tahsiline karar verilmesini talep etmiştir.
+DAVALI CEVABININ ÖZETİ:
+Davalı ... Sigorta A.Ş. vekili davaya cevap dilekçesinde özetle; müvekkili sigorta şirketinin sorumluluğunun işletenin kusuru, poliçe limiti ve kapsamı ile sınırı olduğu, davacının maluliyetinin yasal mevzuata göre belirlenmesi ve kusur ile zararın usulünce tespiti gerektiğini beyanla davanın reddini istemiştir.
+DELİLLER :
+Kaş Asliye Ceza Mahkemesinin ... esas sayılı dosya örneği, keşif, kusur raporları, maluliyet raporu, tazminat bilirkişisi raporları, sosyal ve ekonomik araştırma tutanakları, tüm dosya kapsamı.
+İDM KARARININ ÖZETİ :
+İlk Derece Mahkemesince verilen kararda özetle; İstanbul Adli Tıp Kurumu Başkanlığı 2. İhtisas Kurulunca düzenlenen 26/04/2019 tarihli rapora göre davacının trafik kazasına bağlı yaralanmasının 30/03/2013 tarih 28603 sayılı Resmi Gazete'de yayımlanan Özürlülük Ölçütü, Sınıflandırılması Ve Özürlülere Verilecek Sağlık Kurul Raporları Hakkında Yönetmelik hükümlerine göre sürekli iş göremezlik oranının %15 (yüzdeonbeş) olduğu, Karayolları Fen Heyetinden oluşan bilirkişi heyeti tarafından düzenlenen 09/09/2019 tarihli rapora göre davalı sürücü ...in meydana gelen olayda %80 oranında, davacı sürücü ....in %20 oranında kusurlu olduğu, aktüer bilirkişi raporunda belirlendiği üzere davacının olay nedeniyle sürekli iş göremezlik zararının 90.822,86 TL olarak hesaplandığı gerekçesiyle, maddi tazminat davasının kabulü ile 90.822,86 TL maddi tazminatın 20/04/2017 dava tarihinden itibaren işleyecek yasal faizi ile birlikte davalılardan müştereken ve müteselsilen tahsiline, sigorta şirketinin poliçe limiti ile sınırlı sorumlu tutulmasına, manevi tazminat davasının kısmen kabulü ile 12.000,00 TL manevi tazminatın 13/02/2017 olay tarihinden itibaren işleyecek yasal faizi ile birlikte davalı ...den tahsiline karar verilmiştir.
+İSTİNAF NEDENLERİ :
+Davalı ... Sigorta A.Ş. vekili istinaf dilekçesinde özetle; alınan kusur raporları arasındaki çelişkinin giderilmediği, maluliyet oranının esas alındığı Özürlülük Ölçütü, Sınıflandırılması Ve Özürlülere Verilecek Sağlık Kurul Raporları Hakkında Yönetmeliğin kaldırıldığı, bu yönetmeliğe göre alınan rapora göre karar verilmesinin mümkün olmadığı, yürürlükte olan Erişkinler İçin Engellilik Değerlendirilmesi Hakkındaki Yönetmelik hükümlerine göre rapor alınması gerektiği, davacının koruyucu kask ve giysi kullanmadığı için müterafik kusur indirimi yapılması gerektiğini beyanla ilk derece mahkemesi kararının kaldırılmasını istemiştir.
+Davacı ve davalı ... istinaf yasa yoluna başvurmamışlardır.
+İSTİNAFA CEVAP :
+Davacı vekili istinafa cevap vermemiştir.
+G E R E K Ç E
+Uyuşmazlık, trafik kazasına bağlı yaralanma nedeniyle maddi ve manevi tazminat isteğine ilişkindir.
+Türk Borçlar Kanunu'nun 49. maddesi gereğince kasten veya taksirle başkasına zarar veren bu zararı gidermekle yükümlüdür. Bedensel zarara uğrayanların aynı kanunun 54. maddesi gereğince maddi tazminat ve aynı kanunun 56/1 maddesi gereğince manevi tazminat isteme hakları bulunmaktadır. 2918 Sayılı Karayolları Trafik Kanunu'nun 85. maddesi gereği motorlu araç işleteni doğan zararlardan sürücü ile birlikte müştereken ve müteselsilen sorumludur. 2918 Sayılı Karayolları Trafik Kanunu'nun 91, 97 ve 99. maddeleri gereği trafik kazasına ve zarara sebebiyet veren motorlu aracın zorunlu mali sorumluluk sigortacısı, yasa ve genel sigorta şartları kapsamına dahil maddi zararlardan işletenle birlikte müştereken ve müteselsilen sorumludur.
+Davacın sürücüsü olduğu motosikletle, davalıların sürücüsü ve trafik sigortacısı olduğu otomobil arasında meydana gelen trafik kazası sonucu davacı yaralanmıştır. Davacı bu yaralanmadan dolayı sürekli iş görmezlik zararı ve manevi zararının tahsilini talep etmiş, ilk derece mahkemesince yapılan yargılama sonucunda maddi tazminat davasının tam olarak, manevi tazminat davasının kısmen kabulüne karar verilmiş, bu karara karşı davalı ... Sigorta A.Ş. vekili tarafından istinaf yasa yoluna başvurulmuştur.
+6100 Sayılı HMK.'nun 355. maddesi gereğince istinaf dilekçesinde gösterilen istinaf sebepleri ile sınırlı yapılan istinaf incelemesi sonucunda;
+Kaş Asliye Ceza Mahkemesinin 30/04/2019 gün ve ... esas, ... sayılı kararı ile davalı ...in davacı ve dava dışı ...e karşı işlediği taksirle yaralama suçundan TCK.'nun 89/4, 62 ve 52. maddeleri gereğince 7.600,00 TL adli para cezası ile cezalandırılmasına karar verilmiş, karar istinaf yasa yoluna başvurulmaksızın 24/05/2019 tarihinde kesinleşmiştir.
+Kural olarak Türk Borçlar Kanunu'nun 74. maddesi gereğince ceza mahkemesince verilen kararlar hukuk hakimi bakımından bağlayıcı değildir. Ancak, hukuk hakiminin bu bağımsızlığı sınırsız değildir, ceza mahkemesince fiilin hukuka aykırılığına yönelik kesinleşen maddi olgular hukuk hakimi bakımından da bağlayıcı olup, taraflar yönünden de kesin delil niteliği taşımaktadır (Yargıtay Hukuk Genel Kurulunun 17/09/2008 tarih ve 2008/4/564 esas, 2008/536 karar).
+Kesinleşen ceza mahkemesi kararına göre davalı sürücünün arkasından gelen trafiği dikkate almadan şerit ihlalinde bulunmasından dolayı trafik kazasının gerçekleştiği, bu nedenle ilk derece mahkemesince davacı sürücüye %20, davalı sürücüye ise %80 kusur izafe edilmesinde dosya kapsamına aykırı bir yön görülmediği, yine Yargıtay 4. Hukuk Dairesince maluliyete ilişkin alınacak raporların kazanın gerçekleştiği tarihte yürürlükte bulunan yönetmelik hükümlerine göre düzenlenmesi gerektiği, kazanın gerçekleştiği tarihte Özürlülük Ölçütü, Sınıflandırılması Ve Özürlülere Verilecek Sağlık Kurul Raporları Hakkında Yönetmelik hükümlerinin yürürlükte olduğu ve Adli Tıp Kurumu 2. İhtisas Kurulunca bu yönetmelik hükümlerine göre maluliyetin belirlendiği, trafik kazası tespit tutanağına göre davacının kask kullanıp kullanmadığının belirlenemediği, davacı kollukta verdiği ifadesinde kastının takılı olduğunu beyan ettiği, davalı sigorta şirketinin bunun aksini ispat edecek bir delil sunmadığı gözetildiğinde, ilk derece mahkemesince taraflarca gösterilen delillerin toplanmasında, değerlendirilmesinde esas ve usul bakımından hukuka aykırılık bulunmadığı ve davalı ... Sigorta A.Ş. vekilinin tüm istinaf nedenleri yerinde görülmediğinden 6100 Sayılı HMK'nun 353/1. fıkrası (b-1) bendi uyarınca istinaf başvurusunun esastan reddine karar verilmesi gerekmiştir.
+HÜKÜM : Gerekçesi yukarıda açıklandığı üzere;
+1-Davalı ... Sigorta A.Ş. vekilinin tüm istinaf nedenleri yerinde görülmediğinden 6100 Sayılı HMK'nun 353/1. fıkrası (b-1) bendi uyarınca istinaf başvurusunun ESASTAN REDDİNE,
+2-Davalı .... Sigorta A.Ş. tarafından peşin yatırılan 148,60 TL istinaf yoluna başvuru harcı ile (54,40 TL +255,80 TL + 1.445,75 TL) 1.755,95‬ istinaf karar harcının Hazineye gelir kaydına, bakiye 4.448,16 TL istinaf karar harcının bu davalıdan alınarak Hazineye verilmesine,
+3-Yapılan istinaf giderlerinin davalı ... Sigorta A.Ş. üzerinde bırakılmasına,
+4-Artan istinaf gider avansının yatıranlara iadesine,
+5-Kesin olan işbu kararın taraflara tebliği, avans iade ve harç tahsil işlemlerinin ilk derece mahkemesince yerine getirilmesine,
+İlişkin dosya üzerinde yapılan inceleme sonunda 6100 Sayılı HMK'nun 362. maddesi (1-a) bendi uyarınca 23/05/2023 tarihinde KESİN olmak üzere oy birliği ile karar verildi.
+...

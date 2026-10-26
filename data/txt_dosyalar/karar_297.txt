@@ -1,0 +1,38 @@
+SIRA NO: 297 (ÇEKİRDEK)
+DOKÜMAN ID: 393193800
+DERECE: İlk Derece Mahkemesi
+DAİRE / MAHKEME: İstanbul 15. Asliye Ticaret Mahkemesi
+ESAS NO: 2014/1431
+KARAR NO: 2018/153
+KARAR TARİHİ: 23.02.2018 (Yıl: 2018)
+ARAMA KELİMESİ: trafik kazası aktüer bilirkişi raporu net tutar
+SAYFA NO: 12
+İNDİRME ZAMANI: 2026-10-25 00:42:26
+HESAP DOĞRULAMA ADAYI: False
+İÇERİK HASH (MD5): d5a318a533cb5bd7b415d4d7d25b7a1d
+================================================================================
+
+T.C. İSTANBUL 15. ASLİYE TİCARET MAHKEMESİ
+ESAS NO : 2014/176 Esas
+KARAR NO : 2018/112
+DAVA : Tazminat (Ölüm Ve Cismani Zarar Sebebiyle Açılan Tazminat)
+DAVA TARİHİ : 30/05/2014
+KARAR TARİHİ : 13/02/2018
+Mahkememizde görülen Tazminat davasının yapılan açık yargılaması sonunda,
+GEREĞİ DÜŞÜNÜLDÜ
+İSTEM Davacı vekili dava dilekçesinde özetle ; Davacının 12.08.2012 tarihinde davalının Zorunlu Mali Sorumluluk Sigorta Poliçesi ile sigortalısı olan aracı karıştığı yaralanmak trafik kazasında yaralandığını ve sakat kaldığını, Bursa Devlet Hastanesi Özürlü Sağlık Kurulunun 25.07.2013 tarihli raporuyla müvekkilinin maluliyetinin tespit edildiğini, davalı ... şirketine tazminat ödemesi için yapılan başvurunun sonuçsuz kaldığını, trafik kazası tespit tutanağında belirtildiği üzere müvekkilinin kusursuz olduğunu, davalı ... şirketinin poliçe tutarında sorumlu olduğunu beyanla fazlaya dair hakları saklı kalmak üzere şimdilik 1.000,00 TL cismani zarar nedeniyle oluşacak maddi tazminat nedeniyle sürekli ve geçici maluliyet dönemine ilişkin tazminat tutarının bakıcı giderinin temerrüt tarihinden itibaren avans faizi ile birlikte davalıdan tahsiline , yargılama gideri ve vekalet ücretinin davalı tarafa tahmiline karar verilmesini talep ve dava etmiştir.
+CEVAP/Davalı vekili cevap dilekçesinde özetle;Davacının müvekkili sigorta şirketine müracaatının olmadığını, dava konusu trafik kazasına karışan ... plakalı aracın kaza tarihinde müvekkili şirketin Karayolları Zorunlu Mali Sorumluluk Poliçesi ile sigortalısı olduğunu, trafik sigortasının meblağ sigortası olmayıp zarar sigortası olduğunu, müvekkilinin sorumluluğunun poliçe limiti ve zarar görenlerin kaza nedeniyle uğradığı gerçek maddi zarar ve sigortalının kusuru ile sınırlı olduğunu, tazminat hesabı yönünden bilirkişi incelemesinin aktüerler siciline kayıtlı aktüerlerce yapılması gerektiğini, müvekkili temerrüde düşmediğinden ve dava açılmasına sebebiyet vermediğinden faiz talebinin hukuki olmadığını beyanla davanın reddine , yargılama gideri ve vekalet ücretinin davacıdan tahsiline karar verilmesini talep etmiştir.
+DELİLLERİN DEĞERLENDİRİLMESİ VE GEREKÇE /
+Mahkememizce Dosya içine İstanbul Adli Tıp kurumunun 18/01/2016 tarihli Maluliyet raporu , 01/07/2016 Tarihli Mahir Kocabaş'ın Aktüer raporu , 24/11/2016 tarihli Prof. Dr. M Turgut Aktaş'ın kusur raporu alınmıştır.
+Davacı vekili 26/01/2018 tarihli dilekçesinde özetle; davalı ... şirketi tarafından ödeme yapıldığını, dava konusuz kaldığını belirterek esas hakkında karar verilmesine yer olmadığına karar verilmesini istediklerini bildirmiştir.
+Tüm dosya kapsamına göre davanın konusuz kaldığı bildirildiğinden, esas hakkında karar verilmesine yer olmadığına karar vermek gerekmiştir.
+Yukarıda açıklanan nedenlerle;
+H Ü K Ü M /
+1-Dava konusuz kaldığından esas hakkında karar verilmesine yer olmadığına
+2-Davacı tarafından yapılan 1.240,90 TL yargılama giderlerinin davalıdan tahsili ile davacı tarafa verilmesine
+3-Davacı tarafca peşin yatırılan 25,20 TL karar harcının mahsubuna eksik 10,70 TL karar harcının davalıdan alınıp hazineye gelir kaydına
+4-Davacı kendini vekil ile temsil ettirdiğinden A.A.Ü.T.'ne göre hesap edilen 2.180,00 TL vekalet ücretinin davalıdan alınarak davacıya verilmesine,
+5-Taraflarca yatırılan ve kullanılmayan gider avansının karar kesinleştiğinde yatıran taraflara iadesine,
+Tarafların yokluğunda, gerekçeli kararın tebliğinden itibaren 2 haftalık süre içinde İstanbul BAM da istinaf yolu açık olmak üzere karar verildi. 13/02/2018
+Katip ...
+Hakim ...

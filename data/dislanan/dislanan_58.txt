@@ -1,0 +1,39 @@
+SIRA NO: 58 (DIŞLANAN - MALULIYET_ISGOREMEZLIK_YOK)
+DOKÜMAN ID: 580299000
+DERECE: İlk Derece Mahkemesi
+DAİRE / MAHKEME: İstanbul 16. Asliye Ticaret Mahkemesi
+ESAS NO: 2018/545
+KARAR NO: 2020/223
+KARAR TARİHİ: 16.06.2020 (Yıl: 2020)
+ARAMA KELİMESİ: trafik kazası maddi manevi tazminat kusur (v3)
+SAYFA NO: 1
+İNDİRME ZAMANI: 2026-10-25 00:16:44
+HESAP DOĞRULAMA ADAYI: False
+İÇERİK HASH (MD5): d7f63e94934be7fc61cd8f20271a56d9
+================================================================================
+
+T.C.
+İSTANBUL
+16. ASLİYE TİCARET MAHKEMESİ
+ESAS NO : 2018/545
+KARAR NO : 2020/223
+DAVA : Tazminat (Ölüm Ve Cismani Zarar Sebebiyle Açılan Tazminat)
+DAVA TARİHİ : 12/06/2018
+KARAR TARİHİ : 16/06/2020
+Mahkememizde görülmekte olan Tazminat (Ölüm Ve Cismani Zarar Sebebiyle Açılan Tazminat) davasının yapılan açık yargılaması sonunda,
+GEREĞİ DÜŞÜNÜLDÜ:
+Davacı vekilinin dava dilekçesinde özetle; Davacıyla aynı evi paylaşmakta olan müteveffa müvekkilin oğlu ... 23/04/2014 tarihinde kendi kontrolünde bulunan ... plakalı motosikleti ile Manisa-İzmir karayolunda seyir halindeyken köprü ayağına çarpmak suretiyle tek taraflı olarak geçirdiği trafik kazası sonucu yaşamını yitirdiğini, trafik kazasındaki araç için ... Sigorta AŞ'ye KTK Zorunlu Mali Sorumluluk Poliçesi yaptırılmış olduğunu, söz konusu poliçede kişi başı ölüm halinde sigorta bedeli 250.000,00-TL olduğunu, kazanın meydana geliş tarihi ve poliçenin başlangıç tarihi ile poliçe kapsamı bakımından, müvekkilin uğradığı maddi ve manevi zararların davalı yanca karşılanması gerektiğini, davanın kabulüne, müvekkilin desteğinin trafik kazası sonucu vefatı sebebiyle yoksun kaldığı parasal zararlara ilişkin olarak ve fazlaya ilişkin hakları saklı ve baki kalmak kaydıyla, hesap bilirkişi raporunun dosyaya girmesi sonucu talebi ıslah ile arttırılacak olduğunu, şimdilik 5.000,00-TL maddi tazminatın davalıdan tahsiline, hükmedilecek maddi tazminat bakımından kaza tarihi olan 23/04/2014 tarihinden, davanın açıldığı 03/2018 tarihine kadar işlemiş yasal faiziyle dava tarihi olan 03/2018 tarihinden itibaren de reeskont avans faizi ile birlikte davalıdan tahsiline, 30.000,00-TL manevi tazminatın yasal faizi ile birlikte davalıdan tahsilini, ihtiyati tedbir talebinin kabulüne, yargılama giderleri ile ücreti vekaletin davalı yana tahmiline karar verilmesini talep ve dava etmiştir.
+Davalı vekilinin cevap dilekçesinde özetle; Müvekkil sigorta şirketine, başvuru yapılmamış olması nedeniyle dava şartı yokluğundan davanın usulden reddini, davanın zamanaşımına uğramış olması nedeniyle, ... plakalı sayılı sigortalı araç sürücüsü olan destek şahsının kusuruna denk gelen destek tazminatı taleplerinin poliçe teminat kapsamı dışında kalması nedeniyle davanın reddini, ZMMS poliçesi kapsamında bulunmayan dava konusu manevi tazminat taleplerinin müvekkil şirket yönünden reddini, her durumda kazaya karışan sigortalı araç sürücüsü ve Karayolları Genel Müdürlüğünün dava konusu kazanın meydana gelmesinde kusur durumlarının belirlenmesi için dosyanın ATK'ya gönderilmesini, kusur durumunun tespitinden sonra aktüeryal hesaplamanın Hazine Müsteşarlığı tarafından belirlenen aktüerler tarafından TRH 2010 Ulusal Mortalite tablosuna göre yapılmasını, kaza tarihinden itibaren işleyecek avans faizi talebinin reddini, davaya yönelik tüm beyanlarının dikkate alınmak suretiyle, şartların varlığı halinde sigortalı araç sürücüsü ve işletenine rücu hakkının saklı kalmak kaydıyla, davanın reddini, yargılama giderleri ile vekalet ücretinin karşı tarafa yükletilmesine karar verilmesini talep etmiştir.
+Dosya kapsamına alınan 31/07/2019 tarihli bilirkişi raporunda özetle; 01/05/2014 tarihinde meydana gelen trafik kazasında; ... Sigorta AŞ tarafından kaza tarihini kapsar şekilde zorunlu trafik sigorta poliçesi ile sigortalanmış bulunan ... plakalı aracın sürücüsü ve davacının desteği ...'nın %100 oranında kusurlu olduğunu, davacı anne İnci'nin 3.kişi olarak müteveffanın kusuru nispetinde aracı zorunlu trafik sigorta poliçesi ile sigortalayan ... Sigorta AŞ'den destekten yoksun kalma nedeniyle maddi tazminat talebinde bulunabileceği kabul edilerek desteğinin %100 kusur oranı üzerinden bu olaya bağlı olarak 23/04/2014 tarihinde vefat eden ...'nın geride kalan hak sahiplerinden; davacı anne ... 'nın destekten yoksun kalma sebebiyle maddi zararının 44.213,95-TL olduğunu, davacının maddi zararının poliçe limiti içinde kaldığını, ... Sigorta AŞ'nin 12/06/2018 dava tarihinden önce temerrüde düştüğünün belirlenemediğini, sigortalı aracın kullanım amacının hususi olduğunu, her ne kadar dava dilekçesinde manevi tazminat talebinde bulunulmuş ise de zorunlu trafik sigorta poliçesinin manevi tazminat taleplerini kapsamadığını, dava açılırken husumetin ... Sigorta AŞ yönetilmiş olması, ... Sigorta tarafından husumet itirazında bulunulması üzerine davacı vekili tarafından ... plakalı aracı kaza tarihi itibariyle zorunlu trafik sigorta poliçesi ile sigortalayan ... Sigorta AŞ'ye davalı sıfatı ile tebligat çıkartılması talep edilmesine üzerine ... Sigorta AŞ'ye tebligat çıkartılmış olması hususundaki usulü hükümlere ilişkin takdiri Mahkememize ait olup, işbu raporda aracı kaza tarihini kapsar şekilde zorunlu trafik sigorta poliçesi ile sigortalayan ... Sigorta AŞ'nin %100 kusur oranındaki sorumluluk durumuna göre davacının maddi zararının belirlendiğini mütalaa etmiştir.
+Davacı vekilinin UYAP sistemi üzerinden Mahkememize ibraz etmiş olduğu feragat dilekçesi ile davadan feragat ettiğini beyan etmiş olup, feragate yetkili olduğu anlaşılmıştır.
+Davalı vekilinin UYAP sistemi üzerinden Mahkememize ibraz etmiş olduğu beyan dilekçesinde; davaya ilişkin olarak davacı tarafından davadan feragat edilmesi halinde vekalet ücreti ve yargılama gideri talebi bulunmadığını beyan ettiği anlaşılmıştır.
+Mahkememizce vaki feragat üzerine davanın reddine dair aşağıdaki hüküm kurulmasına karar verilmiştir.
+HÜKÜM : Gerekçesi yukarıda açıklandığı üzere;
+1-Davanın vaki feragat nedeniyle REDDİNE,
+2-Davacı tarafından yatırılan 119,55-TL harçtan 54,40-TL'in mahsubu ile arta kalan 65,15-TL nin karar kesinleştiğinde talep halinde davacıya iadesine,
+3-Davacı tarafça yapılan masrafın kendi üzerinde bırakılmasına,
+4-Davalı tarafça vekalet ücreti talebi bulunmadığından bu hususta karar verilmesine yer olmadığına,
+5-Taraflarca yatırılan gider avansının kullanılmayan kısmının 6100 sayılı Yasanın 333. maddesi ile Yönetmeliğin 207. maddesi gereğince hükmün kesinleşmesinden sonra hesap numarası bildirilmiş ise elektronik ortamda hesaba aktarmak suretiyle; hesap numarası bildirilmemiş ise masrafı kalan paradan karşılanmak suretiyle PTT merkez ve işyerleri vasıtasıyla adreste ödemeli olarak yazı işleri müdürü tarafından iadesine,
+Dair; tarafların yokluğunda gerekçeli kararın tebliğinden itibaren iki hafta içerisinde mahkememize ya da mahkememize gönderilmek üzere istinaf dilekçesi sunulmak suretiyle ... Bölge Adliye Mahkemesi nezdinde istinaf kanun yolu açık olmak üzere verilen karar açıkça okunup usulen anlatıldı.16/06/2020
+Katip ...
+Hakim ...

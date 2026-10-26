@@ -1,0 +1,53 @@
+SIRA NO: 316 (ÇEKİRDEK)
+DOKÜMAN ID: 1143962000
+DERECE: İlk Derece Mahkemesi
+DAİRE / MAHKEME: Adana 1. Asliye Ticaret Mahkemesi
+ESAS NO: 2021/759
+KARAR NO: 2022/1137
+KARAR TARİHİ: 08.12.2022 (Yıl: 2022)
+ARAMA KELİMESİ: trafik kazası aktüer bilirkişi raporu net tutar
+SAYFA NO: 15
+İNDİRME ZAMANI: 2026-10-25 00:49:53
+HESAP DOĞRULAMA ADAYI: False
+İÇERİK HASH (MD5): c88ac7e9a1b060a83db0d0a53ce97dcd
+================================================================================
+
+T.C. ADANA 1. ASLİYE TİCARET MAHKEMESİ Esas-Karar No: 2021/759 Esas - 2022/1137
+TÜRK MİLLETİ ADINA
+T.C.
+ADANA
+1. ASLİYE TİCARET MAHKEMESİ GEREKÇELİ KARAR
+ESAS NO : 2021/759 Esas
+KARAR NO : 2022/1137
+HAKİM : ...
+KATİP : ...
+DAVACI : ...
+VEKİLİ : Av. ...
+DAVALI : ...
+VEKİLİ : Av....
+DAVA : İtirazın İptali (Haksız Eylemden Kaynaklanan Zarar Nedeniyle)
+DAVA TARİHİ : 06/07/2020
+KARAR TARİHİ : 08/12/2022
+KARARIN YAZILDIĞI TARİH: ...
+Davacı vekili tarafından davalı aleyhine mahkememize açılan davanın yapılan açık yargılaması sonunda;
+TALEP : Davacı vekili dava dilekçesinde özetle ; müvekkil şirkete trafik sigortalı ...plakalı araç 29/07/2018 tarihinde davalının yolcu olarak bulunduğu ... plakalı araca çarparak davalının sürekli sakatlığına sebebiyet verdiğini, davalının vekili vasıtasıyla müvekkil şirkete başvurarak sürekli sakatlık oranı uzman bir aktüer firmasına tespit ettirilmiş, daha sonra da tespit edilen %6 maluliyet oranına göre aktüer hesabı yaptırılmış ve hesaplanan 19.291,39 TL, 20/11/2018 tarihinde davalıya ödendiğini, davalı, ödenen tazminatı eksik bularak Çukurova Üniversitesi Adli Tıp Kurulundan sakatlık oranına dair bir rapor almış ve müvekkil şirketten ek tazminat talebinde bulunduğunu, davalının talebi üzerine düzenlenen adli tıp raporunda davalının maluliyet oranının %5 olarak tespit edildiğini, müvekkil şirketçe bu rapora dayanılarak yeniden aktüer hesabı yaptırılmış ve rapora göre davalının müvekkil şirketten alabileceği sürekli sakatlık tazminatının 16.165,07 TL olduğu, davalıya 3.126,32 TL fazla ödeme yapıldığının tespit edildiğini, fazla ödenen tazminatın iadesi için davalıya 25/11/2019 tarihinde yazı yazılmışsa da herhangi bir cevap alınamadığını, alacağın tahsili amacıyla Adana 6. İcra Müdürlüğünün ... esas sayılı dosyası üzerinden ilamsız takip başlatılmış, borçlu borca itiraz ettiğini belirterek Adana 6. İcra Müdürlüğünün ... esas sayılı dosyasına yapılan itirazın iptali ile takibin devamına, %20 icra inkar tazminatına hükmedilmesini talep ve dava etmiştir.
+SAVUNMA : Davalı vekilinin 31/12/2020 tarihli cevap dilekçesi ile, müvekkilinin yolcu olarak bulunduğu araçta 29/07/2018 tarihinde ...plaka sayılı aracın çarpması sonucu ağır şekilde yaralandığını, 20/11/2018 tarihinde geçici ve sürekli maluliyet tazminatı için toplam 19.291,39 TL ödeme yapıldığını, yapılan ödemenin müvekkilinin yaşı, geliri, kazadaki kusursuzluğu ve maluliyet oranı göz önüne alındığında müvekkilinin zararını karşılamaktan çok uzak olduğunu, Çukurova Üniversitesi Balcalı Hastanesi Adli Tıp Kurumu tarafından düzenlenen 02/05/2019 tarih 3912 sayılı raporda müvekkilinin maluliyetinin %5 ve iyileşme süresinin ise 4 ay olduğu rapor edildiğini, davacı tarafın %6 maluliyet oranı üzerinden hesaplama yapıldığı iddia edilse de böyle bir raporun mevcut olmadığını, dolayısıyla böyle bir rapor üzerinden ödeme yapılmasının mümkün olmadığını belirterek, dosyanın trafik kazası konusunda uzman aktüerya bilirkişisine tevdii ile müvekkilinin geçici ve sürekli maluliyet tazminatının hesaplanmasını, haksız davanın reddini, %20 den az olmamak üzere kötü niyet tazminatına hükmedilmesini, yargılama giderleri ve vekalet ücretinin karşı tarafa tahmiline karar verilmesini talep etmiştir.
+DELİLLER ve GEREKÇE :
+Dava, itirazın iptali, takibin devamı ve tazminat talebine ilişkin olup; davacının 29/07/2018 tarihli trafik kazası nedeni ile davalıya 3.126,32 TL'nin fazla ödenmesi için icra takibinin başlatıldığı, davacının toplam alacağının 3.431,00 TL çıktığını, davalı tarafından borcun ödenmemesi nedeniyle Adana 6. İcra Müdürlüğünün ... esas sayılı takip dosyası ile icra takibinin başlatıldığını, davalı/borçlu tarafından icra takibine itiraz edilmesi üzerine takibin durduğunu, davalının yapmış olduğu itirazın haksız olması nedeni ile itirazın iptali talebine ilişkindir.
+Dava İcra İflas Kanunu 67. Maddesine dayanan itirazın iptali davasıdır.
+Adana 6. İcra Müdürlüğünün ... esas sayılı takip dosyasında davacı tarafından davalı aleyhine toplam 3.431,00 TL alacağın tahsili amacıyla ilamsız icra takibi yapıldığı, davalı tarafındanborca, takibe, faiz ve ferilerine itiraz edildiği, bu nedenle takibin durduğu anlaşıldı.
+Mahkememizce dosyanın kusur bilirkişisine tevdi edildiği, bilirkişi tarafından 17/02/2022 tarihli raporunda; ...plakalı traktör sürücüsü ...'in meydana gelen kazada sonrası kazaya karıştığı her iki otomobil yönünden ayrı ayrı %75 oranında asli kusurlu olduğunu, ... plakalı otomobil sürücüsü ...'in %25 oranında kusurlu, ... plakalı otomobil sürücüsü ...'ın ise %25 oranında kusurlu olduğu belirtilmiştir.
+Mahkememizce sigorta uzmanı bilirkişisine tevdi edildiği, bilirkişi tarafınan 10/05/2022 tarihli raporunda; Davaya konu olayda davacı ... AŞ tarafından sigortalanan ...plaka sayılı traktörün sebep olduğu kazada 10.11.2018 tarihli raporda davalının maluliyet oranı %6-%8 aralığı olarak belirlenmiş ve buradaki %6 oranı esas alınarak hazırlanan aktüer raporunda davalıya ödenecek tazminat tutarı 19.291,39 TL olarak hesaplandığı, Davalının itirazı üzerine Çukurova Üniversitesi Adli Tıp Kurul’undan alınan 02.05.2019 tarihli raporda maluliyet oranının %5 olduğu belirlenmiştir. Davalının sürekli sakatlık oranının %5 olarak esas alınması üzerine tazminat tutarı 16.165,03 TL olarak hesaplandığını,
+Davacı sigorta şirketinin ödediği tazminatın hesaplandığı 10.11.2018 tarihli rapor tek uzman tarafından hazırlanmış ve %6-%8 oranı belirlenmiş iken, daha sonra davalının itirazı üzerine heyetten alınan 02.05.2019 tarihli raporda %5 oranı belirlenmiş ve bu oran esas alınarak hazırlanan aktüer hesabına göre davacı şirketin davalıya fazladan (19.291,39 TL-16.165,03 TL)=3.126,36 TL ödeme yaptığı, Davacı şirketin takip talebinde ödeme tarihinden (20.11.2018) itibaren %9 yasal faiz talep ettiği; 6098 sayılı TBK m.117/2 hükmüne göre davalıya bildirim yapıldığı tespit edilememiş olup, sebepsiz zenginleşme hükümlerine göre talepte bulunulsa dahi, davacı sigorta şirketinin takip tarihinden itibaren davalıdan fazladan ödediği 3.126,36 TL’nin %9 yasal faiziyle birlikte talep edebileceği, davacı sigorta şirketince sigortalanan ...plaka sayılı traktör sürücüsü ...’in % 75 (Yetmişbeş) oranında asli kusurlu olduğuna dair bilirkişi raporundaki kusur oranının %75 olarak esas alınması halinde tazminat tutarı 38.570,41 TL olarak hesaplanmakta ve 19.291,39-TL ödeme yapan davacı sigorta şirketinin alacağının olmadığı belirtilmiştir.
+Mahkememizce yapılan yargılama sonucunda da davalıya trafik kazası nedeni ile fazla yapılan ödeme ile alacağının ödenmemesi nedeni ile başlatılan icra takibine yapılan itirazın iptali davası olduğu, Adana 6. İcra Müdürlüğünün ... esas sayılı dosyasında ilamsız icra takibine geçildiği, davalı borçlunun talep edilen borca, takibe, ve ferilerine itiraz edildiği, bu nedenle takibin durmasına karar verildiği, davacı sigorta şirketince sigortalanan ...plaka sayılı traktör sürücüsü ...’in % 75 (Yetmişbeş) oranında asli kusurlu olduğuna dair bilirkişi raporundaki kusur oranının %75 olarak esas alınması halinde tazminat tutarı 38.570,41 TL olarak hesaplanmakta ve 19.291,39-TL ödeme yapan davacı sigorta şirketinin alacağının olmadığı anlaşıldığından davanın reddine,davacının yasal koşulları oluşmayan icra inkar tazminatı talebinin reddine karar vermek gerekmiş ve aşağıdaki şekilde hüküm kurulmuştur.
+H Ü K Ü M : Gerekçesi yukarıda açıklandığı üzere;
+1-Davanın REDDİNE,
+2-Davacının yasal koşulları oluşmayan icra inkar tazminatı talebinin REDDİNE
+3-Alınması gereken 80,70 TL red harcından, peşin alınan 58,60.TL harcın mahsubu ile bakiye 22,10 TL harcın davacıdan tahsili ile Hazineye gelir kaydına,
+4-7155 sayılı kanun 23. Maddesi ile 6325 sayılı Kanuna eklenen 18/A Maddesinin 11. fıkrası gereğince suçüstü ödeneğinden karşılanan 1.320,00 TL arabulucuk ücretinin davacıdan tahsili ile HAZİNEYE İRAD KAYDINA,
+5-Davalı kendisini vekil ile temsil ettirmiş olduğundan AAÜT uyarınca hesap olunan 3.431,00TL vekalet ücretinin davacıdan alınarak davalıya ödenmesine,
+5-Davacı tarafından yapılan yargılama giderlerinin kendi üzerinde bırakılmasına.
+6-Hüküm kesinleştiğinde kullanılmayan gider avansının ilgilisine iadesine
+Dair, davalı vekilinin yüzüne karşı 6100 sayılı HMK.nun 341/1 ve 345 maddeleri gereğince, miktar itibariyle KESİN olmak üzere verilen karar açıkça okunup, alenen ve usulen tefhim kılındı 08/12/2022
+Katip
+Hakim
