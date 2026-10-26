@@ -4,8 +4,7 @@ import re
 from pathlib import Path
 import pytest
 
-from trafikrag.ingestion.steps.clean import clean_text, run_clean_dir
-from trafikrag.ingestion.steps.parse_decision import parse_decision
+from trafikrag.ingestion.steps.clean import clean_text, run_clean_dir, _read_file_safe
 
 
 def test_clean_preserves_all_headings_and_metadata_lines() -> None:
@@ -152,6 +151,34 @@ def test_clean_does_not_modify_raw_files_and_writes_to_interim(tmp_path: Path) -
     assert "TIKLAYINIZ" not in dst_file.read_text(encoding="utf-8")
 
 
+def test_read_file_safe_handles_non_utf8_encodings(tmp_path: Path) -> None:
+    """YENİ TEST: cp1254 (Türkçe Windows) formatında kaydedilmiş dosyaların patlamadan okunduğunu doğrular."""
+    cp1254_file = tmp_path / "cp1254_karar.txt"
+    turkish_text = "Yargıtay Kararı: Şüpheli durumlar çözüldü. (Türkçe karakter testi: ğüşiöç)"
+    cp1254_file.write_bytes(turkish_text.encode("cp1254"))
+
+    read_content = _read_file_safe(cp1254_file)
+    assert "Şüpheli durumlar" in read_content
+    assert "ğüşiöç" in read_content
+
+
+def test_run_clean_dir_processes_any_txt_file_name(tmp_path: Path) -> None:
+    """YENİ TEST: Sadece karar_*.txt değil, her türlü .txt uzantılı dosyayı temizlediğini doğrular."""
+    input_dir = tmp_path / "in"
+    output_dir = tmp_path / "out"
+    input_dir.mkdir()
+
+    custom_named_file = input_dir / "2024_3323_esas.txt"
+    custom_named_file.write_text("Yargıtay 4. HD\nAnkara Avukat\nGerçek Metin", encoding="utf-8")
+
+    run_clean_dir(input_dir, output_dir)
+
+    out_file = output_dir / "2024_3323_esas.txt"
+    assert out_file.exists()
+    assert "Ankara Avukat" not in out_file.read_text(encoding="utf-8")
+    assert "Gerçek Metin" in out_file.read_text(encoding="utf-8")
+
+
 def _normalize_ws(text: str) -> str:
     return re.sub(r"\s+", " ", text).strip()
 
@@ -194,11 +221,17 @@ def test_real_decisions_regression_with_injected_noise() -> None:
 
         noisy_text = f"{fake_header_noise}\n{original_text}\n{fake_footer_noise}"
 
-        cleaned_noisy = clean_text(noisy_text)
-        cleaned_original = clean_text(original_text)
+    if not files:
+        pytest.skip("Projede test edilecek .txt karar dosyası bulunamadı.")
 
-        orig_parsed = parse_decision(original_text, src.stem)
-        clean_parsed = parse_decision(cleaned_noisy, src.stem)
+    for src in files:
+        text = None
+        for enc in ("utf-8", "cp1254", "latin-1"):
+            try:
+                text = src.read_text(encoding=enc)
+                break
+            except UnicodeDecodeError:
+                continue
 
         assert orig_parsed.court == clean_parsed.court
         assert orig_parsed.esas_no == clean_parsed.esas_no

@@ -42,7 +42,7 @@ _BREADCRUMB_LINE_RE = re.compile(r"^(?:ana\s*sayfa|anasayfa|home)\s*[>/»|].*$",
 # Daraltılmış site gürültüsü kalıpları (NOISE_PATTERNS).
 NOISE_PATTERNS: list[re.Pattern[str]] = [
     # Tıklama ve reklam çağrıları
-    re.compile(r"^.*\b(?:tıklayınız|tiklayiniz)\b.*$", re.IGNORECASE),
+    re.compile(r"\b(?:tıklayınız|tiklayiniz)\b", re.IGNORECASE),
     re.compile(r"^reklam\s*:?$", re.IGNORECASE),
     re.compile(r"^ilgili\s+(?:kararlar|içtihatlar)\s*:?$", re.IGNORECASE),
     re.compile(r"^benzer\s+(?:kararlar|içtihatlar)\s*:?$", re.IGNORECASE),
@@ -98,7 +98,7 @@ def _is_noise_line(line: str) -> bool:
     if len(line) >= MAX_NOISE_LINE_LENGTH:
         return False
     for pattern in NOISE_PATTERNS:
-        if pattern.match(line):
+        if pattern.search(line):  # match yerine search ile daha esnek eşleşme
             return True
     return False
 
@@ -130,6 +130,16 @@ def clean_text(text: str) -> str:
     return result + "\n" if result else ""
 
 
+def _read_file_safe(file_path: Path) -> str:
+    """Dosyayı güvenli bir şekilde farklı encoding seçenekleriyle okur."""
+    for enc in ("utf-8", "cp1254", "latin-1"):
+        try:
+            return file_path.read_text(encoding=enc)
+        except UnicodeDecodeError:
+            continue
+    raise UnicodeDecodeError(f"Dosya bilinen formatlarda okunamadı: {file_path}")
+
+
 def clean_file(input_path: Path, output_path: Path) -> Path:
     """Tek bir dosyayı temizleyip hedef yola yazar (Ham dosya değişmez)."""
     raw_text = None
@@ -150,10 +160,11 @@ def clean_file(input_path: Path, output_path: Path) -> Path:
 
 
 def run_clean_dir(input_dir: Path, output_dir: Path) -> list[Path]:
-    """data/raw/ klasöründen okuyup data/interim/ klasörüne yazar."""
+    """input_dir klasöründen okuyup output_dir klasörüne yazar."""
     output_dir.mkdir(parents=True, exist_ok=True)
     written: list[Path] = []
-    for src in sorted(input_dir.glob("karar_*.txt")):
+    # Hem karar_*.txt hem de düz *.txt dosyalarını destekleyecek esneklik
+    for src in sorted(input_dir.glob("*.txt")):
         dst = output_dir / src.name
         written.append(clean_file(src, dst))
     return written
