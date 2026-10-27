@@ -27,6 +27,9 @@ _MULTI_SPACE_RE = re.compile(r"[ \t]+")
 # 3 veya daha fazla ardışık satır sonunu en fazla 2 satır sonuna indirmek için
 _MULTI_NEWLINE_RE = re.compile(r"\n{3,}")
 
+# Link ve web gürültüleri için (Bu eksikti, eklendi!)
+_URL_RE = re.compile(r"https?://\S+|www\.\S+", re.IGNORECASE)
+
 # Gürültü kontrolünün uygulanacağı maksimum satır uzunluğu (uzun karar cümlelerini korumak için)
 MAX_NOISE_LINE_LENGTH = 120
 
@@ -102,9 +105,11 @@ def _is_noise_line(line: str) -> bool:
             return True
     return False
 
+# Sayfa numaralarını sil (Sayfa 1 / 2, Syf: 1 / 4, [Sayfa 3] vb.)
+_PAGE_NO_RE = re.compile(r"\[?(?:sayfa|syf)\s*[:.]?\s*\d+(?:\s*/\s*\d+)?\]?", re.IGNORECASE)
 
 def clean_text(text: str) -> str:
-    """Ham karar metnini temizler, başlıkları ve satır yapısını korur, idempotency sağlar."""
+    """Metin içindeki zero-width karakterleri, sayfa numaralarını ve linkleri temizler."""
     if not text:
         return ""
 
@@ -121,14 +126,18 @@ def clean_text(text: str) -> str:
 
         if _is_noise_line(line):
             continue
-
-        cleaned_lines.append(line)
-
-    result = "\n".join(cleaned_lines)
-    result = _MULTI_NEWLINE_RE.sub("\n\n", result).strip()
-
-    return result + "\n" if result else ""
-
+        
+        # Linkleri ve sayfa numaralarını uçur
+        line = _URL_RE.sub("", line)
+        line = _PAGE_NO_RE.sub("", line)
+        
+        # Fazla boşlukları tek boşluğa indir ("Hukuk    Dairesi" -> "Hukuk Dairesi")
+        line = re.sub(r"\s+", " ", line).strip()
+        
+        if line:
+            cleaned_lines.append(line)
+            
+    return "\n".join(cleaned_lines) + "\n"
 
 def _read_file_safe(file_path: Path) -> str:
     """Dosyayı güvenli bir şekilde farklı encoding seçenekleriyle okur."""

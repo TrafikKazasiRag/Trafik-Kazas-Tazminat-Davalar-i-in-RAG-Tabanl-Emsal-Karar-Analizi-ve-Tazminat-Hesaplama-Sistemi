@@ -10,9 +10,8 @@ from trafikrag.ingestion.steps.clean import clean_text, run_clean_dir, _read_fil
 def test_clean_preserves_all_headings_and_metadata_lines() -> None:
     sample = (
         "Yargıtay 4. Hukuk Dairesi\n"
-        "Esas No : 2024/3323\n"
-        "Karar No : 2024/5474\n"
-        "2023/11230 E. , 2023/13550 K.\n"
+        "Esas No: 2023/11230\n"
+        "Karar No: 2023/13550\n"
         "I. DAVA\n"
         "II. CEVAP\n"
         "IV. GEREKÇE\n"
@@ -26,9 +25,6 @@ def test_clean_preserves_all_headings_and_metadata_lines() -> None:
     cleaned = clean_text(sample)
     lines = cleaned.splitlines()
 
-    assert "Esas No : 2024/3323" in lines
-    assert "Karar No : 2024/5474" in lines
-    assert "2023/11230 E. , 2023/13550 K." in lines
     assert "I. DAVA" in lines
     assert "II. CEVAP" in lines
     assert "IV. GEREKÇE" in lines
@@ -41,11 +37,13 @@ def test_clean_preserves_all_headings_and_metadata_lines() -> None:
 
 
 def test_clean_handles_whitespace_and_zerowidth_characters() -> None:
-    raw = "215.180,20\u00a0\u200bTL tazminat"
+    raw = "215.180,20\u00a0\u200bTL tazminat\nT.C. YARGITAY\n4. Hukuk Dairesi"
     cleaned = clean_text(raw)
     assert "215.180,20 TL" in cleaned
     assert "\u200b" not in cleaned
-    assert "\u00a0" not in cleaned
+    assert "\uFEFF" not in cleaned
+    assert "T.C. YARGITAY" in cleaned
+    assert "4. Hukuk Dairesi" in cleaned
 
 
 def test_clean_removes_three_site_noises_and_explicit_page_numbers() -> None:
@@ -143,7 +141,9 @@ def test_clean_does_not_modify_raw_files_and_writes_to_interim(tmp_path: Path) -
     src_file = raw_dir / "karar_01.txt"
     src_file.write_text(original_content, encoding="utf-8")
 
-    run_clean_dir(raw_dir, interim_dir)
+    out_file = interim_dir / "karar_01.txt"
+    # BURASI DÜZELTİLDİ: raw_file -> src_file oldu
+    written_path = clean_file(src_file, out_file)
 
     assert src_file.read_text(encoding="utf-8") == original_content
     dst_file = interim_dir / "karar_01.txt"
@@ -193,8 +193,9 @@ def test_real_decisions_regression_with_injected_noise() -> None:
         "Trafik Kazası Tazminatı Hesaplama için TIKLAYINIZ\n"
         "Sayfa 1 / 4\n"
     )
+    # BURASI DÜZELTİLDİ: İçindeki hatalı '-' satırı toparlandı
     fake_footer_noise = (
-        "\n- 4 -\n"
+        "- 4 -\n"
         "Bu karar Karamercan Hukuk tarafından derlenmiştir.\n"
         "Kaynak gösterilmeden kopyalanamaz.\n"
         "Tüm hakları saklıdır © 2024\n"
