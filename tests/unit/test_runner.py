@@ -49,6 +49,15 @@ def test_runner_executes_configured_steps_and_generates_summary_report(tmp_path:
     )
     (raw_dir / "karar_03.txt").write_text(criminal_decision, encoding="utf-8", newline="\n")
 
+    # 4. Kapsam dışı ölümlü kaza kararı (topic_filter adımında ayrı rejected_dir'e atılmalı)
+    fatal_decision = (
+        "Yargıtay 4. Hukuk Dairesi\n"
+        "Esas No: 2023/9999\n"
+        "Karar No: 2023/8888\n"
+        "Meydana gelen ölümlü trafik kazası neticesinde destekten yoksun kalma tazminatı talep edilmiştir.\n"
+    )
+    (raw_dir / "karar_04.txt").write_text(fatal_decision, encoding="utf-8", newline="\n")
+
     config = {
         "ingestion": {
             "steps": ["clean", "anonymize", "dedupe", "topic_filter", "split", "index"],
@@ -60,13 +69,17 @@ def test_runner_executes_configured_steps_and_generates_summary_report(tmp_path:
     report = run_pipeline(config)
 
     # Toplu kontrol raporu doğrulamaları (Bölüm 6)
-    assert report.total_raw == 3
+    assert report.total_raw == 4
     assert report.eliminated_by_step["dedupe"] == 1
-    assert report.eliminated_by_step["topic_filter"] == 1
+    assert report.eliminated_by_step["topic_filter"] == 2  # 1 ceza, 1 ölümlü elendi
     assert report.final_count == 1
     assert report.complete_sections_ratio == 1.0
     assert report.outcome_distribution.get("bozma") == 1
     assert report.year_distribution.get("2023") == 1
+
+    # Ölümlü kaza kararının rejected_dir'e gittiğinin doğrulanması
+    rejected_dir = interim_dir / "work" / "04_rejected_olumlu"
+    assert (rejected_dir / "karar_04.txt").exists()
 
     # Çıktı dosyası (decisions.jsonl) doğrulamaları
     jsonl_path = interim_dir / "decisions.jsonl"

@@ -142,7 +142,6 @@ def run_pipeline(config: dict[str, Any]) -> PipelineReport:
 
     for step in steps:
         if step == "fetch":
-            # fetch adımı kaynak belirsizliği nedeniyle yalnızca açıkça çağrıldığında çalışır
             from trafikrag.ingestion.steps.fetch import run_fetch_step
 
             run_fetch_step(raw_dir=raw_dir, config=ing_cfg)
@@ -175,8 +174,9 @@ def run_pipeline(config: dict[str, Any]) -> PipelineReport:
 
         elif step == "topic_filter":
             out_dir = work_dir / "04_filtered"
+            rejected_dir = work_dir / "04_rejected_olumlu"  # Buğra'nın istediği ölümlü klasörü
             log_path = interim_dir / "selection_log.csv"
-            run_topic_filter(current_dir, out_dir, log_path=log_path)
+            run_topic_filter(current_dir, out_dir, rejected_dir=rejected_dir, log_path=log_path)
             new_count = _count_txt(out_dir)
             eliminated_by_step["topic_filter"] = max(0, current_count - new_count)
             current_dir = out_dir
