@@ -49,6 +49,35 @@ def test_dedupe_keeps_most_complete_when_same_esas_and_karar_no() -> None:
     assert dedupe_decisions(kept) == kept
 
 
+def test_dedupe_keeps_same_numbers_from_different_courts() -> None:
+    # Farklı mahkemelerden ama aynı Esas/Karar numarasına sahip 2 ayrı karar
+    bam_decision = (
+        "Ankara BAM 3. Hukuk Dairesi\n"
+        "2023/100 E. , 2023/200 K.\n"
+        "I. DAVA\n"
+        "BAM kararı metni.\n"
+    )
+    ilk_derece_decision = (
+        "Ankara 1. Asliye Ticaret Mahkemesi\n"
+        "2023/100 E. , 2023/200 K.\n"
+        "I. DAVA\n"
+        "İlk derece mahkemesi kararı metni.\n"
+    )
+
+    records = [
+        ("karar_01", bam_decision),
+        ("karar_02", ilk_derece_decision),
+    ]
+
+    kept = dedupe_decisions(records)
+
+    # İki karar da farklı mahkemelere ait olduğu için SİLİNMEMELİ, 2'si de kalmalı
+    assert len(kept) == 2
+    kept_ids = [doc_id for doc_id, _ in kept]
+    assert "karar_01" in kept_ids
+    assert "karar_02" in kept_ids
+
+
 def test_dedupe_by_normalized_text_hash_when_numbers_missing(tmp_path: Path) -> None:
     # Künye numarası okunamasa bile metin içeriği (boşluk/noktalama farkı dışında) aynıysa tek kayıt kalmalı
     text_a = "I. DAVA\nDavacı yaralanmalı kaza sonucu tazminat istemiştir.\nSONUÇ : Kabul."

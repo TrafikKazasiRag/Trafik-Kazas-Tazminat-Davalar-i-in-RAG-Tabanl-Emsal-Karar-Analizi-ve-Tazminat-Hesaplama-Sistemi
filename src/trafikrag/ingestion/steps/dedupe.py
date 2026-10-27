@@ -1,7 +1,7 @@
 """3. Adım (dedupe): Mükerrer kararları tespit eder ve en eksiksiz olan tek kaydı tutar.
 
 Kurallar:
-- Aynı Esas No + Karar No ikilisine sahip kayıtlardan metni daha eksiksiz (uzun/bölümlü) olan tutulur.
+- Aynı Mahkeme + Esas No + Karar No üçlüsüne sahip kayıtlardan metni daha eksiksiz (uzun/bölümlü) olan tutulur.
 - Künye numarası çıkarılamayan veya farklı yazılan kararlarda normalleştirilmiş metin SHA-256 hash'i
   aynı olanlardan yalnızca biri tutulur.
 - Adım idempotent'tir.
@@ -31,11 +31,15 @@ def _completeness_score(text: str) -> tuple[int, int]:
 
 
 def _dedupe_key(text: str) -> str:
-    """Esas ve Karar numarası varsa künye anahtarını, yoksa metin hash'ini döndürür."""
+    """Esas, Karar numarası ve Mahkeme varsa künye anahtarını, yoksa metin hash'ini döndürür."""
     meta = extract_metadata(text)
     esas = meta.get("esas_no", "").strip()
     karar = meta.get("karar_no", "").strip()
+    court = meta.get("court", "").strip() or meta.get("mahkeme", "").strip()
+
     if esas and karar:
+        if court:
+            return f"ek:{court}|{esas}|{karar}"
         return f"ek:{esas}|{karar}"
     return f"hash:{_normalized_hash(text)}"
 
