@@ -25,7 +25,9 @@ class CaseInput:
     temporary_incapacity_months: float | None = None
     caregiver_months: float | None = None
     caregiver_ratio: float | None = None     # 0.5 | 1.0
+    caregiver_lifelong: bool = False         # ömür boyu bakıcı ihtiyacı (açık alan)
     treatment_costs: float | None = None
+    sgk_treatment_covered: float | None = None  # SGK tarafından karşılanan tedavi gideri
     # --- kusur ---
     plaintiff_fault: float | None = None     # davacı kusur oranı, 0-1
     # --- tarih ve poliçe ---
@@ -34,7 +36,7 @@ class CaseInput:
     policy_date: date | None = None
     policy_limit: float | None = None
     # --- yöntem ---
-    method: str | None = None 
+    method: str | None = None
 
 
 @dataclass
@@ -53,6 +55,7 @@ class AnalysisResult:
     risk: dict = field(default_factory=dict)
     warnings: list[str] = field(default_factory=list)
 
+
 def validate_case(case: CaseInput) -> tuple[list[str], list[str]]:
     """(hatalar, uyarılar) döner. Hata varsa hesap yapılmaz, uyarı varsa varsayımla devam edilir."""
     errors: list[str] = []
@@ -64,8 +67,14 @@ def validate_case(case: CaseInput) -> tuple[list[str], list[str]]:
             errors.append(f"{name} 0 ile 1 arasında olmalı")
     if case.age is not None and not 0 <= case.age <= 120:
         errors.append("age 0-120 arasında olmalı")
-    for name in ("monthly_income", "treatment_costs", "temporary_incapacity_months",
-                 "caregiver_months", "policy_limit"):
+    for name in (
+        "monthly_income",
+        "treatment_costs",
+        "sgk_treatment_covered",
+        "temporary_incapacity_months",
+        "caregiver_months",
+        "policy_limit",
+    ):
         value = getattr(case, name)
         if value is not None and value < 0:
             errors.append(f"{name} negatif olamaz")

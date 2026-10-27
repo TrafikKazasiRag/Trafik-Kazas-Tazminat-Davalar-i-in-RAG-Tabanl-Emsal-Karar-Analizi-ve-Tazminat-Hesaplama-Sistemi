@@ -3,16 +3,20 @@ version: "2026-10-18"
 asgari_ucret:                 # kaynak: Milliyet 07.07.2026; resmi yayindan teyit et
   net: 28075.50
   brut: 33030.00
+  pasif_net: 28075.50         # 2022 sonrasi AGI kaldirildigi icin net asgari ucret ile ayni
 genel_sartlar_2021:           # TSB Genel Sartlar 06.12.2021 Ek-2 (dogrulandi)
   iskonto: 0.0165
   aktif_donem: [18, 65]
   bakici_orani: {kismi: 0.50, tam: 1.00}
+  kismi_bakici_alt_maluliyet: 0.50
   zamanasimi: {kisa_yil: 2, uzun_yil: 10}
   yasam_tablosu: {erkek: TRH-2010, kadin: TRFH-2020}   # ikincil kaynak, teyit edilmedi
   uygulama: "poliçe tarihi >= 2021-12-04"               # yorum; teyit edilmedi
+  uygulama_baslangic_tarihi: "2021-12-04"
 eski_kural:
   teknik_faiz: 0.018
   yontem: "TRH-2010 + progresif rant (Yargitay 4. HD; talep halinde PMF-1931)"
+  yasam_tablosu: {erkek: TRH-2010, kadin: TRH-2010}
 sigorta_limitleri_2026:       # otomobil, tek haber kaynagi; SEDDK'dan teyit et
   maddi_hasar_arac_basi: 400000
   bedeni_zarar_magdur_basi: 3600000
@@ -21,4 +25,66 @@ harc_2026:                    # KPMG tablosu; Resmi Gazete'den teyit et
   nispi_karar_ilam_binde: 68.31
   vekaletname_sureti: 104.00
   pesin_harc: null            # bulunamadi
+  pesin_harc_orani_varsayim: 0.25
+  bilirkisi_tahmini: 5000.00
 aaut_2026: null               # resmi tarifeden doldurulacak
+
+# Her parametrenin dogrulama durumu ve kaynagi (Section 6)
+verification:
+  asgari_ucret.net:
+    verified: false
+    source: "Milliyet Uzmanpara (07.07.2026 haberi; sonrasi teyit edilmedi)"
+  asgari_ucret.brut:
+    verified: false
+    source: "Milliyet Uzmanpara (07.07.2026 haberi; sonrasi teyit edilmedi)"
+  asgari_ucret.pasif_net:
+    verified: false
+    source: "Milliyet Uzmanpara (07.07.2026 haberi; sonrasi teyit edilmedi)"
+  genel_sartlar_2021.iskonto:
+    verified: true
+    source: "TSB Genel Şartlar (06.12.2021), Ek-2 m.4"
+  genel_sartlar_2021.aktif_donem:
+    verified: true
+    source: "TSB Genel Şartlar (06.12.2021), Ek-2 m.5"
+  genel_sartlar_2021.bakici_orani:
+    verified: true
+    source: "TSB Genel Şartlar (06.12.2021), Ek-2 m.8"
+  genel_sartlar_2021.zamanasimi:
+    verified: true
+    source: "TSB Genel Şartlar (06.12.2021), C.8"
+  genel_sartlar_2021.yasam_tablosu:
+    verified: false
+    source: "hukukihaber.net (ikincil kaynak; resmi Ek-7 CSV teyit edilmedi)"
+  genel_sartlar_2021.uygulama:
+    verified: false
+    source: "ikincil kaynak yorumu"
+  eski_kural.teknik_faiz:
+    verified: true
+    source: "Yargıtay karar metni (karar_01.txt)"
+  eski_kural.yasam_tablosu:
+    verified: false
+    source: "TRH-2010 CSV tablo verisi resmi kaynaktan teyit edilmeli"
+  sigorta_limitleri_2026.maddi_hasar_arac_basi:
+    verified: false
+    source: "CNBC-e (SEDDK resmi yayinindan teyit edilmeli)"
+  sigorta_limitleri_2026.bedeni_zarar_magdur_basi:
+    verified: false
+    source: "CNBC-e (SEDDK resmi yayinindan teyit edilmeli)"
+  harc_2026.basvurma:
+    verified: false
+    source: "KPMG Vergi (Resmi Gazete'den teyit edilmeli)"
+  harc_2026.nispi_karar_ilam_binde:
+    verified: false
+    source: "KPMG Vergi (Resmi Gazete'den teyit edilmeli)"
+  harc_2026.vekaletname_sureti:
+    verified: false
+    source: "KPMG Vergi (Resmi Gazete'den teyit edilmeli)"
+  harc_2026.pesin_harc:
+    verified: false
+    source: "Bulunamadi (1/4 peşin harç varsayımı doğrulanmamıştır)"
+  harc_2026.bilirkisi_tahmini:
+    verified: false
+    source: "Tahmini varsayılan (gerçek tutar mahkemece belirlenir)"
+  aaut_2026:
+    verified: false
+    source: "Resmi AAÜT 2026 tarifesinden doldurulmadı"
