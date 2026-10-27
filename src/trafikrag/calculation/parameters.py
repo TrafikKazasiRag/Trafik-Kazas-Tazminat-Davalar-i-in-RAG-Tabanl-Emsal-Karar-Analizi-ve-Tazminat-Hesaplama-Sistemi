@@ -136,8 +136,12 @@ def load_life_table(
     normalized = table_name.upper().strip()
     if normalized == "TRFH-2020":
         csv_path = base_dir / "trfh_2020.csv"
-    else:
+    elif normalized == "TRH-2010":
         csv_path = base_dir / "trh_2010.csv"
+    else:
+        raise ValueError(
+            f"Bilinmeyen yaşam tablosu: '{table_name}'. Desteklenen tablolar: TRH-2010, TRFH-2020"
+        )
 
     if not csv_path.exists():
         raise FileNotFoundError(f"Yaşam tablosu dosyası bulunamadı: {csv_path}")

@@ -13,7 +13,7 @@ from trafikrag.domain.analysis import CaseInput
 
 
 class TreatmentItem:
-    """Belgeli tedavi giderlerini hesaplar; SGK karşılaması uyarısını üretir."""
+    """Belgeli tedavi giderlerini hesaplar; SGK karşılaması olay bazlı girdi olarak düşülür."""
 
     name: str = "treatment"
 
@@ -35,12 +35,15 @@ class TreatmentItem:
             }
 
         documented = round_currency(to_decimal(case.treatment_costs))
-        sgk_covered = round_currency(to_decimal(params.get("sgk_treatment_covered", 0)))
+        raw_sgk = getattr(case, "sgk_treatment_covered", None)
+        if raw_sgk is None:
+            raw_sgk = params.get("sgk_treatment_covered", 0)
+        sgk_covered = round_currency(to_decimal(raw_sgk))
         net_treatment = max(Decimal("0.00"), round_currency(documented - sgk_covered))
 
-        if documented > Decimal("0.00"):
+        if documented > Decimal(0) and getattr(case, "sgk_treatment_covered", None) is None:
             warnings.append(
-                "Tedavi giderlerinde SGK tarafından karşılanan kısım varsa düşülmelidir (hukuki doğrulama gerekir)"
+                "Tedavi giderlerinde SGK tarafından karşılanan kısım (sgk_treatment_covered) belirtilmedi; varsa düşülmelidir (hukuki doğrulama gerekir)"
             )
 
         return {

@@ -4,11 +4,19 @@ from __future__ import annotations
 from decimal import Decimal
 
 from trafikrag.domain.facts import ExtractedFacts
+from trafikrag.extraction.validators import ALLOWED_OUTCOMES
 from trafikrag.risk.outcome_stats import (
+    OUTCOME_CATEGORIES,
     compute_expected_value,
     compute_outcome_stats,
     wilson_confidence_interval,
 )
+
+
+def test_outcome_categories_matches_allowed_outcomes():
+    assert set(OUTCOME_CATEGORIES) == ALLOWED_OUTCOMES
+    assert "istinaf_reddi" in OUTCOME_CATEGORIES
+    assert "kaldirma" in OUTCOME_CATEGORIES
 
 
 def test_insufficient_precedents_returns_yetersiz_emsal():
@@ -16,25 +24,26 @@ def test_insufficient_precedents_returns_yetersiz_emsal():
     stats = compute_outcome_stats(facts, min_samples=10)
     assert stats["status"] == "yetersiz_emsal"
     assert stats["probabilities"] is None
-    assert any("seçim yanılımı" in w for w in stats["warnings"])
+    assert any("istinaf (BAM)" in w for w in stats["warnings"])
 
 
-def test_sufficient_precedents_computes_wilson_ci():
+def test_sufficient_precedents_with_istinaf_outcomes_computes_wilson_ci():
     facts = (
-        [ExtractedFacts(decision_id=f"k{i}", outcome="kabul") for i in range(5)]
-        + [ExtractedFacts(decision_id=f"kk{i}", outcome="kismen_kabul") for i in range(3)]
+        [ExtractedFacts(decision_id=f"ir{i}", outcome="istinaf_reddi") for i in range(5)]
+        + [ExtractedFacts(decision_id=f"kl{i}", outcome="kaldirma") for i in range(3)]
+        + [ExtractedFacts(decision_id=f"k{i}", outcome="kabul") for i in range(1)]
         + [ExtractedFacts(decision_id=f"r{i}", outcome="ret") for i in range(1)]
-        + [ExtractedFacts(decision_id=f"b{i}", outcome="bozma") for i in range(1)]
     )
     stats = compute_outcome_stats(facts, min_samples=10)
     assert stats["status"] == "ok"
     assert stats["sample_size"] == 10
-    kabul_info = stats["probabilities"]["kabul"]
-    assert kabul_info["count"] == 5
-    assert kabul_info["proportion"] == Decimal("0.5000")
-    low, high = kabul_info["wilson_95_ci"]
+    ir_info = stats["probabilities"]["istinaf_reddi"]
+    assert ir_info["count"] == 5
+    assert ir_info["proportion"] == Decimal("0.5000")
+    low, high = ir_info["wilson_95_ci"]
     assert low == Decimal("0.2366")
     assert high == Decimal("0.7634")
+    assert stats["probabilities"]["kaldirma"]["count"] == 3
 
 
 def test_wilson_interval_bounds():

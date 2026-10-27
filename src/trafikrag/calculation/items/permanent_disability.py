@@ -223,6 +223,14 @@ class PermanentDisabilityItem:
             passive_monthly if (is_retired or case.age >= active_end_age) else active_monthly
         )
         past_amount = round_currency(past_monthly_base * disability_rate * elapsed_months)
+        if elapsed_months > Decimal(0):
+            warnings.append(
+                "Geçmiş (kazanılmış) dönem kaybı kaza tarihindeki tarihsel asgari ücret dilimleri yerine güncel dönem geliri/asgari ücreti ile hesaplanmıştır"
+            )
+
+        warnings.append(
+            "Yaşam tablosu CSV verileri (TRH-2010 / TRFH-2020) yaklaşık değerlerdir, resmî Genel Şartlar Ek-7 tablosu değildir"
+        )
 
         if case.method == "genel_sartlar":
             gs_detail, gs_keys = self._calculate_genel_sartlar(
@@ -290,6 +298,10 @@ class PermanentDisabilityItem:
                 used_keys.append("genel_sartlar_2021.uygulama")
             else:
                 primary = gs_detail
+                if case.policy_date is None:
+                    warnings.append(
+                        "Poliçe tarihi (policy_date) girilmediğinden 04.12.2021 öncesi/sonrası ayrımı yapılamamış ve varsayılan olarak Genel Şartlar yöntemi seçilmiştir"
+                    )
             warnings.append(
                 "Hesap yöntemi (method) seçilmediğinden Genel Şartlar ve Yargıtay yöntemleri birlikte hesaplandı"
             )

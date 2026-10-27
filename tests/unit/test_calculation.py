@@ -1,14 +1,17 @@
-"""Hesaplama motoru birim testleri (Bölüm 8 beklentileri)."""
+"""Hesaplama motoru birim testleri (Bölüm 8 beklentileri ve PR inceleme bulguları)."""
 from __future__ import annotations
 
 from datetime import date
 from decimal import Decimal
 from pathlib import Path
 
+import pytest
+
 from trafikrag.calculation.costs import calculate_costs
 from trafikrag.calculation.engine import (
     CalculationEngine,
     check_statute_of_limitations,
+    default_items,
     select_disability_regulation,
 )
 from trafikrag.calculation.fault import apply_fault_discount
@@ -87,15 +90,20 @@ def test_temporary_disability_falls_back_to_minimum_wage():
     assert any("parametre asgari_ucret.net teyit edilmemiştir" in w for w in res["warnings"])
 
 
-def test_treatment_item_hand_calculated_and_sgk_warning():
-    """Elle hesap: 15.250,75 TL belgeli tedavi gideri -> 15.250,75 TL ve SGK uyarısı."""
+def test_treatment_item_hand_calculated_and_sgk_deduction():
+    """Elle hesap: 15.250,75 TL belgeli tedavi gideri, SGK payı 5.250,75 TL -> 10.000,00 TL."""
     params = load_parameters()
     item = TreatmentItem()
-    case = CaseInput(treatment_costs=15250.75)
-    res = item.compute(case, params)
-    assert isinstance(res["amount"], Decimal)
-    assert res["amount"] == Decimal("15250.75")
-    assert any("SGK" in w for w in res["warnings"])
+    case_no_sgk = CaseInput(treatment_costs=15250.75)
+    res_no_sgk = item.compute(case_no_sgk, params)
+    assert isinstance(res_no_sgk["amount"], Decimal)
+    assert res_no_sgk["amount"] == Decimal("15250.75")
+    assert any("SGK" in w for w in res_no_sgk["warnings"])
+
+    case_with_sgk = CaseInput(treatment_costs=15250.75, sgk_treatment_covered=5250.75)
+    res_with_sgk = item.compute(case_with_sgk, params)
+    assert res_with_sgk["amount"] == Decimal("10000.00")
+    assert res_with_sgk["inputs"]["sgk_covered"] == Decimal("5250.75")
 
 
 # --- (c) fault.py testleri ---
@@ -145,16 +153,11 @@ def test_life_table_annuity_hand_calculated_small_table():
     annuity_zero_i = compute_annuity_due(mini_table, 97, Decimal(0))
     assert annuity_zero_i == Decimal("2.200000")
 
-    # İskonto i = 0.10 -> v = 1/1.10:
-    # k=0: 1.0
-    # k=1: 0.80 / 1.10 = 0.7272727...
-    # k=2: 0.40 / 1.21 = 0.3305785...
-    # Toplam = 2.057851
     annuity_ten_pct = compute_annuity_due(mini_table, 97, Decimal("0.10"))
     assert annuity_ten_pct == Decimal("2.057851")
 
 
-def test_csv_life_tables_load_and_split_annuity_identity():
+def test_csv_life_tables_load_and_unknown_table_raises():
     trh = load_life_table("TRH-2010", gender="E")
     trfh = load_life_table("TRFH-2020", gender="K")
     assert 0 in trh and 99 in trh
@@ -166,6 +169,9 @@ def test_csv_life_tables_load_and_split_annuity_identity():
     assert total_a == full_a
     assert abs((active_a + passive_a) - full_a) <= Decimal("0.000002")
     assert get_remaining_life_expectancy(trh, 30) > Decimal(40)
+
+    with pytest.raises(ValueError, match="Bilinmeyen yaşam tablosu"):
+        load_life_table("PMF-1931")
 
 
 # --- (e) permanent_disability.py elle hesaplanmış testler ---
@@ -217,6 +223,8 @@ def test_permanent_disability_hand_calculated_yargitay(tmp_path: Path):
     assert res["inputs"]["past_amount"] == Decimal("36000.00")
     assert res["inputs"]["future_amount"] == Decimal("346143.60")
     assert res["amount"] == Decimal("382143.60")
+    assert any("resmî Genel Şartlar Ek-7 tablosu değildir" in w for w in res["warnings"])
+    assert any("Geçmiş (kazanılmış) dönem kaybı" in w for w in res["warnings"])
 
 
 def test_permanent_disability_both_methods_when_method_is_none():
@@ -239,6 +247,7 @@ def test_permanent_disability_both_methods_when_method_is_none():
     assert "genel_sartlar" in methods and "yargitay" in methods
     assert methods["genel_sartlar"]["life_table"] == "TRFH-2020"
     assert methods["yargitay"]["life_table"] == "TRH-2010"
+    assert any("Poliçe tarihi (policy_date) girilmediğinden" in w for w in res["warnings"])
 
 
 # --- (f) caregiver.py elle hesaplanmış testler ---
@@ -262,6 +271,45 @@ def test_caregiver_hand_calculated_temporary_months():
     assert res["amount"] == Decimal("84226.50")
 
 
+def test_caregiver_does_not_silently_fallback_to_lifelong():
+    """caregiver_months boş ve caregiver_lifelong=False iken caregiver_ratio dolu olsa bile
+    sessizce ömür boyu anüiteye düşmemeli, 0.00 TL dönüp uyarı vermeli.
+    """
+    params = load_parameters()
+    item = CaregiverItem()
+    case = CaseInput(
+        age=40,
+        gender="E",
+        disability_rate=0.80,
+        caregiver_months=None,
+        caregiver_ratio=1.0,
+        caregiver_lifelong=False,
+    )
+    res = item.compute(case, params)
+    assert res["amount"] == Decimal("0.00")
+    assert any("caregiver_lifelong=True" in w for w in res["warnings"])
+
+
+def test_caregiver_lifelong_uses_calc_age():
+    """caregiver_lifelong=True seçildiğinde kaza yaşı (30) değil hesap yaşı (32) kullanılmalı."""
+    params = load_parameters()
+    item = CaregiverItem()
+    case = CaseInput(
+        age=30,
+        gender="E",
+        disability_rate=0.80,
+        caregiver_ratio=1.0,
+        caregiver_lifelong=True,
+        accident_date=date(2024, 1, 1),
+        calculation_date=date(2026, 1, 1),
+    )
+    res = item.compute(case, params)
+    assert res["amount"] > Decimal("0.00")
+    assert res["inputs"]["age_at_accident"] == 30
+    assert res["inputs"]["calc_age"] == 32
+    assert res["inputs"]["past_amount"] == Decimal("673812.00")  # 28075.50 * 24 ay
+
+
 def test_caregiver_partial_dependency_low_disability_warns():
     """Kısmi bağımlı bakıcıda maluliyet %50 altındaysa Ek-2 m.8 uyarısı üretilmeli."""
     params = load_parameters()
@@ -279,14 +327,18 @@ def test_caregiver_partial_dependency_low_disability_warns():
 # --- (g) engine.py, uç değerler ve determinizm testleri ---
 
 
+def test_default_items_function_name():
+    items = default_items()
+    assert len(items) == 4
+
+
 def test_engine_edge_cases_zero_and_full_rates():
     engine = CalculationEngine()
 
-    # Maluliyet = 0, diğer kalemler yok -> 0.00 TL
     case_zero = CaseInput(
         age=18,
         gender="E",
-        monthly_income=20000.0,  # asgari ücret altı -> asgari ücrete tamamlanır
+        monthly_income=20000.0,
         income_basis="net",
         disability_rate=0.0,
         plaintiff_fault=0.0,
@@ -295,8 +347,8 @@ def test_engine_edge_cases_zero_and_full_rates():
     )
     res_zero = engine.calculate(case_zero)
     assert res_zero.compensation["net_total"] == Decimal("0.00")
+    assert any("kaza tarihine uygun limit kullanılmadı" in w for w in res_zero.warnings)
 
-    # Kusur = 1.0 (%100 davacı kusurlu) -> net_total = 0.00 TL
     case_full_fault = CaseInput(
         age=65,
         gender="E",
@@ -332,6 +384,7 @@ def test_engine_policy_limit_cap():
         res.compensation["net_total"] - Decimal("500000.00")
     )
     assert any("sigorta teminat limitini" in w for w in res.warnings)
+    assert not any("kaza tarihine uygun limit kullanılmadı" in w for w in res.warnings)
 
 
 def test_engine_determinism_and_decimal_types():
@@ -417,6 +470,5 @@ def test_costs_with_populated_aaut_brackets():
             {"dilim_tutari": None, "oran": Decimal("0.15")},
         ],
     }
-    # 500.000 TL için: 400.000 * 0.16 (64.000) + 100.000 * 0.15 (15.000) = 79.000,00 TL
     costs = calculate_costs(Decimal("500000.00"), params)
     assert costs["vekalet_ucreti"] == Decimal("79000.00")

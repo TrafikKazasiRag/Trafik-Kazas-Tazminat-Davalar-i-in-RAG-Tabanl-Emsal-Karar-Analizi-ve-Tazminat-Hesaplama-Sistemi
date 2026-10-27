@@ -7,8 +7,9 @@ from typing import Any
 
 from trafikrag.calculation.parameters import round_currency, to_decimal
 from trafikrag.domain.facts import ExtractedFacts
+from trafikrag.extraction.validators import ALLOWED_OUTCOMES
 
-OUTCOME_CATEGORIES = ("kabul", "kismen_kabul", "ret", "bozma")
+OUTCOME_CATEGORIES = tuple(sorted(ALLOWED_OUTCOMES))
 DEFAULT_MIN_SAMPLES = 10
 Z_95 = 1.959963984540054
 
@@ -40,12 +41,13 @@ def compute_outcome_stats(
 ) -> dict[str, Any]:
     """Emsal kararlardan çıkarılan sonuçların dağılımını ve Wilson güven aralıklarını hesaplar."""
     valid_outcomes = [
-        f.outcome for f in facts_list if f.outcome in OUTCOME_CATEGORIES
+        f.outcome for f in facts_list if f.outcome in ALLOWED_OUTCOMES
     ]
     n = len(valid_outcomes)
     selection_bias_warning = (
-        "Yargıtay önüne gelen kararlar temyiz edilmiş dosyaları içerdiğinden "
-        "seçim yanılımı (bozma kararlarının aşırı temsili) üretir; tüm davaları temsil etmez."
+        "Veri setindeki kararlar çoğunlukla istinaf (BAM) ve üst derece incelemesine taşınmış "
+        "uyuşmazlıkları içerdiğinden seçim yanılımı (istinaf reddi, kaldırma ve bozma kararlarının "
+        "aşırı temsili) üretir; tüm ilk derece davalarının genel dağılımını temsil etmez."
     )
 
     if n < min_samples:

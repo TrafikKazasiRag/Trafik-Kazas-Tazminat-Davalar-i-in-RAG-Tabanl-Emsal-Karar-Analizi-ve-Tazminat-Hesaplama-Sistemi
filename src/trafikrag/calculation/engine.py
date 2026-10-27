@@ -84,7 +84,7 @@ def _deduplicate_warnings(warnings: list[str]) -> list[str]:
     return ordered
 
 
-def DefaultItems() -> list[CompensationItem]:
+def default_items() -> list[CompensationItem]:
     """MVP kapsamındaki 4 temel maddi tazminat kalemini sırasıyla döner."""
     return [
         TreatmentItem(),
@@ -92,6 +92,10 @@ def DefaultItems() -> list[CompensationItem]:
         PermanentDisabilityItem(),
         CaregiverItem(),
     ]
+
+
+# Geriye dönük uyumluluk için takma ad
+DefaultItems = default_items
 
 
 class CalculationEngine:
@@ -102,7 +106,7 @@ class CalculationEngine:
         items: list[CompensationItem] | None = None,
         params: dict[str, Any] | None = None,
     ) -> None:
-        self.items: list[CompensationItem] = items if items is not None else DefaultItems()
+        self.items: list[CompensationItem] = items if items is not None else default_items()
         self.params: dict[str, Any] = params if params is not None else load_parameters()
 
     def calculate(
@@ -161,10 +165,13 @@ class CalculationEngine:
                 to_decimal(active_params["sigorta_limitleri_2026"]["bedeni_zarar_magdur_basi"])
             )
             used_limit_keys.append("sigorta_limitleri_2026.bedeni_zarar_magdur_basi")
+            all_warnings.append(
+                "Poliçe teminat limiti (policy_limit) girilmediğinden kaza tarihine uygun limit kullanılmadı; 2026 yılı varsayılan teminat limiti esas alındı"
+            )
 
         insurer_payable = min(net_total, policy_limit)
         excess_over_limit = max(Decimal("0.00"), round_currency(net_total - policy_limit))
-        if excess_over_limit > Decimal("0.00"):
+        if excess_over_limit > Decimal(0):
             all_warnings.append(
                 f"Hesaplanan net tazminat ({net_total} TL) sigorta teminat limitini ({policy_limit} TL) aşmaktadır; aşan {excess_over_limit} TL kısım işleten/sürücü sorumluluğundadır"
             )

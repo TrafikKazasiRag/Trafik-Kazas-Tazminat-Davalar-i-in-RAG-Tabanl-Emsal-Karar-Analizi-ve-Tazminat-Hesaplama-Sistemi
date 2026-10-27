@@ -1,3 +1,4 @@
+# UYARI: yaklaşık değer, resmî tablo değildir (10 yıllık TRH-2010 referans değerleri arasından log-lineer interpolasyonla üretilmiştir; resmî Genel Şartlar Ek-7 tablosu ile değiştirilmelidir).
 age,qx_male,qx_female,ex_male,ex_female
 0,0.010250,0.008161,72.66,77.24
 1,0.000850,0.000650,72.41,76.87
