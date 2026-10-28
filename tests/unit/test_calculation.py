@@ -439,13 +439,13 @@ def test_statute_of_limitations_warnings():
 # --- (h) costs.py elle hesaplanmış testler ---
 
 
-def test_costs_hand_calculated_and_aaut_warning():
+def test_costs_hand_calculated_with_official_tariffs():
     """Elle hesap: Dava değeri 100.000,00 TL
-    - Başvurma harcı: 732,00 TL
-    - Nispi karar ve ilam harcı: 100.000 * 68,31 / 1000 = 6.831,00 TL
-    - Peşin harç (1/4 varsayımı): 6.831,00 * 0.25 = 1.707,75 TL
-    - Bilirkişi ücreti (varsayılan tahmini): 5.000,00 TL
-    - AAÜT 2026 null olduğundan vekâlet ücreti None ve uyarı döner.
+    - Başvurma harcı: 732,00 TL (Harçlar Kanunu Genel Tebliği)
+    - Nispi karar ve ilam harcı: 100.000 * 68,31 / 1000 = 6.831,00 TL (Harçlar Kanunu 1 Sayılı Tarife)
+    - Peşin harç (1/4): 6.831,00 * 0.25 = 1.707,75 TL (Harçlar Kanunu m. 28/1-a)
+    - Bilirkişi ücreti: 5.000,00 TL (tahmini)
+    - AAÜT 2026: 100.000 TL için nispi %16 = 16.000 TL, maktu alt sınır 45.000 TL -> 45.000,00 TL
     """
     params = load_parameters()
     costs = calculate_costs(Decimal("100000.00"), params)
@@ -455,20 +455,25 @@ def test_costs_hand_calculated_and_aaut_warning():
     assert costs["pesin_harc"] == Decimal("1707.75")
     assert costs["bilirkisi_ucreti"] == Decimal("5000.00")
     assert costs["bilirkisi_etiketi"] == "tahmini"
-    assert costs["vekalet_ucreti"] is None
+    assert costs["vekalet_ucreti"] == Decimal("45000.00")
     assert costs["total_upfront_costs"] == Decimal("7439.75")
-    assert any("AAÜT 2026" in w for w in costs["warnings"])
-    assert any("Peşin harç" in w for w in costs["warnings"])
+    assert costs["total_judgment_costs"] == Decimal("57563.00")
 
 
-def test_costs_with_populated_aaut_brackets():
+def test_costs_fallback_when_aaut_is_none():
     params = load_parameters()
-    params["aaut_2026"] = {
-        "maktu_alt_sinir": Decimal("30000.00"),
-        "dilimler": [
-            {"dilim_tutari": Decimal("400000.00"), "oran": Decimal("0.16")},
-            {"dilim_tutari": None, "oran": Decimal("0.15")},
-        ],
-    }
-    costs = calculate_costs(Decimal("500000.00"), params)
-    assert costs["vekalet_ucreti"] == Decimal("79000.00")
+    params["aaut_2026"] = None
+    costs = calculate_costs(Decimal("100000.00"), params)
+    assert costs["vekalet_ucreti"] is None
+    assert any("AAÜT 2026" in w for w in costs["warnings"])
+
+
+def test_costs_higher_claim_amount_progressive_aaut():
+    """1.000.000,00 TL dava değeri için AAÜT 2026 hesabı:
+    - İlk 600.000 TL * %16 = 96.000 TL
+    - Kalan 400.000 TL * %15 = 60.000 TL
+    - Toplam = 156.000,00 TL
+    """
+    params = load_parameters()
+    costs = calculate_costs(Decimal("1000000.00"), params)
+    assert costs["vekalet_ucreti"] == Decimal("156000.00")
