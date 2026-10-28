@@ -150,6 +150,9 @@ def metadata_from_header(fields: dict) -> dict:
 
 
 def extract_metadata(text: str) -> dict:
+    fields, _ = split_header(text)
+    if fields:
+        return metadata_from_header(fields)
     esas = _first([r"Esas No\s*:\s*(\d{4}/\d+)", r"(\d{4}/\d+)\s*\.?\s*E\b"], text)
     karar = _first([r"Karar No\s*:\s*(\d{4}/\d+)", r"(\d{4}/\d+)\s*\.?\s*K\b"], text)
     # re.I: "4. HUKUK DAİRESİ" ve "4. Hukuk Dairesi" yazımlarının ikisi de yakalansın
