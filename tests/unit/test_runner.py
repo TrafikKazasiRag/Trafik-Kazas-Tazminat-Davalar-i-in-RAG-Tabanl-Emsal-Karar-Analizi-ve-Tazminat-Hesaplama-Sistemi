@@ -10,7 +10,7 @@ def test_runner_executes_configured_steps_and_generates_summary_report(tmp_path:
     interim_dir = tmp_path / "data" / "interim"
     raw_dir.mkdir(parents=True)
 
-    # 1. Geçerli karar + yan .meta.json dosyası + site gürültüsü + kişisel veri
+    # 1. Geçerli karar + yan .meta.json dosyası + site gürültüsü
     valid_decision = (
         "Ankara Avukat - Minval Hukuk Bürosu\n"
         "Trafik Kazası Tazminatı Hesaplama için TIKLAYINIZ\n"
@@ -60,7 +60,7 @@ def test_runner_executes_configured_steps_and_generates_summary_report(tmp_path:
 
     config = {
         "ingestion": {
-            "steps": ["clean", "anonymize", "dedupe", "topic_filter", "split", "index"],
+            "steps": ["clean", "dedupe", "topic_filter", "split", "index"],
             "raw_dir": str(raw_dir),
             "interim_dir": str(interim_dir),
         }
@@ -78,7 +78,7 @@ def test_runner_executes_configured_steps_and_generates_summary_report(tmp_path:
     assert report.year_distribution.get("2023") == 1
 
     # Ölümlü kaza kararının rejected_dir'e gittiğinin doğrulanması
-    rejected_dir = interim_dir / "work" / "04_rejected_olumlu"
+    rejected_dir = interim_dir / "work" / "03_rejected_olumlu"
     assert (rejected_dir / "karar_04.txt").exists()
 
     # Çıktı dosyası (decisions.jsonl) doğrulamaları
@@ -92,14 +92,11 @@ def test_runner_executes_configured_steps_and_generates_summary_report(tmp_path:
     assert saved_decision["source_url"] == "https://ornek.com/karar_01"
     assert saved_decision["esas_no"] == "2023/11230"
 
-    # Gürültünün silindiği ve kişisel verilerin maskelendiği doğrulanmalı
+    # Gürültünün silindiği doğrulanmalı (anonymize kaldırıldığı için kişisel veriler korunur)
     all_section_text = "\n".join(s["text"] for s in saved_decision["sections"])
     assert "TIKLAYINIZ" not in all_section_text
-    assert "Ahmet Yılmaz" not in all_section_text
-    assert "12345678901" not in all_section_text
-    assert "[KİŞİ]" in all_section_text
-    assert "[TCKN]" in all_section_text
-    assert "[PLAKA]" in all_section_text
+    assert "Ahmet Yılmaz" in all_section_text
+    assert "12345678901" in all_section_text
 
     # Idempotency: aynı hat ikinci kez çalıştırıldığında birebir aynı raporu ve çıktıyı üretmeli
     report_second = run_pipeline(config)

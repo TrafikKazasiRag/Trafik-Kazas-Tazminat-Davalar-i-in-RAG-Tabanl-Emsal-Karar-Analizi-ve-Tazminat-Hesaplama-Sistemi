@@ -15,14 +15,14 @@ from typing import Any
 import yaml
 
 from trafikrag.domain.decision import Decision
-from trafikrag.ingestion.steps.anonymize import run_anonymize_dir
 from trafikrag.ingestion.steps.clean import run_clean_dir
 from trafikrag.ingestion.steps.dedupe import dedupe_files
 from trafikrag.ingestion.steps.index import write_decisions_jsonl
 from trafikrag.ingestion.steps.split import has_complete_sections, split_decisions_dir
 from trafikrag.ingestion.steps.topic_filter import detect_outcome, run_topic_filter
 
-DEFAULT_STEPS = ["clean", "anonymize", "dedupe", "topic_filter", "split", "index"]
+# anonymize adımı listeden tamamen çıkarıldı
+DEFAULT_STEPS = ["clean", "dedupe", "topic_filter", "split", "index"]
 
 
 @dataclass
@@ -156,16 +156,8 @@ def run_pipeline(config: dict[str, Any]) -> PipelineReport:
             current_dir = out_dir
             current_count = new_count
 
-        elif step == "anonymize":
-            out_dir = work_dir / "02_anonymized"
-            run_anonymize_dir(current_dir, out_dir)
-            new_count = _count_txt(out_dir)
-            eliminated_by_step["anonymize"] = max(0, current_count - new_count)
-            current_dir = out_dir
-            current_count = new_count
-
         elif step == "dedupe":
-            out_dir = work_dir / "03_deduped"
+            out_dir = work_dir / "02_deduped"
             dedupe_files(current_dir, out_dir)
             new_count = _count_txt(out_dir)
             eliminated_by_step["dedupe"] = max(0, current_count - new_count)
@@ -173,8 +165,8 @@ def run_pipeline(config: dict[str, Any]) -> PipelineReport:
             current_count = new_count
 
         elif step == "topic_filter":
-            out_dir = work_dir / "04_filtered"
-            rejected_dir = work_dir / "04_rejected_olumlu"  # Buğra'nın istediği ölümlü klasörü
+            out_dir = work_dir / "03_filtered"
+            rejected_dir = work_dir / "03_rejected_olumlu"
             log_path = interim_dir / "selection_log.csv"
             run_topic_filter(current_dir, out_dir, rejected_dir=rejected_dir, log_path=log_path)
             new_count = _count_txt(out_dir)
