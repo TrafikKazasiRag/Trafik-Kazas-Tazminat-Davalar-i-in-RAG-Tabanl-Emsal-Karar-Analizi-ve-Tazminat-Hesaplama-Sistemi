@@ -41,7 +41,12 @@ def format_chunks(scored_chunks: list[ScoredChunk]) -> str:
     return "\n\n".join(blocks)
 
 
-def summarize(case_text: str, scored_chunks: list[ScoredChunk], llm: LLM) -> tuple[str, list[Citation], list[str]]:
+def summarize(
+    case_text: str,
+    scored_chunks: list[ScoredChunk],
+    llm: LLM,
+    case_type: str | None = None,
+) -> tuple[str, list[Citation], list[str]]:
     """(özet, atıflar, uyarılar) döner. Denetimden geçmeyen ifadeler özete girmez."""
     if not scored_chunks:
         return "", [], ["Benzer karar parçası bulunamadı"]
@@ -54,7 +59,7 @@ def summarize(case_text: str, scored_chunks: list[ScoredChunk], llm: LLM) -> tup
         return "", [], ["özet JSON'u çözülemedi"]
 
     chunks = {scored.chunk.id: scored.chunk for scored in scored_chunks}
-    valid, warnings = check_statements(statements, chunks)
+    valid, warnings = check_statements(statements, chunks, case_type=case_type)
     if not valid:
         warnings.append("Doğrulanmış ifade kalmadı; kaynaklı özet üretilemedi")
         return "", [], warnings
