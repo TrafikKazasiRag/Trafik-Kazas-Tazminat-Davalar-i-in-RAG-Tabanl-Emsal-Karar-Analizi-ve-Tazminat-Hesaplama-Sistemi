@@ -68,7 +68,7 @@ def test_runner_executes_configured_steps_and_generates_summary_report(tmp_path:
 
     report = run_pipeline(config)
 
-    # Toplu kontrol raporu doğrulamaları (Bölüm 6)
+    # Toplu kontrol raporu doğrulamaları (Bölüm 6 & Issue #32)
     assert report.total_raw == 4
     assert report.eliminated_by_step["dedupe"] == 1
     assert report.eliminated_by_step["topic_filter"] == 2  # 1 ceza, 1 ölümlü elendi
@@ -76,6 +76,7 @@ def test_runner_executes_configured_steps_and_generates_summary_report(tmp_path:
     assert report.complete_sections_ratio == 1.0
     assert report.outcome_distribution.get("bozma") == 1
     assert report.year_distribution.get("2023") == 1
+    assert report.topic_distribution.get("yaralanma") == 1
 
     # Ölümlü kaza kararının rejected_dir'e gittiğinin doğrulanması
     rejected_dir = interim_dir / "work" / "03_rejected_olumlu"

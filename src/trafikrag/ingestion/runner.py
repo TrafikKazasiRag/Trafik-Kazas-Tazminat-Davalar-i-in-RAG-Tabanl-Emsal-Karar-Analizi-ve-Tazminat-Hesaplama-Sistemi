@@ -20,6 +20,7 @@ from trafikrag.ingestion.steps.dedupe import dedupe_files
 from trafikrag.ingestion.steps.index import write_decisions_jsonl
 from trafikrag.ingestion.steps.split import has_complete_sections, split_decisions_dir
 from trafikrag.ingestion.steps.topic_filter import detect_outcome, run_topic_filter
+from trafikrag.retrieval.topics import classify_topic
 
 # anonymize adımı listeden tamamen çıkarıldı
 DEFAULT_STEPS = ["clean", "dedupe", "topic_filter", "split", "index"]
@@ -38,6 +39,7 @@ class PipelineReport:
     missing_metadata_ids: list[str] = field(default_factory=list)
     outcome_distribution: dict[str, int] = field(default_factory=dict)
     year_distribution: dict[str, int] = field(default_factory=dict)
+    topic_distribution: dict[str, int] = field(default_factory=dict)
 
 
 def load_config(config_path: Path) -> dict[str, Any]:
@@ -51,7 +53,7 @@ def load_config(config_path: Path) -> dict[str, Any]:
 def _count_txt(directory: Path) -> int:
     if not directory.exists():
         return 0
-    return len(list(directory.glob("karar_*.txt")))
+    return len(list(directory.glob("*.txt")))
 
 
 def _build_report(
@@ -67,6 +69,7 @@ def _build_report(
     missing_meta_ids: list[str] = []
     outcomes: Counter[str] = Counter()
     years: Counter[str] = Counter()
+    topics: Counter[str] = Counter()
 
     for dec in decisions:
         if has_complete_sections(dec):
@@ -81,6 +84,10 @@ def _build_report(
             years[dec.date[:4]] += 1
         else:
             years["belirsiz"] += 1
+
+        # Konu sınıflandırması hesabı (Issue #32)
+        topic = classify_topic(dec)
+        topics[topic] += 1
 
         txt_file = text_dir / f"{dec.id}.txt"
         full_text = (
@@ -102,6 +109,7 @@ def _build_report(
         missing_metadata_ids=missing_meta_ids,
         outcome_distribution=dict(outcomes),
         year_distribution=dict(sorted(years.items())),
+        topic_distribution=dict(topics),
     )
 
 
@@ -114,6 +122,7 @@ def format_report_summary(report: PipelineReport) -> str:
         f"Nihai kabul edilen karar    : {report.final_count}",
         f"Bölümleri tam olan oranı    : {report.complete_sections_count}/{report.final_count} ({report.complete_sections_ratio:.1%})",
         f"Sonuç dağılımı              : {report.outcome_distribution}",
+        f"Konu dağılımı (topics)      : {report.topic_distribution}",
         f"Karar yılı dağılımı         : {report.year_distribution}",
     ]
     if report.incomplete_decision_ids:
