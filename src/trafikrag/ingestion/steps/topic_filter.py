@@ -54,7 +54,6 @@ def detect_outcome(text: str) -> str:
     sections = split_sections(text)
     hukum_texts = [s.text for s in sections if s.kind == "hukum"]
     
-    # Hüküm penceresi 1500'den 4000 karaktere çıkarıldı
     target = _tr_lower("\n".join(hukum_texts) if hukum_texts else text[-4000:])
 
     # 1. İstinaf/Başvuru Esastan Red (Araya madde girebilme toleransı eklendi)
@@ -88,30 +87,33 @@ def detect_outcome(text: str) -> str:
 def evaluate_decision(karar_id: str, text: str) -> FilterResult:
     """Tek bir karar metnini güncel proje kriterlerine göre değerlendirir."""
     lower = _tr_lower(text)
-    # Künye kontrolü için sadece ilk 1000 karakter alınır (emsal atıflarını tolere etmek için)
     header = _tr_lower(text[:1000])
-    
     meta = extract_metadata(text)
     court = meta.get("court", "")
+    court_lower = _tr_lower(court)
     sonuc = detect_outcome(text)
 
-    # 1. Ceza Dairesi veya Danıştay kontrolü (Sadece künye)
-    if "ceza dairesi" in header or "danıştay" in header:
+    # 1. Ceza Dairesi veya Danıştay kontrolü (extract_metadata court + künye header kontrolü)
+    if (
+        "ceza" in court_lower
+        or "danıştay" in court_lower
+        or "danistay" in court_lower
+        or "ceza dairesi" in header
+        or "ceza mahkemesi" in header
+        or "danıştay" in header
+    ):
         return FilterResult(karar_id, False, "mahkeme_uyumsuz_ceza_veya_danistay", "elenen", sonuc)
 
-    # 2. Mahkeme kontrolü (Eski katı 4/17 HD kısıtı esnetildi, künyeye ve metne göre esnek denetleniyor)
-    # Artık BAM, İlk Derece ve Yargıtay kararları destekleniyor, mahkeme bilgisi etiket olarak tutuluyor.
-
-    # 3. Kaza tespit tutanağı iptali kontrolü
+    # 2. Kaza tespit tutanağı iptali kontrolü
     if _TUTANAK_IPTALI_RE.search(lower) and not _ISCILIK_RE.search(lower):
         return FilterResult(karar_id, False, "kapsam_disi_tutanak_iptali", "elenen", sonuc)
 
-    # 4. Konu etiketlerini çıkar
+    # 3. Konu etiketlerini çıkar
     tags: list[str] = []
     
     # Mahkeme düzeyini etiket olarak ekle
     if court:
-        tags.append(f"mahkeme_{_tr_lower(court).replace(' ', '_')}")
+        tags.append(f"mahkeme_{court_lower.replace(' ', '_')}")
 
     has_iscilik = bool(_ISCILIK_RE.search(lower))
     has_tedavi = bool(_TEDAVI_RE.search(lower))
@@ -144,25 +146,24 @@ def evaluate_decision(karar_id: str, text: str) -> FilterResult:
 
     tag_str = "|".join(tags) if tags else "belirsiz"
 
-    # 5. Ölümlü kaza (destekten yoksun kalma) kontrolü: Silinmez, ayrı loglanır/saklanır (olumlu -> ölümlü düzeltildi)
+    # 4. Ölümlü kaza (destekten yoksun kalma) kontrolü: Silinmez, ayrı saklanır (ASCII sebep kodu)
     if has_destek and not (has_iscilik or has_tedavi or has_bakici):
-        return FilterResult(karar_id, False, "kapsam_disi_ölümlü_destek_ayri_sakla", "destek", sonuc)
+        return FilterResult(karar_id, False, "kapsam_disi_olumlu_destek_ayri_sakla", "destek", sonuc)
 
-    # 6. Sadece kasko / araç hasarı / değer kaybı kontrolü (bedensel zarar yoksa elenir)
+    # 5. Sadece kasko / araç hasarı / değer kaybı kontrolü
     if _ARAC_HASARI_RE.search(lower) and not (has_iscilik or has_tedavi or has_bakici):
         return FilterResult(karar_id, False, "kapsam_disi_sadece_arac_hasari_kasko", "elenen", sonuc)
 
-    # 7. Yaralanmalı maddi tazminat kalemi var mı?
+    # 6. Yaralanmalı maddi tazminat kalemi var mı?
     if not (has_iscilik or has_tedavi or has_bakici):
         if _USUL_ONLY_RE.search(lower):
             return FilterResult(karar_id, False, "kapsam_disi_sadece_usul", "elenen", sonuc)
         return FilterResult(karar_id, False, "yaralanmali_maddi_tazminat_kalemi_yok", "elenen", sonuc)
 
-    # 8. Kusur / maluliyet / bilirkişi bilgisi kontrolü
+    # 7. Kusur / maluliyet / bilirkişi bilgisi kontrolü
     if not has_kusur:
         return FilterResult(karar_id, False, "eksik_icerik_kusur_veya_bilirkisi_yok", tag_str, sonuc)
 
-    # ARTIK SONUCU BELİRSİZ OLANLAR ELENMİYOR
     return FilterResult(karar_id, True, "kabul_yaralanmali_maddi_tazminat", tag_str, sonuc)
 
 
@@ -208,7 +209,7 @@ def run_topic_filter(
             accepted_paths.append(dst)
         else:
             # Ölümlü (destek) kararlar silinmez, ayrı klasörde/logda saklanır
-            if res.sebep == "kapsam_disi_ölümlü_destek_ayri_sakla" and rejected_dir is not None:
+            if res.sebep == "kapsam_disi_olumlu_destek_ayri_sakla" and rejected_dir is not None:
                 rej_dst = rejected_dir / src.name
                 rej_dst.write_text(text, encoding="utf-8", newline="\n")
 

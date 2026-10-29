@@ -7,8 +7,8 @@ from trafikrag.ingestion.steps.topic_filter import (
 )
 
 
-def test_topic_filter_rejects_criminal_kasko_tutanak_and_procedural() -> None:
-    # 1. Ceza dairesi kararı (ilk 1000 karakterde yer aldığı için elenmeli)
+def test_topic_filter_rejects_criminal_and_danistay_via_court_metadata() -> None:
+    # 1. Ceza dairesi kararı
     ceza_text = (
         "Yargıtay 12. Ceza Dairesi\n"
         "Esas No: 2023/100\nKarar No: 2023/200\n"
@@ -16,9 +16,21 @@ def test_topic_filter_rejects_criminal_kasko_tutanak_and_procedural() -> None:
     )
     res_ceza = evaluate_decision("eski_01", ceza_text)
     assert res_ceza.kabul_edildi is False
-    assert "mahkeme" in res_ceza.sebep or "ceza" in res_ceza.sebep
+    assert res_ceza.sebep == "mahkeme_uyumsuz_ceza_veya_danistay"
 
-    # 2. Kaza tespit tutanağı iptali -> elenmeli
+    # 2. Danıştay kararı
+    danistay_text = (
+        "Danıştay 8. Dairesi\n"
+        "Esas No: 2022/100\nKarar No: 2022/200\n"
+        "İdari işlemin iptaline dair kararın onanmasına karar verildi."
+    )
+    res_danistay = evaluate_decision("eski_danistay", danistay_text)
+    assert res_danistay.kabul_edildi is False
+    assert res_danistay.sebep == "mahkeme_uyumsuz_ceza_veya_danistay"
+
+
+def test_topic_filter_rejects_kasko_tutanak_and_procedural() -> None:
+    # 1. Kaza tespit tutanağı iptali -> elenmeli
     tutanak_text = (
         "Yargıtay 4. Hukuk Dairesi\n"
         "Esas No: 2022/500\nKarar No: 2022/600\n"
@@ -29,7 +41,7 @@ def test_topic_filter_rejects_criminal_kasko_tutanak_and_procedural() -> None:
     assert res_tutanak.kabul_edildi is False
     assert "tutanak" in res_tutanak.sebep
 
-    # 3. Sadece kasko / araç hasarı / değer kaybı -> elenmeli
+    # 2. Sadece kasko / araç hasarı / değer kaybı -> elenmeli
     kasko_text = (
         "Yargıtay 4. Hukuk Dairesi\n"
         "Esas No: 2023/700\nKarar No: 2023/800\n"
@@ -43,7 +55,7 @@ def test_topic_filter_rejects_criminal_kasko_tutanak_and_procedural() -> None:
 
 
 def test_topic_filter_accepts_bam_and_other_courts() -> None:
-    # BAM / Bölge Adliye Mahkemesi kararı -> Artık elenmemeli
+    # BAM / Bölge Adliye Mahkemesi kararı
     bam_text = (
         "Ankara Bölge Adliye Mahkemesi 26. Hukuk Dairesi\n"
         "Esas No: 2023/101\nKarar No: 2023/202\n"
@@ -65,19 +77,17 @@ def test_detect_outcome_dictionary_alignment() -> None:
 
 
 def test_detect_outcome_cok_maddeli_hukum() -> None:
-    # Çok maddeli ilk derece hükmünün genişletilmiş pencerede doğru tespit edilmesi
     text = """
     HÜKÜM : Gerekçesi yukarıda açıklandığı üzere;
     1- Davanın KISMEN KABULÜ ile 45.000 TL maddi tazminatın davalıdan tahsiline,
     2- Fazlaya ilişkin talebin reddine,
     3- Harç ve yargılama giderlerinin davalıdan tahsiline karar verildi.
-    """ + (" " * 2000) # Hükmün pencere dışında kalmaması kontrolü
+    """ + (" " * 2000)
     
     assert detect_outcome(text) == "kismen_kabul"
 
 
 def test_detect_outcome_bam_esastan_red_araya_madde_girmis() -> None:
-    # BAM esastan red kararında araya giren HMK maddesinin tolere edilmesi
     text = """
     GEREĞİ DÜŞÜNÜLDÜ:
     Davacı vekilinin istinaf başvurusunun HMK'nın 353/1-b/1. maddesi uyarınca ESASTAN REDDİNE,
@@ -87,7 +97,6 @@ def test_detect_outcome_bam_esastan_red_araya_madde_girmis() -> None:
 
 
 def test_evaluate_decision_belirsiz_sonuclar_elenmemeli() -> None:
-    # Sonucu belirsiz olan kararların veri kaybını önlemek adına kabul edilmesi
     text = "T.C. Ankara Asliye Hukuk Mahkemesi.\n" + ("Metin boşluğu " * 100) + "Yaralanmalı trafik kazası kaynaklı geçici iş göremezlik tazminatı. Kusur oranı %100. Hüküm kısmı standart dışı."
     res = evaluate_decision("karar_belirsiz", text)
     
@@ -97,16 +106,15 @@ def test_evaluate_decision_belirsiz_sonuclar_elenmemeli() -> None:
 
 
 def test_evaluate_decision_ceza_kontrolu_sadece_kunyede() -> None:
-    # Emsal atfı olarak geçen 'ceza dairesi' ifadesinin kararı eletmemesi (Sadece ilk 1000 karaktere bakılmalı)
-    text = "T.C. Ankara Asliye Hukuk Mahkemesi.\n" + ("Ara Metin " * 300) + "Yargıtay 12. Ceza Dairesi kararına atıf yapılmıştır. Yaralanmalı maluliyet ve kusur %50 tespit edilmiştir."
+    # Emsal atfı olarak geçen 'ceza dairesi' ifadesi 'court' künyesinde yer almadığı için kararı eletmemeli
+    text = "T.C.\nANKARA 3. ASLİYE HUKUK MAHKEMESİ\n" + ("Ara Metin " * 300) + "Yargıtay 12. Ceza Dairesi kararına atıf yapılmıştır. Yaralanmalı maluliyet ve kusur %50 tespit edilmiştir."
     res = evaluate_decision("test_emsal_ceza", text)
     
     assert res.kabul_edildi is True
-    assert "ceza" not in res.sebep
+    assert res.sebep == "kabul_yaralanmali_maddi_tazminat"
 
 
 def test_topic_filter_handles_fatal_support_claims_and_preserves_data(tmp_path: Path) -> None:
-    # Ölümlü kaza (destekten yoksun kalma) -> kabul_edildi=False ama silinmez, rejected_dir'e kopyalanır
     destek_text = (
         "Yargıtay 4. Hukuk Dairesi\n"
         "Esas No: 2023/111\nKarar No: 2023/222\n"
@@ -117,9 +125,8 @@ def test_topic_filter_handles_fatal_support_claims_and_preserves_data(tmp_path: 
     res_destek = evaluate_decision("karar_01", destek_text)
     assert res_destek.kabul_edildi is False
     assert "destek" in res_destek.konu_etiketi
-    assert "ölümlü" in res_destek.sebep
+    assert res_destek.sebep == "kapsam_disi_olumlu_destek_ayri_sakla"
 
-    # Veri kaybı testi: rejected_dir alanına kopyalanması
     in_dir = tmp_path / "in"
     out_dir = tmp_path / "out"
     rej_dir = tmp_path / "rejected"
