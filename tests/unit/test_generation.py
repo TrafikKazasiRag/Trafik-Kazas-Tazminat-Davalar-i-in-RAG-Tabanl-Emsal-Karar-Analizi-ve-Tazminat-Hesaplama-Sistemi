@@ -41,6 +41,33 @@ def test_number_not_in_quote_is_rejected():
     valid, warnings = check_statements([_statement(text="Davalı %80 kusurlu bulunmuştur.")], CHUNKS)
     assert valid == [] and "rakam" in warnings[0]
 
+TOPIC_CHUNKS = {
+    "c1": Chunk(
+        id="c1", decision_id="k1", section_kind="gerekce",
+        text="Kusur raporunda davalının %70, davacının %30 kusurlu olduğu belirtilmiştir.",
+        metadata={"topics": ["yaralanma"]},
+    )
+}
+
+
+def test_matching_topic_passes():
+    valid, warnings = check_statements([_statement()], TOPIC_CHUNKS, case_type="yaralanma")
+    assert len(valid) == 1 and warnings == []
+
+
+def test_mismatched_topic_is_rejected():
+    valid, warnings = check_statements([_statement()], TOPIC_CHUNKS, case_type="olum")
+    assert valid == [] and "konu" in warnings[0]
+
+
+def test_missing_topics_is_rejected_when_case_type_given():
+    valid, warnings = check_statements([_statement()], CHUNKS, case_type="yaralanma")
+    assert valid == [] and "konu" in warnings[0]
+
+
+def test_no_case_type_keeps_old_behavior():
+    valid, warnings = check_statements([_statement()], CHUNKS)
+    assert len(valid) == 1 and warnings == []
 
 SCORED = [ScoredChunk(chunk=CHUNKS["c1"], score=0.9)]
 
@@ -75,3 +102,9 @@ def test_summarize_without_chunks_skips_llm():
 
     summary, citations, warnings = summarize("yaya kazası", [], ExplodingLLM())
     assert summary == "" and warnings == ["Benzer karar parçası bulunamadı"]
+
+def test_summarize_drops_statements_from_wrong_topic():
+    scored = [ScoredChunk(chunk=TOPIC_CHUNKS["c1"], score=0.9)]
+    summary, citations, warnings = summarize("yaya kazası", scored, _llm([_statement()]), case_type="olum")
+    assert summary == "" and citations == []
+    assert any("konu" in w for w in warnings)

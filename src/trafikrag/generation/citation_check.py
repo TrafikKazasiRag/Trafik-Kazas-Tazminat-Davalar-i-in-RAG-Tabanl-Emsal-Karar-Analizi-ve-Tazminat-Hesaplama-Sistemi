@@ -1,4 +1,4 @@
-"""Atıf denetimi: parça var mı, alıntı parçada geçiyor mu, rakamlar alıntıda geçiyor mu."""
+"""Atıf denetimi: parça var mı, konu uyuyor mu, alıntı parçada geçiyor mu, rakamlar alıntıda geçiyor mu."""
 import re
 
 from trafikrag.domain.decision import Chunk
@@ -14,8 +14,15 @@ def _numbers(text: str) -> set[str]:
     return {m.group().rstrip(".,") for m in NUMBER.finditer(text)}
 
 
-def check_statements(statements: list[dict], chunks: dict[str, Chunk]) -> tuple[list[dict], list[str]]:
-    """Denetimden geçen ifadeleri ve uyarıları döner. Geçmeyen ifade atılır."""
+def check_statements(
+    statements: list[dict],
+    chunks: dict[str, Chunk],
+    case_type: str | None = None,
+) -> tuple[list[dict], list[str]]:
+    """Denetimden geçen ifadeleri ve uyarıları döner. Geçmeyen ifade atılır.
+
+    case_type verilirse, atıf yapılan parçanın `topics` listesi bu dava türünü içermelidir.
+    """
     valid: list[dict] = []
     warnings: list[str] = []
     for index, statement in enumerate(statements, start=1):
@@ -24,6 +31,8 @@ def check_statements(statements: list[dict], chunks: dict[str, Chunk]) -> tuple[
         text = statement.get("text", "")
         if chunk is None:
             warnings.append(f"ifade {index}: atıf yapılan parça verilen parçalar arasında yok")
+        elif case_type and case_type not in (chunk.metadata.get("topics") or []):
+            warnings.append(f"ifade {index}: konu uyumsuz, parça farklı dava türüne ait")
         elif not quote or _norm(quote) not in _norm(chunk.text):
             warnings.append(f"ifade {index}: alıntı parçada bulunamadı")
         elif not _numbers(text) <= _numbers(quote):
