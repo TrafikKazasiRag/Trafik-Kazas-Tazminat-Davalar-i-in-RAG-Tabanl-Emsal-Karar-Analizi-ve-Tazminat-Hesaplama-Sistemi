@@ -18,5 +18,5 @@ def base_metadata(decision: Decision) -> dict:
         "esas_no": decision.esas_no,
         "karar_no": decision.karar_no,
         "date": decision.date,
-                "topics": [classify_topic(decision)],
+        "topics": [classify_topic(decision)],
     }
