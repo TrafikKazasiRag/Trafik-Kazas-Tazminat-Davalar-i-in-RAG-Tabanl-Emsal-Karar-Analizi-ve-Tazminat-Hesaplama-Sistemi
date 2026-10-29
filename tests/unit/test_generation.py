@@ -1,4 +1,5 @@
 import json
+import pytest
 
 from trafikrag.adapters.llms.fake import FakeLLM
 from trafikrag.domain.decision import Chunk, ScoredChunk
@@ -68,6 +69,15 @@ def test_missing_topics_is_rejected_when_case_type_given():
 def test_no_case_type_keeps_old_behavior():
     valid, warnings = check_statements([_statement()], CHUNKS)
     assert len(valid) == 1 and warnings == []
+
+def test_unknown_case_type_raises():
+    with pytest.raises(ValueError):
+        check_statements([_statement()], TOPIC_CHUNKS, case_type="yaralama")
+
+
+def test_missing_topics_gives_distinct_warning():
+    valid, warnings = check_statements([_statement()], CHUNKS, case_type="yaralanma")
+    assert valid == [] and "etiketi yok" in warnings[0]
 
 SCORED = [ScoredChunk(chunk=CHUNKS["c1"], score=0.9)]
 

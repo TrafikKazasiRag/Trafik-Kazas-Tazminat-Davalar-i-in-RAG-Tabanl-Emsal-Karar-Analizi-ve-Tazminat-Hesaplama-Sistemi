@@ -2,6 +2,7 @@
 import re
 
 from trafikrag.domain.decision import Chunk
+from trafikrag.retrieval.topics import TOPICS
 
 NUMBER = re.compile(r"\d[\d.,]*\d|\d")
 
@@ -23,6 +24,8 @@ def check_statements(
 
     case_type verilirse, atıf yapılan parçanın `topics` listesi bu dava türünü içermelidir.
     """
+    if case_type is not None and case_type not in TOPICS:
+        raise ValueError(f"bilinmeyen case_type: {case_type!r}; geçerli değerler: {TOPICS}")
     valid: list[dict] = []
     warnings: list[str] = []
     for index, statement in enumerate(statements, start=1):
@@ -31,7 +34,9 @@ def check_statements(
         text = statement.get("text", "")
         if chunk is None:
             warnings.append(f"ifade {index}: atıf yapılan parça verilen parçalar arasında yok")
-        elif case_type and case_type not in (chunk.metadata.get("topics") or []):
+        elif case_type and not (chunk.metadata.get("topics") or []):
+            warnings.append(f"ifade {index}: parçada konu etiketi yok (yeniden indeksleme gerekebilir)")
+        elif case_type and case_type not in chunk.metadata["topics"]:
             warnings.append(f"ifade {index}: konu uyumsuz, parça farklı dava türüne ait")
         elif not quote or _norm(quote) not in _norm(chunk.text):
             warnings.append(f"ifade {index}: alıntı parçada bulunamadı")
