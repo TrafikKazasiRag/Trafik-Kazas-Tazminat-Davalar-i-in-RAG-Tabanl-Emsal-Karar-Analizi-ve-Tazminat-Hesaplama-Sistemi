@@ -5,7 +5,7 @@ description = "Trafik kazası tazminat davaları için RAG tabanlı emsal karar 
 requires-python = ">=3.11"
 dependencies = [
   "fastapi", "uvicorn[standard]", "pydantic>=2", "pyyaml", "sqlalchemy>=2", "alembic",
-  "psycopg[binary]", "pgvector", "requests", "tenacity", "beautifulsoup4", "python-multipart",
+  "psycopg[binary]", "pgvector", "requests", "tenacity", "rank_bm25", "beautifulsoup4", "python-multipart",
 ]
 
 [project.optional-dependencies]
