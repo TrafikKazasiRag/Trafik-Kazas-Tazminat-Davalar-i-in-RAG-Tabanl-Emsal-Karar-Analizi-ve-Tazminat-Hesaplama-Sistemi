@@ -1,5 +1,6 @@
 """Chunker'ların ortak yardımcıları."""
 from trafikrag.domain.decision import Decision
+from trafikrag.retrieval.topics import classify_topic
 
 # Türkçe eklemeli bir dil: bir sözcük çoğu zaman 1'den fazla token tutar.
 # 1.6 bir VARSAYIMDIR. Embedder'ı seçince gerçek tokenizer ile ölçüp güncelleyeceğiz.
@@ -17,4 +18,5 @@ def base_metadata(decision: Decision) -> dict:
         "esas_no": decision.esas_no,
         "karar_no": decision.karar_no,
         "date": decision.date,
+        "topics": [classify_topic(decision)],
     }
