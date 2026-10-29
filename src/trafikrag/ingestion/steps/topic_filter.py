@@ -1,3 +1,4 @@
+"""topic_filter.py: Kararları dava türlerine ve sonuçlarına göre ayrıştırır."""
 from __future__ import annotations
 
 import csv
@@ -52,39 +53,50 @@ def detect_outcome(text: str) -> str:
     """Kararın sonuç bölümünden (hüküm) net sonucu çıkarır: kabul | kismen_kabul | ret | bozma | istinaf_reddi | kaldirma | belirsiz."""
     sections = split_sections(text)
     hukum_texts = [s.text for s in sections if s.kind == "hukum"]
-    target = _tr_lower("\n".join(hukum_texts) if hukum_texts else text[-1500:])
+    
+    # Hüküm penceresi 1500'den 4000 karaktere çıkarıldı
+    target = _tr_lower("\n".join(hukum_texts) if hukum_texts else text[-4000:])
 
-    # Türkçe büyük I / i dönüşüm ihtimaline karşı hem 'istinaf' hem 'ıstinaf' kontrolü ekleniyor
-    if (
-        "başvurunun esastan reddine" in target 
-        or "istinaf başvurusunun esastan reddine" in target 
-        or "ıstinaf başvurusunun esastan reddine" in target
-    ):
+    # 1. İstinaf/Başvuru Esastan Red (Araya madde girebilme toleransı eklendi)
+    istinaf_red_pattern = r"(?:istinaf|başvuru)\w*.{0,150}?esastan\s+reddine"
+    if re.search(istinaf_red_pattern, target, re.IGNORECASE | re.DOTALL):
         return "istinaf_reddi"
+
     if "kaldırılmasına" in target and "hüküm kurulmasına" in target:
         return "kaldirma"
+        
     if "bozulmasına" in target or "bozma" in target:
         return "bozma"
-    if "onanmasına" in target or "onama" in target:
-        return "onama"
-    if "kısmen kabul" in target:
+        
+    # Onama, istinaf_reddi'ne eşlendi
+    if "onanmasına" in target or "onama" in target or "onamasına" in target or "onaylanmasına" in target:
+        return "istinaf_reddi"
+        
+    # Çok maddeli kararlar için regex desteği
+    if "kısmen kabul" in target or re.search(r"\d+-\s*davanın\s+kısmen\s+kabulü", target, re.IGNORECASE):
         return "kismen_kabul"
-    if "davanın kabulüne" in target or "kabulüne" in target:
+        
+    if "davanın kabulüne" in target or "kabulüne" in target or re.search(r"\d+-\s*davanın\s+kabulü", target, re.IGNORECASE):
         return "kabul"
+        
     if "davanın reddine" in target or "istemin reddine" in target or "reddine" in target:
         return "ret"
+        
     return "belirsiz"
 
 
 def evaluate_decision(karar_id: str, text: str) -> FilterResult:
     """Tek bir karar metnini güncel proje kriterlerine göre değerlendirir."""
     lower = _tr_lower(text)
+    # Künye kontrolü için sadece ilk 1000 karakter alınır (emsal atıflarını tolere etmek için)
+    header = _tr_lower(text[:1000])
+    
     meta = extract_metadata(text)
     court = meta.get("court", "")
     sonuc = detect_outcome(text)
 
-    # 1. Ceza Dairesi veya Danıştay kontrolü
-    if "ceza dairesi" in lower or "danıştay" in lower:
+    # 1. Ceza Dairesi veya Danıştay kontrolü (Sadece künye)
+    if "ceza dairesi" in header or "danıştay" in header:
         return FilterResult(karar_id, False, "mahkeme_uyumsuz_ceza_veya_danistay", "elenen", sonuc)
 
     # 2. Mahkeme kontrolü (Eski katı 4/17 HD kısıtı esnetildi, künyeye ve metne göre esnek denetleniyor)
@@ -124,11 +136,17 @@ def evaluate_decision(karar_id: str, text: str) -> FilterResult:
         if int(date_str[:4]) <= 2020:
             tags.append("2020_oncesi")
 
+    # Sonuç etiketini oluştur
+    if sonuc == "belirsiz":
+        tags.append("sonuc_belirsiz")
+    else:
+        tags.append(f"sonuc_{sonuc}")
+
     tag_str = "|".join(tags) if tags else "belirsiz"
 
-    # 5. Ölümlü kaza (destekten yoksun kalma) kontrolü: Silinmez, ayrı loglanır/saklanır
+    # 5. Ölümlü kaza (destekten yoksun kalma) kontrolü: Silinmez, ayrı loglanır/saklanır (olumlu -> ölümlü düzeltildi)
     if has_destek and not (has_iscilik or has_tedavi or has_bakici):
-        return FilterResult(karar_id, False, "kapsam_disi_olumlu_destek_ayri_sakla", "destek", sonuc)
+        return FilterResult(karar_id, False, "kapsam_disi_ölümlü_destek_ayri_sakla", "destek", sonuc)
 
     # 6. Sadece kasko / araç hasarı / değer kaybı kontrolü (bedensel zarar yoksa elenir)
     if _ARAC_HASARI_RE.search(lower) and not (has_iscilik or has_tedavi or has_bakici):
@@ -140,13 +158,11 @@ def evaluate_decision(karar_id: str, text: str) -> FilterResult:
             return FilterResult(karar_id, False, "kapsam_disi_sadece_usul", "elenen", sonuc)
         return FilterResult(karar_id, False, "yaralanmali_maddi_tazminat_kalemi_yok", "elenen", sonuc)
 
-    # 8. Kusur / maluliyet / bilirkişi bilgisi ve net karar kontrolü
+    # 8. Kusur / maluliyet / bilirkişi bilgisi kontrolü
     if not has_kusur:
         return FilterResult(karar_id, False, "eksik_icerik_kusur_veya_bilirkisi_yok", tag_str, sonuc)
 
-    if sonuc == "belirsiz":
-        return FilterResult(karar_id, False, "eksik_icerik_net_karar_sonucu_yok", tag_str, sonuc)
-
+    # ARTIK SONUCU BELİRSİZ OLANLAR ELENMİYOR
     return FilterResult(karar_id, True, "kabul_yaralanmali_maddi_tazminat", tag_str, sonuc)
 
 
@@ -179,7 +195,7 @@ def run_topic_filter(
     accepted_paths: list[Path] = []
     accepted_ids: set[str] = set()
 
-    for src in sorted(input_dir.glob("karar_*.txt")):
+    for src in sorted(input_dir.glob("*.txt")):
         text = src.read_text(encoding="utf-8")
         res = evaluate_decision(src.stem, text)
         results.append(res)
@@ -192,13 +208,13 @@ def run_topic_filter(
             accepted_paths.append(dst)
         else:
             # Ölümlü (destek) kararlar silinmez, ayrı klasörde/logda saklanır
-            if res.sebep == "kapsam_disi_olumlu_destek_ayri_sakla" and rejected_dir is not None:
+            if res.sebep == "kapsam_disi_ölümlü_destek_ayri_sakla" and rejected_dir is not None:
                 rej_dst = rejected_dir / src.name
                 rej_dst.write_text(text, encoding="utf-8", newline="\n")
 
-    # Idempotency: hedef klasörde kalmış eski reddedilen dosyaları temizle (ancak veri kaybı önlenmiştir)
+    # Idempotency: hedef klasörde kalmış eski reddedilen dosyaları temizle
     if output_dir.resolve() != input_dir.resolve():
-        for existing in output_dir.glob("karar_*.txt"):
+        for existing in output_dir.glob("*.txt"):
             if existing.stem not in accepted_ids:
                 existing.unlink()
 

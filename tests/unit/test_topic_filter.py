@@ -8,7 +8,7 @@ from trafikrag.ingestion.steps.topic_filter import (
 
 
 def test_topic_filter_rejects_criminal_kasko_tutanak_and_procedural() -> None:
-    # 1. Ceza dairesi kararı -> elenmeli
+    # 1. Ceza dairesi kararı (ilk 1000 karakterde yer aldığı için elenmeli)
     ceza_text = (
         "Yargıtay 12. Ceza Dairesi\n"
         "Esas No: 2023/100\nKarar No: 2023/200\n"
@@ -43,7 +43,7 @@ def test_topic_filter_rejects_criminal_kasko_tutanak_and_procedural() -> None:
 
 
 def test_topic_filter_accepts_bam_and_other_courts() -> None:
-    # BAM / Bölge Adliye Mahkemesi kararı -> Artık elenmemeli (1. Madde Düzeltmesi)
+    # BAM / Bölge Adliye Mahkemesi kararı -> Artık elenmemeli
     bam_text = (
         "Ankara Bölge Adliye Mahkemesi 26. Hukuk Dairesi\n"
         "Esas No: 2023/101\nKarar No: 2023/202\n"
@@ -58,14 +58,55 @@ def test_topic_filter_accepts_bam_and_other_courts() -> None:
 
 
 def test_detect_outcome_dictionary_alignment() -> None:
-    # ExtractedFacts.outcome sözlük hizalaması (3. Madde Düzeltmesi)
     assert detect_outcome("istinaf başvurusunun esastan reddine karar verildi") == "istinaf_reddi"
     assert detect_outcome("ilk derece mahkemesi kararının kaldırılmasına ve yeniden hüküm kurulmasına") == "kaldirma"
     assert detect_outcome("hükmün bozulmasına") == "bozma"
+    assert detect_outcome("onanmasına") == "istinaf_reddi"
+
+
+def test_detect_outcome_cok_maddeli_hukum() -> None:
+    # Çok maddeli ilk derece hükmünün genişletilmiş pencerede doğru tespit edilmesi
+    text = """
+    HÜKÜM : Gerekçesi yukarıda açıklandığı üzere;
+    1- Davanın KISMEN KABULÜ ile 45.000 TL maddi tazminatın davalıdan tahsiline,
+    2- Fazlaya ilişkin talebin reddine,
+    3- Harç ve yargılama giderlerinin davalıdan tahsiline karar verildi.
+    """ + (" " * 2000) # Hükmün pencere dışında kalmaması kontrolü
+    
+    assert detect_outcome(text) == "kismen_kabul"
+
+
+def test_detect_outcome_bam_esastan_red_araya_madde_girmis() -> None:
+    # BAM esastan red kararında araya giren HMK maddesinin tolere edilmesi
+    text = """
+    GEREĞİ DÜŞÜNÜLDÜ:
+    Davacı vekilinin istinaf başvurusunun HMK'nın 353/1-b/1. maddesi uyarınca ESASTAN REDDİNE,
+    dosya üzerinden yapılan inceleme sonucunda oy birliğiyle karar verildi.
+    """
+    assert detect_outcome(text) == "istinaf_reddi"
+
+
+def test_evaluate_decision_belirsiz_sonuclar_elenmemeli() -> None:
+    # Sonucu belirsiz olan kararların veri kaybını önlemek adına kabul edilmesi
+    text = "T.C. Ankara Asliye Hukuk Mahkemesi.\n" + ("Metin boşluğu " * 100) + "Yaralanmalı trafik kazası kaynaklı geçici iş göremezlik tazminatı. Kusur oranı %100. Hüküm kısmı standart dışı."
+    res = evaluate_decision("karar_belirsiz", text)
+    
+    assert res.kabul_edildi is True
+    assert res.sonuc == "belirsiz"
+    assert "sonuc_belirsiz" in res.konu_etiketi
+
+
+def test_evaluate_decision_ceza_kontrolu_sadece_kunyede() -> None:
+    # Emsal atfı olarak geçen 'ceza dairesi' ifadesinin kararı eletmemesi (Sadece ilk 1000 karaktere bakılmalı)
+    text = "T.C. Ankara Asliye Hukuk Mahkemesi.\n" + ("Ara Metin " * 300) + "Yargıtay 12. Ceza Dairesi kararına atıf yapılmıştır. Yaralanmalı maluliyet ve kusur %50 tespit edilmiştir."
+    res = evaluate_decision("test_emsal_ceza", text)
+    
+    assert res.kabul_edildi is True
+    assert "ceza" not in res.sebep
 
 
 def test_topic_filter_handles_fatal_support_claims_and_preserves_data(tmp_path: Path) -> None:
-    # Ölümlü kaza (destekten yoksun kalma) -> kabul_edildi=False ama silinmez, rejected_dir'e kopyalanır (2. Madde Düzeltmesi)
+    # Ölümlü kaza (destekten yoksun kalma) -> kabul_edildi=False ama silinmez, rejected_dir'e kopyalanır
     destek_text = (
         "Yargıtay 4. Hukuk Dairesi\n"
         "Esas No: 2023/111\nKarar No: 2023/222\n"
@@ -76,6 +117,7 @@ def test_topic_filter_handles_fatal_support_claims_and_preserves_data(tmp_path: 
     res_destek = evaluate_decision("karar_01", destek_text)
     assert res_destek.kabul_edildi is False
     assert "destek" in res_destek.konu_etiketi
+    assert "ölümlü" in res_destek.sebep
 
     # Veri kaybı testi: rejected_dir alanına kopyalanması
     in_dir = tmp_path / "in"
@@ -88,7 +130,7 @@ def test_topic_filter_handles_fatal_support_claims_and_preserves_data(tmp_path: 
 
     accepted_paths = run_topic_filter(in_dir, out_dir, log_path=log_csv, rejected_dir=rej_dir)
     assert len(accepted_paths) == 0
-    assert (rej_dir / "karar_01.txt").exists()  # Veri silinmedi, ayrıştırıldı!
+    assert (rej_dir / "karar_01.txt").exists()
 
 
 def test_topic_filter_accepts_valid_injury_decision_and_writes_log(tmp_path: Path) -> None:
@@ -110,7 +152,6 @@ def test_topic_filter_accepts_valid_injury_decision_and_writes_log(tmp_path: Pat
     assert "kusur" in res_valid.konu_etiketi
     assert res_valid.sonuc == "bozma"
 
-    # Klasör ve CSV log testi
     in_dir = tmp_path / "in"
     out_dir = tmp_path / "out"
     log_csv = tmp_path / "selection_log.csv"
