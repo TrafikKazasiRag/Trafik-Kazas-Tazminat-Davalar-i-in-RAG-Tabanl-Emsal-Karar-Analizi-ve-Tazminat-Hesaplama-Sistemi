@@ -1,6 +1,44 @@
-"""test_index.py: Karar/chunk konu etiketleme (multi-label) adımının birim testleri."""
+"""test_index.py: Karar/chunk konu etiketleme (multi-label) ve indeksleme adımının birim testleri."""
+import json
+from pathlib import Path
+
 from trafikrag.domain.decision import Decision, Section
-from trafikrag.ingestion.steps.index import build_chunk_metadata, extract_decision_topics, index_decision
+from trafikrag.ingestion.steps.index import (
+    build_chunk_metadata,
+    extract_decision_topics,
+    index_decision,
+    write_decisions_jsonl,
+)
+
+
+def test_write_decisions_jsonl_creates_valid_file(tmp_path: Path) -> None:
+    """write_decisions_jsonl fonksiyonunun geçerli JSONL dosyası ürettiğini ve 'topics' alanını doğrular."""
+    decision = Decision(
+        id="karar_01",
+        court="Ankara Asliye Hukuk Mahkemesi",
+        esas_no="2023/100",
+        karar_no="2023/200",
+        date="2023-01-01",
+        source_url="https://ornek.com/karar_01",
+        sections=[
+            Section(kind="olay", text="Trafik kazası gerçekleşmiştir."),
+            Section(kind="hukum", text="Geçici iş göremezlik tazminatının kabulüne karar verildi."),
+        ],
+    )
+
+    output_file = tmp_path / "decisions.jsonl"
+    write_decisions_jsonl([decision], output_file)
+
+    assert output_file.exists()
+    lines = output_file.read_text(encoding="utf-8").strip().splitlines()
+    assert len(lines) == 1
+
+    saved_data = json.loads(lines[0])
+    assert saved_data["id"] == "karar_01"
+    assert saved_data["court"] == "Ankara Asliye Hukuk Mahkemesi"
+    assert "topics" in saved_data
+    assert saved_data["topics"] == ["yaralanma"]
+    assert len(saved_data["sections"]) == 2
 
 
 def test_chunk_metadata_includes_topics_list() -> None:

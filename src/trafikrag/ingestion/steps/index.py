@@ -10,7 +10,10 @@ from trafikrag.retrieval.topics import classify_topic
 
 
 def extract_decision_topics(decision: Decision) -> list[str]:
-    """Karar düzeyindeki konuyu tespit eder ve liste (topics) olarak döndürür."""
+    """Karar düzeyindeki konuyu tespit eder ve liste (topics) olarak döndürür.
+
+    Not: şimdilik tek etiket, classify_topic sonucu listeye sarılıyor.
+    """
     topic = classify_topic(decision)
     return [topic] if topic else ["diger"]
 
@@ -23,7 +26,7 @@ def build_chunk_metadata(decision: Decision, section_kind: str) -> dict[str, Any
         "court": decision.court,
         "date": decision.date,
         "section_kind": section_kind,
-        "topics": topics,  # Karar düzeyindeki konu o kararın tüm chunk'larına taşınır
+        "topics": topics,
     }
 
 
