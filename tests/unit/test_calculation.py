@@ -178,18 +178,18 @@ def test_csv_life_tables_load_and_unknown_table_raises():
 
 
 def test_official_ek7_life_table_actuarial_comparison():
-    """04.12.2021 tarih ve 31679 sayılı Resmî Gazete Genel Şartlar Ek-7 (s. 25-28) resmî
-    tablo doğrulaması ve komütasyon sütunları (Dx, Nx) ile bağımsız aktüeryal karşılaştırma:
-    - Yaş 30 Erkek için resmî Ek-7 tablosunda:
+    """04.12.2021 tarih ve 31679 sayılı Resmî Gazete Genel Şartlar Ek-7 (s. 25-26) resmî
+    Erkek yaşam tablosu (TRH-2010) doğrulaması ve komütasyon sütunları (Dx, Nx) ile
+    bağımsız aktüeryal karşılaştırma:
+    - Yaş 30 Erkek için resmî Ek-7 tablosunda (s. 25):
       qx = 0.000973, ex = 44.45, D_30 = 58853.30, N_30 = 1852738.74
-      Yaş 65 Erkek için: D_65 = 26650.31, N_65 = 337754.82
+      Yaş 65 Erkek için (s. 26): D_65 = 26650.31, N_65 = 337754.82
     - Komütasyon sütunlarından bağımsız aktüeryal anüite katsayıları:
       ä_30 (toplam) = N_30 / D_30 = 1852738.74 / 58853.30 = 31.480626
       ä_30:35| (aktif) = (N_30 - N_65) / D_30 = 1514983.92 / 58853.30 = 25.741699
       35|ä_30 (pasif) = N_65 / D_30 = 337754.82 / 58853.30 = 5.738927
     """
     trh_male = load_life_table("TRH-2010", gender="E")
-    trh_female = load_life_table("TRH-2010", gender="K")
 
     # 1. İnterpolasyon olmadığının kontrolü (20-29 yaş arasında qx azalış ve artış gösterir)
     assert trh_male[23]["qx"] == Decimal("0.000981")
@@ -198,9 +198,8 @@ def test_official_ek7_life_table_actuarial_comparison():
     assert trh_male[26]["qx"] == Decimal("0.000905")
     assert trh_male[0]["ex"] == Decimal("71.93")
     assert trh_male[1]["ex"] == Decimal("72.35")
-    assert trh_female[0]["ex"] == Decimal("78.02")
 
-    # 2. Resmî Ek-7 Dx/Nx komütasyon sütunları ile motorun anüite hesabı karşılaştırması
+    # 2. Resmî Ek-7 s. 25-26 Dx/Nx komütasyon sütunları ile motorun anüite hesabı karşılaştırması
     d_30 = Decimal("58853.30")
     n_30 = Decimal("1852738.74")
     n_65 = Decimal("337754.82")
@@ -213,6 +212,58 @@ def test_official_ek7_life_table_actuarial_comparison():
         trh_male, start_age=30, active_end_age=65, discount_rate=Decimal("0.0165")
     )
     # Basılı tablodaki tam sayı lx yuvarlaması kaynaklı fark 0.0002'den küçüktür
+    assert abs(active_a - official_active_annuity) < Decimal("0.0002")
+    assert abs(passive_a - official_passive_annuity) < Decimal("0.0002")
+    assert abs(total_a - official_total_annuity) < Decimal("0.0002")
+
+
+def test_official_ek7_female_life_table_dx_nx_comparison():
+    """04.12.2021 tarih ve 31679 sayılı Resmî Gazete Genel Şartlar Ek-7 (s. 27-28) resmî
+    Kadın yaşam tablosu (YAML'da TRFH-2020 / trfh_2020.csv; resmî PDF s. 27-28'de
+    'TRH - 2010 KADIN (%1,65 İskonto Oranı)' başlığıyla yayımlanan tablo) doğrulaması ve
+    basılı Dx / Nx komütasyon sütunları ile bağımsız aktüeryal karşılaştırma:
+    - Yaş 0 Kadın (s. 27): qx = 0.008161, ex = 78.02, D_0 = 100000.00, N_0 = 4402977.37
+    - Yaş 30 Kadın (s. 27): qx = 0.000372, ex = 49.00, D_30 = 60370.22, N_30 = 2036268.94
+    - Yaş 65 Kadın (s. 28): qx = 0.013220, ex = 16.63, D_65 = 30528.50, N_65 = 448402.42
+    - Komütasyon sütunlarından bağımsız aktüeryal anüite katsayıları:
+      ä_0 (toplam) = N_0 / D_0 = 4402977.37 / 100000.00 = 44.029774
+      ä_30 (toplam) = N_30 / D_30 = 2036268.94 / 60370.22 = 33.729692
+      ä_30:35| (aktif) = (N_30 - N_65) / D_30 = 1587866.52 / 60370.22 = 26.302149
+      35|ä_30 (pasif) = N_65 / D_30 = 448402.42 / 60370.22 = 7.427543
+    """
+    trfh_female = load_life_table("TRFH-2020", gender="K")
+
+    # 1. Resmî PDF s. 27-28'deki spesifik yaş satırları ve interpolasyon olmadığının kontrolü
+    assert trfh_female[0]["qx"] == Decimal("0.008161")
+    assert trfh_female[0]["ex"] == Decimal("78.02")
+    assert trfh_female[9]["qx"] == Decimal("0.000097")
+    assert trfh_female[10]["qx"] == Decimal("0.000094")
+    assert trfh_female[11]["qx"] == Decimal("0.000084")
+    assert trfh_female[12]["qx"] == Decimal("0.000084")
+    assert trfh_female[13]["qx"] == Decimal("0.000095")
+    assert trfh_female[30]["qx"] == Decimal("0.000372")
+    assert trfh_female[30]["ex"] == Decimal("49.00")
+    assert trfh_female[65]["qx"] == Decimal("0.013220")
+    assert trfh_female[65]["ex"] == Decimal("16.63")
+
+    # 2. Yaş 0 için resmî D_0 ve N_0 komütasyon sütunlarıyla karşılaştırma
+    d_0 = Decimal("100000.00")
+    n_0 = Decimal("4402977.37")
+    annuity_0 = compute_annuity_due(trfh_female, start_age=0, discount_rate=Decimal("0.0165"))
+    assert abs(annuity_0 - (n_0 / d_0)) < Decimal("0.0002")
+
+    # 3. Yaş 30 ve 65 için resmî D_30, N_30, N_65 komütasyon sütunlarıyla karşılaştırma
+    d_30 = Decimal("60370.22")
+    n_30 = Decimal("2036268.94")
+    n_65 = Decimal("448402.42")
+
+    official_active_annuity = (n_30 - n_65) / d_30
+    official_passive_annuity = n_65 / d_30
+    official_total_annuity = n_30 / d_30
+
+    active_a, passive_a, total_a = compute_split_annuity_due(
+        trfh_female, start_age=30, active_end_age=65, discount_rate=Decimal("0.0165")
+    )
     assert abs(active_a - official_active_annuity) < Decimal("0.0002")
     assert abs(passive_a - official_passive_annuity) < Decimal("0.0002")
     assert abs(total_a - official_total_annuity) < Decimal("0.0002")

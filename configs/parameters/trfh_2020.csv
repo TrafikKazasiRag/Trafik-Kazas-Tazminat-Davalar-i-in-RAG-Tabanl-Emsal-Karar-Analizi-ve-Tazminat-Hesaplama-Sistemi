@@ -1,5 +1,6 @@
-# Kaynak: 04.12.2021 tarih ve 31679 sayılı Resmî Gazete, Karayolları Motorlu Araçlar Zorunlu Mali Sorumluluk Sigortası Genel Şartları Ek-7
-# Resmi PDF: https://www.tsb.org.tr/content/Legislations/Trafik_Genel_%C5%9Eartlar%C4%B1_06122021__Ekler_Dahil.pdf (s. 25-28)
+# Kaynak: 04.12.2021 tarih ve 31679 sayılı Resmî Gazete, Karayolları Motorlu Araçlar Zorunlu Mali Sorumluluk Sigortası Genel Şartları Ek-7 (Kadın Hayat Tablosu, s. 27-28)
+# Resmi PDF: https://www.tsb.org.tr/content/Legislations/Trafik_Genel_%C5%9Eartlar%C4%B1_06122021__Ekler_Dahil.pdf (s. 27-28)
+# Not: İkincil kaynaklarda (ve YAML'da) TRFH-2020 olarak anılan kadın hayat tablosu, resmî PDF s. 27-28'de "TRH - 2010 KADIN (%1,65 İskonto Oranı)" başlığıyla yayımlanmıştır (yaş 30: qx=0.000372, ex=49.00, Dx=60370.22, Nx=2036268.94).
 age,qx_female,ex_female
 0,0.008161,78.02
 1,0.000278,77.66

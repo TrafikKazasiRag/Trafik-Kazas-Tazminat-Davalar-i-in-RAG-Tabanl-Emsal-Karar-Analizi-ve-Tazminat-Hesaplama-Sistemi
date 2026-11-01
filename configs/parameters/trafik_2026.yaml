@@ -68,7 +68,7 @@ verification:
     source: "2918 sayılı Karayolları Trafik Kanunu m.109 ve Genel Şartlar C.8"
   genel_sartlar_2021.yasam_tablosu:
     verified: true
-    source: "04.12.2021 tarih ve 31679 sayılı Resmî Gazete, Karayolları Motorlu Araçlar Zorunlu Mali Sorumluluk Sigortası Genel Şartları Ek-7 (https://www.tsb.org.tr/content/Legislations/Trafik_Genel_%C5%9Eartlar%C4%B1_06122021__Ekler_Dahil.pdf, s. 25-28: TRH-2010 Erkek ve Kadın tabloları)"
+    source: "04.12.2021 tarih ve 31679 sayılı Resmî Gazete, Karayolları Motorlu Araçlar Zorunlu Mali Sorumluluk Sigortası Genel Şartları Ek-7 (https://www.tsb.org.tr/content/Legislations/Trafik_Genel_%C5%9Eartlar%C4%B1_06122021__Ekler_Dahil.pdf, s. 25-26: Erkek [TRH-2010], s. 27-28: Kadın [YAML'da TRFH-2020 / trfh_2020.csv; resmî PDF s. 27-28'de 'TRH - 2010 KADIN (%1,65 İskonto Oranı)' başlığıyla yayımlanmıştır, yaş 30: qx=0,000372, ex=49,00, Dx=60.370,22, Nx=2.036.268,94])"
   genel_sartlar_2021.uygulama:
     verified: true
     source: "04.12.2021 tarih ve 31679 sayılı Resmî Gazete m.4 (Yürürlük maddesi)"
