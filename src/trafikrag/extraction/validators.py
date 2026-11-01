@@ -16,10 +16,16 @@ def _norm(s: str) -> str:
 
 
 def _amount_in(text: str, amount: float) -> bool:
-    """215180.2 -> '215.180,20' veya '215.180' biçiminde metinde geçiyor mu."""
+    """215180.2 -> '215.180,20' veya '215.180' biçiminde, başka bir sayının parçası olmadan metinde geçiyor mu."""
     whole, frac = f"{amount:.2f}".split(".")
     tr = f"{int(whole):,}".replace(",", ".")
-    return f"{tr},{frac}" in text or (frac == "00" and tr in text)
+    candidates = [f"{tr},{frac}"]
+    if frac == "00":
+        candidates.append(tr)
+    return any(
+        re.search(rf"(?<![\d.,]){re.escape(candidate)}(?!\d|[.,]\d)", text)
+        for candidate in candidates
+    )
 
 
 def validate_facts(facts: ExtractedFacts, decision_text: str) -> tuple[ExtractedFacts, list[str]]:
@@ -70,6 +76,8 @@ def validate_facts(facts: ExtractedFacts, decision_text: str) -> tuple[Extracted
             reason = "izin verilmeyen kalem"
         elif amount < 0:
             reason = "negatif tutar"
+        elif amount == 0:
+            reason = "sıfır tutar"
         elif not quote or _norm(quote) not in text:
             reason = "dayanak cümle yok veya metinde bulunamadı"
         elif not _amount_in(quote, amount):

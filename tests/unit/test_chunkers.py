@@ -22,11 +22,14 @@ BOZULMASINA,
 30.05.2024 tarihinde oy birliğiyle karar verildi.
 """
 
+
 def test_parser_finds_three_sections_and_metadata():
     d = parse_decision(SAMPLE, "x")
     assert [s.kind for s in d.sections] == ["olay", "gerekce", "hukum"]
     assert (d.esas_no, d.karar_no, d.date) == ("2024/1", "2024/2", "2024-05-30")
     assert d.court == "Yargıtay 4. Hukuk Dairesi"
+
+
 def test_by_section_never_mixes_sections():
     chunks = BySectionChunker(max_tokens=400).chunk(parse_decision(SAMPLE, "x"))
     assert {c.section_kind for c in chunks} == {"olay", "gerekce", "hukum"}
@@ -44,6 +47,22 @@ def test_fixed_size_has_overlap():
     chunks = chunker.chunk(d)
     assert len(chunks) >= 3
     assert chunks[0].text.split()[-10:] == chunks[1].text.split()[:10]
+
+
+def test_chunks_carry_topics_for_both_chunkers():
+    decision = parse_decision(SAMPLE, "x")
+    for chunker in (BySectionChunker(), FixedSizeChunker()):
+        chunks = chunker.chunk(decision)
+        assert chunks
+        assert all(isinstance(c.metadata["topics"], list) for c in chunks)
+        # aynı karardaki tüm chunk'lar aynı konuyu taşır
+        assert len({tuple(c.metadata["topics"]) for c in chunks}) == 1
+
+
+def test_topics_does_not_break_other_metadata():
+    chunk = BySectionChunker().chunk(parse_decision(SAMPLE, "x"))[0]
+    for key in ("court", "esas_no", "karar_no", "date", "part"):
+        assert key in chunk.metadata
 
 
 RAW = Path("data/raw/karar_03.txt")

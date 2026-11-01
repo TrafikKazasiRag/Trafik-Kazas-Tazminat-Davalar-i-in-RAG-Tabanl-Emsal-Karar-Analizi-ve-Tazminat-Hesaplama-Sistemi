@@ -5,3 +5,13 @@ lexical:      {type: pg_fts}
 retrieval:    {mode: hybrid, fusion: rrf, top_k: 30}
 reranker:     {type: bge_reranker, top_n: 8}
 llm:          {type: claude, prompt: summarize_with_citations.v1}
+
+ingestion:
+  steps:
+    - clean
+    - dedupe
+    - topic_filter
+    - split
+    - index
+  raw_dir: "data/txt_dosyalar"
+  interim_dir: "data/interim"
