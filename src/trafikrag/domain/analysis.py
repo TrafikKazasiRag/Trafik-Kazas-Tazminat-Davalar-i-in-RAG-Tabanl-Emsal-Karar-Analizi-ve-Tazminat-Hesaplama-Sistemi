@@ -7,11 +7,23 @@ INCOME_BASES = ("net", "brut", "asgari", "bilinmiyor")
 EMPLOYMENT_STATUSES = ("calisiyor", "emekli", "calismiyor")
 METHODS = ("genel_sartlar", "yargitay")
 CAREGIVER_RATIOS = (0.5, 1.0)
+CASE_TYPES = ("yaralanma", "olum", "hasar")
+ACCIDENT_TYPES = (
+    "carpisma",
+    "yaya_carpmasi",
+    "tek_tarafli",
+    "park_halindeki_arac",
+    "diger",
+)
+FAULT_SOURCES = ("rapor", "bilinmiyor")
 
 
 @dataclass
 class CaseInput:
     narrative: str = ""
+    # --- dava ve kaza türü ---
+    case_type: str | None = None             # "yaralanma" | "olum" | "hasar"
+    accident_type: str | None = None         # "carpisma" | "yaya_carpmasi" | "tek_tarafli" | "park_halindeki_arac" | "diger"
     # --- kişi ---
     age: int | None = None                   # KAZA TARİHİNDEKİ yaş
     gender: str | None = None                # "E" | "K" (yaşam tabloları cinsiyete göre)
@@ -30,6 +42,7 @@ class CaseInput:
     sgk_treatment_covered: float | None = None  # SGK tarafından karşılanan tedavi gideri
     # --- kusur ---
     plaintiff_fault: float | None = None     # davacı kusur oranı, 0-1
+    fault_source: str | None = None          # "rapor" | "bilinmiyor"
     # --- tarih ve poliçe ---
     accident_date: date | None = None
     calculation_date: date | None = None     # hesap tarihi; boşsa bugün
@@ -79,6 +92,9 @@ def validate_case(case: CaseInput) -> tuple[list[str], list[str]]:
         if value is not None and value < 0:
             errors.append(f"{name} negatif olamaz")
     choices = {
+        "case_type": CASE_TYPES,
+        "accident_type": ACCIDENT_TYPES,
+        "fault_source": FAULT_SOURCES,
         "gender": GENDERS,
         "income_basis": INCOME_BASES,
         "employment_status": EMPLOYMENT_STATUSES,
@@ -92,6 +108,8 @@ def validate_case(case: CaseInput) -> tuple[list[str], list[str]]:
     if case.accident_date and case.calculation_date and case.accident_date > case.calculation_date:
         errors.append("accident_date, calculation_date'ten sonra olamaz")
 
+    if case.case_type == "olum":
+        warnings.append("Ölümlü kazalar (destekten yoksun kalma) bu sürümde kapsam dışıdır")
     if case.accident_date is None:
         warnings.append("Kaza tarihi girilmedi: güncel kurallar kullanılacak")
     if case.gender is None:
