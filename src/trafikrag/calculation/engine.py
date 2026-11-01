@@ -221,3 +221,11 @@ class CalculationEngine:
             risk={},
             warnings=_deduplicate_warnings(all_warnings),
         )
+
+
+def calculate(
+    case: CaseInput,
+    params: dict[str, Any] | None = None,
+) -> AnalysisResult:
+    """Hesaplama motoru tek giriş noktası: CaseInput alır, Decimal tutarlarla AnalysisResult döner."""
+    return CalculationEngine(params=params).calculate(case, params=params)
