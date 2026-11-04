@@ -10,7 +10,9 @@ import pytest
 from trafikrag.calculation.costs import calculate_costs
 from trafikrag.calculation.engine import (
     CalculationEngine,
+    calculate,
     check_statute_of_limitations,
+    deduplicate_warnings,
     default_items,
     select_disability_regulation,
 )
@@ -592,3 +594,28 @@ def test_costs_aaut_above_18_6m_final_brackets():
     params = load_parameters()
     costs = calculate_costs(Decimal("20000000.00"), params)
     assert costs["vekalet_ucreti"] == Decimal("1256000.00")
+
+
+def test_calculate_top_level_entry_point_and_deduplicate_warnings():
+    """calculate(case) tek giriş noktası CaseInput alır ve Decimal sonuçlarla AnalysisResult döner."""
+    case = CaseInput(
+        age=30,
+        gender="E",
+        employment_status="calisiyor",
+        monthly_income=30000.0,
+        income_basis="net",
+        disability_rate=0.10,
+        temporary_incapacity_months=2.0,
+        treatment_costs=10000.0,
+        plaintiff_fault=0.30,
+        accident_date=date(2025, 1, 1),
+        calculation_date=date(2026, 1, 1),
+        policy_date=date(2024, 6, 1),
+        policy_limit=3600000.0,
+    )
+    res = calculate(case)
+    assert isinstance(res.compensation["gross_total"], Decimal)
+    assert isinstance(res.compensation["net_total"], Decimal)
+    assert res.compensation["net_total"] > Decimal("0.00")
+    assert isinstance(res.costs["total_upfront_costs"], Decimal)
+    assert deduplicate_warnings(["a", "b", "a"]) == ["a", "b"]
