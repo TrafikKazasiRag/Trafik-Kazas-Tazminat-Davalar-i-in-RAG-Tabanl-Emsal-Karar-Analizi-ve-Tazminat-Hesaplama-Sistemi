@@ -5,7 +5,10 @@ import json
 from pathlib import Path
 from typing import Any
 
-from trafikrag.domain.decision import Decision
+from trafikrag.domain.decision import Chunk, Decision
+from trafikrag.ports.embedder import Embedder
+from trafikrag.ports.lexical_index import LexicalIndex
+from trafikrag.ports.vector_store import VectorStore
 from trafikrag.retrieval.topics import classify_topic
 
 
@@ -39,6 +42,27 @@ def index_decision(decision: Decision) -> list[dict[str, Any]]:
             "metadata": build_chunk_metadata(decision, section.kind),
         })
     return indexed_chunks
+
+
+def index_chunks(
+    chunks: list[Chunk],
+    embedder: Embedder,
+    vector_store: VectorStore,
+    lexical: LexicalIndex | None = None,
+    batch_size: int = 64,
+) -> int:
+    """Chunk'ları gömüp vektör deposuna (ve varsa sözcük indeksine) yazar; yazılan chunk sayısını döner.
+
+    Aynı id tekrar yazılırsa depolar günceller, yani adım tekrar çalıştırılabilir (idempotent).
+    """
+    if batch_size <= 0:
+        raise ValueError("batch_size pozitif olmalı")
+    for start in range(0, len(chunks), batch_size):
+        batch = chunks[start : start + batch_size]
+        vector_store.add(batch, embedder.embed([chunk.text for chunk in batch]))
+        if lexical is not None:
+            lexical.add(batch)
+    return len(chunks)
 
 
 def write_decisions_jsonl(decisions: list[Decision], output_path: Path) -> Path:

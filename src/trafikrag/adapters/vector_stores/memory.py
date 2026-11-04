@@ -26,10 +26,9 @@ def _matches(chunk: Chunk, filters: dict | None) -> bool:
             actual = chunk.decision_id
         else:
             actual = chunk.metadata.get(key)
-        if isinstance(expected, (list, tuple, set)):
-            if str(actual) not in {str(v) for v in expected}:
-                return False
-        elif str(actual) != str(expected):
+        wanted = {str(v) for v in expected} if isinstance(expected, (list, tuple, set)) else {str(expected)}
+        have = {str(v) for v in actual} if isinstance(actual, (list, tuple, set)) else {str(actual)}
+        if not wanted & have:
             return False
     return True
 
