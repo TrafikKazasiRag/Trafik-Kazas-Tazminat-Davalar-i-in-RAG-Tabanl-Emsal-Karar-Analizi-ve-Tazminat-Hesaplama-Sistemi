@@ -59,9 +59,19 @@ def index_chunks(
         raise ValueError("batch_size pozitif olmalı")
     for start in range(0, len(chunks), batch_size):
         batch = chunks[start : start + batch_size]
-        vector_store.add(batch, embedder.embed([chunk.text for chunk in batch]))
+        end = start + len(batch)
+        try:
+            vector_store.add(batch, embedder.embed([chunk.text for chunk in batch]))
+        except Exception as exc:
+            raise RuntimeError(f"vektör deposu yazımı {start}-{end} aralığında başarısız") from exc
         if lexical is not None:
-            lexical.add(batch)
+            try:
+                lexical.add(batch)
+            except Exception as exc:
+                raise RuntimeError(
+                    f"sözcük indeksi yazımı {start}-{end} aralığında başarısız; "
+                    f"vektör deposuna {end} chunk'a kadar yazıldı, adım yeniden çalıştırılabilir"
+                ) from exc
     return len(chunks)
 
 

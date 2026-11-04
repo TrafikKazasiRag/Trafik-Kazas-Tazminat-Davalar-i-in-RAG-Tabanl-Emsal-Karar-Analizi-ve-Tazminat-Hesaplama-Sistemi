@@ -111,7 +111,8 @@ def test_bge_reranker_scalar_score_and_length_mismatch():
 
 
 def test_pg_fts_query_builder_and_validation(monkeypatch):
-    assert pg_fts.build_tsquery("madde 85, kusur!") == "madde | 85 | kusur"
+    assert pg_fts.build_tsquery("madde 85, kusur!") == "madde or 85 or kusur"
+    assert pg_fts.build_tsquery("or OR kusur") == "kusur"
     assert pg_fts.build_tsquery("   ") == ""
     assert pg_fts.PgFtsIndex("dsn").search("   ", 5) == []
     with pytest.raises(ValueError):
@@ -151,6 +152,19 @@ def test_run_eval_rejects_bad_question_file(tmp_path):
     bad.write_text(json.dumps({"query": "x"}) + "\n", encoding="utf-8")
     with pytest.raises(ValueError):
         run_eval.load_questions(bad)
+
+
+def test_index_chunks_reports_failing_batch_range():
+    from trafikrag.adapters.embedders.fake import FakeEmbedder
+    from trafikrag.ingestion.steps.index import index_chunks
+
+    class Broken:
+        def add(self, chunks):
+            raise OSError("db down")
+
+    chunks = [Chunk(f"c{i}", "d", "hukum", "t", {}) for i in range(3)]
+    with pytest.raises(RuntimeError, match="0-2"):
+        index_chunks(chunks, FakeEmbedder(4), memory.build({}), Broken(), batch_size=2)
 
 
 def test_index_chunks_writes_to_both_stores_in_batches():

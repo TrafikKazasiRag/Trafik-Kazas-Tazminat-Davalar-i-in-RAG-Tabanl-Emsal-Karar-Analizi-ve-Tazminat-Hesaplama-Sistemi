@@ -25,8 +25,12 @@ CREATE INDEX IF NOT EXISTS ix_chunks_tsv ON chunks USING gin (tsv);
 
 
 def build_tsquery(query: str) -> str:
-    """Sorgudaki sözcükleri OR ile birleştirir (doğal dil sorguları AND ile neredeyse hiç eşleşmez)."""
-    return " | ".join(_WORD.findall(query))
+    """Sorgudaki sözcükleri OR ile birleştirir (doğal dil sorguları AND ile neredeyse hiç eşleşmez).
+
+    Çıktı websearch_to_tsquery için yazılır: sözdizimi hatası vermez, stopword'leri sessizce atar.
+    """
+    words = [w for w in _WORD.findall(query) if w.lower() != "or"]
+    return " or ".join(words)
 
 
 class PgFtsIndex:
@@ -74,11 +78,13 @@ class PgFtsIndex:
         if top_k <= 0 or not tsquery:
             return []
         where, params = _build_where(filters)
-        match = f"tsv @@ q.query{' AND' + where[len(' WHERE'):] if where else ''}"
+        conditions = ["tsv @@ q.query"]
+        if where:
+            conditions.append(where.removeprefix(" WHERE "))
         sql = (
             "SELECT id, decision_id, section_kind, text, metadata, ts_rank_cd(tsv, q.query) AS score "
-            f"FROM chunks, (SELECT to_tsquery('{self._config}', %s) AS query) AS q "
-            f"WHERE {match} ORDER BY score DESC, id LIMIT %s"
+            f"FROM chunks, (SELECT websearch_to_tsquery('{self._config}', %s) AS query) AS q "
+            f"WHERE {' AND '.join(conditions)} ORDER BY score DESC, id LIMIT %s"
         )
         with self._connection().cursor() as cur:
             cur.execute(sql, [tsquery, *params, top_k])
