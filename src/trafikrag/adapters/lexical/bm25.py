@@ -42,10 +42,9 @@ def _matches(chunk: Chunk, filters: dict) -> bool:
             actual = chunk.decision_id
         else:
             actual = chunk.metadata.get(key)
-        if isinstance(expected, (list, tuple, set)):
-            if actual not in expected:
-                return False
-        elif actual != expected:
+        wanted = set(expected) if isinstance(expected, (list, tuple, set)) else {expected}
+        have = set(actual) if isinstance(actual, (list, tuple, set)) else {actual}
+        if not wanted & have:
             return False
     return True
 
