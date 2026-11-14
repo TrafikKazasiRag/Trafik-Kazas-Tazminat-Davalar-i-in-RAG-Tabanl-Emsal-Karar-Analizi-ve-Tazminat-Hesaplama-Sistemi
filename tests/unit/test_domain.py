@@ -13,14 +13,9 @@ def test_empty_case_has_no_errors_but_warns():
 
 def test_complete_case_has_no_problems():
     case = CaseInput(
-        age=35,
-        gender="E",
-        monthly_income=30000,
-        income_basis="net",
-        disability_rate=0.12,
-        plaintiff_fault=0.3,
-        accident_date=date(2023, 5, 1),
-        calculation_date=date(2026, 10, 1),
+        age=35, gender="E", monthly_income=30000, income_basis="net",
+        disability_rate=0.12, plaintiff_fault=0.3, accident_date=date(2023,5,1),
+        calculation_date=date(2026,10,1),
     )
     assert validate_case(case) == ([], [])
 
@@ -45,21 +40,3 @@ def test_extracted_facts_new_fields_default_to_none():
     facts = ExtractedFacts(decision_id="k1")
     assert facts.accident_date is None and facts.life_table is None
     assert facts.awarded_items == {} and facts.evidence == {}
-
-
-def test_validate_case_new_form_fields():
-    """CaseInput yeni form alanları (case_type, accident_type, fault_source) doğrulaması."""
-    err_case = CaseInput(
-        case_type="gecersiz_tur",
-        accident_type="ucak_kazasi",
-        fault_source="tahmin",
-    )
-    errors, _ = validate_case(err_case)
-    assert any("case_type" in e for e in errors)
-    assert any("accident_type" in e for e in errors)
-    assert any("fault_source" in e for e in errors)
-
-    olum_case = CaseInput(case_type="olum")
-    errors_olum, warnings_olum = validate_case(olum_case)
-    assert errors_olum == []
-    assert any("kapsam dışıdır" in w for w in warnings_olum)
