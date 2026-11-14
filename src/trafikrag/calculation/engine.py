@@ -74,7 +74,8 @@ def check_statute_of_limitations(
     return warnings
 
 
-def _deduplicate_warnings(warnings: list[str]) -> list[str]:
+def deduplicate_warnings(warnings: list[str]) -> list[str]:
+    """Uyarı listesini sırasını koruyarak tekilleştirir."""
     seen: set[str] = set()
     ordered: list[str] = []
     for w in warnings:
@@ -82,6 +83,9 @@ def _deduplicate_warnings(warnings: list[str]) -> list[str]:
             seen.add(w)
             ordered.append(w)
     return ordered
+
+
+_deduplicate_warnings = deduplicate_warnings
 
 
 def default_items() -> list[CompensationItem]:
@@ -219,5 +223,13 @@ class CalculationEngine:
             compensation=compensation_payload,
             costs=costs_res,
             risk={},
-            warnings=_deduplicate_warnings(all_warnings),
+            warnings=deduplicate_warnings(all_warnings),
         )
+
+
+def calculate(
+    case: CaseInput,
+    params: dict[str, Any] | None = None,
+) -> AnalysisResult:
+    """Hesaplama motoru tek giriş noktası: CaseInput alır, Decimal tutarlarla AnalysisResult döner."""
+    return CalculationEngine(params=params).calculate(case, params=params)
