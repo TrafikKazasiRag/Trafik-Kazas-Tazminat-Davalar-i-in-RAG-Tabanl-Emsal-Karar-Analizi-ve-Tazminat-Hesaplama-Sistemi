@@ -20,16 +20,20 @@ def _matches(chunk: Chunk, filters: dict | None) -> bool:
             if not date or date > str(expected):
                 return False
             continue
+        if key == "exclude_decision_ids":
+            excluded = {str(v) for v in expected} if isinstance(expected, (list, tuple, set)) else {str(expected)}
+            if str(chunk.decision_id) in excluded:
+                return False
+            continue
         if key == "section_kind":
             actual = chunk.section_kind
         elif key == "decision_id":
             actual = chunk.decision_id
         else:
             actual = chunk.metadata.get(key)
-        if isinstance(expected, (list, tuple, set)):
-            if str(actual) not in {str(v) for v in expected}:
-                return False
-        elif str(actual) != str(expected):
+        wanted = {str(v) for v in expected} if isinstance(expected, (list, tuple, set)) else {str(expected)}
+        have = {str(v) for v in actual} if isinstance(actual, (list, tuple, set)) else {str(actual)}
+        if not wanted & have:
             return False
     return True
 

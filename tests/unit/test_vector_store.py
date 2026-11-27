@@ -60,11 +60,60 @@ def test_pg_where_clause_builds_parameters():
     where, params = pgvector._build_where(
         {"court": "17. HD", "date_from": "2021-01-01", "section_kind": "hukum"}
     )
-    assert "metadata->>%s = %s" in where
+    assert "metadata->>%s = ANY(%s)" in where
+    assert "metadata @> %s::jsonb" not in where
     assert "metadata->>'date' >= %s" in where
     assert "section_kind = %s" in where
-    assert params == ["court", "17. HD", "2021-01-01", "hukum"]
+    assert params == [
+        "court", ["17. HD"], "2021-01-01", "hukum",
+    ]
     assert pgvector._build_where(None) == ("", [])
+
+
+def test_pg_where_clause_list_topics_uses_containment():
+    where, params = pgvector._build_where({"topics": ["olum", "hasar"]})
+    assert where.count("metadata @> %s::jsonb") == 2
+    assert "metadata->>" not in where
+    assert params == [
+        '{"topics": ["olum"]}', '{"topics": ["hasar"]}',
+    ]
+    assert pgvector._build_where({"topics": []})[0] == " WHERE FALSE"
+
+
+def test_exclude_decision_ids_filter():
+    where, params = pgvector._build_where({"exclude_decision_ids": ["d1", "d2"]})
+    assert where == " WHERE decision_id != ALL(%s)"
+    assert params == [["d1", "d2"]]
+    assert pgvector._build_where({"exclude_decision_ids": []}) == ("", [])
+    assert pgvector._build_where({"exclude_decision_ids": None}) == ("", [])
+
+
+def test_pg_schema_has_gin_index_and_iterative_scan_validation():
+    assert "USING gin (metadata)" in pgvector._SCHEMA
+    with pytest.raises(ValueError):
+        pgvector.PgVectorStore("dsn", iterative_scan="bogus")
+
+
+def test_topics_list_filter_matches_membership():
+    store = memory.build({})
+    store.add(
+        [
+            Chunk("t1", "d1", "hukum", "a", {"topics": ["olum"]}),
+            Chunk("t2", "d2", "hukum", "b", {"topics": ["yaralanma", "hasar"]}),
+            Chunk("t3", "d3", "hukum", "c", {}),
+        ],
+        [[1.0, 0.0], [0.9, 0.1], [0.8, 0.2]],
+    )
+    ids = lambda f: [r.chunk.id for r in store.search([1.0, 0.0], top_k=5, filters=f)]
+    assert ids({"topics": "hasar"}) == ["t2"]
+    assert ids({"topics": ["olum", "hasar"]}) == ["t1", "t2"]
+    assert ids({"topics": "diger"}) == []
+
+
+def test_memory_store_excludes_decision_ids():
+    store = _store()
+    results = store.search([1.0, 0.0], top_k=5, filters={"exclude_decision_ids": ["d1", "d3"]})
+    assert [r.chunk.id for r in results] == ["c2"]
 
 
 def test_pg_add_validates_dimension():

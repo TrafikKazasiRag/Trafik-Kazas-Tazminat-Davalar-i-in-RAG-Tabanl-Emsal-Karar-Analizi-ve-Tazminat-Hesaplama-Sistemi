@@ -36,16 +36,22 @@ def _document_tokens(chunk: Chunk) -> list[str]:
 
 def _matches(chunk: Chunk, filters: dict) -> bool:
     for key, expected in filters.items():
+        if expected is None:
+            continue
+        if key == "exclude_decision_ids":
+            excluded = {str(v) for v in expected} if isinstance(expected, (list, tuple, set)) else {str(expected)}
+            if str(chunk.decision_id) in excluded:
+                return False
+            continue
         if key == "section_kind":
             actual = chunk.section_kind
         elif key == "decision_id":
             actual = chunk.decision_id
         else:
             actual = chunk.metadata.get(key)
-        if isinstance(expected, (list, tuple, set)):
-            if actual not in expected:
-                return False
-        elif actual != expected:
+        wanted = set(expected) if isinstance(expected, (list, tuple, set)) else {expected}
+        have = set(actual) if isinstance(actual, (list, tuple, set)) else {actual}
+        if not wanted & have:
             return False
     return True
 

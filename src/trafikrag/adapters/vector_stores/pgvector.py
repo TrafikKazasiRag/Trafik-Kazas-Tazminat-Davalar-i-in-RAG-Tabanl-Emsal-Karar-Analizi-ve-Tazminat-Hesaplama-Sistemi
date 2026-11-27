@@ -1,11 +1,13 @@
 """pgvector VectorStore. build(cfg) -> VectorStore
 
 Bağlantı adresi ortam değişkeninden okunur (varsayılan: DATABASE_URL).
-Desteklenen filtreler: section_kind, decision_id, date_from / date_to (ISO tarih);
-diğer anahtarlar (örn. court) metadata alanıyla eşleştirilir.
+Desteklenen filtreler: section_kind, decision_id, exclude_decision_ids, date_from / date_to
+(ISO tarih); metadata alanları birebir eşleşir. topics listesi için filtre listesindeki
+değerlerden herhangi biri yeterlidir.
 """
 import json
 import os
+import warnings
 
 from trafikrag.domain.decision import Chunk, ScoredChunk
 
@@ -22,7 +24,12 @@ CREATE TABLE IF NOT EXISTS chunks (
 );
 CREATE INDEX IF NOT EXISTS ix_chunks_embedding_hnsw
     ON chunks USING hnsw (embedding vector_cosine_ops);
+CREATE INDEX IF NOT EXISTS ix_chunks_metadata_gin
+    ON chunks USING gin (metadata);
 """
+
+# pgvector >= 0.8.0: filtre HNSW taramasından sonra uygulandığı için az sonuç dönmesini önler
+_ITERATIVE_SCAN = ("relaxed_order", "strict_order", "off")
 
 _COLUMN_FILTERS = ("section_kind", "decision_id")
 
@@ -40,24 +47,41 @@ def _build_where(filters: dict | None) -> tuple[str, list]:
             else:
                 clauses.append(f"{key} = %s")
                 params.append(value)
+        elif key == "exclude_decision_ids":
+            excluded = list(value) if isinstance(value, (list, tuple, set)) else [value]
+            if excluded:
+                clauses.append("decision_id != ALL(%s)")
+                params.append(excluded)
         elif key == "date_from":
             clauses.append("metadata->>'date' >= %s")
             params.append(str(value))
         elif key == "date_to":
             clauses.append("metadata->>'date' <= %s")
             params.append(str(value))
-        elif isinstance(value, (list, tuple, set)):
-            clauses.append("metadata->>%s = ANY(%s)")
-            params.extend([key, [str(v) for v in value]])
+        elif key == "topics":
+            values = [str(v) for v in value] if isinstance(value, (list, tuple, set)) else [str(value)]
+            if not values:
+                clauses.append("FALSE")
+                continue
+            parts = ["metadata @> %s::jsonb" for _ in values]
+            params.extend(json.dumps({key: [v]}, ensure_ascii=False) for v in values)
+            clauses.append("(" + " OR ".join(parts) + ")")
         else:
-            clauses.append("metadata->>%s = %s")
-            params.extend([key, str(value)])
+            values = [str(v) for v in value] if isinstance(value, (list, tuple, set)) else [str(value)]
+            if not values:
+                clauses.append("FALSE")
+                continue
+            clauses.append("metadata->>%s = ANY(%s)")
+            params.extend([key, values])
     return (" WHERE " + " AND ".join(clauses)) if clauses else "", params
 
 
 class PgVectorStore:
-    def __init__(self, dsn: str) -> None:
+    def __init__(self, dsn: str, iterative_scan: str = "relaxed_order") -> None:
+        if iterative_scan not in _ITERATIVE_SCAN:
+            raise ValueError(f"iterative_scan {_ITERATIVE_SCAN} değerlerinden biri olmalı")
         self._dsn = dsn
+        self._iterative_scan = iterative_scan
         self._conn = None
 
     def _connection(self):
@@ -69,6 +93,10 @@ class PgVectorStore:
             conn.execute("CREATE EXTENSION IF NOT EXISTS vector")
             register_vector(conn)
             conn.execute(_SCHEMA)
+            try:
+                conn.execute(f"SET hnsw.iterative_scan = {self._iterative_scan}")
+            except psycopg.Error:
+                warnings.warn("hnsw.iterative_scan desteklenmiyor (pgvector >= 0.8.0 gerekir)")
             self._conn = conn
         return self._conn
 
@@ -116,6 +144,7 @@ class PgVectorStore:
         if len(vector) != EMBEDDING_DIM:
             raise ValueError(f"Sorgu vektörü boyutu {len(vector)}; beklenen {EMBEDDING_DIM}")
         where, params = _build_where(filters)
+        where = (where + " AND embedding IS NOT NULL") if where else " WHERE embedding IS NOT NULL"
         sql = (
             "SELECT id, decision_id, section_kind, text, metadata, "
             "1 - (embedding <=> %s::vector) AS score FROM chunks"
@@ -144,4 +173,4 @@ def build(cfg: dict) -> PgVectorStore:
     dsn = os.environ.get(env_name)
     if not dsn:
         raise RuntimeError(f"{env_name} ortam değişkeni tanımlı değil")
-    return PgVectorStore(dsn)
+    return PgVectorStore(dsn, iterative_scan=cfg.get("iterative_scan", "relaxed_order"))

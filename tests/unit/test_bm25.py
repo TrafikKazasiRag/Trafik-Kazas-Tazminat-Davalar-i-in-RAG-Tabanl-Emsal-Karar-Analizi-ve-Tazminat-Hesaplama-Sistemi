@@ -49,3 +49,31 @@ def test_filters_and_top_k():
     only_hukum = index.search("araç sürücü", top_k=5, filters={"section_kind": "hukum"})
     assert [r.chunk.id for r in only_hukum] == ["c2"]
     assert index.search("xyz", top_k=3) == []
+
+
+def test_topics_list_filter():
+    index = bm25.build({})
+    index.add(
+        [
+            Chunk("a", "d1", "hukum", "kaza tazminat", {"topics": ["olum"]}),
+            Chunk("b", "d2", "hukum", "kaza tazminat", {"topics": ["yaralanma", "hasar"]}),
+            Chunk("c", "d3", "hukum", "alakasız metin", {}),
+            Chunk("d", "d4", "hukum", "başka konu", {}),
+            Chunk("e", "d5", "hukum", "farklı içerik", {}),
+            Chunk("f", "d6", "hukum", "bambaşka yazı", {}),
+        ]
+    )
+    assert [r.chunk.id for r in index.search("kaza", 5, filters={"topics": "hasar"})] == ["b"]
+    assert len(index.search("kaza", 5, filters={"topics": ["olum", "hasar"]})) == 2
+
+
+def test_exclude_decision_ids_filter():
+    index = _index()
+    index.add(
+        [
+            Chunk("c4", "d4", "olay", "Kaza araç sürücü", {}),
+            Chunk("c5", "d5", "olay", "trafik başka", {}),
+        ]
+    )
+    results = index.search("kaza", 5, filters={"exclude_decision_ids": ["d3"]})
+    assert [result.chunk.decision_id for result in results] == ["d4"]
