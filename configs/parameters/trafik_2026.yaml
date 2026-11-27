@@ -28,19 +28,23 @@ harc_2026:                    # 31.12.2025 tarih ve 33124 (5. Mükerrer) sayıl�
   pesin_harc_orani_varsayim: 0.25
   bilirkisi_tahmini: 5000.00  # HMK m. 283 / Adalet Bakanlığı Bilirkişilik Tarifesi esaslı mahkeme takdiri (tahmini)
 
-# 04.11.2025 tarih ve 33067 sayılı Resmî Gazete, Türkiye Barolar Birliği Avukatlık Asgari Ücret Tarifesi (Üçüncü Kısım)
-aaut_2026:
-  maktu_alt_sinir: 45000.00   # Asliye Mahkemelerinde takip edilen davalar (İkinci Kısım İkinci Bölüm m. 12)
+# 03.11.2026 tarih ve 33419 sayılı Resmî Gazete, Türkiye Barolar Birliği 2026-2027 Avukatlık Asgari Ücret Tarifesi (Yürürlük: 2026-11-03)
+# Önceki tarife (Yürürlük: 2025-11-04 .. 2026-11-02; 04.11.2025 tarih ve 33067 sayılı Resmî Gazete):
+#   maktu_alt_sinir: 45000.00
+#   dilimler: 600k %16, 600k %15, 1.2M %14, 1.2M %13, 1.8M %11, 2.4M %8, 3.0M %5, 3.6M %3, 4.2M %2, >18.6M %1
+aaut_2026_11_03:
+  yururluk_tarihi: "2026-11-03"
+  maktu_alt_sinir: 62000.00   # Asliye Mahkemelerinde takip edilen davalar (İkinci Kısım İkinci Bölüm m. 12)
   dilimler:
-    - {dilim_tutari: 600000.00, oran: 0.16}
-    - {dilim_tutari: 600000.00, oran: 0.15}
-    - {dilim_tutari: 1200000.00, oran: 0.14}
-    - {dilim_tutari: 1200000.00, oran: 0.13}
-    - {dilim_tutari: 1800000.00, oran: 0.11}
-    - {dilim_tutari: 2400000.00, oran: 0.08}
-    - {dilim_tutari: 3000000.00, oran: 0.05}
-    - {dilim_tutari: 3600000.00, oran: 0.03}
-    - {dilim_tutari: 4200000.00, oran: 0.02}
+    - {dilim_tutari: 800000.00, oran: 0.16}
+    - {dilim_tutari: 800000.00, oran: 0.15}
+    - {dilim_tutari: 1600000.00, oran: 0.14}
+    - {dilim_tutari: 1600000.00, oran: 0.13}
+    - {dilim_tutari: 2400000.00, oran: 0.11}
+    - {dilim_tutari: 3200000.00, oran: 0.08}
+    - {dilim_tutari: 4000000.00, oran: 0.05}
+    - {dilim_tutari: 4800000.00, oran: 0.03}
+    - {dilim_tutari: 5600000.00, oran: 0.02}
     - {dilim_tutari: null, oran: 0.01}
 
 # Her parametrenin doğrulama durumu ve resmî mevzuat dayanağı
@@ -99,6 +103,6 @@ verification:
   harc_2026.bilirkisi_tahmini:
     verified: false
     source: "6100 sayılı HMK m. 283 / Adalet Bakanlığı Bilirkişilik Asgari Ücret Tarifesi esaslı mahkeme takdiri (tahmini değer)"
-  aaut_2026:
+  aaut_2026_11_03:
     verified: true
-    source: "4 Kasım 2025 tarih ve 33067 sayılı Resmî Gazete, Türkiye Barolar Birliği Avukatlık Asgari Ücret Tarifesi (İkinci Kısım İkinci Bölüm m. 12 ve Üçüncü Kısım)"
+    source: "3 Kasım 2026 tarih ve 33419 sayılı Resmî Gazete, Türkiye Barolar Birliği Avukatlık Asgari Ücret Tarifesi (Yürürlük: 03.11.2026; İkinci Kısım İkinci Bölüm m. 12: Asliye Mahkemeleri maktu 62.000,00 TL ve Üçüncü Kısım nispi tarife dilimleri)"

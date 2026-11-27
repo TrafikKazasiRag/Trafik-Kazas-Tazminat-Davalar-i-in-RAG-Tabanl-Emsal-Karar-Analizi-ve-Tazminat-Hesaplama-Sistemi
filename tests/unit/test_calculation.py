@@ -52,7 +52,7 @@ def test_unverified_parameter_warnings():
     assert "parametre harc_2026.bilirkisi_tahmini teyit edilmemiştir" in warnings_unverified[0]
 
     warnings_verified = get_param_warnings(
-        params, ["asgari_ucret.net", "genel_sartlar_2021.iskonto", "aaut_2026"]
+        params, ["asgari_ucret.net", "genel_sartlar_2021.iskonto", "aaut_2026_11_03"]
     )
     assert warnings_verified == []
 
@@ -542,7 +542,8 @@ def test_costs_hand_calculated_with_official_tariffs():
     - Nispi karar ve ilam harcı: 100.000 * 68,31 / 1000 = 6.831,00 TL (Harçlar Kanunu 1 Sayılı Tarife)
     - Peşin harç (1/4): 6.831,00 * 0.25 = 1.707,75 TL (Harçlar Kanunu m. 28/1-a)
     - Bilirkişi ücreti: 5.000,00 TL (tahmini)
-    - AAÜT 2026: 100.000 TL için nispi %16 = 16.000 TL, maktu alt sınır 45.000 TL -> 45.000,00 TL
+    - AAÜT (03.11.2026, RG 33419): 100.000 TL için nispi %16 = 16.000 TL, maktu alt sınır 62.000 TL -> 62.000,00 TL
+    - Toplam karar/yargılama masrafı: 732 + 6.831 + 5.000 + 62.000 = 74.563,00 TL
     """
     params = load_parameters()
     costs = calculate_costs(Decimal("100000.00"), params)
@@ -552,48 +553,53 @@ def test_costs_hand_calculated_with_official_tariffs():
     assert costs["pesin_harc"] == Decimal("1707.75")
     assert costs["bilirkisi_ucreti"] == Decimal("5000.00")
     assert costs["bilirkisi_etiketi"] == "tahmini"
-    assert costs["vekalet_ucreti"] == Decimal("45000.00")
+    assert costs["vekalet_ucreti"] == Decimal("62000.00")
     assert costs["total_upfront_costs"] == Decimal("7439.75")
-    assert costs["total_judgment_costs"] == Decimal("57563.00")
+    assert costs["total_judgment_costs"] == Decimal("74563.00")
     assert any("parametre harc_2026.bilirkisi_tahmini teyit edilmemiştir" in w for w in costs["warnings"])
 
 
 def test_costs_fallback_when_aaut_is_none():
     params = load_parameters()
-    params["aaut_2026"] = None
+    params["aaut_2026_11_03"] = None
     costs = calculate_costs(Decimal("100000.00"), params)
     assert costs["vekalet_ucreti"] is None
     assert any("AAÜT 2026" in w for w in costs["warnings"])
 
 
 def test_costs_higher_claim_amount_progressive_aaut():
-    """1.000.000,00 TL dava değeri için AAÜT 2026 hesabı:
-    - İlk 600.000 TL * %16 = 96.000 TL
-    - Kalan 400.000 TL * %15 = 60.000 TL
-    - Toplam = 156.000,00 TL
+    """1.000.000,00 TL dava değeri için AAÜT (03.11.2026, RG 33419) hesabı:
+    - İlk 800.000 TL * %16 = 128.000,00 TL
+    - Kalan 200.000 TL * %15 = 30.000,00 TL
+    - Toplam = 158.000,00 TL
     """
     params = load_parameters()
     costs = calculate_costs(Decimal("1000000.00"), params)
-    assert costs["vekalet_ucreti"] == Decimal("156000.00")
+    assert costs["vekalet_ucreti"] == Decimal("158000.00")
 
 
-def test_costs_aaut_above_18_6m_final_brackets():
-    """20.000.000,00 TL (> 18,6M TL) dava değeri için AAÜT 2026 tüm dilimlerin elle hesabı:
-    1) İlk 600.000 TL * %16       =  96.000,00 TL (kümülatif: 600.000 TL)
-    2) Sonraki 600.000 TL * %15   =  90.000,00 TL (kümülatif: 1.200.000 TL)
-    3) Sonraki 1.200.000 TL * %14 = 168.000,00 TL (kümülatif: 2.400.000 TL)
-    4) Sonraki 1.200.000 TL * %13 = 156.000,00 TL (kümülatif: 3.600.000 TL)
-    5) Sonraki 1.800.000 TL * %11 = 198.000,00 TL (kümülatif: 5.400.000 TL)
-    6) Sonraki 2.400.000 TL * %8  = 192.000,00 TL (kümülatif: 7.800.000 TL)
-    7) Sonraki 3.000.000 TL * %5  = 150.000,00 TL (kümülatif: 10.800.000 TL)
-    8) Sonraki 3.600.000 TL * %3  = 108.000,00 TL (kümülatif: 14.400.000 TL)
-    9) Sonraki 4.200.000 TL * %2  =  84.000,00 TL (kümülatif: 18.600.000 TL)
-    10) 18.600.000 TL üzeri 1.400.000 TL * %1 = 14.000,00 TL (toplam: 20.000.000 TL)
-    Toplam vekâlet ücreti = 1.242.000,00 + 14.000,00 = 1.256.000,00 TL
+def test_costs_aaut_above_final_brackets():
+    """03.11.2026 tarihli ve 33419 sayılı RG AAÜT yüksek dava değeri ve son dilimlerin elle hesabı:
+    1) İlk 800.000 TL * %16       = 128.000,00 TL (kümülatif:    800.000 TL)
+    2) Sonraki 800.000 TL * %15   = 120.000,00 TL (kümülatif:  1.600.000 TL)
+    3) Sonraki 1.600.000 TL * %14 = 224.000,00 TL (kümülatif:  3.200.000 TL)
+    4) Sonraki 1.600.000 TL * %13 = 208.000,00 TL (kümülatif:  4.800.000 TL)
+    5) Sonraki 2.400.000 TL * %11 = 264.000,00 TL (kümülatif:  7.200.000 TL)
+    6) Sonraki 3.200.000 TL * %8  = 256.000,00 TL (kümülatif: 10.400.000 TL)
+    7) Sonraki 4.000.000 TL * %5  = 200.000,00 TL (kümülatif: 14.400.000 TL)
+    8) Sonraki 4.800.000 TL * %3  = 144.000,00 TL (kümülatif: 19.200.000 TL, ara toplam: 1.544.000,00 TL)
+    - 20.000.000,00 TL dava değeri için:
+      9. dilimden 800.000 TL * %2 = 16.000,00 TL -> Toplam = 1.560.000,00 TL
+    - 26.000.000,00 TL (> 24.800.000 TL) dava değeri için:
+      9) Sonraki 5.600.000 TL * %2 = 112.000,00 TL (kümülatif: 24.800.000 TL, ara toplam: 1.656.000,00 TL)
+      10) 24.800.000 TL üzeri 1.200.000 TL * %1 = 12.000,00 TL -> Toplam = 1.668.000,00 TL
     """
     params = load_parameters()
-    costs = calculate_costs(Decimal("20000000.00"), params)
-    assert costs["vekalet_ucreti"] == Decimal("1256000.00")
+    costs_20m = calculate_costs(Decimal("20000000.00"), params)
+    assert costs_20m["vekalet_ucreti"] == Decimal("1560000.00")
+
+    costs_26m = calculate_costs(Decimal("26000000.00"), params)
+    assert costs_26m["vekalet_ucreti"] == Decimal("1668000.00")
 
 
 def test_calculate_top_level_entry_point_and_deduplicate_warnings():

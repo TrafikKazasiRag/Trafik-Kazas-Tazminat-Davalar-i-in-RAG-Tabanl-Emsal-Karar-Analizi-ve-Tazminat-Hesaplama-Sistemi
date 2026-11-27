@@ -50,12 +50,13 @@ def calculate_costs(
     version = get_parameter_version(params)
     dava_degeri = round_currency(to_decimal(claim_amount))
     warnings: list[str] = []
+    aaut_key = "aaut_2026_11_03" if "aaut_2026_11_03" in params else "aaut_2026"
     used_keys: list[str] = [
         "harc_2026.basvurma",
         "harc_2026.nispi_karar_ilam_binde",
         "harc_2026.pesin_harc",
         "harc_2026.bilirkisi_tahmini",
-        "aaut_2026",
+        aaut_key,
     ]
 
     harc_cfg = params["harc_2026"]
@@ -76,7 +77,7 @@ def calculate_costs(
     bilirkisi_raw = params.get("expert_fee_override", harc_cfg.get("bilirkisi_tahmini", Decimal(0)))
     bilirkisi_ucreti = round_currency(to_decimal(bilirkisi_raw))
 
-    aaut_cfg = params.get("aaut_2026")
+    aaut_cfg = params.get(aaut_key)
     if aaut_cfg is None:
         vekalet_ucreti: Decimal | None = None
         warnings.append(
