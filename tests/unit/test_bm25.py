@@ -69,4 +69,11 @@ def test_topics_list_filter():
 
 def test_exclude_decision_ids_filter():
     index = _index()
-    assert index.search("kaza", 5, filters={"exclude_decision_ids": ["d3"]}) == []
+    index.add(
+        [
+            Chunk("c4", "d4", "olay", "Kaza araç sürücü", {}),
+            Chunk("c5", "d5", "olay", "trafik başka", {}),
+        ]
+    )
+    results = index.search("kaza", 5, filters={"exclude_decision_ids": ["d3"]})
+    assert [result.chunk.decision_id for result in results] == ["d4"]

@@ -13,7 +13,7 @@ DIM = pgvector.EMBEDDING_DIM
 
 
 def _vec(*head: float) -> list[float]:
-    return list(head) + [0.0] * (DIM - len(head))
+    return [float(value) for value in head] + [0.0] * (DIM - len(head))
 
 
 @pytest.fixture

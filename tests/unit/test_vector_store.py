@@ -85,6 +85,7 @@ def test_exclude_decision_ids_filter():
     assert where == " WHERE decision_id != ALL(%s)"
     assert params == [["d1", "d2"]]
     assert pgvector._build_where({"exclude_decision_ids": []}) == ("", [])
+    assert pgvector._build_where({"exclude_decision_ids": None}) == ("", [])
 
 
 def test_pg_schema_has_gin_index_and_iterative_scan_validation():
