@@ -20,6 +20,11 @@ def _matches(chunk: Chunk, filters: dict | None) -> bool:
             if not date or date > str(expected):
                 return False
             continue
+        if key == "exclude_decision_ids":
+            excluded = {str(v) for v in expected} if isinstance(expected, (list, tuple, set)) else {str(expected)}
+            if str(chunk.decision_id) in excluded:
+                return False
+            continue
         if key == "section_kind":
             actual = chunk.section_kind
         elif key == "decision_id":

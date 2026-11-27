@@ -1,9 +1,9 @@
 """pgvector VectorStore. build(cfg) -> VectorStore
 
 Bağlantı adresi ortam değişkeninden okunur (varsayılan: DATABASE_URL).
-Desteklenen filtreler: section_kind, decision_id, date_from / date_to (ISO tarih);
-diğer anahtarlar (örn. court, topics) metadata alanıyla eşleştirilir; alan liste ise
-(topics) değerin listede bulunması yeterlidir, filtre değeri liste ise herhangi biri yeterlidir.
+Desteklenen filtreler: section_kind, decision_id, exclude_decision_ids, date_from / date_to
+(ISO tarih); metadata alanları birebir eşleşir. topics listesi için filtre listesindeki
+değerlerden herhangi biri yeterlidir.
 """
 import json
 import os
@@ -47,25 +47,32 @@ def _build_where(filters: dict | None) -> tuple[str, list]:
             else:
                 clauses.append(f"{key} = %s")
                 params.append(value)
+        elif key == "exclude_decision_ids":
+            excluded = list(value) if isinstance(value, (list, tuple, set)) else [value]
+            if excluded:
+                clauses.append("decision_id != ALL(%s)")
+                params.append(excluded)
         elif key == "date_from":
             clauses.append("metadata->>'date' >= %s")
             params.append(str(value))
         elif key == "date_to":
             clauses.append("metadata->>'date' <= %s")
             params.append(str(value))
-        else:
-            # Skaler alan eşitliği ya da liste değerli alanın (örn. topics) içermesi;
-            # içerme sorgusu (@>) GIN indeksini kullanır.
+        elif key == "topics":
             values = [str(v) for v in value] if isinstance(value, (list, tuple, set)) else [str(value)]
             if not values:
                 clauses.append("FALSE")
                 continue
-            parts = ["metadata->>%s = ANY(%s)"]
-            params.extend([key, values])
-            for v in values:
-                parts.append("metadata @> %s::jsonb")
-                params.append(json.dumps({key: [v]}, ensure_ascii=False))
+            parts = ["metadata @> %s::jsonb" for _ in values]
+            params.extend(json.dumps({key: [v]}, ensure_ascii=False) for v in values)
             clauses.append("(" + " OR ".join(parts) + ")")
+        else:
+            values = [str(v) for v in value] if isinstance(value, (list, tuple, set)) else [str(value)]
+            if not values:
+                clauses.append("FALSE")
+                continue
+            clauses.append("metadata->>%s = ANY(%s)")
+            params.extend([key, values])
     return (" WHERE " + " AND ".join(clauses)) if clauses else "", params
 
 

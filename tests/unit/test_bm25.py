@@ -65,3 +65,8 @@ def test_topics_list_filter():
     )
     assert [r.chunk.id for r in index.search("kaza", 5, filters={"topics": "hasar"})] == ["b"]
     assert len(index.search("kaza", 5, filters={"topics": ["olum", "hasar"]})) == 2
+
+
+def test_exclude_decision_ids_filter():
+    index = _index()
+    assert index.search("kaza", 5, filters={"exclude_decision_ids": ["d3"]}) == []
