@@ -3,7 +3,6 @@ import axios from 'axios';
 import { 
   Calculator, 
   AlertTriangle, 
-  CheckCircle2, 
   Scale, 
   Coins, 
   User, 
@@ -20,10 +19,11 @@ import {
   ArrowRight,
   ShieldAlert,
   FileCheck,
-  ChevronLeft
+  ChevronLeft,
+  Info
 } from 'lucide-react';
 
-const API_BASE_URL = 'http://127.0.0.1:8000';
+const API_BASE_URL = import.meta.env.VITE_API_BASE_URL || 'http://127.0.0.1:8000';
 
 export default function App() {
   const [currentView, setCurrentView] = useState('landing'); // 'landing' | 'calculator'
@@ -33,18 +33,18 @@ export default function App() {
   }, []);
 
   const [formData, setFormData] = useState({
-    accident_type: 'kavsak_ihlali',
+    accident_type: '',
     victim_role: 'surucu',
     seatbelt_or_helmet: true,
-    non_pecuniary_claim: 50000,
-    age: 30,
+    non_pecuniary_claim: '',
+    age: '',
     gender: 'E',
-    disability_rate: 15,
-    monthly_income: 35000,
+    disability_rate: '',
+    monthly_income: '',
     income_basis: 'net',
-    plaintiff_fault: 0,
-    temporary_incapacity_months: 3,
-    accident_date: new Date().toISOString().split('T')[0],
+    plaintiff_fault: '',
+    temporary_incapacity_months: '',
+    accident_date: '',
   });
 
   const [loading, setLoading] = useState(false);
@@ -76,24 +76,30 @@ export default function App() {
     setError(null);
 
     const payload = {
-      ...formData,
+      accident_type: formData.accident_type || null,
+      victim_role: formData.victim_role || null,
       seatbelt_or_helmet: formData.victim_role === 'yaya' ? true : formData.seatbelt_or_helmet,
-      age: Number(formData.age),
-      monthly_income: Number(formData.monthly_income),
-      non_pecuniary_claim: Number(formData.non_pecuniary_claim || 0),
-      disability_rate: Number(formData.disability_rate) / 100,
-      plaintiff_fault: Number(formData.plaintiff_fault) / 100,
-      temporary_incapacity_months: Number(formData.temporary_incapacity_months),
+      age: formData.age === '' ? null : Number(formData.age),
+      gender: formData.gender || null,
+      monthly_income: formData.monthly_income === '' ? null : Number(formData.monthly_income),
+      income_basis: formData.income_basis || null,
+      non_pecuniary_claim: formData.non_pecuniary_claim === '' ? null : Number(formData.non_pecuniary_claim),
+      disability_rate: formData.disability_rate === '' ? null : Number(formData.disability_rate) / 100,
+      plaintiff_fault: formData.plaintiff_fault === '' ? null : Number(formData.plaintiff_fault) / 100,
+      temporary_incapacity_months: formData.temporary_incapacity_months === '' ? null : Number(formData.temporary_incapacity_months),
+      accident_date: formData.accident_date || null,
     };
 
     try {
-      const response = await axios.post(`${API_BASE_URL}/api/analyze/`, payload);
+      const response = await axios.post(`${API_BASE_URL}/api/analyze`, payload);
       setResult(response.data);
     } catch (err) {
       console.error(err);
+      const detail = err.response?.data?.detail;
       setError(
-        err.response?.data?.detail || 
-        'Hesaplama servisine bağlanırken bir sorun oluştu. Lütfen bağlantınızı kontrol edin.'
+        Array.isArray(detail)
+          ? detail.map((d) => d.msg).join(', ')
+          : detail || 'Hesaplama servisine bağlanırken bir sorun oluştu. Lütfen bağlantınızı kontrol edin.'
       );
     } finally {
       setLoading(false);
@@ -145,7 +151,7 @@ export default function App() {
             border: 1px solid #94a3b8 !important;
           }
         }
-          @keyframes pulseGlow {
+        @keyframes pulseGlow {
           0%, 100% { opacity: 0.4; transform: scale(1); }
           50% { opacity: 0.7; transform: scale(1.05); }
         }
@@ -168,20 +174,19 @@ export default function App() {
         }
       `}</style>
 
-      {/* Header - Kurumsal ve Sade */}
+      {/* Header */}
       <header className="border-b border-slate-800/80 bg-slate-900/60 backdrop-blur sticky top-0 z-50 no-print">
-        {/* Yalnızca Hesaplama Ekranındayken Sol Üstte Çıkan Zarif Geri Dönüş Butonu */}
-      {currentView === 'calculator' && (
-        <div className="w-full max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-6 no-print">
-          <button
-            onClick={() => setCurrentView('landing')}
-            className="inline-flex items-center space-x-2 text-xs font-medium text-slate-400 hover:text-white bg-slate-900/80 hover:bg-slate-800 border border-slate-800 px-3.5 py-2 rounded-lg transition-colors cursor-pointer"
-          >
-            <ChevronLeft className="w-4 h-4" />
-            <span>Ana Sayfa</span>
-          </button>
-        </div>
-      )}
+        {currentView === 'calculator' && (
+          <div className="w-full max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-6 no-print">
+            <button
+              onClick={() => setCurrentView('landing')}
+              className="inline-flex items-center space-x-2 text-xs font-medium text-slate-400 hover:text-white bg-slate-900/80 hover:bg-slate-800 border border-slate-800 px-3.5 py-2 rounded-lg transition-colors cursor-pointer"
+            >
+              <ChevronLeft className="w-4 h-4" />
+              <span>Ana Sayfa</span>
+            </button>
+          </div>
+        )}
       </header>
 
       {/* Yazdırıldığında Gözüken Başlık */}
@@ -202,23 +207,17 @@ export default function App() {
         </div>
       </div>
 
-      {/* GÖRÜNÜM 1: DÜZELTİLMİŞ (FERAH MOBİL UYUMLU) GİRİŞ SAYFASI */}
+      {/* GÖRÜNÜM 1: GİRİŞ SAYFASI */}
       {currentView === 'landing' && (
         <div className="relative flex-1 flex flex-col justify-start sm:justify-center items-center px-6 sm:px-8 pt-16 sm:pt-20 pb-24 max-w-5xl mx-auto text-center space-y-12 sm:space-y-16 no-print landing-fade-in">
-          
-          {/* Arka Plan Ortam Işıkları (Glow) - Mobilde küçültüldü */}
           <div className="absolute top-1/4 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[300px] sm:w-[500px] h-[250px] sm:h-[300px] bg-gradient-to-tr from-emerald-600/20 via-teal-500/10 to-indigo-600/25 blur-[90px] sm:blur-[120px] pointer-events-none rounded-full animate-pulse-glow -z-10" />
 
-          {/* Hero Başlık ve Rozet (Araları açıldı) */}
           <div className="space-y-7 sm:space-y-8 max-w-3xl relative pt-4">
-            
-            {/* Rozet (Mobilde daha zarif) */}
             <div className="inline-flex items-center space-x-2 px-4 py-2 rounded-full text-[10px] sm:text-xs font-medium bg-emerald-500/10 text-emerald-400 border border-emerald-500/30 backdrop-blur-md shadow-[0_0_20px_-3px_rgba(16,185,129,0.3)] hover:border-emerald-400/50 transition-all cursor-default animate-float">
               <span className="w-1.5 h-1.5 sm:w-2 sm:h-2 rounded-full bg-emerald-400 animate-ping" />
               <span>Yargıtay İçtihatları ve 2026 Aktüerya Standartları</span>
             </div>
 
-            {/* Başlık (Mobilde daha dengeli kırılım) */}
             <h2 className="text-3xl sm:text-5xl lg:text-6xl font-black tracking-tight text-white leading-[1.35] sm:leading-[1.25] px-2 sm:px-0">
               Trafik Kazası Tazminatınızı ve <br className="hidden sm:block" />
               <span className="text-transparent bg-clip-text bg-gradient-to-r from-emerald-400 via-teal-200 to-indigo-400 drop-shadow-[0_0_35px_rgba(16,185,129,0.25)]">
@@ -228,13 +227,11 @@ export default function App() {
               Saniyeler İçinde Görün
             </h2>
 
-            {/* Paragraf (Kenar boşlukları eklenerek nefes aldırıldı) */}
             <p className="text-sm sm:text-base text-slate-300/90 max-w-2xl mx-auto leading-relaxed px-4 sm:px-0">
               Resmi <strong className="text-slate-100 font-semibold">TRH-2010</strong> yaşam tablolarıyla bakiye ömürdeki alacağınızı kuruşu kuruşuna hesaplayın; harçlar ve karşı vekâlet risklerini <strong className="text-emerald-400 font-semibold">Net Beklenen Değer (EV)</strong> karnesiyle anında görün.
             </p>
           </div>
 
-          {/* Aksiyon Butonu (Mobilde tek satır ve orantılı) */}
           <div className="relative group pt-2 w-full sm:w-auto px-4 sm:px-0">
             <div className="absolute -inset-1 bg-gradient-to-r from-emerald-500 via-teal-500 to-indigo-600 rounded-2xl blur-md sm:blur-lg opacity-40 group-hover:opacity-85 transition duration-500 group-hover:duration-200" />
             
@@ -253,10 +250,7 @@ export default function App() {
             </p>
           </div>
 
-          {/* 3 Cam Görünümlü Kart */}
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 w-full text-left pt-4 px-2 sm:px-0">
-            
-            {/* Kart 1: Aktüerya */}
             <div className="group relative bg-slate-900/40 hover:bg-slate-900/80 backdrop-blur-xl border border-slate-800/80 hover:border-indigo-500/50 rounded-2xl p-6 transition-all duration-300 hover:-translate-y-1.5 hover:shadow-[0_15px_30px_-10px_rgba(99,102,241,0.2)]">
               <div className="w-10 h-10 rounded-xl bg-indigo-500/10 border border-indigo-500/20 flex items-center justify-center text-indigo-400 mb-4 group-hover:scale-110 group-hover:bg-indigo-500/20 transition-all">
                 <FileCheck className="w-5 h-5" />
@@ -269,7 +263,6 @@ export default function App() {
               </p>
             </div>
 
-            {/* Kart 2: Risk / Getiri */}
             <div className="group relative bg-slate-900/40 hover:bg-slate-900/80 backdrop-blur-xl border border-slate-800/80 hover:border-emerald-500/50 rounded-2xl p-6 transition-all duration-300 hover:-translate-y-1.5 hover:shadow-[0_15px_30px_-10px_rgba(16,185,129,0.2)]">
               <div className="w-10 h-10 rounded-xl bg-emerald-500/10 border border-emerald-500/20 flex items-center justify-center text-emerald-400 mb-4 group-hover:scale-110 group-hover:bg-emerald-500/20 transition-all">
                 <TrendingUp className="w-5 h-5" />
@@ -282,7 +275,6 @@ export default function App() {
               </p>
             </div>
 
-            {/* Kart 3: Resmi PDF Rapor Çıktısı */}
             <div className="group relative bg-slate-900/40 hover:bg-slate-900/80 backdrop-blur-xl border border-slate-800/80 hover:border-amber-500/50 rounded-2xl p-6 transition-all duration-300 hover:-translate-y-1.5 hover:shadow-[0_15px_30px_-10px_rgba(245,158,11,0.2)]">
               <div className="w-10 h-10 rounded-xl bg-amber-500/10 border border-amber-500/20 flex items-center justify-center text-amber-400 mb-4 group-hover:scale-110 group-hover:bg-amber-500/20 transition-all">
                 <Printer className="w-5 h-5" />
@@ -294,7 +286,6 @@ export default function App() {
                 Hesaplama sonucunu avukatınızla veya sigorta şirketiyle doğrudan paylaşabileceğiniz A4 formatında indirin.
               </p>
             </div>
-
           </div>
         </div>
       )}
@@ -316,7 +307,7 @@ export default function App() {
                 {/* Kaza Oluş Tipi */}
                 <div>
                   <label className="block text-xs font-medium text-slate-300 mb-1 flex items-center gap-1.5">
-                    <Car className="w-3.5 h-3.5 text-indigo-400" /> Kaza Oluş Tipi (Emsal Eşleştirme)
+                    <Car className="w-3.5 h-3.5 text-indigo-400" /> Kaza Oluş Tipi
                   </label>
                   <select
                     name="accident_type"
@@ -324,11 +315,12 @@ export default function App() {
                     onChange={handleChange}
                     className="w-full bg-slate-800 border border-slate-700 rounded-lg px-3 py-2 text-sm text-slate-200 focus:outline-none focus:border-indigo-500"
                   >
-                    <option value="kavsak_ihlali">Kavşakta Geçiş Önceliği İhlali</option>
-                    <option value="kirmizi_isik">Kırmızı Işık İhlali</option>
-                    <option value="arkadan_carpma">Trafikte Arkadan Çarpma</option>
-                    <option value="yayaya_carpma">Yaya Geçidi / Yayaya Çarpma</option>
-                    <option value="serit_ihlali">Hatalı Sollama / Şerit İhlali</option>
+                    <option value="">Seçiniz (Opsiyonel)</option>
+                    <option value="carpisma">Araçların Çarpışması</option>
+                    <option value="yaya_carpmasi">Yayaya Çarpma</option>
+                    <option value="tek_tarafli">Tek Taraflı Kaza</option>
+                    <option value="park_halindeki_arac">Park Halindeki Araca Çarpma</option>
+                    <option value="diger">Diğer</option>
                   </select>
                 </div>
 
@@ -374,7 +366,6 @@ export default function App() {
                       name="accident_date"
                       value={formData.accident_date}
                       onChange={handleChange}
-                      required
                       className="w-full bg-slate-800 border border-slate-700 rounded-lg px-3 py-2 text-sm text-slate-200 focus:outline-none focus:border-indigo-500"
                     />
                   </div>
@@ -384,10 +375,10 @@ export default function App() {
                       type="number"
                       name="age"
                       min="0"
-                      max="100"
+                      max="120"
+                      placeholder="Örn: 30"
                       value={formData.age}
                       onChange={handleChange}
-                      required
                       className="w-full bg-slate-800 border border-slate-700 rounded-lg px-3 py-2 text-sm text-slate-200 focus:outline-none focus:border-indigo-500"
                     />
                   </div>
@@ -405,9 +396,9 @@ export default function App() {
                       min="0"
                       max="100"
                       step="0.1"
+                      placeholder="Örn: 15"
                       value={formData.disability_rate}
                       onChange={handleChange}
-                      required
                       className="w-full bg-slate-800 border border-slate-700 rounded-lg px-3 py-2 text-sm text-slate-200 focus:outline-none focus:border-indigo-500"
                     />
                   </div>
@@ -421,9 +412,9 @@ export default function App() {
                       min="0"
                       max="100"
                       step="5"
+                      placeholder="Örn: 0"
                       value={formData.plaintiff_fault}
                       onChange={handleChange}
-                      required
                       className="w-full bg-slate-800 border border-slate-700 rounded-lg px-3 py-2 text-sm text-slate-200 focus:outline-none focus:border-indigo-500"
                     />
                   </div>
@@ -440,9 +431,9 @@ export default function App() {
                       name="monthly_income"
                       min="0"
                       step="500"
+                      placeholder="Örn: 35000"
                       value={formData.monthly_income}
                       onChange={handleChange}
-                      required
                       className="w-full bg-slate-800 border border-slate-700 rounded-lg px-3 py-2 text-sm text-slate-200 focus:outline-none focus:border-indigo-500"
                     />
                   </div>
@@ -473,9 +464,9 @@ export default function App() {
                       name="temporary_incapacity_months"
                       min="0"
                       max="48"
+                      placeholder="Örn: 3"
                       value={formData.temporary_incapacity_months}
                       onChange={handleChange}
-                      required
                       className="w-full bg-slate-800 border border-slate-700 rounded-lg px-3 py-2 text-sm text-slate-200 focus:outline-none focus:border-indigo-500"
                     />
                   </div>
@@ -488,6 +479,7 @@ export default function App() {
                       name="non_pecuniary_claim"
                       min="0"
                       step="5000"
+                      placeholder="Örn: 50000"
                       value={formData.non_pecuniary_claim}
                       onChange={handleChange}
                       className="w-full bg-slate-800 border border-slate-700 rounded-lg px-3 py-2 text-sm text-slate-200 focus:outline-none focus:border-indigo-500"
@@ -508,7 +500,7 @@ export default function App() {
                     />
                     <label htmlFor="seatbelt_or_helmet" className="text-xs text-slate-300 flex items-center gap-1.5 cursor-pointer">
                       <ShieldCheck className="w-3.5 h-3.5 text-emerald-400" />
-                      Emniyet Kemeri / Kask Takılıydı (Müterafik Kusur Yok)
+                      Emniyet Kemeri / Kask Takılıydı
                     </label>
                   </div>
                 )}
@@ -524,7 +516,7 @@ export default function App() {
                   ) : (
                     <>
                       <TrendingUp className="w-4 h-4" />
-                      <span>Dava Risk & Tazminat Analizi Yap</span>
+                      <span>Tazminat Hesaplaması Yap</span>
                     </>
                   )}
                 </button>
@@ -548,18 +540,18 @@ export default function App() {
                   <Scale className="w-12 h-12 mx-auto stroke-1 text-slate-600 mb-3" />
                   <h3 className="text-sm font-medium text-slate-300">Henüz Analiz Başlatılmadı</h3>
                   <p className="text-xs text-slate-500 max-w-sm mx-auto mt-1">
-                    Sol paneldeki kaza parametrelerini belirleyip "Dava Risk & Tazminat Analizi Yap" butonuna tıklayın.
+                    Sol paneldeki kaza parametrelerini belirleyip "Tazminat Hesaplaması Yap" butonuna tıklayın.
                   </p>
                 </div>
               )}
 
-              {result && risk && comp && (
+              {result && comp && (
                 <>
                   {/* PDF İndir / Yazdır Butonu Çubuğu */}
                   <div className="flex items-center justify-between bg-slate-900 border border-slate-800 rounded-xl p-3 px-4 shadow-lg no-print">
                     <div className="flex items-center space-x-2 text-xs text-slate-300">
                       <span className="w-2 h-2 rounded-full bg-emerald-400 animate-pulse" />
-                      <span>Analiz hazırlandı. Rapor çıktısını alabilirsiniz.</span>
+                      <span>Hesaplama hazırlandı. Rapor çıktısını alabilirsiniz.</span>
                     </div>
                     <button
                       onClick={handlePrint}
@@ -570,75 +562,54 @@ export default function App() {
                     </button>
                   </div>
 
-                  {/* 1. DAVA AÇMAYA DEĞER Mİ? KARAR KARNESİ */}
-                  <div className="bg-gradient-to-r from-emerald-950/40 via-slate-900 to-indigo-950/30 border border-emerald-500/30 rounded-xl p-6 shadow-2xl relative overflow-hidden print-card">
-                    <div className="flex items-center justify-between pb-3 border-b border-slate-800 print:border-slate-300">
-                      <span className="text-xs font-bold tracking-wider text-emerald-400 print:text-emerald-700 uppercase flex items-center gap-1.5">
-                        <Sparkles className="w-4 h-4 no-print" /> Dava Açmaya Değer mi? (Risk / Getiri Karnesi)
-                      </span>
-                      <span className="text-xs px-2.5 py-0.5 rounded-full font-semibold bg-emerald-500/20 text-emerald-300 border border-emerald-500/30 print-badge">
-                        {risk.recommendation}
-                      </span>
-                    </div>
-
-                    <div className="grid grid-cols-1 sm:grid-cols-3 gap-4 mt-4">
-                      <div className="bg-slate-800/50 p-3 rounded-lg border border-slate-800 print-card">
-                        <span className="text-slate-400 print-text-muted text-xs block">Tahmini Kazanma Şansı</span>
-                        <span className="text-2xl font-black text-emerald-400 print:text-emerald-700 mt-1 block">
-                          {risk.win_probability}
-                        </span>
+                  {/* EKSİK / VARSAYILAN BİLGİ UYARILARI */}
+                  {warnings.length > 0 && (
+                    <div className="bg-amber-950/30 border border-amber-700/50 rounded-xl p-4 space-y-2 print-card">
+                      <div className="flex items-center space-x-2 text-amber-400 print:text-amber-800">
+                        <AlertTriangle className="w-4 h-4 shrink-0" />
+                        <h3 className="text-xs font-bold uppercase tracking-wider">
+                          Eksik / Varsayılan Bilgi Uyarıları
+                        </h3>
                       </div>
-
-                      <div className="bg-slate-800/50 p-3 rounded-lg border border-slate-800 print-card">
-                        <span className="text-slate-400 print-text-muted text-xs block">Beklenen Değer (EV)</span>
-                        <span className="text-2xl font-black text-white print-text-dark mt-1 block">
-                          {Number(risk.expected_value).toLocaleString('tr-TR', { minimumFractionDigits: 2 })} TL
-                        </span>
-                      </div>
-
-                      <div className="bg-slate-800/50 p-3 rounded-lg border border-slate-800 print-card">
-                        <span className="text-slate-400 print-text-muted text-xs block">Kaybetme Riski (Karşı Vekalet)</span>
-                        <span className="text-xl font-bold text-rose-400 print:text-rose-700 mt-1 block">
-                          -{Number(risk.estimated_counter_attorney_fee).toLocaleString('tr-TR', { minimumFractionDigits: 2 })} TL
-                        </span>
-                      </div>
+                      <ul className="space-y-1 text-xs text-amber-200/90 print-text-dark">
+                        {warnings.map((w, idx) => (
+                          <li key={idx} className="flex items-start gap-2">
+                            <span className="text-amber-400">•</span>
+                            <span>{w}</span>
+                          </li>
+                        ))}
+                      </ul>
                     </div>
+                  )}
 
-                    <div className="mt-4 p-3 bg-emerald-950/30 border border-emerald-800/30 rounded-lg flex items-start space-x-2 text-xs text-emerald-200 print:bg-emerald-50 print:text-emerald-900 print:border-emerald-300">
-                      <CheckCircle2 className="w-4 h-4 text-emerald-400 print:text-emerald-700 shrink-0 mt-0.5" />
-                      <span>{risk.recommendation_note}</span>
-                    </div>
-                  </div>
-
-                  {/* 2. NET TAZMİNAT TUTARI KARTI */}
+                  {/* 1. NET TAZMİNAT TUTARI KARTI */}
                   <div className="bg-slate-900 border border-slate-800 rounded-xl p-5 shadow-xl print-card">
                     <div className="flex items-center justify-between pb-3 border-b border-slate-800 print:border-slate-300">
                       <span className="text-xs font-semibold tracking-wider text-slate-400 print-text-muted uppercase">
                         Talep Edilebilir Net Maddi Tazminat
                       </span>
-                      <span className="text-xs px-2 py-0.5 rounded bg-indigo-500/10 text-indigo-300 border border-indigo-500/20 print-badge">
-                        {comp.rule_version}
-                      </span>
+                      {comp.rule_version && (
+                        <span className="text-xs px-2 py-0.5 rounded bg-indigo-500/10 text-indigo-300 border border-indigo-500/20 print-badge">
+                          {comp.rule_version}
+                        </span>
+                      )}
                     </div>
                     <div className="mt-3">
                       <div className="text-3xl font-extrabold tracking-tight text-white print-text-dark">
-                        {Number(comp.net_total).toLocaleString('tr-TR', { minimumFractionDigits: 2 })} TL
+                        {Number(comp.net_total || 0).toLocaleString('tr-TR', { minimumFractionDigits: 2 })} TL
                       </div>
                       <div className="flex flex-wrap gap-x-4 text-xs text-slate-400 print-text-muted mt-2">
                         <span>Kalıcı Sakatlık: <strong className="text-slate-200 print-text-dark">{Number(comp.items?.permanent_disability?.amount || 0).toLocaleString('tr-TR')} TL</strong></span>
                         <span>Geçici İş Göremezlik: <strong className="text-slate-200 print-text-dark">{Number(comp.items?.temporary_disability?.amount || 0).toLocaleString('tr-TR')} TL</strong></span>
-                        {comp.non_pecuniary_claim && (
-                          <span>Manevi Talep: <strong className="text-amber-300 print:text-amber-800">{Number(comp.non_pecuniary_claim).toLocaleString('tr-TR')} TL</strong></span>
-                        )}
                       </div>
                     </div>
                   </div>
 
-                  {/* 3. MASRAFLAR VE AÇILIŞ GİDERLERİ */}
+                  {/* 2. MASRAFLAR VE AÇILIŞ GİDERLERİ */}
                   {costs && (
                     <div className="bg-slate-900 border border-slate-800 rounded-xl p-5 print-card">
                       <h3 className="text-xs font-bold text-slate-300 print-text-dark uppercase tracking-wider mb-3 flex items-center gap-1.5">
-                        <Coins className="w-4 h-4 text-amber-400 no-print" /> Dava Açılış Masrafları ve Harçlar (2026)
+                        <Coins className="w-4 h-4 text-amber-400 no-print" /> Dava Açılış Masrafları ve Harçlar
                       </h3>
                       <div className="grid grid-cols-3 gap-3 text-xs">
                         <div className="bg-slate-800/40 p-2.5 rounded border border-slate-800 print-card">
@@ -657,21 +628,38 @@ export default function App() {
                     </div>
                   )}
 
+                  {/* 3. DAVA RİSK DEĞERLENDİRMESİ */}
+                  <div className="bg-slate-900 border border-slate-800 rounded-xl p-5 shadow-xl print-card">
+                    <div className="flex items-center justify-between pb-3 border-b border-slate-800 print:border-slate-300">
+                      <span className="text-xs font-bold tracking-wider text-slate-300 print-text-dark uppercase flex items-center gap-1.5">
+                        <Sparkles className="w-4 h-4 text-indigo-400 no-print" /> Dava Risk ve Beklenen Değer Analizi
+                      </span>
+                    </div>
+                    {typeof risk === 'string' || !risk || risk === 'henüz hesaplanmıyor' ? (
+                      <div className="mt-3 flex items-center space-x-2 text-xs text-slate-400 print-text-muted bg-slate-800/40 border border-slate-800 rounded-lg p-3.5">
+                        <Info className="w-4 h-4 text-slate-500 shrink-0" />
+                        <span>Dava risk ve beklenen değer analizi henüz hesaplanmıyor; emsal karar dağılımı bağlandığında aktif edilecektir.</span>
+                      </div>
+                    ) : null}
+                  </div>
+
                   {/* 4. EMSAL YARGITAY KARARLARI (RAG ATIFLARI) */}
-                  {result?.precedent_citations && result.precedent_citations.length > 0 && (
-                    <div className="bg-slate-900 border border-slate-800 rounded-xl p-5 shadow-xl space-y-4 print-card">
-                      <div className="flex items-center justify-between pb-3 border-b border-slate-800 print:border-slate-300">
-                        <div className="flex items-center space-x-2">
-                          <BookOpen className="w-4 h-4 text-indigo-400 no-print" />
-                          <h3 className="text-xs font-bold text-slate-200 print-text-dark uppercase tracking-wider">
-                            Emsal Yargıtay Kararları (RAG Atıfları)
-                          </h3>
-                        </div>
+                  <div className="bg-slate-900 border border-slate-800 rounded-xl p-5 shadow-xl space-y-4 print-card">
+                    <div className="flex items-center justify-between pb-3 border-b border-slate-800 print:border-slate-300">
+                      <div className="flex items-center space-x-2">
+                        <BookOpen className="w-4 h-4 text-indigo-400 no-print" />
+                        <h3 className="text-xs font-bold text-slate-200 print-text-dark uppercase tracking-wider">
+                          Emsal Yargıtay Kararları (RAG Atıfları)
+                        </h3>
+                      </div>
+                      {result?.precedent_citations?.length > 0 && (
                         <span className="text-[11px] text-slate-400 bg-slate-800 px-2.5 py-0.5 rounded-full border border-slate-700 print-badge">
                           {result.precedent_citations.length} Emsal Karar Dayanağı
                         </span>
-                      </div>
+                      )}
+                    </div>
 
+                    {result?.precedent_citations && result.precedent_citations.length > 0 ? (
                       <div className="space-y-3">
                         {result.precedent_citations.map((item, idx) => (
                           <div 
@@ -707,8 +695,13 @@ export default function App() {
                           </div>
                         ))}
                       </div>
-                    </div>
-                  )}
+                    ) : (
+                      <div className="flex items-center space-x-2 text-xs text-slate-400 print-text-muted bg-slate-800/40 border border-slate-800 rounded-lg p-3.5">
+                        <Info className="w-4 h-4 text-slate-500 shrink-0" />
+                        <span>Emsal karar analizi henüz bağlı değildir.</span>
+                      </div>
+                    )}
+                  </div>
 
                   {/* 5. YASAL BİLGİLENDİRME VE FERAGATNAME */}
                   <div className="bg-slate-900/80 border border-slate-800 rounded-xl p-5 shadow-lg space-y-3 print-card">
@@ -719,28 +712,15 @@ export default function App() {
                       </h4>
                     </div>
 
-                    {warnings.filter(w => !w.toLowerCase().includes('parametre') && !w.toLowerCase().includes('csv') && !w.toLowerCase().includes('teyit')).length > 0 && (
-                      <div className="space-y-1.5 pb-2">
-                        {warnings
-                          .filter(w => !w.toLowerCase().includes('parametre') && !w.toLowerCase().includes('csv') && !w.toLowerCase().includes('teyit'))
-                          .map((w, idx) => (
-                            <div key={idx} className="flex items-start gap-2 text-xs text-amber-200/90 print-text-dark bg-amber-950/20 border border-amber-800/30 p-2.5 rounded-lg">
-                              <span className="text-amber-400">•</span>
-                              <span>{w}</span>
-                            </div>
-                          ))}
-                      </div>
-                    )}
-
                     <div className="text-[11px] text-slate-400 print-text-muted leading-relaxed space-y-1.5">
                       <p>
-                        • <strong>Bağlayıcılık İçermez:</strong> Bu ekranda sunulan tazminat tutarları, masraf tahminleri ve dava kazanma olasılığı genel aktüeryal formüller ile Yargıtay uygulamaları üzerinden üretilmiş <em>tahmini bir ön değerlendirme simülasyonudur</em>.
+                        - <strong>Bağlayıcılık İçermez:</strong> Bu ekranda sunulan tazminat tutarları ve masraf tahminleri genel aktüeryal formüller üzerinden üretilmiş <em>tahmini bir ön değerlendirme simülasyonudur</em>.
                       </p>
                       <p>
-                        • <strong>Garanti veya Hukuki Tavsiye Değildir:</strong> Sistemdeki sonuçlar mahkeme nezdinde kesin bir hak veya parasal garanti teşkil etmez; doğrudan avukatlık veya resmi bilirkişi mütalaası niteliğinde değildir.
+                        - <strong>Garanti veya Hukuki Tavsiye Değildir:</strong> Sistemdeki sonuçlar mahkeme nezdinde kesin bir hak veya parasal garanti teşkil etmez; doğrudan avukatlık veya resmi bilirkişi mütalaası niteliğinde değildir.
                       </p>
                       <p>
-                        • <strong>Nihai Karar:</strong> Tazminat tutarı ve kusur dağılımı, açılacak davada mahkemece tayin edilecek bilirkişi heyeti ve Adli Tıp Kurumu'nun düzenleyeceği nihai sağlık raporuyla kesinleşecektir.
+                        - <strong>Nihai Karar:</strong> Tazminat tutarı ve kusur dağılımı, açılacak davada mahkemece tayin edilecek bilirkişi heyeti ve Adli Tıp Kurumu'nun düzenleyeceği nihai sağlık raporuyla kesinleşecektir.
                       </p>
                     </div>
                   </div>
