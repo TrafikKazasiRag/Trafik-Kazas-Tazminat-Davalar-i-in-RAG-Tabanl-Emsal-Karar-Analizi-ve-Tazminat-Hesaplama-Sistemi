@@ -1,47 +1,66 @@
 import React, { useState, useEffect } from 'react';
 import axios from 'axios';
-import { 
-  Calculator, 
-  AlertTriangle, 
-  Scale, 
-  Coins, 
-  User, 
-  Calendar, 
-  Percent, 
-  Briefcase, 
-  TrendingUp, 
-  Sparkles, 
-  BookOpen, 
-  ExternalLink, 
-  Printer, 
-  ShieldCheck, 
-  Car,
-  ArrowRight,
-  ShieldAlert,
-  FileCheck,
-  ChevronLeft,
-  Info
-} from 'lucide-react';
 
 const API_BASE_URL = import.meta.env.VITE_API_BASE_URL || 'http://127.0.0.1:8000';
+
+const ACCIDENT_TYPE_LABELS = {
+  carpisma: 'Araçların Çarpışması',
+  yaya_carpmasi: 'Yayaya Çarpma',
+  tek_tarafli: 'Tek Taraflı Kaza',
+  park_halindeki_arac: 'Park Halindeki Araca Çarpma',
+  diger: 'Diğer',
+};
+
+const VICTIM_ROLE_LABELS = {
+  surucu: 'Sürücü',
+  yolcu: 'Yolcu (Araç İçi)',
+  yaya: 'Yaya',
+};
+
+const GENDER_LABELS = {
+  E: 'Erkek',
+  K: 'Kadın',
+};
+
+const INCOME_BASIS_LABELS = {
+  net: 'Net Gelir',
+  brut: 'Brüt Gelir',
+};
+
+function formatCurrencyTR(value) {
+  if (value === null || value === undefined || value === '' || Number.isNaN(Number(value))) {
+    return '—';
+  }
+  return `${Number(value).toLocaleString('tr-TR', {
+    minimumFractionDigits: 2,
+    maximumFractionDigits: 2,
+  })} TL`;
+}
+
+function formatDateTR(isoDate) {
+  if (!isoDate || typeof isoDate !== 'string') return 'Belirtilmedi';
+  const parts = isoDate.split('-');
+  if (parts.length !== 3) return isoDate;
+  return `${parts[2]}.${parts[1]}.${parts[0]}`;
+}
 
 export default function App() {
   const [currentView, setCurrentView] = useState('landing'); // 'landing' | 'calculator'
 
   useEffect(() => {
-    document.title = "Trafik RAG";
+    document.title = 'Trafik Kazası Tazminat Hesaplama';
   }, []);
 
   const [formData, setFormData] = useState({
     accident_type: '',
-    victim_role: 'surucu',
-    seatbelt_or_helmet: true,
+    victim_role: '',
+    seatbelt_or_helmet: '',
     non_pecuniary_claim: '',
     age: '',
-    gender: 'E',
+    gender: '',
     disability_rate: '',
     monthly_income: '',
-    income_basis: 'net',
+    income_basis: '',
     plaintiff_fault: '',
     temporary_incapacity_months: '',
     accident_date: '',
@@ -52,21 +71,20 @@ export default function App() {
   const [error, setError] = useState(null);
 
   const handleChange = (e) => {
-    const { name, value, type, checked } = e.target;
-    
-    // Yaya seçilirse kemer/kask kısıtlamasını otomatik true yap
+    const { name, value } = e.target;
+
     if (name === 'victim_role' && value === 'yaya') {
       setFormData((prev) => ({
         ...prev,
         victim_role: value,
-        seatbelt_or_helmet: true,
+        seatbelt_or_helmet: '',
       }));
       return;
     }
 
     setFormData((prev) => ({
       ...prev,
-      [name]: type === 'checkbox' ? checked : (type === 'number' ? (value === '' ? '' : Number(value)) : value),
+      [name]: value,
     }));
   };
 
@@ -75,18 +93,29 @@ export default function App() {
     setLoading(true);
     setError(null);
 
+    let seatbeltVal = null;
+    if (formData.victim_role !== 'yaya' && formData.seatbelt_or_helmet !== '') {
+      seatbeltVal = formData.seatbelt_or_helmet === 'true';
+    }
+
     const payload = {
       accident_type: formData.accident_type || null,
       victim_role: formData.victim_role || null,
-      seatbelt_or_helmet: formData.victim_role === 'yaya' ? true : formData.seatbelt_or_helmet,
+      seatbelt_or_helmet: seatbeltVal,
       age: formData.age === '' ? null : Number(formData.age),
       gender: formData.gender || null,
       monthly_income: formData.monthly_income === '' ? null : Number(formData.monthly_income),
       income_basis: formData.income_basis || null,
-      non_pecuniary_claim: formData.non_pecuniary_claim === '' ? null : Number(formData.non_pecuniary_claim),
-      disability_rate: formData.disability_rate === '' ? null : Number(formData.disability_rate) / 100,
-      plaintiff_fault: formData.plaintiff_fault === '' ? null : Number(formData.plaintiff_fault) / 100,
-      temporary_incapacity_months: formData.temporary_incapacity_months === '' ? null : Number(formData.temporary_incapacity_months),
+      non_pecuniary_claim:
+        formData.non_pecuniary_claim === '' ? null : Number(formData.non_pecuniary_claim),
+      disability_rate:
+        formData.disability_rate === '' ? null : Number(formData.disability_rate) / 100,
+      plaintiff_fault:
+        formData.plaintiff_fault === '' ? null : Number(formData.plaintiff_fault) / 100,
+      temporary_incapacity_months:
+        formData.temporary_incapacity_months === ''
+          ? null
+          : Number(formData.temporary_incapacity_months),
       accident_date: formData.accident_date || null,
     };
 
@@ -94,12 +123,11 @@ export default function App() {
       const response = await axios.post(`${API_BASE_URL}/api/analyze`, payload);
       setResult(response.data);
     } catch (err) {
-      console.error(err);
       const detail = err.response?.data?.detail;
       setError(
         Array.isArray(detail)
           ? detail.map((d) => d.msg).join(', ')
-          : detail || 'Hesaplama servisine bağlanırken bir sorun oluştu. Lütfen bağlantınızı kontrol edin.'
+          : detail || 'Hesaplama servisine bağlanırken bir hata oluştu.'
       );
     } finally {
       setLoading(false);
@@ -112,622 +140,737 @@ export default function App() {
 
   const comp = result?.calculation_results?.compensation;
   const costs = result?.calculation_results?.costs;
-  const risk = result?.calculation_results?.risk;
   const warnings = result?.calculation_results?.warnings || [];
+  const caseSummary = result?.case_summary || {};
+  const todayFormatted = new Date().toLocaleDateString('tr-TR');
 
   return (
-    <div className="min-h-screen bg-slate-950 text-slate-100 flex flex-col font-sans print:bg-white print:text-black">
-      {/* Özel Print/PDF Stilleri */}
-      <style>{`
-        @media print {
-          body {
-            background-color: #ffffff !important;
-            color: #000000 !important;
-          }
-          .no-print {
-            display: none !important;
-          }
-          .print-full {
-            width: 100% !important;
-            max-width: 100% !important;
-            grid-column: span 12 / span 12 !important;
-          }
-          .print-card {
-            background: #ffffff !important;
-            border: 1px solid #cbd5e1 !important;
-            color: #000000 !important;
-            box-shadow: none !important;
-            page-break-inside: avoid;
-          }
-          .print-text-dark {
-            color: #0f172a !important;
-          }
-          .print-text-muted {
-            color: #475569 !important;
-          }
-          .print-badge {
-            background: #f1f5f9 !important;
-            color: #0f172a !important;
-            border: 1px solid #94a3b8 !important;
-          }
-        }
-        @keyframes pulseGlow {
-          0%, 100% { opacity: 0.4; transform: scale(1); }
-          50% { opacity: 0.7; transform: scale(1.05); }
-        }
-        @keyframes floatSlow {
-          0%, 100% { transform: translateY(0px); }
-          50% { transform: translateY(-8px); }
-        }
-        .animate-pulse-glow {
-          animation: pulseGlow 6s ease-in-out infinite;
-        }
-        .animate-float {
-          animation: floatSlow 5s ease-in-out infinite;
-        }
-        .landing-fade-in {
-          animation: fadeIn 0.6s cubic-bezier(0.16, 1, 0.3, 1);
-        }
-        @keyframes fadeIn {
-          from { opacity: 0; transform: translateY(16px); }
-          to { opacity: 1; transform: translateY(0); }
-        }
-      `}</style>
-
-      {/* Header */}
-      <header className="border-b border-slate-800/80 bg-slate-900/60 backdrop-blur sticky top-0 z-50 no-print">
-        {currentView === 'calculator' && (
-          <div className="w-full max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-6 no-print">
+    <div className="min-h-screen bg-[#FFFFFF] text-[#1B2430] flex flex-col">
+      {/* Üst Başlık Çubuğu */}
+      <header className="border-b border-[#D9DEE5] bg-[#FFFFFF] no-print">
+        <div className="max-w-5xl mx-auto px-4 sm:px-6 py-4 flex items-center justify-between">
+          <div>
             <button
+              type="button"
               onClick={() => setCurrentView('landing')}
-              className="inline-flex items-center space-x-2 text-xs font-medium text-slate-400 hover:text-white bg-slate-900/80 hover:bg-slate-800 border border-slate-800 px-3.5 py-2 rounded-lg transition-colors cursor-pointer"
+              className="text-left focus:outline-none cursor-pointer"
             >
-              <ChevronLeft className="w-4 h-4" />
-              <span>Ana Sayfa</span>
+              <span className="font-serif-heading text-lg text-[#1B2430] tracking-tight block">
+                Trafik Kazası Bedensel Zarar Hesaplama
+              </span>
+              <span className="text-xs text-[#566070]">
+                TRH-2010 Yaşam Tablosu ve Yargıtay Aktüerya Esasları
+              </span>
             </button>
           </div>
-        )}
+          {currentView === 'calculator' && (
+            <button
+              type="button"
+              onClick={() => setCurrentView('landing')}
+              className="text-xs font-medium text-[#1F3A5F] hover:underline px-3 py-1.5 border border-[#D9DEE5] rounded-[4px] bg-[#F6F7F9] cursor-pointer"
+            >
+              Giriş Sayfasına Dön
+            </button>
+          )}
+        </div>
       </header>
 
-      {/* Yazdırıldığında Gözüken Başlık */}
-      <div className="hidden print:block p-6 border-b border-slate-300 mb-4">
-        <div className="flex items-center justify-between">
+      {/* Yazdırma / PDF Başlığı */}
+      <div className="hidden print:block border-b border-[#D9DEE5] pb-4 mb-6">
+        <div className="flex items-baseline justify-between">
           <div>
-            <h1 className="text-xl font-bold text-slate-900 uppercase tracking-tight">
-              Trafik Kazası Tazminat ve Dava Risk Sistemi
+            <h1 className="font-serif-heading text-xl text-[#1B2430]">
+              Hesaplama özeti (PDF)
             </h1>
-            <p className="text-xs text-slate-600 mt-0.5">
-              Aktüeryal Tazminat & Hukuki Risk Ön Analiz Raporu
+            <p className="text-xs text-[#566070] mt-1">
+              Trafik Kazası Bedensel Zarar Ön Hesaplama Dökümü
             </p>
           </div>
-          <div className="text-right text-xs text-slate-500 font-mono">
-            <div>Tarih: {new Date().toLocaleDateString('tr-TR')}</div>
-            <div>Mevzuat: TRH-2010 / KTK 97</div>
+          <div className="text-right text-xs text-[#566070] tabular-nums">
+            <div>Düzenleme Tarihi: {todayFormatted}</div>
+            <div>Dayanak: TRH-2010 / 6098 s. TBK / 2918 s. KTK</div>
           </div>
         </div>
       </div>
 
-      {/* GÖRÜNÜM 1: GİRİŞ SAYFASI */}
+      {/* EKRAN 1: AÇILIŞ SAYFASI */}
       {currentView === 'landing' && (
-        <div className="relative flex-1 flex flex-col justify-start sm:justify-center items-center px-6 sm:px-8 pt-16 sm:pt-20 pb-24 max-w-5xl mx-auto text-center space-y-12 sm:space-y-16 no-print landing-fade-in">
-          <div className="absolute top-1/4 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[300px] sm:w-[500px] h-[250px] sm:h-[300px] bg-gradient-to-tr from-emerald-600/20 via-teal-500/10 to-indigo-600/25 blur-[90px] sm:blur-[120px] pointer-events-none rounded-full animate-pulse-glow -z-10" />
-
-          <div className="space-y-7 sm:space-y-8 max-w-3xl relative pt-4">
-            <div className="inline-flex items-center space-x-2 px-4 py-2 rounded-full text-[10px] sm:text-xs font-medium bg-emerald-500/10 text-emerald-400 border border-emerald-500/30 backdrop-blur-md shadow-[0_0_20px_-3px_rgba(16,185,129,0.3)] hover:border-emerald-400/50 transition-all cursor-default animate-float">
-              <span className="w-1.5 h-1.5 sm:w-2 sm:h-2 rounded-full bg-emerald-400 animate-ping" />
-              <span>Yargıtay İçtihatları ve 2026 Aktüerya Standartları</span>
-            </div>
-
-            <h2 className="text-3xl sm:text-5xl lg:text-6xl font-black tracking-tight text-white leading-[1.35] sm:leading-[1.25] px-2 sm:px-0">
-              Trafik Kazası Tazminatınızı ve <br className="hidden sm:block" />
-              <span className="text-transparent bg-clip-text bg-gradient-to-r from-emerald-400 via-teal-200 to-indigo-400 drop-shadow-[0_0_35px_rgba(16,185,129,0.25)]">
-                Dava Açma Riskinizi
-              </span>
-              <br />
-              Saniyeler İçinde Görün
-            </h2>
-
-            <p className="text-sm sm:text-base text-slate-300/90 max-w-2xl mx-auto leading-relaxed px-4 sm:px-0">
-              Resmi <strong className="text-slate-100 font-semibold">TRH-2010</strong> yaşam tablolarıyla bakiye ömürdeki alacağınızı kuruşu kuruşuna hesaplayın; harçlar ve karşı vekâlet risklerini <strong className="text-emerald-400 font-semibold">Net Beklenen Değer (EV)</strong> karnesiyle anında görün.
+        <main className="flex-1 max-w-3xl mx-auto w-full px-4 sm:px-6 py-12 sm:py-16 space-y-12 no-print">
+          <section className="space-y-4 border-b border-[#D9DEE5] pb-10">
+            <h1 className="font-serif-heading text-2xl sm:text-3xl text-[#1B2430] leading-snug">
+              Trafik Kazası Bedensel Tazminat Ön Hesaplama Aracı
+            </h1>
+            <p className="text-sm sm:text-base text-[#566070] leading-relaxed">
+              Yaralanmalı trafik kazalarında maluliyet, geçici iş göremezlik ve yargılama gideri
+              kalemlerini aktüeryal esaslara göre hesaplayan ön değerlendirme aracıdır.
             </p>
-          </div>
-
-          <div className="relative group pt-2 w-full sm:w-auto px-4 sm:px-0">
-            <div className="absolute -inset-1 bg-gradient-to-r from-emerald-500 via-teal-500 to-indigo-600 rounded-2xl blur-md sm:blur-lg opacity-40 group-hover:opacity-85 transition duration-500 group-hover:duration-200" />
-            
-            <button
-              onClick={() => setCurrentView('calculator')}
-              className="relative w-full sm:w-auto flex justify-center items-center space-x-3 px-4 sm:px-8 py-4 rounded-xl text-[13px] sm:text-base font-bold bg-slate-900 border border-emerald-500/40 text-white shadow-2xl group-hover:bg-gradient-to-r group-hover:from-emerald-500 group-hover:to-indigo-600 group-hover:border-transparent transition-all duration-300 transform group-hover:-translate-y-0.5 cursor-pointer"
-            >
-              <div className="w-8 h-8 rounded-lg bg-emerald-500/20 group-hover:bg-white/20 flex items-center justify-center transition-colors shrink-0">
-                <Calculator className="w-4 h-4 text-emerald-400 group-hover:text-white" />
-              </div>
-              <span className="whitespace-nowrap">Tazminat & Risk Analizine Başla</span>
-              <ArrowRight className="w-4 h-4 sm:w-5 sm:h-5 ml-0.5 transition-transform duration-300 group-hover:translate-x-1.5 shrink-0" />
-            </button>
-            <p className="text-[10px] sm:text-[11px] text-slate-400 mt-4 font-medium tracking-wide">
-              Kayıt gerektirmez • Ücretsiz • Doğrudan hesaplama
-            </p>
-          </div>
-
-          <div className="grid grid-cols-1 md:grid-cols-3 gap-6 w-full text-left pt-4 px-2 sm:px-0">
-            <div className="group relative bg-slate-900/40 hover:bg-slate-900/80 backdrop-blur-xl border border-slate-800/80 hover:border-indigo-500/50 rounded-2xl p-6 transition-all duration-300 hover:-translate-y-1.5 hover:shadow-[0_15px_30px_-10px_rgba(99,102,241,0.2)]">
-              <div className="w-10 h-10 rounded-xl bg-indigo-500/10 border border-indigo-500/20 flex items-center justify-center text-indigo-400 mb-4 group-hover:scale-110 group-hover:bg-indigo-500/20 transition-all">
-                <FileCheck className="w-5 h-5" />
-              </div>
-              <h3 className="text-sm font-bold text-slate-100 group-hover:text-indigo-300 transition-colors">
-                Deterministik Aktüerya
-              </h3>
-              <p className="text-xs text-slate-400 leading-relaxed mt-1.5">
-                TRH-2010 tablosu, aktif/pasif devre ve progresif rant formülleriyle sapmasız net tazminat hesabı.
-              </p>
+            <div className="pt-2">
+              <button
+                type="button"
+                onClick={() => setCurrentView('calculator')}
+                className="inline-flex items-center justify-center px-5 py-2.5 text-sm font-medium text-[#FFFFFF] bg-[#1F3A5F] hover:bg-[#172C49] rounded-[4px] transition-colors cursor-pointer"
+              >
+                Hesaplama Formuna Geç
+              </button>
             </div>
+          </section>
 
-            <div className="group relative bg-slate-900/40 hover:bg-slate-900/80 backdrop-blur-xl border border-slate-800/80 hover:border-emerald-500/50 rounded-2xl p-6 transition-all duration-300 hover:-translate-y-1.5 hover:shadow-[0_15px_30px_-10px_rgba(16,185,129,0.2)]">
-              <div className="w-10 h-10 rounded-xl bg-emerald-500/10 border border-emerald-500/20 flex items-center justify-center text-emerald-400 mb-4 group-hover:scale-110 group-hover:bg-emerald-500/20 transition-all">
-                <TrendingUp className="w-5 h-5" />
+          {/* 3 Adımlı Nasıl Çalışır */}
+          <section className="space-y-4">
+            <h2 className="font-serif-heading text-lg text-[#1B2430]">Nasıl çalışır?</h2>
+            <div className="grid grid-cols-1 sm:grid-cols-3 gap-4">
+              <div className="bg-[#F6F7F9] border border-[#D9DEE5] rounded-[4px] p-4 space-y-1.5">
+                <div className="text-xs font-semibold text-[#1F3A5F] tabular-nums">Adım 1</div>
+                <div className="text-sm font-semibold text-[#1B2430]">Olay ve Kişi Bilgileri</div>
+                <p className="text-xs text-[#566070] leading-relaxed">
+                  Kaza tarihi, mağdurun yaşı, cinsiyeti, gelir durumu ve kusur oranı forma girilir.
+                </p>
               </div>
-              <h3 className="text-sm font-bold text-slate-100 group-hover:text-emerald-300 transition-colors">
-                Dava Açmaya Değer mi?
-              </h3>
-              <p className="text-xs text-slate-400 leading-relaxed mt-1.5">
-                2026 mahkeme harçları ve olası karşı vekâlet ücretini kazançla tartıp net tavsiye üreten risk karnesi.
-              </p>
+              <div className="bg-[#F6F7F9] border border-[#D9DEE5] rounded-[4px] p-4 space-y-1.5">
+                <div className="text-xs font-semibold text-[#1F3A5F] tabular-nums">Adım 2</div>
+                <div className="text-sm font-semibold text-[#1B2430]">Aktüeryal Hesaplama</div>
+                <p className="text-xs text-[#566070] leading-relaxed">
+                  TRH-2010 bakiye ömür tablosu ve yerleşik Yargıtay formülleriyle zarar kalemleri
+                  hesaplanır.
+                </p>
+              </div>
+              <div className="bg-[#F6F7F9] border border-[#D9DEE5] rounded-[4px] p-4 space-y-1.5">
+                <div className="text-xs font-semibold text-[#1F3A5F] tabular-nums">Adım 3</div>
+                <div className="text-sm font-semibold text-[#1B2430]">Kalem Dökümü ve Özet</div>
+                <p className="text-xs text-[#566070] leading-relaxed">
+                  Tazminat kalemleri, harç tutarları ve yasal dayanaklar tablo halinde görüntülenir.
+                </p>
+              </div>
             </div>
+          </section>
 
-            <div className="group relative bg-slate-900/40 hover:bg-slate-900/80 backdrop-blur-xl border border-slate-800/80 hover:border-amber-500/50 rounded-2xl p-6 transition-all duration-300 hover:-translate-y-1.5 hover:shadow-[0_15px_30px_-10px_rgba(245,158,11,0.2)]">
-              <div className="w-10 h-10 rounded-xl bg-amber-500/10 border border-amber-500/20 flex items-center justify-center text-amber-400 mb-4 group-hover:scale-110 group-hover:bg-amber-500/20 transition-all">
-                <Printer className="w-5 h-5" />
-              </div>
-              <h3 className="text-sm font-bold text-slate-100 group-hover:text-amber-300 transition-colors">
-                Resmi Bilirkişi PDF Raporu
-              </h3>
-              <p className="text-xs text-slate-400 leading-relaxed mt-1.5">
-                Hesaplama sonucunu avukatınızla veya sigorta şirketiyle doğrudan paylaşabileceğiniz A4 formatında indirin.
-              </p>
-            </div>
-          </div>
-        </div>
+          {/* Kapsam ve Sınırlar */}
+          <section className="bg-[#F6F7F9] border border-[#D9DEE5] rounded-[4px] p-5 space-y-2.5">
+            <h2 className="font-serif-heading text-base text-[#1B2430]">Kapsam ve sınırlar</h2>
+            <ul className="list-disc pl-5 space-y-1.5 text-xs sm:text-sm text-[#566070] leading-relaxed">
+              <li>
+                Bu araç yalnızca <strong className="text-[#1B2430] font-medium">yaralanmalı (bedensel zarar)</strong> trafik kazaları için ön hesaplama yapar; <strong className="text-[#1B2430] font-medium">ölümlü kazalar ve destekten yoksun kalma tazminatı</strong> kapsam dışındadır.
+              </li>
+              <li>
+                Sistem <strong className="text-[#1B2430] font-medium">dava açma tavsiyesi veya kazanma olasılığı üretmez</strong>; sonuçlar resmi bilirkişi raporu yerine geçmez.
+              </li>
+              <li>
+                Boş bırakılan alanlar için sistem tarafından gizli varsayılan değer atanmaz; eksik
+                veriler hesaplama özetinde uyarı olarak listelenir.
+              </li>
+            </ul>
+          </section>
+        </main>
       )}
 
-      {/* GÖRÜNÜM 2: HESAPLAMA PANELİ */}
+      {/* EKRAN 2 & 3: FORM VE SONUÇ RAPORU */}
       {currentView === 'calculator' && (
-        <main className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8 flex-1 w-full print:p-0 print:m-0 print:max-w-full">
-          <div className="grid grid-cols-1 lg:grid-cols-12 gap-8 items-start">
-            
-            {/* Sol Kolon: Form */}
-            <div className="lg:col-span-5 bg-slate-900 border border-slate-800 rounded-xl p-6 shadow-xl space-y-5 no-print">
-              <div className="flex items-center space-x-2 border-b border-slate-800 pb-3">
-                <Calculator className="w-5 h-5 text-indigo-400" />
-                <h2 className="text-base font-semibold text-slate-200">Kaza ve Hukuki Parametreler</h2>
-              </div>
+        <main className="flex-1 max-w-5xl mx-auto w-full px-4 sm:px-6 py-8 space-y-10 print-container">
+          {/* FORM BÖLÜMÜ (4 Başlıklı Yapı) */}
+          <section className="space-y-6 no-print">
+            <div className="border-b border-[#D9DEE5] pb-3">
+              <h1 className="font-serif-heading text-xl text-[#1B2430]">
+                Hesaplama Parametreleri
+              </h1>
+              <p className="text-xs text-[#566070] mt-1">
+                Bilinen verileri ilgili alanlara giriniz. Boş bırakılan alanlar varsayılan değerle
+                doldurulmaz.
+              </p>
+            </div>
 
-              <form onSubmit={handleSubmit} className="space-y-4">
-                
-                {/* Kaza Oluş Tipi */}
-                <div>
-                  <label className="block text-xs font-medium text-slate-300 mb-1 flex items-center gap-1.5">
-                    <Car className="w-3.5 h-3.5 text-indigo-400" /> Kaza Oluş Tipi
-                  </label>
-                  <select
-                    name="accident_type"
-                    value={formData.accident_type}
-                    onChange={handleChange}
-                    className="w-full bg-slate-800 border border-slate-700 rounded-lg px-3 py-2 text-sm text-slate-200 focus:outline-none focus:border-indigo-500"
-                  >
-                    <option value="">Seçiniz (Opsiyonel)</option>
-                    <option value="carpisma">Araçların Çarpışması</option>
-                    <option value="yaya_carpmasi">Yayaya Çarpma</option>
-                    <option value="tek_tarafli">Tek Taraflı Kaza</option>
-                    <option value="park_halindeki_arac">Park Halindeki Araca Çarpma</option>
-                    <option value="diger">Diğer</option>
-                  </select>
-                </div>
-
-                {/* Kazadaki Konum & Cinsiyet */}
-                <div className="grid grid-cols-2 gap-4">
+            <form onSubmit={handleSubmit} className="space-y-6">
+              {/* Bölüm 1: Kaza */}
+              <fieldset className="bg-[#F6F7F9] border border-[#D9DEE5] rounded-[4px] p-5 space-y-4">
+                <legend className="px-2 font-serif-heading text-base text-[#1B2430]">
+                  1. Kaza Bilgileri
+                </legend>
+                <div className="grid grid-cols-1 sm:grid-cols-2 gap-5">
                   <div>
-                    <label className="block text-xs font-medium text-slate-400 mb-1 flex items-center gap-1.5">
-                      <User className="w-3.5 h-3.5 text-slate-500" /> Kazadaki Konum
-                    </label>
-                    <select
-                      name="victim_role"
-                      value={formData.victim_role}
-                      onChange={handleChange}
-                      className="w-full bg-slate-800 border border-slate-700 rounded-lg px-3 py-2 text-sm text-slate-200 focus:outline-none focus:border-indigo-500"
+                    <label
+                      htmlFor="accident_date"
+                      className="block text-sm font-medium text-[#1B2430]"
                     >
-                      <option value="surucu">Sürücü</option>
-                      <option value="yolcu">Yolcu (Araç İçi)</option>
-                      <option value="yaya">Yaya</option>
-                    </select>
-                  </div>
-                  <div>
-                    <label className="block text-xs font-medium text-slate-400 mb-1">Cinsiyet</label>
-                    <select
-                      name="gender"
-                      value={formData.gender}
-                      onChange={handleChange}
-                      className="w-full bg-slate-800 border border-slate-700 rounded-lg px-3 py-2 text-sm text-slate-200 focus:outline-none focus:border-indigo-500"
-                    >
-                      <option value="E">Erkek</option>
-                      <option value="K">Kadın</option>
-                    </select>
-                  </div>
-                </div>
-
-                {/* Tarih & Yaş */}
-                <div className="grid grid-cols-2 gap-4">
-                  <div>
-                    <label className="block text-xs font-medium text-slate-400 mb-1 flex items-center gap-1.5">
-                      <Calendar className="w-3.5 h-3.5 text-slate-500" /> Kaza Tarihi
+                      Kaza tarihi
                     </label>
+                    <p className="text-xs text-[#566070] mt-0.5 mb-1.5">
+                      Olayın meydana geldiği tarih (asgari ücret ve dönem hesabı için kullanılır).
+                    </p>
                     <input
+                      id="accident_date"
                       type="date"
                       name="accident_date"
                       value={formData.accident_date}
                       onChange={handleChange}
-                      className="w-full bg-slate-800 border border-slate-700 rounded-lg px-3 py-2 text-sm text-slate-200 focus:outline-none focus:border-indigo-500"
+                      className="w-full bg-[#FFFFFF] border border-[#D9DEE5] rounded-[4px] px-3 py-2 text-sm text-[#1B2430] focus:outline-none focus:border-[#1F3A5F] tabular-nums"
                     />
                   </div>
+
                   <div>
-                    <label className="block text-xs font-medium text-slate-400 mb-1">Kaza Anındaki Yaş</label>
+                    <label
+                      htmlFor="accident_type"
+                      className="block text-sm font-medium text-[#1B2430]"
+                    >
+                      Kaza oluş türü
+                    </label>
+                    <p className="text-xs text-[#566070] mt-0.5 mb-1.5">
+                      Kaza tespit tutanağındaki temel çarpışma veya olay sınıfı.
+                    </p>
+                    <select
+                      id="accident_type"
+                      name="accident_type"
+                      value={formData.accident_type}
+                      onChange={handleChange}
+                      className="w-full bg-[#FFFFFF] border border-[#D9DEE5] rounded-[4px] px-3 py-2 text-sm text-[#1B2430] focus:outline-none focus:border-[#1F3A5F]"
+                    >
+                      <option value="">Seçiniz</option>
+                      <option value="carpisma">Araçların Çarpışması</option>
+                      <option value="yaya_carpmasi">Yayaya Çarpma</option>
+                      <option value="tek_tarafli">Tek Taraflı Kaza</option>
+                      <option value="park_halindeki_arac">Park Halindeki Araca Çarpma</option>
+                      <option value="diger">Diğer</option>
+                    </select>
+                  </div>
+                </div>
+              </fieldset>
+
+              {/* Bölüm 2: Kişi ve Gelir */}
+              <fieldset className="bg-[#F6F7F9] border border-[#D9DEE5] rounded-[4px] p-5 space-y-4">
+                <legend className="px-2 font-serif-heading text-base text-[#1B2430]">
+                  2. Kişi ve Gelir Bilgileri
+                </legend>
+                <div className="grid grid-cols-1 sm:grid-cols-2 gap-5">
+                  <div>
+                    <label htmlFor="age" className="block text-sm font-medium text-[#1B2430]">
+                      Kaza tarihindeki yaş
+                    </label>
+                    <p className="text-xs text-[#566070] mt-0.5 mb-1.5">
+                      TRH-2010 bakiye ömür ve aktif/pasif devre süresi için tam yıl.
+                    </p>
                     <input
+                      id="age"
                       type="number"
                       name="age"
                       min="0"
                       max="120"
-                      placeholder="Örn: 30"
                       value={formData.age}
                       onChange={handleChange}
-                      className="w-full bg-slate-800 border border-slate-700 rounded-lg px-3 py-2 text-sm text-slate-200 focus:outline-none focus:border-indigo-500"
+                      className="w-full bg-[#FFFFFF] border border-[#D9DEE5] rounded-[4px] px-3 py-2 text-sm text-[#1B2430] focus:outline-none focus:border-[#1F3A5F] tabular-nums"
                     />
                   </div>
-                </div>
 
-                {/* Maluliyet & Kusur */}
-                <div className="grid grid-cols-2 gap-4">
                   <div>
-                    <label className="block text-xs font-medium text-slate-400 mb-1 flex items-center gap-1.5">
-                      <Percent className="w-3.5 h-3.5 text-slate-500" /> Maluliyet Oranı (%)
+                    <label htmlFor="gender" className="block text-sm font-medium text-[#1B2430]">
+                      Cinsiyet
                     </label>
-                    <input
-                      type="number"
-                      name="disability_rate"
-                      min="0"
-                      max="100"
-                      step="0.1"
-                      placeholder="Örn: 15"
-                      value={formData.disability_rate}
+                    <p className="text-xs text-[#566070] mt-0.5 mb-1.5">
+                      TRH-2010 kadın ve erkek yaşam süresi katsayıları farklıdır.
+                    </p>
+                    <select
+                      id="gender"
+                      name="gender"
+                      value={formData.gender}
                       onChange={handleChange}
-                      className="w-full bg-slate-800 border border-slate-700 rounded-lg px-3 py-2 text-sm text-slate-200 focus:outline-none focus:border-indigo-500"
-                    />
+                      className="w-full bg-[#FFFFFF] border border-[#D9DEE5] rounded-[4px] px-3 py-2 text-sm text-[#1B2430] focus:outline-none focus:border-[#1F3A5F]"
+                    >
+                      <option value="">Seçiniz</option>
+                      <option value="E">Erkek</option>
+                      <option value="K">Kadın</option>
+                    </select>
                   </div>
-                  <div>
-                    <label className="block text-xs font-medium text-slate-400 mb-1 flex items-center gap-1.5">
-                      <Percent className="w-3.5 h-3.5 text-slate-500" /> Davacı Kusuru (%)
-                    </label>
-                    <input
-                      type="number"
-                      name="plaintiff_fault"
-                      min="0"
-                      max="100"
-                      step="5"
-                      placeholder="Örn: 0"
-                      value={formData.plaintiff_fault}
-                      onChange={handleChange}
-                      className="w-full bg-slate-800 border border-slate-700 rounded-lg px-3 py-2 text-sm text-slate-200 focus:outline-none focus:border-indigo-500"
-                    />
-                  </div>
-                </div>
 
-                {/* Gelir & Türü */}
-                <div className="grid grid-cols-2 gap-4">
                   <div>
-                    <label className="block text-xs font-medium text-slate-400 mb-1 flex items-center gap-1.5">
-                      <Coins className="w-3.5 h-3.5 text-slate-500" /> Aylık Gelir (TL)
+                    <label
+                      htmlFor="monthly_income"
+                      className="block text-sm font-medium text-[#1B2430]"
+                    >
+                      Aylık gelir (TL)
                     </label>
+                    <p className="text-xs text-[#566070] mt-0.5 mb-1.5">
+                      Belgelenebilir aylık kazanç tutarı. Belirtilmezse uyarı verilir.
+                    </p>
                     <input
+                      id="monthly_income"
                       type="number"
                       name="monthly_income"
                       min="0"
-                      step="500"
-                      placeholder="Örn: 35000"
+                      step="0.01"
                       value={formData.monthly_income}
                       onChange={handleChange}
-                      className="w-full bg-slate-800 border border-slate-700 rounded-lg px-3 py-2 text-sm text-slate-200 focus:outline-none focus:border-indigo-500"
+                      className="w-full bg-[#FFFFFF] border border-[#D9DEE5] rounded-[4px] px-3 py-2 text-sm text-[#1B2430] focus:outline-none focus:border-[#1F3A5F] tabular-nums"
                     />
                   </div>
+
                   <div>
-                    <label className="block text-xs font-medium text-slate-400 mb-1 flex items-center gap-1.5">
-                      <Briefcase className="w-3.5 h-3.5 text-slate-500" /> Gelir Türü
+                    <label
+                      htmlFor="income_basis"
+                      className="block text-sm font-medium text-[#1B2430]"
+                    >
+                      Gelir esası
                     </label>
+                    <p className="text-xs text-[#566070] mt-0.5 mb-1.5">
+                      Girilen aylık tutarın net veya brüt olma durumu.
+                    </p>
                     <select
+                      id="income_basis"
                       name="income_basis"
                       value={formData.income_basis}
                       onChange={handleChange}
-                      className="w-full bg-slate-800 border border-slate-700 rounded-lg px-3 py-2 text-sm text-slate-200 focus:outline-none focus:border-indigo-500"
+                      className="w-full bg-[#FFFFFF] border border-[#D9DEE5] rounded-[4px] px-3 py-2 text-sm text-[#1B2430] focus:outline-none focus:border-[#1F3A5F]"
                     >
+                      <option value="">Seçiniz</option>
                       <option value="net">Net Gelir</option>
                       <option value="brut">Brüt Gelir</option>
                     </select>
                   </div>
                 </div>
+              </fieldset>
 
-                {/* Geçici İş Göremezlik & Manevi Tazminat */}
-                <div className="grid grid-cols-2 gap-4">
+              {/* Bölüm 3: Yaralanma ve Masraflar */}
+              <fieldset className="bg-[#F6F7F9] border border-[#D9DEE5] rounded-[4px] p-5 space-y-4">
+                <legend className="px-2 font-serif-heading text-base text-[#1B2430]">
+                  3. Yaralanma ve Masraf Bilgileri
+                </legend>
+                <div className="grid grid-cols-1 sm:grid-cols-3 gap-5">
                   <div>
-                    <label className="block text-xs font-medium text-slate-400 mb-1">
-                      İş Göremezlik (Ay)
+                    <label
+                      htmlFor="disability_rate"
+                      className="block text-sm font-medium text-[#1B2430]"
+                    >
+                      Sürekli maluliyet oranı (%)
                     </label>
+                    <p className="text-xs text-[#566070] mt-0.5 mb-1.5">
+                      Sağlık kurulu raporundaki iş gücü kaybı yüzdesi (0–100).
+                    </p>
                     <input
+                      id="disability_rate"
+                      type="number"
+                      name="disability_rate"
+                      min="0"
+                      max="100"
+                      step="0.1"
+                      value={formData.disability_rate}
+                      onChange={handleChange}
+                      className="w-full bg-[#FFFFFF] border border-[#D9DEE5] rounded-[4px] px-3 py-2 text-sm text-[#1B2430] focus:outline-none focus:border-[#1F3A5F] tabular-nums"
+                    />
+                  </div>
+
+                  <div>
+                    <label
+                      htmlFor="temporary_incapacity_months"
+                      className="block text-sm font-medium text-[#1B2430]"
+                    >
+                      Geçici iş göremezlik (ay)
+                    </label>
+                    <p className="text-xs text-[#566070] mt-0.5 mb-1.5">
+                      İyileşme süresince çalışılamayan toplam ay sayısı.
+                    </p>
+                    <input
+                      id="temporary_incapacity_months"
                       type="number"
                       name="temporary_incapacity_months"
                       min="0"
-                      max="48"
-                      placeholder="Örn: 3"
+                      max="120"
+                      step="0.5"
                       value={formData.temporary_incapacity_months}
                       onChange={handleChange}
-                      className="w-full bg-slate-800 border border-slate-700 rounded-lg px-3 py-2 text-sm text-slate-200 focus:outline-none focus:border-indigo-500"
+                      className="w-full bg-[#FFFFFF] border border-[#D9DEE5] rounded-[4px] px-3 py-2 text-sm text-[#1B2430] focus:outline-none focus:border-[#1F3A5F] tabular-nums"
                     />
                   </div>
+
                   <div>
-                    <label className="block text-xs font-medium text-slate-400 mb-1">
-                      Manevi Tazminat (TL)
+                    <label
+                      htmlFor="non_pecuniary_claim"
+                      className="block text-sm font-medium text-[#1B2430]"
+                    >
+                      Manevi tazminat talebi (TL)
                     </label>
+                    <p className="text-xs text-[#566070] mt-0.5 mb-1.5">
+                      Varsa talep edilen manevi tazminat tutarı (opsiyonel).
+                    </p>
                     <input
+                      id="non_pecuniary_claim"
                       type="number"
                       name="non_pecuniary_claim"
                       min="0"
-                      step="5000"
-                      placeholder="Örn: 50000"
+                      step="0.01"
                       value={formData.non_pecuniary_claim}
                       onChange={handleChange}
-                      className="w-full bg-slate-800 border border-slate-700 rounded-lg px-3 py-2 text-sm text-slate-200 focus:outline-none focus:border-indigo-500"
+                      className="w-full bg-[#FFFFFF] border border-[#D9DEE5] rounded-[4px] px-3 py-2 text-sm text-[#1B2430] focus:outline-none focus:border-[#1F3A5F] tabular-nums"
                     />
                   </div>
                 </div>
+              </fieldset>
 
-                {/* Müterafik Kusur Onayı - YAYA DEĞİLSE GÖRÜNÜR */}
-                {formData.victim_role !== 'yaya' && (
-                  <div className="bg-slate-800/40 border border-slate-800 p-3 rounded-lg flex items-center space-x-3 transition-all">
-                    <input
-                      type="checkbox"
-                      id="seatbelt_or_helmet"
-                      name="seatbelt_or_helmet"
-                      checked={formData.seatbelt_or_helmet}
-                      onChange={handleChange}
-                      className="w-4 h-4 rounded text-indigo-600 focus:ring-indigo-500 bg-slate-700 border-slate-600 cursor-pointer"
-                    />
-                    <label htmlFor="seatbelt_or_helmet" className="text-xs text-slate-300 flex items-center gap-1.5 cursor-pointer">
-                      <ShieldCheck className="w-3.5 h-3.5 text-emerald-400" />
-                      Emniyet Kemeri / Kask Takılıydı
+              {/* Bölüm 4: Kusur ve Poliçe */}
+              <fieldset className="bg-[#F6F7F9] border border-[#D9DEE5] rounded-[4px] p-5 space-y-4">
+                <legend className="px-2 font-serif-heading text-base text-[#1B2430]">
+                  4. Kusur ve Konum Bilgileri
+                </legend>
+                <div className="grid grid-cols-1 sm:grid-cols-3 gap-5">
+                  <div>
+                    <label
+                      htmlFor="victim_role"
+                      className="block text-sm font-medium text-[#1B2430]"
+                    >
+                      Kazadaki sıfat / konum
                     </label>
+                    <p className="text-xs text-[#566070] mt-0.5 mb-1.5">
+                      Zarar görenin olay anındaki konumu (sürücü, yolcu, yaya).
+                    </p>
+                    <select
+                      id="victim_role"
+                      name="victim_role"
+                      value={formData.victim_role}
+                      onChange={handleChange}
+                      className="w-full bg-[#FFFFFF] border border-[#D9DEE5] rounded-[4px] px-3 py-2 text-sm text-[#1B2430] focus:outline-none focus:border-[#1F3A5F]"
+                    >
+                      <option value="">Seçiniz</option>
+                      <option value="surucu">Sürücü</option>
+                      <option value="yolcu">Yolcu (Araç İçi)</option>
+                      <option value="yaya">Yaya</option>
+                    </select>
                   </div>
-                )}
 
-                {/* Hesaplama Butonu */}
+                  <div>
+                    <label
+                      htmlFor="plaintiff_fault"
+                      className="block text-sm font-medium text-[#1B2430]"
+                    >
+                      Davacı kusur oranı (%)
+                    </label>
+                    <p className="text-xs text-[#566070] mt-0.5 mb-1.5">
+                      Zarar görenin kazadaki kendi kusur yüzdesi (0–100).
+                    </p>
+                    <input
+                      id="plaintiff_fault"
+                      type="number"
+                      name="plaintiff_fault"
+                      min="0"
+                      max="100"
+                      step="1"
+                      value={formData.plaintiff_fault}
+                      onChange={handleChange}
+                      className="w-full bg-[#FFFFFF] border border-[#D9DEE5] rounded-[4px] px-3 py-2 text-sm text-[#1B2430] focus:outline-none focus:border-[#1F3A5F] tabular-nums"
+                    />
+                  </div>
+
+                  {formData.victim_role !== 'yaya' && (
+                    <div>
+                      <label
+                        htmlFor="seatbelt_or_helmet"
+                        className="block text-sm font-medium text-[#1B2430]"
+                      >
+                        Emniyet kemeri / kask
+                      </label>
+                      <p className="text-xs text-[#566070] mt-0.5 mb-1.5">
+                        Kaza sırasında koruyucu ekipman kullanımı bilgisi.
+                      </p>
+                      <select
+                        id="seatbelt_or_helmet"
+                        name="seatbelt_or_helmet"
+                        value={formData.seatbelt_or_helmet}
+                        onChange={handleChange}
+                        className="w-full bg-[#FFFFFF] border border-[#D9DEE5] rounded-[4px] px-3 py-2 text-sm text-[#1B2430] focus:outline-none focus:border-[#1F3A5F]"
+                      >
+                        <option value="">Belirtilmedi</option>
+                        <option value="true">Takılıydı</option>
+                        <option value="false">Takılı Değildi</option>
+                      </select>
+                    </div>
+                  )}
+                </div>
+              </fieldset>
+
+              <div className="flex items-center justify-end pt-1">
                 <button
                   type="submit"
                   disabled={loading}
-                  className="w-full mt-2 bg-indigo-600 hover:bg-indigo-500 disabled:opacity-50 text-white font-medium py-2.5 px-4 rounded-lg transition-colors flex items-center justify-center space-x-2 shadow-lg shadow-indigo-600/20 cursor-pointer"
+                  className="px-6 py-2.5 text-sm font-medium text-[#FFFFFF] bg-[#1F3A5F] hover:bg-[#172C49] disabled:opacity-50 rounded-[4px] transition-colors cursor-pointer"
                 >
-                  {loading ? (
-                    <div className="w-5 h-5 border-2 border-white/30 border-t-white rounded-full animate-spin" />
-                  ) : (
-                    <>
-                      <TrendingUp className="w-4 h-4" />
-                      <span>Tazminat Hesaplaması Yap</span>
-                    </>
-                  )}
+                  {loading ? 'Hesaplanıyor...' : 'Tazminat Hesapla'}
                 </button>
-              </form>
+              </div>
+            </form>
+          </section>
+
+          {/* HATA MESAJI */}
+          {error && (
+            <div className="bg-[#FFF6E5] border border-[#D9DEE5] rounded-[4px] p-4 text-sm text-[#4A3500] no-print">
+              <strong className="font-semibold">İşlem Hatası:</strong> {error}
             </div>
+          )}
 
-            {/* Sağ Kolon: Sonuç Raporu */}
-            <div className="lg:col-span-7 space-y-6 print-full">
-              {error && (
-                <div className="bg-rose-950/40 border border-rose-800/60 rounded-xl p-4 flex items-start space-x-3 text-rose-200 text-sm no-print">
-                  <AlertTriangle className="w-5 h-5 text-rose-400 shrink-0 mt-0.5" />
-                  <div>
-                    <p className="font-semibold text-rose-300">Hesaplama Başarısız</p>
-                    <p className="text-xs text-rose-300/80 mt-1">{error}</p>
-                  </div>
-                </div>
-              )}
-
-              {!result && !loading && !error && (
-                <div className="bg-slate-900 border border-slate-800 border-dashed rounded-xl p-12 text-center text-slate-500 no-print">
-                  <Scale className="w-12 h-12 mx-auto stroke-1 text-slate-600 mb-3" />
-                  <h3 className="text-sm font-medium text-slate-300">Henüz Analiz Başlatılmadı</h3>
-                  <p className="text-xs text-slate-500 max-w-sm mx-auto mt-1">
-                    Sol paneldeki kaza parametrelerini belirleyip "Tazminat Hesaplaması Yap" butonuna tıklayın.
+          {/* SONUÇ RAPORU BÖLÜMÜ (Rapor Düzeni) */}
+          {result && comp && (
+            <section className="space-y-8 pt-4 border-t border-[#D9DEE5]">
+              <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-3 no-print">
+                <div>
+                  <h2 className="font-serif-heading text-xl text-[#1B2430]">
+                    Hesaplama Sonuç Raporu
+                  </h2>
+                  <p className="text-xs text-[#566070] mt-0.5">
+                    Aşağıdaki döküm girilen parametrelere göre oluşturulan ön hesaplama özetidir.
                   </p>
                 </div>
+                <button
+                  type="button"
+                  onClick={handlePrint}
+                  className="px-4 py-2 text-xs font-medium text-[#1F3A5F] bg-[#F6F7F9] hover:bg-[#EBEEF3] border border-[#D9DEE5] rounded-[4px] transition-colors cursor-pointer self-start sm:self-auto"
+                >
+                  Hesaplama özeti (PDF)
+                </button>
+              </div>
+
+              {/* 1. Eksik / Varsayılan Bilgi Uyarıları (Yalnızca Sarı Ton) */}
+              {warnings.length > 0 && (
+                <div className="bg-[#FFF6E5] border border-[#E6C88A] rounded-[4px] p-4 space-y-2 text-[#4A3500] print-block">
+                  <h3 className="font-serif-heading text-sm text-[#4A3500]">
+                    1. Eksik veya Varsayılan Bilgi Uyarıları
+                  </h3>
+                  <ul className="list-disc pl-5 space-y-1 text-xs leading-relaxed">
+                    {warnings.map((w, idx) => (
+                      <li key={idx}>{w}</li>
+                    ))}
+                  </ul>
+                </div>
               )}
 
-              {result && comp && (
-                <>
-                  {/* PDF İndir / Yazdır Butonu Çubuğu */}
-                  <div className="flex items-center justify-between bg-slate-900 border border-slate-800 rounded-xl p-3 px-4 shadow-lg no-print">
-                    <div className="flex items-center space-x-2 text-xs text-slate-300">
-                      <span className="w-2 h-2 rounded-full bg-emerald-400 animate-pulse" />
-                      <span>Hesaplama hazırlandı. Rapor çıktısını alabilirsiniz.</span>
+              {/* 2. Girdi Özeti */}
+              <div className="space-y-2.5 print-block">
+                <h3 className="font-serif-heading text-base text-[#1B2430]">
+                  {warnings.length > 0 ? '2. Girdi Özeti' : '1. Girdi Özeti'}
+                </h3>
+                <div className="bg-[#F6F7F9] border border-[#D9DEE5] rounded-[4px] p-4">
+                  <dl className="grid grid-cols-2 sm:grid-cols-4 gap-x-4 gap-y-3 text-xs">
+                    <div>
+                      <dt className="text-[#566070]">Kaza Tarihi</dt>
+                      <dd className="font-medium text-[#1B2430] mt-0.5 tabular-nums">
+                        {formatDateTR(caseSummary.accident_date)}
+                      </dd>
                     </div>
-                    <button
-                      onClick={handlePrint}
-                      className="inline-flex items-center space-x-1.5 px-3.5 py-1.5 rounded-lg text-xs font-semibold bg-emerald-600 hover:bg-emerald-500 text-white transition-all shadow-md shadow-emerald-900/30 cursor-pointer"
-                    >
-                      <Printer className="w-3.5 h-3.5" />
-                      <span>Raporu PDF Olarak Kaydet / Yazdır</span>
-                    </button>
+                    <div>
+                      <dt className="text-[#566070]">Kaza Türü</dt>
+                      <dd className="font-medium text-[#1B2430] mt-0.5">
+                        {ACCIDENT_TYPE_LABELS[caseSummary.accident_type] || 'Belirtilmedi'}
+                      </dd>
+                    </div>
+                    <div>
+                      <dt className="text-[#566070]">Kazadaki Konum</dt>
+                      <dd className="font-medium text-[#1B2430] mt-0.5">
+                        {VICTIM_ROLE_LABELS[caseSummary.victim_role] || 'Belirtilmedi'}
+                      </dd>
+                    </div>
+                    <div>
+                      <dt className="text-[#566070]">Yaş / Cinsiyet</dt>
+                      <dd className="font-medium text-[#1B2430] mt-0.5 tabular-nums">
+                        {caseSummary.age !== null && caseSummary.age !== undefined
+                          ? `${caseSummary.age} yaş`
+                          : 'Belirtilmedi'}{' '}
+                        /{' '}
+                        {GENDER_LABELS[caseSummary.gender] || 'Belirtilmedi'}
+                      </dd>
+                    </div>
+                    <div>
+                      <dt className="text-[#566070]">Aylık Gelir</dt>
+                      <dd className="font-medium text-[#1B2430] mt-0.5 tabular-nums">
+                        {caseSummary.monthly_income !== null
+                          ? `${formatCurrencyTR(caseSummary.monthly_income)} (${
+                              INCOME_BASIS_LABELS[caseSummary.income_basis] || 'Belirtilmedi'
+                            })`
+                          : 'Belirtilmedi'}
+                      </dd>
+                    </div>
+                    <div>
+                      <dt className="text-[#566070]">Maluliyet Oranı</dt>
+                      <dd className="font-medium text-[#1B2430] mt-0.5 tabular-nums">
+                        {caseSummary.disability_rate !== null
+                          ? `%${(Number(caseSummary.disability_rate) * 100).toLocaleString('tr-TR')}`
+                          : 'Belirtilmedi'}
+                      </dd>
+                    </div>
+                    <div>
+                      <dt className="text-[#566070]">Geçici İş Göremezlik</dt>
+                      <dd className="font-medium text-[#1B2430] mt-0.5 tabular-nums">
+                        {caseSummary.temporary_incapacity_months !== null
+                          ? `${Number(caseSummary.temporary_incapacity_months).toLocaleString('tr-TR')} ay`
+                          : 'Belirtilmedi'}
+                      </dd>
+                    </div>
+                    <div>
+                      <dt className="text-[#566070]">Davacı Kusur Oranı</dt>
+                      <dd className="font-medium text-[#1B2430] mt-0.5 tabular-nums">
+                        {caseSummary.plaintiff_fault !== null
+                          ? `%${(Number(caseSummary.plaintiff_fault) * 100).toLocaleString('tr-TR')}`
+                          : 'Belirtilmedi'}
+                      </dd>
+                    </div>
+                  </dl>
+                </div>
+              </div>
+
+              {/* 3. Kalem Kalem Tutar Tablosu */}
+              <div className="space-y-2.5 print-block">
+                <h3 className="font-serif-heading text-base text-[#1B2430]">
+                  {warnings.length > 0 ? '3. Kalem Kalem Tazminat Tablosu' : '2. Kalem Kalem Tazminat Tablosu'}
+                </h3>
+                <div className="overflow-x-auto border border-[#D9DEE5] rounded-[4px]">
+                  <table className="w-full text-left border-collapse text-xs sm:text-sm">
+                    <thead>
+                      <tr className="bg-[#F6F7F9] border-b border-[#D9DEE5] text-[#1B2430]">
+                        <th className="py-2.5 px-4 font-semibold">Zarar Kalemi</th>
+                        <th className="py-2.5 px-4 font-semibold">Hukuki / Aktüeryal Dayanak</th>
+                        <th className="py-2.5 px-4 font-semibold text-right">Hesaplanan Tutar</th>
+                      </tr>
+                    </thead>
+                    <tbody className="divide-y divide-[#D9DEE5]">
+                      <tr>
+                        <td className="py-3 px-4 font-medium text-[#1B2430]">
+                          Sürekli İş Göremezlik (Kalıcı Maluliyet)
+                        </td>
+                        <td className="py-3 px-4 text-xs text-[#566070]">
+                          TBK m. 54/3, TRH-2010 Yaşam Tablosu, Progresif Rant (%10 artış / %10 iskonto)
+                        </td>
+                        <td className="py-3 px-4 text-right font-medium text-[#1B2430] tabular-nums">
+                          {formatCurrencyTR(comp.items?.permanent_disability?.amount || 0)}
+                        </td>
+                      </tr>
+                      <tr>
+                        <td className="py-3 px-4 font-medium text-[#1B2430]">
+                          Geçici İş Göremezlik Tazminatı
+                        </td>
+                        <td className="py-3 px-4 text-xs text-[#566070]">
+                          TBK m. 54/2, Tedavi ve İyileşme Süresi Gelir Kaybı Esası
+                        </td>
+                        <td className="py-3 px-4 text-right font-medium text-[#1B2430] tabular-nums">
+                          {formatCurrencyTR(comp.items?.temporary_disability?.amount || 0)}
+                        </td>
+                      </tr>
+                      {caseSummary.non_pecuniary_claim !== null &&
+                        Number(caseSummary.non_pecuniary_claim) > 0 && (
+                          <tr>
+                            <td className="py-3 px-4 font-medium text-[#1B2430]">
+                              Manevi Tazminat Talebi (Kullanıcı Beyanı)
+                            </td>
+                            <td className="py-3 px-4 text-xs text-[#566070]">
+                              TBK m. 56 (Hâkimin takdir yetkisine tabidir; aktüeryal hesaba dahil değildir)
+                            </td>
+                            <td className="py-3 px-4 text-right font-medium text-[#566070] tabular-nums">
+                              {formatCurrencyTR(caseSummary.non_pecuniary_claim)}
+                            </td>
+                          </tr>
+                        )}
+                      <tr className="bg-[#F6F7F9] font-semibold text-[#1B2430]">
+                        <td className="py-3 px-4" colSpan={2}>
+                          Toplam Hesaplanan Net Maddi Tazminat
+                        </td>
+                        <td className="py-3 px-4 text-right text-[#1F3A5F] tabular-nums">
+                          {formatCurrencyTR(comp.net_total || 0)}
+                        </td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </div>
+              </div>
+
+              {/* 4. Dava Masrafları */}
+              {costs && (
+                <div className="space-y-2.5 print-block">
+                  <h3 className="font-serif-heading text-base text-[#1B2430]">
+                    {warnings.length > 0 ? '4. Yargılama Giderleri ve Harçlar' : '3. Yargılama Giderleri ve Harçlar'}
+                  </h3>
+                  <div className="overflow-x-auto border border-[#D9DEE5] rounded-[4px]">
+                    <table className="w-full text-left border-collapse text-xs sm:text-sm">
+                      <thead>
+                        <tr className="bg-[#F6F7F9] border-b border-[#D9DEE5] text-[#1B2430]">
+                          <th className="py-2.5 px-4 font-semibold">Gider Kalemi</th>
+                          <th className="py-2.5 px-4 font-semibold">Dayanak</th>
+                          <th className="py-2.5 px-4 font-semibold text-right">Tutar</th>
+                        </tr>
+                      </thead>
+                      <tbody className="divide-y divide-[#D9DEE5]">
+                        <tr>
+                          <td className="py-2.5 px-4 text-[#1B2430]">Başvurma Harcı</td>
+                          <td className="py-2.5 px-4 text-xs text-[#566070]">
+                            492 sayılı Harçlar Kanunu Tarifesi
+                          </td>
+                          <td className="py-2.5 px-4 text-right tabular-nums">
+                            {formatCurrencyTR(costs.basvurma_harci)}
+                          </td>
+                        </tr>
+                        <tr>
+                          <td className="py-2.5 px-4 text-[#1B2430]">Peşin Karar ve İlam Harcı</td>
+                          <td className="py-2.5 px-4 text-xs text-[#566070]">
+                            Nispi Harç Oranı (Binde 68,31'in 1/4'ü)
+                          </td>
+                          <td className="py-2.5 px-4 text-right tabular-nums">
+                            {formatCurrencyTR(costs.pesin_harc)}
+                          </td>
+                        </tr>
+                        <tr className="bg-[#F6F7F9] font-semibold">
+                          <td className="py-2.5 px-4 text-[#1B2430]" colSpan={2}>
+                            Toplam Başlangıç Harç Tutarı
+                          </td>
+                          <td className="py-2.5 px-4 text-right text-[#1B2430] tabular-nums">
+                            {formatCurrencyTR(costs.total_upfront_costs)}
+                          </td>
+                        </tr>
+                      </tbody>
+                    </table>
                   </div>
-
-                  {/* EKSİK / VARSAYILAN BİLGİ UYARILARI */}
-                  {warnings.length > 0 && (
-                    <div className="bg-amber-950/30 border border-amber-700/50 rounded-xl p-4 space-y-2 print-card">
-                      <div className="flex items-center space-x-2 text-amber-400 print:text-amber-800">
-                        <AlertTriangle className="w-4 h-4 shrink-0" />
-                        <h3 className="text-xs font-bold uppercase tracking-wider">
-                          Eksik / Varsayılan Bilgi Uyarıları
-                        </h3>
-                      </div>
-                      <ul className="space-y-1 text-xs text-amber-200/90 print-text-dark">
-                        {warnings.map((w, idx) => (
-                          <li key={idx} className="flex items-start gap-2">
-                            <span className="text-amber-400">•</span>
-                            <span>{w}</span>
-                          </li>
-                        ))}
-                      </ul>
-                    </div>
-                  )}
-
-                  {/* 1. NET TAZMİNAT TUTARI KARTI */}
-                  <div className="bg-slate-900 border border-slate-800 rounded-xl p-5 shadow-xl print-card">
-                    <div className="flex items-center justify-between pb-3 border-b border-slate-800 print:border-slate-300">
-                      <span className="text-xs font-semibold tracking-wider text-slate-400 print-text-muted uppercase">
-                        Talep Edilebilir Net Maddi Tazminat
-                      </span>
-                      {comp.rule_version && (
-                        <span className="text-xs px-2 py-0.5 rounded bg-indigo-500/10 text-indigo-300 border border-indigo-500/20 print-badge">
-                          {comp.rule_version}
-                        </span>
-                      )}
-                    </div>
-                    <div className="mt-3">
-                      <div className="text-3xl font-extrabold tracking-tight text-white print-text-dark">
-                        {Number(comp.net_total || 0).toLocaleString('tr-TR', { minimumFractionDigits: 2 })} TL
-                      </div>
-                      <div className="flex flex-wrap gap-x-4 text-xs text-slate-400 print-text-muted mt-2">
-                        <span>Kalıcı Sakatlık: <strong className="text-slate-200 print-text-dark">{Number(comp.items?.permanent_disability?.amount || 0).toLocaleString('tr-TR')} TL</strong></span>
-                        <span>Geçici İş Göremezlik: <strong className="text-slate-200 print-text-dark">{Number(comp.items?.temporary_disability?.amount || 0).toLocaleString('tr-TR')} TL</strong></span>
-                      </div>
-                    </div>
-                  </div>
-
-                  {/* 2. MASRAFLAR VE AÇILIŞ GİDERLERİ */}
-                  {costs && (
-                    <div className="bg-slate-900 border border-slate-800 rounded-xl p-5 print-card">
-                      <h3 className="text-xs font-bold text-slate-300 print-text-dark uppercase tracking-wider mb-3 flex items-center gap-1.5">
-                        <Coins className="w-4 h-4 text-amber-400 no-print" /> Dava Açılış Masrafları ve Harçlar
-                      </h3>
-                      <div className="grid grid-cols-3 gap-3 text-xs">
-                        <div className="bg-slate-800/40 p-2.5 rounded border border-slate-800 print-card">
-                          <span className="text-slate-400 print-text-muted block">Başvurma Harcı</span>
-                          <span className="font-semibold text-slate-200 print-text-dark mt-1 block">{costs.basvurma_harci} TL</span>
-                        </div>
-                        <div className="bg-slate-800/40 p-2.5 rounded border border-slate-800 print-card">
-                          <span className="text-slate-400 print-text-muted block">Peşin Karar Harcı</span>
-                          <span className="font-semibold text-slate-200 print-text-dark mt-1 block">{costs.pesin_harc} TL</span>
-                        </div>
-                        <div className="bg-slate-800/40 p-2.5 rounded border border-slate-800 print-card">
-                          <span className="text-slate-400 print-text-muted block">Toplam Açılış Masrafı</span>
-                          <span className="font-semibold text-amber-300 print:text-amber-800 mt-1 block">{costs.total_upfront_costs} TL</span>
-                        </div>
-                      </div>
-                    </div>
-                  )}
-
-                  {/* 3. DAVA RİSK DEĞERLENDİRMESİ */}
-                  <div className="bg-slate-900 border border-slate-800 rounded-xl p-5 shadow-xl print-card">
-                    <div className="flex items-center justify-between pb-3 border-b border-slate-800 print:border-slate-300">
-                      <span className="text-xs font-bold tracking-wider text-slate-300 print-text-dark uppercase flex items-center gap-1.5">
-                        <Sparkles className="w-4 h-4 text-indigo-400 no-print" /> Dava Risk ve Beklenen Değer Analizi
-                      </span>
-                    </div>
-                    {typeof risk === 'string' || !risk || risk === 'henüz hesaplanmıyor' ? (
-                      <div className="mt-3 flex items-center space-x-2 text-xs text-slate-400 print-text-muted bg-slate-800/40 border border-slate-800 rounded-lg p-3.5">
-                        <Info className="w-4 h-4 text-slate-500 shrink-0" />
-                        <span>Dava risk ve beklenen değer analizi henüz hesaplanmıyor; emsal karar dağılımı bağlandığında aktif edilecektir.</span>
-                      </div>
-                    ) : null}
-                  </div>
-
-                  {/* 4. EMSAL YARGITAY KARARLARI (RAG ATIFLARI) */}
-                  <div className="bg-slate-900 border border-slate-800 rounded-xl p-5 shadow-xl space-y-4 print-card">
-                    <div className="flex items-center justify-between pb-3 border-b border-slate-800 print:border-slate-300">
-                      <div className="flex items-center space-x-2">
-                        <BookOpen className="w-4 h-4 text-indigo-400 no-print" />
-                        <h3 className="text-xs font-bold text-slate-200 print-text-dark uppercase tracking-wider">
-                          Emsal Yargıtay Kararları (RAG Atıfları)
-                        </h3>
-                      </div>
-                      {result?.precedent_citations?.length > 0 && (
-                        <span className="text-[11px] text-slate-400 bg-slate-800 px-2.5 py-0.5 rounded-full border border-slate-700 print-badge">
-                          {result.precedent_citations.length} Emsal Karar Dayanağı
-                        </span>
-                      )}
-                    </div>
-
-                    {result?.precedent_citations && result.precedent_citations.length > 0 ? (
-                      <div className="space-y-3">
-                        {result.precedent_citations.map((item, idx) => (
-                          <div 
-                            key={idx}
-                            className="bg-slate-800/40 border border-slate-800/80 rounded-lg p-3.5 space-y-2 print-card"
-                          >
-                            <div className="flex items-start justify-between">
-                              <div>
-                                <span className="text-xs font-bold text-indigo-300 print:text-indigo-800 block">
-                                  {item.court}
-                                </span>
-                                <span className="text-[11px] text-slate-400 print-text-muted font-mono">
-                                  {item.case_no} • {item.date}
-                                </span>
-                              </div>
-                              <span className="text-[11px] font-semibold px-2 py-0.5 rounded bg-emerald-500/10 text-emerald-400 border border-emerald-500/20 print-badge">
-                                %{Math.round(item.similarity_score * 100)} Benzerlik
-                              </span>
-                            </div>
-
-                            <p className="text-xs text-slate-300 print-text-dark leading-relaxed">
-                              {item.summary}
-                            </p>
-
-                            <div className="pt-1 flex items-center justify-between text-[11px] text-slate-400 print-text-muted border-t border-slate-700/40 print:border-slate-300">
-                              <span>
-                                <strong className="text-slate-300 print-text-dark">İçtihat Dayanağı:</strong> {item.relevance_point}
-                              </span>
-                              <span className="text-indigo-400 flex items-center gap-1 no-print">
-                                Tam Metin <ExternalLink className="w-3 h-3" />
-                              </span>
-                            </div>
-                          </div>
-                        ))}
-                      </div>
-                    ) : (
-                      <div className="flex items-center space-x-2 text-xs text-slate-400 print-text-muted bg-slate-800/40 border border-slate-800 rounded-lg p-3.5">
-                        <Info className="w-4 h-4 text-slate-500 shrink-0" />
-                        <span>Emsal karar analizi henüz bağlı değildir.</span>
-                      </div>
-                    )}
-                  </div>
-
-                  {/* 5. YASAL BİLGİLENDİRME VE FERAGATNAME */}
-                  <div className="bg-slate-900/80 border border-slate-800 rounded-xl p-5 shadow-lg space-y-3 print-card">
-                    <div className="flex items-center space-x-2 text-amber-400 print:text-amber-800 border-b border-slate-800/80 pb-2.5">
-                      <ShieldAlert className="w-4 h-4 shrink-0" />
-                      <h4 className="text-xs font-bold uppercase tracking-wider">
-                        Önemli Yasal Bilgilendirme ve Feragatname
-                      </h4>
-                    </div>
-
-                    <div className="text-[11px] text-slate-400 print-text-muted leading-relaxed space-y-1.5">
-                      <p>
-                        - <strong>Bağlayıcılık İçermez:</strong> Bu ekranda sunulan tazminat tutarları ve masraf tahminleri genel aktüeryal formüller üzerinden üretilmiş <em>tahmini bir ön değerlendirme simülasyonudur</em>.
-                      </p>
-                      <p>
-                        - <strong>Garanti veya Hukuki Tavsiye Değildir:</strong> Sistemdeki sonuçlar mahkeme nezdinde kesin bir hak veya parasal garanti teşkil etmez; doğrudan avukatlık veya resmi bilirkişi mütalaası niteliğinde değildir.
-                      </p>
-                      <p>
-                        - <strong>Nihai Karar:</strong> Tazminat tutarı ve kusur dağılımı, açılacak davada mahkemece tayin edilecek bilirkişi heyeti ve Adli Tıp Kurumu'nun düzenleyeceği nihai sağlık raporuyla kesinleşecektir.
-                      </p>
-                    </div>
-                  </div>
-                </>
+                </div>
               )}
-            </div>
-          </div>
+
+              {/* 5. Emsal Kararlar */}
+              <div className="space-y-2.5 print-block">
+                <h3 className="font-serif-heading text-base text-[#1B2430]">
+                  {warnings.length > 0 ? '5. Emsal Yargıtay Kararları' : '4. Emsal Yargıtay Kararları'}
+                </h3>
+                {result?.precedent_citations && result.precedent_citations.length > 0 ? (
+                  <div className="space-y-3">
+                    {result.precedent_citations.map((item, idx) => (
+                      <div
+                        key={idx}
+                        className="bg-[#F6F7F9] border border-[#D9DEE5] rounded-[4px] p-4 space-y-1.5"
+                      >
+                        <div className="text-xs font-semibold text-[#1B2430]">
+                          {item.court} — {item.case_no} ({formatDateTR(item.date)})
+                        </div>
+                        <p className="text-xs text-[#566070] leading-relaxed">{item.summary}</p>
+                      </div>
+                    ))}
+                  </div>
+                ) : (
+                  <div className="bg-[#F6F7F9] border border-[#D9DEE5] rounded-[4px] p-4 text-xs text-[#566070]">
+                    Emsal karar analizi henüz bağlı değildir. Dava risk ve kazanma olasılığı
+                    hesaplaması emsal veri tabanı entegrasyonu sonrasında eklenecektir.
+                  </div>
+                )}
+              </div>
+
+              {/* 6. Hesabın Dayanakları ve Yasal Uyarı */}
+              <div className="space-y-2.5 print-block">
+                <h3 className="font-serif-heading text-base text-[#1B2430]">
+                  {warnings.length > 0 ? '6. Hesabın Dayanakları ve Hukuki Çerçeve' : '5. Hesabın Dayanakları ve Hukuki Çerçeve'}
+                </h3>
+                <div className="bg-[#F6F7F9] border border-[#D9DEE5] rounded-[4px] p-4 text-xs text-[#566070] leading-relaxed space-y-2">
+                  <p>
+                    <strong className="text-[#1B2430] font-medium">Mevzuat ve Tablo Esası:</strong>{' '}
+                    Hesaplamada 6098 sayılı Türk Borçlar Kanunu'nun 54. maddesi, 2918 sayılı
+                    Karayolları Trafik Kanunu hükümleri, TRH-2010 Ulusal Mortalite Tablosu ve
+                    Yargıtay Hukuk Genel Kurulu'nun yerleşik progresif rant (%10 artırım / %10
+                    iskonto) yöntemi esas alınmıştır.
+                  </p>
+                  <p>
+                    <strong className="text-[#1B2430] font-medium">Bilgilendirme Niteliği:</strong>{' '}
+                    Bu döküm yalnızca girilen beyan verilerine dayalı teknik bir ön hesaplama
+                    özetidir; kesin hüküm veya resmî adli bilirkişi raporu niteliği taşımaz. Nihai
+                    tazminat tutarı yargılama sürecinde alınacak kusur ve sağlık kurulu raporlarıyla
+                    belirlenir.
+                  </p>
+                </div>
+              </div>
+            </section>
+          )}
         </main>
       )}
     </div>
